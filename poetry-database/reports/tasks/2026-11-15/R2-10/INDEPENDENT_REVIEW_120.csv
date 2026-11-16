@@ -1,0 +1,141 @@
+﻿review_id,category,item_id,my_verdict,main_verdict,agreement,reviewer
+D-JY-01,JIYUN_SMALL_RHYME,JY-01,首字✓（○後第一字＝控）；反切「克講切」完整；上字欄=克講（應為「克」）✗；下字=講✓；文三（=3）讀對✓；字頭實數=3,"表記：head=控, fanqie=克講切, fanqie_upper=克講, fanqie_lower=講, decl",DISAGREE,independent_agent
+D-JY-02,JIYUN_SMALL_RHYME,JY-02,首字✓（○後第一字＝龜）；反切「居逵切」完整；上字欄=居逵（應為「居」）✗；下字=逵✓；文八（=8）讀對✓；字頭實數=8,"表記：head=龜, fanqie=居逵切, fanqie_upper=居逵, fanqie_lower=逵, decl",DISAGREE,independent_agent
+D-JY-03,JIYUN_SMALL_RHYME,JY-03,首字✓（○後第一字＝絮）；反切「息據切」完整；上字欄=息據（應為「息」）✗；下字=據✓；文二（=2）讀對✓；字頭實數=2,"表記：head=絮, fanqie=息據切, fanqie_upper=息據, fanqie_lower=據, decl",DISAGREE,independent_agent
+D-JY-04,JIYUN_SMALL_RHYME,JY-04,首字✓（○後第一字＝毒）；反切「徒沃切」完整；上字欄=徒沃（應為「徒」）✗；下字=沃✓；文二十一（=21）讀對✓；字頭實,"表記：head=毒, fanqie=徒沃切, fanqie_upper=徒沃, fanqie_lower=沃, decl",DISAGREE,independent_agent
+D-JY-05,JIYUN_SMALL_RHYME,JY-05,首字✓（○後第一字＝押）；反切「乙甲切」完整；上字欄=乙甲（應為「乙」）✗；下字=甲✓；文十二（=12）讀對✓；字頭實數,"表記：head=押, fanqie=乙甲切, fanqie_upper=乙甲, fanqie_lower=甲, decl",DISAGREE,independent_agent
+D-JY-06,JIYUN_SMALL_RHYME,JY-06,首字✓（○後第一字＝浙）；反切「之列切」完整；上字欄=之列（應為「之」）✗；下字=列✓；文二十一（=21）讀對✓；字頭實,"表記：head=浙, fanqie=之列切, fanqie_upper=之列, fanqie_lower=列, decl",DISAGREE,independent_agent
+D-JY-07,JIYUN_SMALL_RHYME,JY-07,首字✓（○後第一字＝硯）；反切「倪甸切」完整；上字欄=倪甸（應為「倪」）✗；下字=甸✓；文十（=10）讀對✓；字頭實數=,"表記：head=硯, fanqie=倪甸切, fanqie_upper=倪甸, fanqie_lower=甸, decl",DISAGREE,independent_agent
+D-JY-08,JIYUN_SMALL_RHYME,JY-08,首字✓（○後第一字＝𨡎）；反切「於念切」完整；上字欄=於念（應為「於」）✗；下字=念✓；文二（=2）讀對✓；字頭實數=2,"表記：head=𨡎, fanqie=於念切, fanqie_upper=於念, fanqie_lower=念, decl",DISAGREE,independent_agent
+D-JY-09,JIYUN_SMALL_RHYME,JY-09,首字✓（○後第一字＝顩）；反切「丘凡切」完整；上字欄=丘凡（應為「丘」）✗；下字=凡✓；文十（=10）讀對✓；字頭實數=,"表記：head=顩, fanqie=丘凡切, fanqie_upper=丘凡, fanqie_lower=凡, decl",DISAGREE,independent_agent
+D-JY-10,JIYUN_SMALL_RHYME,JY-10,首字✓（○後第一字＝顉）；反切「五感切」完整；上字欄=五感（應為「五」）✗；下字=感✓；文八（=8）讀對✓；字頭實數=8,"表記：head=顉, fanqie=五感切, fanqie_upper=五感, fanqie_lower=感, decl",DISAGREE,independent_agent
+D-JY-11,JIYUN_SMALL_RHYME,JY-11,首字✓（○後第一字＝瀌）；反切「平幽切」完整；上字欄=平幽（應為「平」）✗；下字=幽✓；文三（=3）讀對✓；字頭實數=3,"表記：head=瀌, fanqie=平幽切, fanqie_upper=平幽, fanqie_lower=幽, decl",DISAGREE,independent_agent
+D-JY-12,JIYUN_SMALL_RHYME,JY-12,首字✓（○後第一字＝櫛）；反切「側瑟切」完整；上字欄=側瑟（應為「側」）✗；下字=瑟✓；文十一（=11）讀對✓；字頭實數,"表記：head=櫛, fanqie=側瑟切, fanqie_upper=側瑟, fanqie_lower=瑟, decl",DISAGREE,independent_agent
+D-JY-13,JIYUN_SMALL_RHYME,JY-13,首字✓（○後第一字＝狊）；反切「局闃切」完整；上字欄=局闃（應為「局」）✗；下字=闃✓；文十（=10）讀對✓；字頭實數=,"表記：head=狊, fanqie=局闃切, fanqie_upper=局闃, fanqie_lower=闃, decl",DISAGREE,independent_agent
+D-JY-14,JIYUN_SMALL_RHYME,JY-14,首字✓（○後第一字＝睔）；反切「古困切」完整；上字欄=古困（應為「古」）✗；下字=困✓；文十五（=15）讀對✓；字頭實數,"表記：head=睔, fanqie=古困切, fanqie_upper=古困, fanqie_lower=困, decl",DISAGREE,independent_agent
+D-JY-15,JIYUN_SMALL_RHYME,JY-15,首字✓（○後第一字＝箇）；反切「居賀切」完整；上字欄=居賀（應為「居」）✗；下字=賀✓；文五（=5）讀對✓；字頭實數=5,"表記：head=箇, fanqie=居賀切, fanqie_upper=居賀, fanqie_lower=賀, decl",DISAGREE,independent_agent
+D-JY-16,JIYUN_SMALL_RHYME,JY-16,首字✓（○後第一字＝層）；反切「徂棱切」完整；上字欄=徂棱（應為「徂」）✗；下字=棱✓；文十四（=14）讀對✓；字頭實數,"表記：head=層, fanqie=徂棱切, fanqie_upper=徂棱, fanqie_lower=棱, decl",DISAGREE,independent_agent
+D-JY-17,JIYUN_SMALL_RHYME,JY-17,首字✓（○後第一字＝䠐）；反切「弃役切」完整；上字欄=弃役（應為「弃」）✗；下字=役✓；文一（=1）讀對✓；字頭實數=1,"表記：head=䠐, fanqie=弃役切, fanqie_upper=弃役, fanqie_lower=役, decl",DISAGREE,independent_agent
+D-JY-18,JIYUN_SMALL_RHYME,JY-18,首字✓（○後第一字＝貙）；反切「椿俱切」完整；上字欄=椿俱（應為「椿」）✗；下字=俱✓；文五（=5）讀對✓；字頭實數=5,"表記：head=貙, fanqie=椿俱切, fanqie_upper=椿俱, fanqie_lower=俱, decl",DISAGREE,independent_agent
+D-JY-19,JIYUN_SMALL_RHYME,JY-19,首字✓（○後第一字＝𤸷）；反切「吾還切」完整；上字欄=吾還（應為「吾」）✗；下字=還✓；文三（=3）讀對✓；字頭實數=3,"表記：head=𤸷, fanqie=吾還切, fanqie_upper=吾還, fanqie_lower=還, decl",DISAGREE,independent_agent
+D-JY-20,JIYUN_SMALL_RHYME,JY-20,首字✓（○後第一字＝𩲡）；反切「矩偉切」完整；上字欄=矩偉（應為「矩」）✗；下字=偉✓；文四（=4）讀對✓；字頭實數=3,"表記：head=𩲡, fanqie=矩偉切, fanqie_upper=矩偉, fanqie_lower=偉, decl",DISAGREE,independent_agent
+D-JY-21,JIYUN_SMALL_RHYME,JY-21,首字✓（○後第一字＝倝）；反切「居案切」完整；上字欄=居案（應為「居」）✗；下字=案✓；文二十七（=27）讀對✓；字頭實,"表記：head=倝, fanqie=居案切, fanqie_upper=居案, fanqie_lower=案, decl",DISAGREE,independent_agent
+D-JY-22,JIYUN_SMALL_RHYME,JY-22,首字✓（○後第一字＝肅）；反切「息六切」完整；上字欄=息六（應為「息」）✗；下字=六✓；文二十九（=29）讀對✓；字頭實,"表記：head=肅, fanqie=息六切, fanqie_upper=息六, fanqie_lower=六, decl",DISAGREE,independent_agent
+D-JY-23,JIYUN_SMALL_RHYME,JY-23,首字✓（○後第一字＝𩬑）；反切「丁兼切」完整；上字欄=丁兼（應為「丁」）✗；下字=兼✓；文十二（=12）讀對✓；字頭實數,"表記：head=𩬑, fanqie=丁兼切, fanqie_upper=丁兼, fanqie_lower=兼, decl",DISAGREE,independent_agent
+D-JY-24,JIYUN_SMALL_RHYME,JY-24,首字✓（○後第一字＝叉）；反切「初加切」完整；上字欄=初加（應為「初」）✗；下字=加✓；文十七（=17）讀對✓；字頭實數,"表記：head=叉, fanqie=初加切, fanqie_upper=初加, fanqie_lower=加, decl",DISAGREE,independent_agent
+D-JY-25,JIYUN_SMALL_RHYME,JY-25,首字✓（○後第一字＝痕）；反切「胡恩切」完整；上字欄=胡恩（應為「胡」）✗；下字=恩✓；文九（=9）讀對✓；字頭實數=9,"表記：head=痕, fanqie=胡恩切, fanqie_upper=胡恩, fanqie_lower=恩, decl",DISAGREE,independent_agent
+D-GY-01,GUANGYUN_FANQIE,GY-01,兩字＋切✓；上字＝俱、下字＝永✓；舊表 fanqie_upper＝永＝下字✓；char_offset 對齊「憬〈俱永切逺,"表記 head=憬, fanqie=俱永切, upper=俱, lower=永, old_fanqie_upper=永,",AGREE,independent_agent
+D-GY-02,GUANGYUN_FANQIE,GY-02,反切形式/上下字✓，但非小韻首：「籭〈𥂖也又山佳切〉」係釃（所宜切）小韻下之條目，山佳切為又音；且山佳切屬佳韻，與 yu,"表記 head=籭, fanqie=山佳切, yun_name=支, is_xiaoyun_head=1, old_fa",DISAGREE,independent_agent
+D-GY-03,GUANGYUN_FANQIE,GY-03,兩字＋切✓；上＝良、下＝鴆✓；舊表 upper＝鴆＝下字✓；offset 對齊「臨〈良鴆切哭臨又偏向又音林二〉」；沁韻與,"表記 head=臨, fanqie=良鴆切, yun_name=沁, upper=良, lower=鴆",AGREE,independent_agent
+D-GY-04,GUANGYUN_FANQIE,GY-04,兩字＋切✓；上＝息、下＝營✓；舊表 upper＝營＝下字✓；清韻與集韻「清第十四 許營切」同韻；兩字＋切=✓，上字=✓，,"表記 head=騂, fanqie=息營切, yun_name=清",AGREE,independent_agent
+D-GY-05,GUANGYUN_FANQIE,GY-05,兩字＋切✓；上＝直、下＝類✓；舊表 upper＝類＝下字✓；至韻與集韻「至第六 直類切」相符；兩字＋切=✓，上字=✓，下,"表記 head=墜, fanqie=直類切, yun_name=至",AGREE,independent_agent
+D-GY-06,GUANGYUN_FANQIE,GY-06,兩字＋切✓；上＝洛、下＝侯✓；舊表 upper＝侯＝下字✓；offset 對齊「樓〈洛侯切…二十九〉」（文二十九亦合）；,"表記 head=樓, fanqie=洛侯切, yun_name=侯",AGREE,independent_agent
+D-GY-07,GUANGYUN_FANQIE,GY-07,兩字＋切✓；上＝許、下＝訪✓；舊表 upper＝訪＝下字✓；漾韻（去聲）與「況〈許訪切…四〉」相符；兩字＋切=✓，上字=,"表記 head=況, fanqie=許訪切, yun_name=漾",AGREE,independent_agent
+D-GY-08,GUANGYUN_FANQIE,GY-08,反切與上下字✓、確為小韻首（「銛〈息廉切銛利也…十三〉」），但 yun_name 為 NULL；息廉切屬鹽韻，集韻「鹽第,"表記 head=銛, fanqie=息廉切, yun_name=NULL, upper=息, lower=廉",DISAGREE,independent_agent
+D-GY-09,GUANGYUN_FANQIE,GY-09,非小韻首：「偳〈人名又多丸切〉」在湍（他端切）小韻之下，屬又音條目；多丸切雖亦桓韻，但 is_xiaoyun_head=,"表記 head=偳, fanqie=多丸切, yun_name=桓, is_xiaoyun_head=1",DISAGREE,independent_agent
+D-GY-10,GUANGYUN_FANQIE,GY-10,兩字＋切✓；上＝人、下＝諸✓；舊表 upper＝諸＝下字✓；魚韻與集韻「魚第九 人余切」同韻；兩字＋切=✓，上字=✓，下,"表記 head=如, fanqie=人諸切, yun_name=魚",AGREE,independent_agent
+D-GY-11,GUANGYUN_FANQIE,GY-11,"非小韻首：「燘〈熟皃又亡罪切〉」在賄（呼罪切）小韻之下，係又音；不應計入 4,771 小韻首；兩字＋切=✓，上字=✓，下","表記 head=燘, fanqie=亡罪切, yun_name=賄, is_xiaoyun_head=1",DISAGREE,independent_agent
+D-GY-12,GUANGYUN_FANQIE,GY-12,非小韻首：「□〈香氣又呼葢切出字林〉」；且 offset 落在另一「□〈大臭氣〉」，head 與 fanqie 不同位；,"表記 head=□, fanqie=呼葢切, yun_name=曷, is_xiaoyun_head=1, char_o",DISAGREE,independent_agent
+D-GY-13,GUANGYUN_FANQIE,GY-13,char_offset 指到「□〈上同〉」，而「側吟切」在 +40 字處另一個 □（前有　　）；兩者皆佔位符，無法確認 ,"表記 head=□, fanqie=側吟切, yun_name=侵, is_xiaoyun_head=1, char_o",UNDECIDABLE,independent_agent
+D-GY-14,GUANGYUN_FANQIE,GY-14,非小韻首：「杗〈大梁又武方切〉」在茫（莫郎切）小韻之下；武方切屬陽韻，與 yun_name=唐 矛盾；兩字＋切=✓，上字,"表記 head=杗, fanqie=武方切, yun_name=唐, is_xiaoyun_head=1",DISAGREE,independent_agent
+D-GY-15,GUANGYUN_FANQIE,GY-15,非小韻首：「笢〈竹膚又亡忍切〉」在緡小韻之下；亡忍切屬軫韻（上聲），與 yun_name=真 矛盾；兩字＋切=✓，上字=,"表記 head=笢, fanqie=亡忍切, yun_name=真, is_xiaoyun_head=1",DISAGREE,independent_agent
+D-GY-16,GUANGYUN_FANQIE,GY-16,兩字＋切✓；上＝古、下＝博✓；舊表 upper＝博＝下字✓；鐸韻與集韻「鐸第十九 光鑊切」同韻；兩字＋切=✓，上字=✓，,"表記 head=郭, fanqie=古博切, yun_name=鐸",AGREE,independent_agent
+D-GY-17,GUANGYUN_FANQIE,GY-17,兩字＋切✓；上＝蒲、下＝沃✓；舊表 upper＝沃＝下字✓；沃韻與集韻「沃第二 蒲沃切」完全相符；兩字＋切=✓，上字=✓,"表記 head=僕, fanqie=蒲沃切, yun_name=沃",AGREE,independent_agent
+D-GY-18,GUANGYUN_FANQIE,GY-18,兩字＋切✓；上＝於、下＝盈✓；舊表 upper＝盈＝下字✓；清韻與集韻「清第十四 伊盈切」同韻；兩字＋切=✓，上字=✓，,"表記 head=嬰, fanqie=於盈切, yun_name=清",AGREE,independent_agent
+D-GY-19,GUANGYUN_FANQIE,GY-19,兩字＋切✓；上＝許、下＝竭✓；舊表 upper＝竭＝下字✓；月韻與集韻「月第十 許竭切」完全相符；兩字＋切=✓，上字=✓,"表記 head=歇, fanqie=許竭切, yun_name=月",AGREE,independent_agent
+D-GY-20,GUANGYUN_FANQIE,GY-20,非小韻首：「封〈又方容切〉」在葑（方用切）小韻之下；方容切屬鍾韻，集韻列「鍾第三 方容切」，與 yun_name=用 矛,"表記 head=封, fanqie=方容切, yun_name=用, is_xiaoyun_head=1",DISAGREE,independent_agent
+D-GY-21,GUANGYUN_FANQIE,GY-21,兩字＋切✓；上＝子、下＝智✓；舊表 upper＝智＝下字✓；本條以「積〈子智切委積…〉」起頭，雖另有「又子昔切」屬次要又,"表記 head=積, fanqie=子智切, yun_name=寘",AGREE,independent_agent
+D-GY-22,GUANGYUN_FANQIE,GY-22,兩字＋切✓；上＝視、下＝遮✓；舊表 upper＝遮＝下字✓；麻韻與集韻「麻第九 時遮切」同韻；兩字＋切=✓，上字=✓，下,"表記 head=闍, fanqie=視遮切, yun_name=麻",AGREE,independent_agent
+D-GY-23,GUANGYUN_FANQIE,GY-23,兩字＋切✓；上＝中、下＝句✓；舊表 upper＝句＝下字✓；遇韻合，「註〈中句切解也又音注九〉」為真小韻首；兩字＋切=✓,"表記 head=註, fanqie=中句切, yun_name=遇",AGREE,independent_agent
+D-GY-24,GUANGYUN_FANQIE,GY-24,非小韻首：「醟〈酗酒又為命切〉」在敻（休正切）小韻之下；為命切屬映/敬一系，與 yun_name=勁 矛盾；兩字＋切=✓,"表記 head=醟, fanqie=為命切, yun_name=勁, is_xiaoyun_head=1",DISAGREE,independent_agent
+D-GY-25,GUANGYUN_FANQIE,GY-25,兩字＋切✓；上＝五、下＝故✓；舊表 upper＝故＝下字✓；暮韻合，集韻「五故切」亦在去聲暮；兩字＋切=✓，上字=✓，下,"表記 head=誤, fanqie=五故切, yun_name=暮",AGREE,independent_agent
+D-EX-01,EXAMPLE_LINK,EX-01,正規化後 68 字與作品完全相同（lev=0，互為子串），作者張先一致，VERIFIED_EXACT 成立,"new_match_kind=VERIFIED_EXACT, score=1.0, ex_len=work_len=68",AGREE,independent_agent
+D-EX-02,EXAMPLE_LINK,EX-02,54 字完全相同（lev=0），僅句末標點有無，作者李煜一致，VERIFIED_EXACT 成立,"new_match_kind=VERIFIED_EXACT, score=1.0, 54/54",AGREE,independent_agent
+D-EX-03,EXAMPLE_LINK,EX-03,101 字完全相同（lev=0），作者吳文英一致，關聯成立；惟例詞詞牌標「木蘭花」而作品為「木蘭花慢」，詞牌名有誤（不影,"new_match_kind=VERIFIED_EXACT, score=1.0, 101/101",AGREE,independent_agent
+D-EX-04,EXAMPLE_LINK,EX-04,44 字完全相同（lev=0），溫庭筠《菩薩蠻》名篇，VERIFIED_EXACT 成立,"new_match_kind=VERIFIED_EXACT, score=1.0, 44/44",AGREE,independent_agent
+D-EX-05,EXAMPLE_LINK,EX-05,僅差 1 字（「莫把阑干频倚」／「莫把阑干倚」），40 vs 39 字，同作者萬俟詠，VERIFIED_VARIANT ,"new_match_kind=VERIFIED_VARIANT, score=0.9873, lev=1",AGREE,independent_agent
+D-EX-06,EXAMPLE_LINK,EX-06,差 4 字（「誰最苦」／「最誰苦」、「春去，」句讀），130/130 字，同作者劉辰翁，VARIANT 成立；作品「最誰,"new_match_kind=VERIFIED_VARIANT, score=0.9769",AGREE,independent_agent
+D-EX-07,EXAMPLE_LINK,EX-07,差 3 處（「似覺、瓊枝玉樹相倚」脫「相倚」、「水盼」／「水眄」），104/102 字，同作者周邦彥，VARIANT 成,"new_match_kind=VERIFIED_VARIANT, score=0.9806",AGREE,independent_agent
+D-EX-08,EXAMPLE_LINK,EX-08,100/99 字，僅 2 處異文，同作者張炎，VARIANT 成立；但例詞正文夾「235」頁碼殘留，說明清洗未到底（未影,"new_match_kind=VERIFIED_VARIANT, score=0.9751, ex_len=100, w",AGREE,independent_agent
+D-EX-09,EXAMPLE_LINK,EX-09,102/102 字，僅「正夢枕」／「正夢花」等 1 處，同作者吳文英，VARIANT 成立,"new_match_kind=VERIFIED_VARIANT, score=0.9902",AGREE,independent_agent
+D-EX-10,EXAMPLE_LINK,EX-10,同作者同詞牌（《添字丑奴兒・采桑子》），48 字中 2 處異文（凄清／霖霪、離人／北人），score=0.8776 落在,"new_match_kind=POSSIBLE_MATCH, score=0.8776",AGREE,independent_agent
+D-EX-11,EXAMPLE_LINK,EX-11,143/143 字，4 處異文（衿豪蹤／矜豪縱、聊飛鞚／聯飛鞚、酒爐／酒壚），同作者賀鑄；依 0.80–0.95 規準判,"new_match_kind=POSSIBLE_MATCH, score=0.9306",AGREE,independent_agent
+D-EX-12,EXAMPLE_LINK,EX-12,33/33 字，2 處異文（燕／蝶、陽／陽繁簡），同作者溫庭筠，score=0.9394 合其規準，POSSIBLE_M,"new_match_kind=POSSIBLE_MATCH, score=0.9394",AGREE,independent_agent
+D-EX-13,EXAMPLE_LINK,EX-13,判 TITLE_ONLY 與其自訂義「僅標題相符，正文無支持」矛盾：例詞正文完整包含張炎《八聲甘州》97 字（作品為例詞,"new_match_kind=TITLE_ONLY, containment=0, score=0.2304, ex_l",DISAGREE,independent_agent
+D-EX-14,EXAMPLE_LINK,EX-14,同上：例詞正文含蘇軾《水調歌頭》全篇（作品 95 字為例詞子串），正文有支持；作者卻是賀鑄 vs 蘇軾，應判 AUTHO,"new_match_kind=TITLE_ONLY, containment=0, score=0.4025, ex_l",DISAGREE,independent_agent
+D-EX-15,EXAMPLE_LINK,EX-15,100/100 字，僅 4 處異文（闌干／欄干等），文本相符但作者朱淑真 vs 無名氏，AUTHOR_CONFLICT ,"new_match_kind=AUTHOR_CONFLICT, score=0.96, same_author=0",AGREE,independent_agent
+D-EX-16,EXAMPLE_LINK,EX-16,作者歐陽修 vs 都下妓，AUTHOR_CONFLICT 成立；但文本僅 81% 相近（平山／屏山、垂柳／桃李、太守／宰,"new_match_kind=AUTHOR_CONFLICT, score=0.8125, lev=9/48",AGREE,independent_agent
+D-EX-17,EXAMPLE_LINK,EX-17,"以「暖日闲窗」「玉闺深掩」全庫檢索 375,399 條作品均無命中，NO_MATCH 成立","new_match_kind=NO_MATCH, work_id 空",AGREE,independent_agent
+D-EX-18,EXAMPLE_LINK,EX-18,NO_MATCH 不成立：全庫存在 songci:d9f5da07be28《望书归・捣练子》賀鑄，文本僅 2 字異（征人,"new_match_kind=NO_MATCH, work_id 空, score=NULL",DISAGREE,independent_agent
+D-EX-19,EXAMPLE_LINK,EX-19,「树绕村庄」「水满陂塘」檢索無命中，NO_MATCH 成立；惟例詞作者欄標李清照，而例詞正文末尾自注「——秦观」，作者欄,"new_match_kind=NO_MATCH, work_id 空",AGREE,independent_agent
+D-EX-20,EXAMPLE_LINK,EX-20,「纷纷坠叶」「坠叶飘香」檢索無命中，NO_MATCH 成立（范仲淹《御街行》不在本庫）,"new_match_kind=NO_MATCH, work_id 空",AGREE,independent_agent
+R-N001,READING_CLAIM,N001,PASS,,AGREE,independent_agent
+R-N002,READING_CLAIM,N002,PASS,,AGREE,independent_agent
+R-N003,READING_CLAIM,N003,PARTIAL,,DISAGREE,independent_agent
+R-N004,READING_CLAIM,N004,PASS,,AGREE,independent_agent
+R-N005,READING_CLAIM,N005,PARTIAL,,DISAGREE,independent_agent
+R-N006,READING_CLAIM,N006,PASS,,AGREE,independent_agent
+R-N007,READING_CLAIM,N007,PASS,,AGREE,independent_agent
+R-N008,READING_CLAIM,N008,PASS,,AGREE,independent_agent
+R-N009,READING_CLAIM,N009,PASS,,AGREE,independent_agent
+R-N010,READING_CLAIM,N010,PASS,,AGREE,independent_agent
+R-N011,READING_CLAIM,N011,PASS,,AGREE,independent_agent
+R-N012,READING_CLAIM,N012,PARTIAL,,DISAGREE,independent_agent
+R-N013,READING_CLAIM,N013,PASS,,AGREE,independent_agent
+R-N014,READING_CLAIM,N014,PASS,,AGREE,independent_agent
+R-N015,READING_CLAIM,N015,PASS,,AGREE,independent_agent
+R-N016,READING_CLAIM,N016,PASS,,AGREE,independent_agent
+R-N017,READING_CLAIM,N017,PASS,,AGREE,independent_agent
+R-N018,READING_CLAIM,N018,PASS,,AGREE,independent_agent
+R-N019,READING_CLAIM,N019,PASS,,AGREE,independent_agent
+R-N020,READING_CLAIM,N020,PASS,,AGREE,independent_agent
+R-N021,READING_CLAIM,N021,PARTIAL,,DISAGREE,independent_agent
+R-N022,READING_CLAIM,N022,PASS,,AGREE,independent_agent
+R-N023,READING_CLAIM,N023,PASS,,AGREE,independent_agent
+R-N024,READING_CLAIM,N024,PASS,,AGREE,independent_agent
+R-N025,READING_CLAIM,N025,PASS,,AGREE,independent_agent
+R-N026,READING_CLAIM,N026,PASS,,AGREE,independent_agent
+R-N027,READING_CLAIM,N027,PASS,,AGREE,independent_agent
+R-N028,READING_CLAIM,N028,PASS,,AGREE,independent_agent
+R-N029,READING_CLAIM,N029,PARTIAL,,DISAGREE,independent_agent
+R-N030,READING_CLAIM,N030,PASS,,AGREE,independent_agent
+R-N031,READING_CLAIM,N031,PASS,,AGREE,independent_agent
+R-N032,READING_CLAIM,N032,PASS,,AGREE,independent_agent
+R-N033,READING_CLAIM,N033,PARTIAL,,DISAGREE,independent_agent
+R-N034,READING_CLAIM,N034,PASS,,AGREE,independent_agent
+R-N035,READING_CLAIM,N035,PASS,,AGREE,independent_agent
+R-N036,READING_CLAIM,N036,PASS,,AGREE,independent_agent
+R-N037,READING_CLAIM,N037,PASS,,AGREE,independent_agent
+R-N038,READING_CLAIM,N038,PASS,,AGREE,independent_agent
+R-N039,READING_CLAIM,N039,PASS,,AGREE,independent_agent
+R-N040,READING_CLAIM,N040,PASS,,AGREE,independent_agent
+R-N041,READING_CLAIM,N041,PASS,,AGREE,independent_agent
+R-N042,READING_CLAIM,N042,PASS,,AGREE,independent_agent
+R-N043,READING_CLAIM,N043,PASS,,AGREE,independent_agent
+R-N044,READING_CLAIM,N044,PASS,,AGREE,independent_agent
+R-N045,READING_CLAIM,N045,PASS,,AGREE,independent_agent
+R-N046,READING_CLAIM,N046,PASS,,AGREE,independent_agent
+R-N047,READING_CLAIM,N047,PASS,,AGREE,independent_agent
+R-N048,READING_CLAIM,N048,PASS,,AGREE,independent_agent
+R-N049,READING_CLAIM,N049,PASS,,AGREE,independent_agent
+R-N050,READING_CLAIM,N050,PASS,,AGREE,independent_agent
+S-F07-0181,CIPAI_SYMBOL,F07-0181,TEXTLAYER_FRAGMENTED,TEXTLAYER_FRAGMENTED,AGREE,textlayer_recheck
+S-F07-0182,CIPAI_SYMBOL,F07-0182,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0183,CIPAI_SYMBOL,F07-0183,TEXTLAYER_FRAGMENTED,TEXTLAYER_FRAGMENTED,AGREE,textlayer_recheck
+S-F07-0184,CIPAI_SYMBOL,F07-0184,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0185,CIPAI_SYMBOL,F07-0185,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0186,CIPAI_SYMBOL,F07-0186,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0187,CIPAI_SYMBOL,F07-0187,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0189,CIPAI_SYMBOL,F07-0189,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0190,CIPAI_SYMBOL,F07-0190,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0191,CIPAI_SYMBOL,F07-0191,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0192,CIPAI_SYMBOL,F07-0192,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0193,CIPAI_SYMBOL,F07-0193,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0164,CIPAI_SYMBOL,F07-0164,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0167,CIPAI_SYMBOL,F07-0167,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0169,CIPAI_SYMBOL,F07-0169,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0171,CIPAI_SYMBOL,F07-0171,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0174,CIPAI_SYMBOL,F07-0174,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0175,CIPAI_SYMBOL,F07-0175,TEXTLAYER_FRAGMENTED,TEXTLAYER_FRAGMENTED,AGREE,textlayer_recheck
+S-F07-0001,CIPAI_SYMBOL,F07-0001,MATCH,MATCH,AGREE,textlayer_recheck
+S-F07-0014,CIPAI_SYMBOL,F07-0014,MATCH,MATCH,AGREE,textlayer_recheck

@@ -1,0 +1,901 @@
+﻿raw_name,proposed_canonical,mapping_type,evidence,confidence,status
+陸游,陆游,TRAD_SIMP,C1-0001 文本重合证据：前30字:4|全文:4|同题:0,HIGH,CANDIDATE
+劉克莊,刘克庄,TRAD_SIMP,C1-0002 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+楊萬里,杨万里,TRAD_SIMP,C1-0003 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+無名氏,无名氏,TRAD_SIMP,C1-0004 文本重合证据：前30字:1|全文:1|同题:6,HIGH,CANDIDATE
+蘇軾,苏轼,TRAD_SIMP,C1-0005 文本重合证据：前30字:3|全文:2|同题:1,HIGH,CANDIDATE
+梅堯臣,梅尧臣,TRAD_SIMP,C1-0006 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓淲,韩淲,TRAD_SIMP,C1-0007 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+黄庭堅,黄庭坚,TRAD_SIMP,C1-0008 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張耒,张耒,TRAD_SIMP,C1-0009 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳造,陈造,TRAD_SIMP,C1-0010 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蘇轍,苏辙,TRAD_SIMP,C1-0011 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉敞,刘敞,TRAD_SIMP,C1-0012 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李綱,李纲,TRAD_SIMP,C1-0013 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+曹勛,曹勋,TRAD_SIMP,C1-0014 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+呂本中,吕本中,TRAD_SIMP,C1-0015 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳著,陈著,TRAD_SIMP,C1-0016 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+司馬光,司马光,TRAD_SIMP,C1-0017 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+樓鑰,楼钥,TRAD_SIMP,C1-0018 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+歐陽修,欧阳修,TRAD_SIMP,C1-0019 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韋驤,韦骧,TRAD_SIMP,C1-0020 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳芾,吴芾,TRAD_SIMP,C1-0021 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+张鎡,張鎡,TRAD_SIMP,C1-0022 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓維,韩维,TRAD_SIMP,C1-0023 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+戴復古,戴复古,TRAD_SIMP,C1-0024 文本重合证据：前30字:2|全文:2|同题:0,HIGH,CANDIDATE
+鄒浩,邹浩,TRAD_SIMP,C1-0025 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+賀鑄,贺铸,TRAD_SIMP,C1-0026 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李之儀,李之仪,TRAD_SIMP,C1-0027 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+晁補之,晁补之,TRAD_SIMP,C1-0028 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+程公許,程公许,TRAD_SIMP,C1-0029 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+仇遠,仇远,TRAD_SIMP,C1-0030 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李彌遜,李弥逊,TRAD_SIMP,C1-0031 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳師道,陈师道,TRAD_SIMP,C1-0032 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+徐積,徐积,TRAD_SIMP,C1-0033 文本重合证据：前30字:4|全文:4|同题:0,HIGH,CANDIDATE
+韓琦,韩琦,TRAD_SIMP,C1-0034 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+孫覿,孙觌,TRAD_SIMP,C1-0035 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+葛勝仲,葛胜仲,TRAD_SIMP,C1-0036 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓元吉,韩元吉,TRAD_SIMP,C1-0037 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄭剛中,郑刚中,TRAD_SIMP,C1-0038 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+刘子翬,劉子翬,TRAD_SIMP,C1-0039 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳與義,陈与义,TRAD_SIMP,C1-0040 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李流謙,李流谦,TRAD_SIMP,C1-0041 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張孝祥,张孝祥,TRAD_SIMP,C1-0042 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉辰翁,刘辰翁,TRAD_SIMP,C1-0043 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+秦觀,秦观,TRAD_SIMP,C1-0044 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+何夢桂,何梦桂,TRAD_SIMP,C1-0045 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳潛,吴潜,TRAD_SIMP,C1-0046 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王質,王质,TRAD_SIMP,C1-0047 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+楊億,杨亿,TRAD_SIMP,C1-0048 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+溫庭筠,温庭筠,TRAD_SIMP,C1-0049 文本重合证据：前30字:20|全文:13|同题:0,HIGH,CANDIDATE
+王邁,王迈,TRAD_SIMP,C1-0050 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+曾鞏,曾巩,TRAD_SIMP,C1-0051 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+文彥博,文彦博,TRAD_SIMP,C1-0052 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉弇,刘弇,TRAD_SIMP,C1-0053 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓愈,韩愈,TRAD_SIMP,C1-0054 文本重合证据：前30字:1|全文:0|同题:0,HIGH,CANDIDATE
+鄭獬,郑獬,TRAD_SIMP,C1-0055 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張元幹,张元干,TRAD_SIMP,C1-0056 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韋莊,韦庄,TRAD_SIMP,C1-0057 文本重合证据：前30字:22|全文:16|同题:0,HIGH,CANDIDATE
+韓駒,韩驹,TRAD_SIMP,C1-0058 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張侃,张侃,TRAD_SIMP,C1-0059 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+華岳,华岳,TRAD_SIMP,C1-0060 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳淵,陈渊,TRAD_SIMP,C1-0061 朝代一致（宋），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+衛宗武,卫宗武,TRAD_SIMP,C1-0062 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+范純仁,范纯仁,TRAD_SIMP,C1-0063 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+葉適,叶适,TRAD_SIMP,C1-0064 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+權德舆,權德輿,TRAD_SIMP,C1-0065 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+劉一止,刘一止,TRAD_SIMP,C1-0066 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+呂南公,吕南公,TRAD_SIMP,C1-0067 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳允平,陈允平,TRAD_SIMP,C1-0068 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄭清之,郑清之,TRAD_SIMP,C1-0069 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳則禮,吴则礼,TRAD_SIMP,C1-0070 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙鼎,赵鼎,TRAD_SIMP,C1-0071 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+呂巖,吕岩,TRAD_SIMP,C1-0072 文本重合证据：前30字:4|全文:1|同题:7,HIGH,CANDIDATE
+吳泳,吴泳,TRAD_SIMP,C1-0073 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+沈與求,沈与求,TRAD_SIMP,C1-0074 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+謝逸,谢逸,TRAD_SIMP,C1-0075 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張舜民,张舜民,TRAD_SIMP,C1-0076 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙鼎臣,赵鼎臣,TRAD_SIMP,C1-0077 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+馮時行,冯时行,TRAD_SIMP,C1-0078 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蘇過,苏过,TRAD_SIMP,C1-0079 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+寇準,寇准,TRAD_SIMP,C1-0080 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張炎,张炎,TRAD_SIMP,C1-0081 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄧肅,邓肃,TRAD_SIMP,C1-0082 文本重合证据：前30字:1|全文:1|同题:1,HIGH,CANDIDATE
+謝薖,谢薖,TRAD_SIMP,C1-0083 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蒲壽宬,蒲寿宬,TRAD_SIMP,C1-0084 文本重合证据：前30字:5|全文:5|同题:0,HIGH,CANDIDATE
+張綱,张纲,TRAD_SIMP,C1-0085 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+顧况,顧況,TRAD_SIMP,C1-0086 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+晏幾道,晏几道,TRAD_SIMP,C1-0087 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉學箕,刘学箕,TRAD_SIMP,C1-0088 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張擴,张扩,TRAD_SIMP,C1-0089 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+辛棄疾,辛弃疾,TRAD_SIMP,C1-0090 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李呂,李吕,TRAD_SIMP,C1-0091 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+葉夢得,叶梦得,TRAD_SIMP,C1-0092 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蘇舜欽,苏舜钦,TRAD_SIMP,C1-0093 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+周邦彥,周邦彦,TRAD_SIMP,C1-0094 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+馬廷鸞,马廷鸾,TRAD_SIMP,C1-0095 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陽枋,阳枋,TRAD_SIMP,C1-0096 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+曾協,曾协,TRAD_SIMP,C1-0097 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張繼先,张继先,TRAD_SIMP,C1-0098 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+許棐,许棐,TRAD_SIMP,C1-0099 文本重合证据：前30字:1|全文:1|同题:0,HIGH,CANDIDATE
+歐陽澈,欧阳澈,TRAD_SIMP,C1-0100 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙文,赵文,TRAD_SIMP,C1-0101 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙彥端,赵彦端,TRAD_SIMP,C1-0102 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張先,张先,TRAD_SIMP,C1-0103 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+施樞,施枢,TRAD_SIMP,C1-0104 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+高似孫,高似孙,TRAD_SIMP,C1-0105 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+晁沖之,晁冲之,TRAD_SIMP,C1-0106 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王義山,王义山,TRAD_SIMP,C1-0107 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吴龍翰,吳龍翰,TRAD_SIMP,C1-0108 朝代一致（宋），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+吳龍翰,吴龙翰,TRAD_SIMP,C1-0109 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+廖剛,廖刚,TRAD_SIMP,C1-0110 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+孫光憲,孙光宪,TRAD_SIMP,C1-0111 文本重合证据：前30字:21|全文:14|同题:0,HIGH,CANDIDATE
+丁謂,丁谓,TRAD_SIMP,C1-0112 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+嚴羽,严羽,TRAD_SIMP,C1-0113 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙汝騰,赵汝腾,TRAD_SIMP,C1-0114 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張伯端,张伯端,TRAD_SIMP,C1-0115 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張商英,张商英,TRAD_SIMP,C1-0116 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張埴,張埴,NO_CHANGE,C1-0117 同名异人：朝代互斥且相隔较远（清 vs 宋），无文本重合，判为同名异人,HIGH,CANDIDATE
+呂渭老,吕渭老,TRAD_SIMP,C1-0118 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+汪夢斗,汪梦斗,TRAD_SIMP,C1-0119 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳深,陈深,TRAD_SIMP,C1-0120 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+阮閱,阮阅,TRAD_SIMP,C1-0121 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳克,陈克,TRAD_SIMP,C1-0122 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+洪邁,洪迈,TRAD_SIMP,C1-0123 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+张榘,張榘,TRAD_SIMP,C1-0124 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張榘,张矩,TRAD_SIMP,C1-0125 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+薛師石,薛师石,TRAD_SIMP,C1-0126 文本重合证据：前30字:3|全文:3|同题:0,HIGH,CANDIDATE
+趙孟堅,赵孟坚,TRAD_SIMP,C1-0127 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳楠,陈楠,TRAD_SIMP,C1-0128 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+胡銓,胡铨,TRAD_SIMP,C1-0129 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+史達祖,史达祖,TRAD_SIMP,C1-0130 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+家鉉翁,家铉翁,TRAD_SIMP,C1-0131 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+顧敻,顾敻,TRAD_SIMP,C1-0132 文本重合证据：前30字:13|全文:7|同题:0,HIGH,CANDIDATE
+盧祖皋,卢祖皋,TRAD_SIMP,C1-0133 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙崇嶓,赵崇嶓,TRAD_SIMP,C1-0134 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+錢惟演,钱惟演,TRAD_SIMP,C1-0135 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+曾覿,曾觌,TRAD_SIMP,C1-0136 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+謝枋得,谢枋得,TRAD_SIMP,C1-0137 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳郁,陈郁,TRAD_SIMP,C1-0138 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+潘閬,潘阆,TRAD_SIMP,C1-0139 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蔣捷,蒋捷,TRAD_SIMP,C1-0140 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳儆,吴儆,TRAD_SIMP,C1-0141 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳瓘,陈瓘,TRAD_SIMP,C1-0142 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+徐經孫,徐经孙,TRAD_SIMP,C1-0143 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+崔敦禮,崔敦礼,TRAD_SIMP,C1-0144 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+呂頤浩,吕颐浩,TRAD_SIMP,C1-0145 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王諶,王谌,TRAD_SIMP,C1-0146 文本重合证据：前30字:2|全文:2|同题:0,HIGH,CANDIDATE
+劉子寰,刘子寰,TRAD_SIMP,C1-0147 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+史鑄,史铸,TRAD_SIMP,C1-0148 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張泌,张泌,TRAD_SIMP,C1-0149 文本重合证据：前30字:10|全文:8|同题:0,HIGH,CANDIDATE
+欧陽炯,歐陽炯,TRAD_SIMP,C1-0150 文本重合证据：前30字:8|全文:7|同题:0,HIGH,CANDIDATE
+牛嶠,牛峤,TRAD_SIMP,C1-0151 文本重合证据：前30字:13|全文:10|同题:0,HIGH,CANDIDATE
+張明中,张明中,TRAD_SIMP,C1-0152 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王沂孫,王沂孙,TRAD_SIMP,C1-0153 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙以夫,赵以夫,TRAD_SIMP,C1-0154 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蘇庠,苏庠,TRAD_SIMP,C1-0155 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王安國,王安国,TRAD_SIMP,C1-0156 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+毛文錫,毛文锡,TRAD_SIMP,C1-0157 文本重合证据：前30字:10|全文:7|同题:0,HIGH,CANDIDATE
+陳堯佐,陈尧佐,TRAD_SIMP,C1-0158 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李劉,李刘,TRAD_SIMP,C1-0159 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+康與之,康与之,TRAD_SIMP,C1-0160 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+姚鏞,姚镛,TRAD_SIMP,C1-0161 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蔣堂,蒋堂,TRAD_SIMP,C1-0162 朝代一致（宋），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+李處全,李处全,TRAD_SIMP,C1-0163 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙令畤,赵令畤,TRAD_SIMP,C1-0164 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+沈端節,沈端节,TRAD_SIMP,C1-0165 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+元絳,元绛,TRAD_SIMP,C1-0166 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李師中,李師中,NO_CHANGE,C1-0167 同名异人：朝代互斥且相隔较远（清 vs 宋），无文本重合，判为同名异人,HIGH,CANDIDATE
+黄人傑,黄人杰,TRAD_SIMP,C1-0168 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+羅椅,罗椅,TRAD_SIMP,C1-0169 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙葵,赵葵,TRAD_SIMP,C1-0170 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙希邁,赵希迈,TRAD_SIMP,C1-0171 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+京鏜,京镗,TRAD_SIMP,C1-0172 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張輯,张辑,TRAD_SIMP,C1-0173 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王安禮,王安礼,TRAD_SIMP,C1-0174 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳耆卿,陈耆卿,TRAD_SIMP,C1-0175 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉壎,刘埙,TRAD_SIMP,C1-0176 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+曹組,曹组,TRAD_SIMP,C1-0177 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張良臣,张良臣,TRAD_SIMP,C1-0178 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+德誠,,UNRESOLVED,C1-0179 朝代互斥（唐 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+黄昇,黄升,TRAD_SIMP,C1-0180 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+姚寬,姚宽,TRAD_SIMP,C1-0181 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+羅願,罗愿,TRAD_SIMP,C1-0182 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+黄公紹,黄公绍,TRAD_SIMP,C1-0183 文本重合证据：前30字:3|全文:3|同题:0,HIGH,CANDIDATE
+薛昭藴,薛昭蕴,TRAD_SIMP,C1-0184 文本重合证据：前30字:6|全文:2|同题:0,HIGH,CANDIDATE
+王觀,王观,TRAD_SIMP,C1-0185 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張景脩,张景修,TRAD_SIMP,C1-0186 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄧剡,邓剡,TRAD_SIMP,C1-0187 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳東,陈东,TRAD_SIMP,C1-0188 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉鑑,刘鉴,TRAD_SIMP,C1-0189 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王以寧,王以宁,TRAD_SIMP,C1-0190 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+嚴仁,严仁,TRAD_SIMP,C1-0191 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+宋自遜,宋自逊,TRAD_SIMP,C1-0192 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+潘良貴,潘良贵,TRAD_SIMP,C1-0193 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+孫銳,孙锐,TRAD_SIMP,C1-0194 文本重合证据：前30字:1|全文:1|同题:0,HIGH,CANDIDATE
+梁棟,梁栋,TRAD_SIMP,C1-0195 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳紀,陈纪,TRAD_SIMP,C1-0196 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳栻,吳栻,NO_CHANGE,C1-0197 同名异人：朝代互斥且相隔较远（宋 vs 清），无文本重合，判为同名异人,HIGH,CANDIDATE
+陳景沂,陈景沂,TRAD_SIMP,C1-0198 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+儲泳,储泳,TRAD_SIMP,C1-0199 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉望之,刘望之,TRAD_SIMP,C1-0200 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王寀,王采,TRAD_SIMP,C1-0201 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+董穎,董颖,TRAD_SIMP,C1-0202 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+万俟紹之,万俟绍之,TRAD_SIMP,C1-0203 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳淵,吴渊,TRAD_SIMP,C1-0204 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+馮取洽,冯取洽,TRAD_SIMP,C1-0205 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+牛希濟,牛希济,TRAD_SIMP,C1-0206 文本重合证据：前30字:5|全文:0|同题:0,HIGH,CANDIDATE
+蔡確,蔡确,TRAD_SIMP,C1-0207 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙企,赵企,TRAD_SIMP,C1-0208 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉涇,刘泾,TRAD_SIMP,C1-0209 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張樞,张枢,TRAD_SIMP,C1-0210 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王夢應,王梦应,TRAD_SIMP,C1-0211 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王詵,王诜,TRAD_SIMP,C1-0212 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+許將,许将,TRAD_SIMP,C1-0213 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+邵伯溫,邵伯温,TRAD_SIMP,C1-0214 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+釋元凈,釋元淨,TRAD_SIMP,C1-0215 朝代一致（宋），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+陳亞,陈亚,TRAD_SIMP,C1-0216 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張氏,张氏,TRAD_SIMP,C1-0217 朝代相邻（元 → 宋），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+王易簡,王易简,TRAD_SIMP,C1-0218 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+翁元龍,翁元龙,TRAD_SIMP,C1-0219 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蕭元之,萧元之,TRAD_SIMP,C1-0220 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄭域,郑域,TRAD_SIMP,C1-0221 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+史鑑,史鉴,TRAD_SIMP,C1-0222 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+呂希純,吕希纯,TRAD_SIMP,C1-0223 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+孫惟信,孙惟信,TRAD_SIMP,C1-0224 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張穆,张穆,TRAD_SIMP,C1-0225 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+張紹文,张绍文,TRAD_SIMP,C1-0226 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+曾紆,曾纡,TRAD_SIMP,C1-0227 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+杜仁傑,,UNRESOLVED,C1-0228 朝代互斥（唐 vs 元）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+楊淩,楊凌,TRAD_SIMP,C1-0229 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+黄叔達,黄叔达,TRAD_SIMP,C1-0230 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳勢卿,吴势卿,TRAD_SIMP,C1-0231 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張表臣,张表臣,TRAD_SIMP,C1-0232 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李適,李适,TRAD_SIMP,C1-0233 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+羅志仁,罗志仁,TRAD_SIMP,C1-0234 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳曄,陈晔,TRAD_SIMP,C1-0235 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉燾,刘焘,TRAD_SIMP,C1-0236 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳山,吳山,NO_CHANGE,C1-0237 同名异人：朝代互斥且相隔较远（宋 vs 清），无文本重合，判为同名异人,HIGH,CANDIDATE
+徐寶之,徐宝之,TRAD_SIMP,C1-0238 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+方維儀,方维仪,TRAD_SIMP,C1-0239 文本重合证据：前30字:3|全文:1|同题:4,HIGH,CANDIDATE
+謝直,谢直,TRAD_SIMP,C1-0240 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+閻選,阎选,TRAD_SIMP,C1-0241 文本重合证据：前30字:5|全文:4|同题:0,HIGH,CANDIDATE
+張翰,,UNRESOLVED,C1-0242 朝代互斥（清 vs 魏晋南北朝）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+王渙,,UNRESOLVED,C1-0243 朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+章謙亨,章谦亨,TRAD_SIMP,C1-0244 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+謝絳,谢绛,TRAD_SIMP,C1-0245 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳知柔,陈知柔,TRAD_SIMP,C1-0246 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+黄載,黄载,TRAD_SIMP,C1-0247 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+俞國寶,俞国宝,TRAD_SIMP,C1-0248 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+馮去非,冯去非,TRAD_SIMP,C1-0249 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+呂同老,吕同老,TRAD_SIMP,C1-0250 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+岳飛,岳飞,TRAD_SIMP,C1-0251 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張宣,张宣,TRAD_SIMP,C1-0252 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+朱晞顔,朱晞颜,TRAD_SIMP,C1-0253 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+楊繪,杨绘,TRAD_SIMP,C1-0254 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+江萬里,江万里,TRAD_SIMP,C1-0255 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+紀映鍾,纪映钟,TRAD_SIMP,C1-0256 朝代相邻（明 → 清），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+孫陞,,UNRESOLVED,C1-0257 朝代互斥（宋 vs 明）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+趙福元,赵福元,TRAD_SIMP,C1-0258 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙聞禮,赵闻礼,TRAD_SIMP,C1-0259 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳師孟,吴师孟,TRAD_SIMP,C1-0260 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王鐸,王鐸,NO_CHANGE,C1-0261 同名异人：朝代互斥且相隔较远（唐 vs 清），无文本重合，判为同名异人,HIGH,CANDIDATE
+莫將,莫将,TRAD_SIMP,C1-0262 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓絳,韩绛,TRAD_SIMP,C1-0263 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+黄雲,黄云,TRAD_SIMP,C1-0264 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+黄銖,黄铢,TRAD_SIMP,C1-0265 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+龔大明,龚大明,TRAD_SIMP,C1-0266 文本重合证据：前30字:1|全文:1|同题:0,HIGH,CANDIDATE
+厲寺正,厉寺正,TRAD_SIMP,C1-0267 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+葉清臣,叶清臣,TRAD_SIMP,C1-0268 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+常袞,常衮,TRAD_SIMP,C1-0269 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+徐沖淵,徐冲渊,TRAD_SIMP,C1-0270 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+徐堅,,UNRESOLVED,C1-0271 朝代互斥（清 vs 唐）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+李樸,李朴,TRAD_SIMP,C1-0272 朝代一致（宋），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+釋鑑,釋鑒,TRAD_SIMP,C1-0273 朝代一致（宋），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+黄大臨,黄大临,TRAD_SIMP,C1-0274 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+龐籍,庞籍,TRAD_SIMP,C1-0275 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張浚,张浚,TRAD_SIMP,C1-0276 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+朱渙,朱涣,TRAD_SIMP,C1-0277 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+滕宗諒,滕宗谅,TRAD_SIMP,C1-0278 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+甄龍友,甄龙友,TRAD_SIMP,C1-0279 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蘇易簡,苏易简,TRAD_SIMP,C1-0280 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙某,赵某,TRAD_SIMP,C1-0281 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳詵,陈诜,TRAD_SIMP,C1-0282 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+楊景,杨景,TRAD_SIMP,C1-0283 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+翁溪園,翁溪园,TRAD_SIMP,C1-0284 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+范致虛,范致虚,TRAD_SIMP,C1-0285 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蕭泰來,萧泰来,TRAD_SIMP,C1-0286 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+黄簡,黄简,TRAD_SIMP,C1-0287 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+孫道絢,孙道绚,TRAD_SIMP,C1-0288 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+徐延壽,徐延壽,NO_CHANGE,C1-0289 同名异人：朝代互斥且相隔较远（唐 vs 清），无文本重合，判为同名异人,HIGH,CANDIDATE
+歐陽袞,歐陽衮,TRAD_SIMP,C1-0290 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+熊以寧,熊以宁,TRAD_SIMP,C1-0291 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+謝應芳,谢应芳,TRAD_SIMP,C1-0292 朝代相邻（明 → 元），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+陳居仁,陈居仁,TRAD_SIMP,C1-0293 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+關注,关注,TRAD_SIMP,C1-0294 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+寶月,,UNRESOLVED,C1-0295 朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+左譽,左誉,TRAD_SIMP,C1-0296 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張洵,,UNRESOLVED,C1-0297 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張琦,张琦,TRAD_SIMP,C1-0298 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+張謙,张谦,TRAD_SIMP,C1-0299 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+楊鸞,,UNRESOLVED,C1-0300 朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+王齊愈,王齐愈,TRAD_SIMP,C1-0301 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄧有功,邓有功,TRAD_SIMP,C1-0302 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓縝,韩缜,TRAD_SIMP,C1-0303 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+顔博文,颜博文,TRAD_SIMP,C1-0304 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+顧若璞,顾若璞,TRAD_SIMP,C1-0305 朝代相邻（明 → 清），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+馬光祖,马光祖,TRAD_SIMP,C1-0306 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+東方朔,东方朔,TRAD_SIMP,C1-0307 朝代相邻（先秦 → 汉魏），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+劉克遜,刘克逊,TRAD_SIMP,C1-0308 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉清之,刘清之,TRAD_SIMP,C1-0309 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉褒,刘褒,TRAD_SIMP,C1-0310 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉述,刘述,TRAD_SIMP,C1-0311 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+葉巽齋,叶巽斋,TRAD_SIMP,C1-0312 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳大有,吴大有,TRAD_SIMP,C1-0313 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張元,張元,NO_CHANGE,C1-0314 同名异人：朝代互斥且相隔较远（清 vs 宋），无文本重合，判为同名异人,HIGH,CANDIDATE
+東方虯,東方虬,TRAD_SIMP,C1-0315 文本重合证据：前30字:1|全文:1|同题:0,HIGH,CANDIDATE
+王錫,,UNRESOLVED,C1-0316 朝代互斥（魏晋南北朝 vs 清）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+留元剛,留元刚,TRAD_SIMP,C1-0317 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+芮燁,芮烨,TRAD_SIMP,C1-0318 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄒應龍,邹应龙,TRAD_SIMP,C1-0319 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳景元,,UNRESOLVED,C1-0320 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+劉氏,刘氏,TRAD_SIMP,C1-0321 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉瀾,刘澜,TRAD_SIMP,C1-0322 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉藻,,UNRESOLVED,C1-0323 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+葉秀發,叶秀发,TRAD_SIMP,C1-0324 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張時,,UNRESOLVED,C1-0325 朝代互斥（宋 vs 明）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張深,,UNRESOLVED,C1-0326 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+徐介軒,徐介轩,TRAD_SIMP,C1-0327 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王復,,UNRESOLVED,C1-0328 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+王贊,,UNRESOLVED,C1-0329 朝代互斥（魏晋南北朝 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+蘇氏,苏氏,TRAD_SIMP,C1-0330 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陸淞,陆淞,TRAD_SIMP,C1-0331 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳善,陈善,TRAD_SIMP,C1-0332 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+嚴參,严参,TRAD_SIMP,C1-0333 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉几,刘几,TRAD_SIMP,C1-0334 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉沆,刘沆,TRAD_SIMP,C1-0335 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉浚,刘浚,TRAD_SIMP,C1-0336 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉皁,劉皂,TRAD_SIMP,C1-0337 文本重合证据：前30字:1|全文:1|同题:0,HIGH,CANDIDATE
+詠懷,咏怀,TRAD_SIMP,C1-0338 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+孫諤,,UNRESOLVED,C1-0339 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張震,,UNRESOLVED,C1-0340 朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+李堅,,UNRESOLVED,C1-0341 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+李簡,,UNRESOLVED,C1-0342 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+李邦獻,李邦献,TRAD_SIMP,C1-0343 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+虞剛簡,虞刚简,TRAD_SIMP,C1-0344 文本重合证据：前30字:1|全文:0|同题:0,HIGH,CANDIDATE
+趙汝迕,赵汝迕,TRAD_SIMP,C1-0345 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+閻蒼舒,阎苍舒,TRAD_SIMP,C1-0346 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳,,UNRESOLVED,C1-0347 朝代互斥（宋 vs 明）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+陳從古,陈从古,TRAD_SIMP,C1-0348 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳康伯,陈康伯,TRAD_SIMP,C1-0349 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓信同,韩信同,TRAD_SIMP,C1-0350 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+黄師參,黄师参,TRAD_SIMP,C1-0351 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+倪濤,,UNRESOLVED,C1-0352 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+吳璜,吴璜,TRAD_SIMP,C1-0353 朝代相邻（明 → 清），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+張燾,张焘,TRAD_SIMP,C1-0354 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張端義,张端义,TRAD_SIMP,C1-0355 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+徐儼夫,徐俨夫,TRAD_SIMP,C1-0356 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+徐謙,,UNRESOLVED,C1-0357 朝代互斥（唐 vs 清）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+曹希藴,曹希蕴,TRAD_SIMP,C1-0358 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李義山,李义山,TRAD_SIMP,C1-0359 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+楊晨,,UNRESOLVED,C1-0360 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+楊氏,杨氏,TRAD_SIMP,C1-0361 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+楊浚,,UNRESOLVED,C1-0362 朝代互斥（清 vs 唐）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+楊炳,,UNRESOLVED,C1-0363 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+王九齡,,UNRESOLVED,C1-0364 朝代互斥（宋 vs 清）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+羅袞,羅衮,TRAD_SIMP,C1-0365 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+胡世將,胡世将,TRAD_SIMP,C1-0366 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+蔣璨,蒋璨,TRAD_SIMP,C1-0367 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳以莊,陈以庄,TRAD_SIMP,C1-0368 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳均,,UNRESOLVED,C1-0369 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+陳毅,,UNRESOLVED,C1-0370 朝代互斥（清 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+陳氏,,UNRESOLVED,C1-0371 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+陳玨,,UNRESOLVED,C1-0372 朝代互斥（清 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+陳壎,陳塤,TRAD_SIMP,C1-0373 朝代一致（宋），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+劉侃,刘侃,TRAD_SIMP,C1-0374 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+盧氏,卢氏,TRAD_SIMP,C1-0375 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+葉李,叶李,TRAD_SIMP,C1-0376 文本重合证据：前30字:1|全文:1|同题:0,HIGH,CANDIDATE
+吳億,吴亿,TRAD_SIMP,C1-0377 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳某,吴某,TRAD_SIMP,C1-0378 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳炯,,UNRESOLVED,C1-0379 朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張復,,UNRESOLVED,C1-0380 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張幼謙,张幼谦,TRAD_SIMP,C1-0381 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張璨,张璨,TRAD_SIMP,C1-0382 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+張瓚,,UNRESOLVED,C1-0383 朝代互斥（清 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張鑄,,UNRESOLVED,C1-0384 朝代互斥（清 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+智圓,智圆,TRAD_SIMP,C1-0385 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+李億,李亿,TRAD_SIMP,C1-0386 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+杜東,杜东,TRAD_SIMP,C1-0387 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+沈長卿,沈长卿,TRAD_SIMP,C1-0388 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+漫興,漫兴,TRAD_SIMP,C1-0389 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+王無咎,,UNRESOLVED,C1-0390 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+王鑑,,UNRESOLVED,C1-0391 朝代互斥（唐 vs 魏晋南北朝）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+紀映淮,纪映淮,TRAD_SIMP,C1-0392 朝代相邻（明 → 清），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+羅泰,,UNRESOLVED,C1-0393 朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+蘇瓊,,UNRESOLVED,C1-0394 朝代互斥（宋 vs 明）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+賈昌朝,贾昌朝,TRAD_SIMP,C1-0395 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+趙溍,赵溍,TRAD_SIMP,C1-0396 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄭炎,,UNRESOLVED,C1-0397 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+陳塏,陈垲,TRAD_SIMP,C1-0398 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳睦,陈睦,TRAD_SIMP,C1-0399 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳邦彦,陈邦彦,TRAD_SIMP,C1-0400 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+韋居安,韦居安,TRAD_SIMP,C1-0401 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓世忠,韩世忠,TRAD_SIMP,C1-0402 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+顧禄,,UNRESOLVED,C1-0403 朝代互斥（宋 vs 明）但少数侧仅 2 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+黃夷簡,,UNRESOLVED,C1-0404 朝代互斥（唐 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+龔賢,龚贤,TRAD_SIMP,C1-0405 朝代相邻（明 → 清），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+關詠,关咏,TRAD_SIMP,C1-0406 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉子實,刘子实,TRAD_SIMP,C1-0407 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉季裴,刘季裴,TRAD_SIMP,C1-0408 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉應李,刘应李,TRAD_SIMP,C1-0409 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉彤,刘彤,TRAD_SIMP,C1-0410 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉珙,刘珙,TRAD_SIMP,C1-0411 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉錫,,UNRESOLVED,C1-0412 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+雙漸,双渐,TRAD_SIMP,C1-0413 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+孫吳會,孙吴会,TRAD_SIMP,C1-0414 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張嗣初,,UNRESOLVED,C1-0415 朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張宰,张宰,TRAD_SIMP,C1-0416 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張度,,UNRESOLVED,C1-0417 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張林,,UNRESOLVED,C1-0418 朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張燦,,UNRESOLVED,C1-0419 朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+方維則,方维则,TRAD_SIMP,C1-0420 文本重合证据：前30字:1|全文:0|同题:1,HIGH,CANDIDATE
+曹脩古,,UNRESOLVED,C1-0421 朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+曾晞顔,曾晞颜,TRAD_SIMP,C1-0422 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+李浹,,UNRESOLVED,C1-0423 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+李顒,,UNRESOLVED,C1-0424 朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+湯思退,汤思退,TRAD_SIMP,C1-0425 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王孝嚴,王孝严,TRAD_SIMP,C1-0426 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+王惲,王恽,TRAD_SIMP,C1-0427 朝代相邻（元 → 宋），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+王綯,王绹,TRAD_SIMP,C1-0428 朝代一致（宋），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+程準,程准,TRAD_SIMP,C1-0429 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+聞人武子,闻人武子,TRAD_SIMP,C1-0430 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+范智聞,范智闻,TRAD_SIMP,C1-0431 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+許氏,,UNRESOLVED,C1-0432 朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+趙居貞,赵居貞,TRAD_SIMP,C1-0433 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+郭遠,,UNRESOLVED,C1-0434 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+錢敬淑,钱敬淑,TRAD_SIMP,C1-0435 朝代相邻（明 → 清），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+阮秀實,阮秀实,TRAD_SIMP,C1-0436 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳汝羲,陈汝羲,TRAD_SIMP,C1-0437 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳範,,UNRESOLVED,C1-0438 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+陳逢辰,陈逢辰,TRAD_SIMP,C1-0439 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+韓氏,,UNRESOLVED,C1-0440 朝代互斥（唐 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+黄大輿,黄大舆,TRAD_SIMP,C1-0441 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+黄鑄,黄铸,TRAD_SIMP,C1-0442 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+龔炳,,UNRESOLVED,C1-0443 朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+萬某,万某,TRAD_SIMP,C1-0444 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉,,UNRESOLVED,C1-0445 朝代互斥（宋 vs 明）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+劉震孫,刘震孙,TRAD_SIMP,C1-0446 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+劉義,劉义,TRAD_SIMP,C1-0447 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+史彌鞏,史弥巩,TRAD_SIMP,C1-0448 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+葉祖義,叶祖义,TRAD_SIMP,C1-0449 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+葉隆禮,叶隆礼,TRAD_SIMP,C1-0450 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳感,吴感,TRAD_SIMP,C1-0451 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+吳浩,,UNRESOLVED,C1-0452 朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+吳申,吴申,TRAD_SIMP,C1-0453 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張珍奴,张珍奴,TRAD_SIMP,C1-0454 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+張紹,,UNRESOLVED,C1-0455 朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+張脩之,張修之,TRAD_SIMP,C1-0456 朝代一致（唐），无文本重合；共享 collection 1 个,MEDIUM,CANDIDATE
+時彥,时彦,TRAD_SIMP,C1-0457 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+楊元亨,杨元亨,TRAD_SIMP,C1-0458 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+楊舜舉,杨舜举,TRAD_SIMP,C1-0459 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+江漢,,UNRESOLVED,C1-0460 朝代互斥（宋 vs 明）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+江緯,江纬,TRAD_SIMP,C1-0461 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+靈照,,UNRESOLVED,C1-0462 朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+王元復,,UNRESOLVED,C1-0463 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+范寬之,范宽之,TRAD_SIMP,C1-0464 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+行剛,行刚,TRAD_SIMP,C1-0465 朝代相邻（清 → 明），属跨代/遗民；无文本重合,MEDIUM,CANDIDATE
+邵緝,邵缉,TRAD_SIMP,C1-0466 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+鄭斗煥,郑斗焕,TRAD_SIMP,C1-0467 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳合,陈合,TRAD_SIMP,C1-0468 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳成之,陈成之,TRAD_SIMP,C1-0469 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+陳良翰,,UNRESOLVED,C1-0470 朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+隱者,,UNRESOLVED,C1-0471 朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+韓準,韩准,TRAD_SIMP,C1-0472 朝代一致（宋），无文本重合；共享 collection 0 个,MEDIUM,CANDIDATE
+黃台,黄台,TRAD_SIMP,C1-0473 文本重合证据：前30字:1|全文:0|同题:0,HIGH,CANDIDATE
+黄子稜,,UNRESOLVED,C1-0474 朝代互斥（唐 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+黃璞,,UNRESOLVED,C1-0475 朝代互斥（唐 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+黃麟,,UNRESOLVED,C1-0476 朝代互斥（唐 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,LOW,CANDIDATE
+佚名,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+无名氏,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+郊廟朝會歌辭,[COLLECTION],NO_CHANGE,乐府类目/乐章名；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+不詳,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+高明《蔡伯喈琵琶记》,高明,ALIAS,剥离黏附的作品名《…》：高明《蔡伯喈琵琶记》 → 高明,HIGH,CANDIDATE
+柯丹邱《荆钗记》,柯丹邱,ALIAS,剥离黏附的作品名《…》：柯丹邱《荆钗记》 → 柯丹邱,HIGH,CANDIDATE
+无名氏《张协状元》,[ANONYMOUS],COLLECTION_TO_ANON,人名＋剧名/书名黏连；作者名后直接黏附《…》作品名，需剥离,MEDIUM,CANDIDATE
+施惠《幽闺记》,施惠,ALIAS,剥离黏附的作品名《…》：施惠《幽闺记》 → 施惠,HIGH,CANDIDATE
+徐田臣《杀狗记》,徐田臣,ALIAS,剥离黏附的作品名《…》：徐田臣《杀狗记》 → 徐田臣,HIGH,CANDIDATE
+刘唐卿《白兔记》,刘唐卿,ALIAS,剥离黏附的作品名《…》：刘唐卿《白兔记》 → 刘唐卿,HIGH,CANDIDATE
+萧德祥《小孙屠》,萧德祥,ALIAS,剥离黏附的作品名《…》：萧德祥《小孙屠》 → 萧德祥,HIGH,CANDIDATE
+雜詩,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+无名氏《宦门子弟错立身》,[ANONYMOUS],COLLECTION_TO_ANON,人名＋剧名/书名黏连；作者名后直接黏附《…》作品名，需剥离,MEDIUM,CANDIDATE
+鼔吹曲辭,[COLLECTION],NO_CHANGE,乐府类目/乐章名；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+昭徳凱容樂,[COLLECTION],NO_CHANGE,乐府类目/乐章名；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+古諺,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+鼓吹曲辭,[COLLECTION],NO_CHANGE,乐府类目/乐章名；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+陳思王植,陳思王植,NO_CHANGE,帝号/封号式署名,MEDIUM,CANDIDATE
+昭明太子,昭明太子,NO_CHANGE,帝号/封号式署名,MEDIUM,CANDIDATE
+月重輪行,[COLLECTION],NO_CHANGE,乐府旧题被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+清商曲辭,[COLLECTION],NO_CHANGE,乐府类目/乐章名；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+劉子引古諺,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+出郊抵東屯,[COLLECTION],NO_CHANGE,诗题误入作者字段；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+斋中读书,[COLLECTION],NO_CHANGE,诗题被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+歸田雜詠,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+柳子厚祠,[ANONYMOUS],COLLECTION_TO_ANON,祠庙题咏；名称为祠庙，作者不详,MEDIUM,CANDIDATE
+辰州田家諺,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+紫騮馬歌,[COLLECTION],NO_CHANGE,乐府旧题被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+瓊州諺,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+《靖康小雅》作者,,UNRESOLVED,书名＋“作者”,LOW,CANDIDATE
+秋日雜詠,[COLLECTION],NO_CHANGE,诗题被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+湘妃廟,[ANONYMOUS],COLLECTION_TO_ANON,祠庙题咏；名称为祠庙，作者不详,MEDIUM,CANDIDATE
+自君之出矣,[COLLECTION],NO_CHANGE,乐府旧题被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+巫山神女,[COLLECTION],NO_CHANGE,乐府/传说人物名被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+舟中夜坐,[COLLECTION],NO_CHANGE,诗题被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+長安雜詩,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+無名僧,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+北征雜詠,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+虎山黄公祠,[ANONYMOUS],COLLECTION_TO_ANON,祠庙题咏；名称为祠庙，作者不详,MEDIUM,CANDIDATE
+田家杂诗,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+和陶飲酒,[COLLECTION],NO_CHANGE,诗题被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+吳中諺,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+还乡杂诗,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+山中雜詠,[COLLECTION],NO_CHANGE,诗题被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+上元夫人,,UNRESOLVED,传说人物名被当作作者,LOW,CANDIDATE
+春日杂诗,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+無名鬼,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+廣州諺,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+周平王庙,[ANONYMOUS],COLLECTION_TO_ANON,祠庙题咏；名称为祠庙，作者不详,MEDIUM,CANDIDATE
+朱柜国大夫祠,[ANONYMOUS],COLLECTION_TO_ANON,祠庙题咏；名称为祠庙，作者不详,MEDIUM,CANDIDATE
+嶺南雜詠,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+黔中諺,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+榕堂雜詩,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+張祠部,張祠部,NO_CHANGE,姓氏＋官署简称,MEDIUM,CANDIDATE
+舟中雜詠,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+無名女鬼,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+吳諺,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+宣和民謠,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+建炎民謠,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+無名子,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+無名婦人,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+秣陵雜詠,[COLLECTION],NO_CHANGE,诗题/类目被当作作者；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+無名女子,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+乾道民謠,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+無名釋,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+柳州谒柳侯祠,[ANONYMOUS],COLLECTION_TO_ANON,祠庙题咏；名称为祠庙，作者不详,MEDIUM,CANDIDATE
+樂章,[COLLECTION],NO_CHANGE,乐府类目/乐章名；应整条重挂到总集/类目，不改作者名,MEDIUM,CANDIDATE
+谒泰伯庙,[ANONYMOUS],COLLECTION_TO_ANON,祠庙题咏；名称为祠庙，作者不详,MEDIUM,CANDIDATE
+台州八忠祠歌,[ANONYMOUS],COLLECTION_TO_ANON,祠庙题咏；名称为祠庙，作者不详,MEDIUM,CANDIDATE
+南唐失名僧,[ANONYMOUS],COLLECTION_TO_ANON,佚名占位符；库内通行佚名写法,MEDIUM,CANDIDATE
+淳祐民謠,[ANONYMOUS],COLLECTION_TO_ANON,谚谣出处标签；名称为谚谣的地域/时代标签,MEDIUM,CANDIDATE
+向,向,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+徐,徐,NO_CHANGE,16 条作品无任何可对应的全名候选（题名、文本均无一重合），疑姓氏单独成条,LOW,CANDIDATE
+曾,曾,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+汪,汪,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+柳,柳,NO_CHANGE,10 条作品无任何可对应的全名候选（题名、文本均无一重合），疑姓氏单独成条,LOW,CANDIDATE
+顧,顧,NO_CHANGE,8 条作品无任何可对应的全名候选（题名、文本均无一重合），疑姓氏单独成条,LOW,CANDIDATE
+王,王,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+韩,韩,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+景,景,NO_CHANGE,5 条作品无任何可对应的全名候选（题名、文本均无一重合），疑姓氏单独成条,LOW,CANDIDATE
+洽,,UNRESOLVED,「洽」非汉姓，库内亦无以之为首的完整人名；作品题名/文本均无重合，疑全名为首字被截断（或小传串位）,LOW,CANDIDATE
+莫,莫,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+何,何,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+张,,UNRESOLVED,库内不存在「张昇/张昪」等可对应全名（R2-12 已否定），本表不改判,LOW,CANDIDATE
+李,李,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+陈,陈,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+梵,,UNRESOLVED,「梵」非汉姓，库内亦无以之为首的完整人名；作品题名/文本均无重合，疑全名为首字被截断（或小传串位）,LOW,CANDIDATE
+萧,萧,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+赵,赵,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+含,,UNRESOLVED,「含」非汉姓，库内亦无以之为首的完整人名；作品题名/文本均无重合，疑全名为首字被截断（或小传串位）,LOW,CANDIDATE
+楼,楼,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+章,章,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+良,,UNRESOLVED,「良」非汉姓，库内亦无以之为首的完整人名；作品题名/文本均无重合，疑全名为首字被截断（或小传串位）,LOW,CANDIDATE
+苏,苏,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+董,董,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+袁,袁,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+解,解,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+黄,,UNRESOLVED,仅 2 条作品，题名/文本均无重合候选，证据不足,LOW,CANDIDATE
+□,,UNRESOLVED,作者字段为缺字符号，需回溯原始影像,LOW,CANDIDATE
+任,任,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+余,余,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+刘,刘,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+孙,孙,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+应,应,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+查,查,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+紹,,UNRESOLVED,「紹」非汉姓，库内亦无以之为首的完整人名；作品题名/文本均无重合，疑全名为首字被截断（或小传串位）,LOW,CANDIDATE
+翁,翁,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+荣,荣,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+许,许,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+金,,UNRESOLVED,仅 1 条作品，题名/文本均无重合候选，证据不足,LOW,CANDIDATE
+鲁,鲁,NO_CHANGE,全部作品为词/曲，题名仅词牌，无法用题名比对；仅存姓氏，疑全名脱落,LOW,CANDIDATE
+==丁敬==,丁敬,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==严恒==,严恒,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==书諴==,书諴,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==了亮==,了亮,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==了禅==,了禅,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==于洁==,于洁,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==井鎡==,井鎡,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==任瑗==,任瑗,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==俞焜==,俞焜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==俞玫==,俞玫,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==俞𣊡==,俞𣊡,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==倪鸿==,倪鸿,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==兰轩==,兰轩,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==关槐==,关槐,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==冒褒==,冒褒,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==冒襄==,冒襄,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==冯宬==,冯宬,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==冯浩==,冯浩,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==冯询==,冯询,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==凌焕==,凌焕,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==凌翱==,凌翱,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==刘汋==,刘汋,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==刘澂==,刘澂,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==刘纶==,刘纶,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==刘臻==,刘臻,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==刘韵==,刘韵,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==华兰==,华兰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==叶燮==,叶燮,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==叶蓁==,叶蓁,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吉明==,吉明,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吕福==,吕福,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吴殳==,吴殳,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吴烜==,吴烜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吴瑾==,吴瑾,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吴璥==,吴璥,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吴询==,吴询,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吴进==,吴进,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==吴静==,吴静,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周劼==,周劼,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周昌==,周昌,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周昱==,周昱,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周煌==,周煌,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周筼==,周筼,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周纶==,周纶,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周肇==,周肇,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周锷==,周锷,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周镐==,周镐,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==周音==,周音,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==唐炯==,唐炯,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==国栋==,国栋,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==国梁==,国梁,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==圆能==,圆能,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==奉宽==,奉宽,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==姚倩==,姚倩,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==姚氏==,姚氏,ALIAS,剥除标注包裹==…==；裸名「姚氏」在库内独立存在 1 条,HIGH,CANDIDATE
+==姚范==,姚范,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==姚鼐==,姚鼐,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==孙协==,孙协,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==孙垓==,孙垓,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==孙显==,孙显,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==孙瀜==,孙瀜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==孙镇==,孙镇,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==安䈯==,安䈯,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==宋弼==,宋弼,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==宋琏==,宋琏,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==定源==,定源,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==寅保==,寅保,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==尚镕==,尚镕,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==尤侗==,尤侗,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==岑澂==,岑澂,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==崇安==,崇安,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==崔旸==,崔旸,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==崔迈==,崔迈,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==崔述==,崔述,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==崔適==,崔適,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==巴秦==,巴秦,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==平泰==,平泰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==廷桂==,廷桂,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==弘旿==,弘旿,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==弘昴==,弘昴,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==弘晓==,弘晓,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==弘晙==,弘晙,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张井==,张井,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张勇==,张勇,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张庚==,张庚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张度==,张度,ALIAS,剥除标注包裹==…==；裸名「张度」在库内独立存在 2 条,HIGH,CANDIDATE
+==张桐==,张桐,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张炜==,张炜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张熷==,张熷,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张琚==,张琚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张英==,张英,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==张道==,张道,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==彭坊==,彭坊,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==彭浚==,彭浚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==徐坊==,徐坊,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==徐枋==,徐枋,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==徐楫==,徐楫,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==徐浩==,徐浩,ALIAS,剥除标注包裹==…==；裸名「徐浩」在库内独立存在 5 条,HIGH,CANDIDATE
+==德保==,德保,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==德普==,德普,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==忠廉==,忠廉,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==性慧==,性慧,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==恒仁==,恒仁,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==恭泰==,恭泰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==戈涢==,戈涢,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==戈溥==,戈溥,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==我锜==,我锜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==戚玾==,戚玾,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==戴望==,戴望,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==戴熙==,戴熙,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==戴纯==,戴纯,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==敦敏==,敦敏,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==敦诚==,敦诚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==文榦==,文榦,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==方寿==,方寿,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==方振==,方振,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==时铭==,时铭,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==明德==,明德,ALIAS,剥除标注包裹==…==；裸名「明德」在库内独立存在 1 条,HIGH,CANDIDATE
+==易蘩==,易蘩,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==显清==,显清,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==曹焜==,曹焜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==曾懿==,曾懿,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==曾瑶==,曾瑶,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==曾谐==,曾谐,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==朱琦==,朱琦,ALIAS,剥除标注包裹==…==；裸名「朱琦」在库内独立存在 14 条,HIGH,CANDIDATE
+==朱缃==,朱缃,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==朱蔚==,朱蔚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==李佳==,李佳,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==李媺==,李媺,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==李棠==,李棠,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==李灏==,李灏,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==李确==,李确,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==李谟==,李谟,ALIAS,剥除标注包裹==…==；裸名「李谟」在库内独立存在 1 条,HIGH,CANDIDATE
+==李铎==,李铎,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==李默==,李默,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==杜堮==,杜堮,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==杜汉==,杜汉,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==杨宾==,杨宾,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==杨揆==,杨揆,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==杨灏==,杨灏,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==杨翰==,杨翰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==林熙==,林熙,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==林颀==,林颀,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==柏春==,柏春,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==柯蘅==,柯蘅,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==柴杰==,柴杰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==梅鋗==,梅鋗,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==梦麟==,梦麟,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==武亿==,武亿,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==段驯==,段驯,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==永年==,永年,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==江昶==,江昶,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==江筠==,江筠,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汤鹏==,汤鹏,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪嫈==,汪嫈,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪宪==,汪宪,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪桐==,汪桐,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪棨==,汪棨,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪沆==,汪沆,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪清==,汪清,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪琬==,汪琬,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪祚==,汪祚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==汪芑==,汪芑,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==沈峄==,沈峄,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==沈濂==,沈濂,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==沈谦==,沈谦,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==沈鑅==,沈鑅,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==沈雅==,沈雅,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==沙琛==,沙琛,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==洪升==,洪升,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==潘业==,潘业,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==焦循==,焦循,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==熊琏==,熊琏,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==玉并==,玉并,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王寿==,王寿,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王抃==,王抃,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王掞==,王掞,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王摅==,王摅,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王旒==,王旒,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王朴==,王朴,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王权==,王权,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王杰==,王杰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王泽==,王泽,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王洁==,王洁,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王淑==,王淑,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王溱==,王溱,ALIAS,剥除标注包裹==…==；裸名「王溱」在库内独立存在 2 条,HIGH,CANDIDATE
+==王玮==,王玮,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王绮==,王绮,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王芬==,王芬,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==王藻==,王藻,ALIAS,剥除标注包裹==…==；裸名「王藻」在库内独立存在 7 条,HIGH,CANDIDATE
+==王錞==,王錞,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==田登==,田登,ALIAS,剥除标注包裹==…==；裸名「田登」在库内独立存在 2 条,HIGH,CANDIDATE
+==祖观==,祖观,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==祝洤==,祝洤,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==福喜==,福喜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==福存==,福存,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==福静==,福静,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==程淑==,程淑,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==程畹==,程畹,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==章恺==,章恺,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==符曾==,符曾,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==管同==,管同,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==管筠==,管筠,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==纪愈==,纪愈,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==缪彤==,缪彤,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==翁照==,翁照,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==胡敬==,胡敬,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==胡焯==,胡焯,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==胡缘==,胡缘,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==自成==,自成,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==舒位==,舒位,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==艾畅==,艾畅,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==茹棻==,茹棻,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==萧炜==,萧炜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==萧雄==,萧雄,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==葛远==,葛远,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==董恂==,董恂,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==董潮==,董潮,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==董讷==,董讷,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==蒋坦==,蒋坦,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==蒋蘅==,蒋蘅,ALIAS,剥除标注包裹==…==；裸名「蒋蘅」在库内独立存在 4 条,HIGH,CANDIDATE
+==蔡新==,蔡新,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==蕴端==,蕴端,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==薛雪==,薛雪,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==袁机==,袁机,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==袁杰==,袁杰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==袁杼==,袁杼,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==袁树==,袁树,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==袁棠==,袁棠,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==袁翼==,袁翼,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==观保==,观保,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==觉灯==,觉灯,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==觉诠==,觉诠,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==许惠==,许惠,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==许斌==,许斌,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==许旭==,许旭,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==诸锦==,诸锦,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==谈迁==,谈迁,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==谢雪==,谢雪,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==贵徵==,贵徵,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==贾臻==,贾臻,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==赖晋==,赖晋,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==赵昱==,赵昱,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==赵翼==,赵翼,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==赵贤==,赵贤,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==路璜==,路璜,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==遐龄==,遐龄,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==郑师==,郑师,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==郑沄==,郑沄,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==郭浚==,郭浚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==郭琇==,郭琇,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==郭肇==,郭肇,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==金兑==,金兑,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==金墀==,金墀,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==金甡==,金甡,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==金逸==,金逸,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==钱楷==,钱楷,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==钱江==,钱江,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==钱琦==,钱琦,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==长闱==,长闱,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈勤==,陈勤,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈寅==,陈寅,ALIAS,剥除标注包裹==…==；裸名「陈寅」在库内独立存在 5 条,HIGH,CANDIDATE
+==陈戉==,陈戉,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈撰==,陈撰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈昆==,陈昆,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈沆==,陈沆,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈瀚==,陈瀚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈瑚==,陈瑚,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈诗==,陈诗,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈道==,陈道,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==陈锦==,陈锦,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==韩章==,韩章,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==顾济==,顾济,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==顾湄==,顾湄,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==顾钰==,顾钰,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==马濂==,马濂,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==高鼎==,高鼎,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==鲁蕡==,鲁蕡,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==鲍康==,鲍康,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==鲍皋==,鲍皋,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==麟魁==,麟魁,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==黄倬==,黄倬,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==黄堂==,黄堂,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==黄钊==,黄钊,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==黄锴==,黄锴,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==黎恺==,黎恺,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+==龄文==,龄文,ALIAS,剥除标注包裹==…==，仅为格式化清洗，不改变身份,MEDIUM,CANDIDATE
+刘镇1,,UNRESOLVED,上游同名编号后缀；库内另有「刘镇」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+刘镇2,,UNRESOLVED,上游同名编号后缀；库内另有「刘镇」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+吴氏1,,UNRESOLVED,上游同名编号后缀；库内另有「吴氏」(1 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+吴氏2,,UNRESOLVED,上游同名编号后缀；库内另有「吴氏」(1 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+吴氏3,,UNRESOLVED,上游同名编号后缀；库内另有「吴氏」(1 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+吴淑姬1,,UNRESOLVED,上游同名编号后缀；库内另有「吴淑姬」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+吴淑姬2,,UNRESOLVED,上游同名编号后缀；库内另有「吴淑姬」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+姚述尧1,,UNRESOLVED,上游同名编号后缀；库内另有「姚述尧」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+姚述尧2,,UNRESOLVED,上游同名编号后缀；库内另有「姚述尧」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+张生1,,UNRESOLVED,上游同名编号后缀；库内另有「张生」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+张生2,,UNRESOLVED,上游同名编号后缀；库内另有「张生」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+李好古1,,UNRESOLVED,上游同名编号后缀；库内另有「李好古」(32 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+李好古2,,UNRESOLVED,上游同名编号后缀；库内另有「李好古」(32 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+李氏1,,UNRESOLVED,上游同名编号后缀；库内另有「李氏」(18 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+李氏2,,UNRESOLVED,上游同名编号后缀；库内另有「李氏」(18 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+杨适1,,UNRESOLVED,上游同名编号后缀；库内另有「杨适」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+杨适2,,UNRESOLVED,上游同名编号后缀；库内另有「杨适」(0 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+王炎1,,UNRESOLVED,上游同名编号后缀；库内另有「王炎」(825 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+王炎2,,UNRESOLVED,上游同名编号后缀；库内另有「王炎」(825 条)，是否同一人无法在库内验证,LOW,CANDIDATE
+崔居儉、盧文紀,,UNRESOLVED,多人合署/整理者署名，需拆分为多条 attribution，不能做单一 canonical,LOW,CANDIDATE
+王重民輯錄，劉脩業整理。,,UNRESOLVED,多人合署/整理者署名，需拆分为多条 attribution，不能做单一 canonical,LOW,CANDIDATE
+賀知章、源乾曜,,UNRESOLVED,多人合署/整理者署名，需拆分为多条 attribution，不能做单一 canonical,LOW,CANDIDATE
+趙光逢、張衮,,UNRESOLVED,多人合署/整理者署名，需拆分为多条 attribution，不能做单一 canonical,LOW,CANDIDATE
+魏徵、褚亮,,UNRESOLVED,多人合署/整理者署名，需拆分为多条 attribution，不能做单一 canonical,LOW,CANDIDATE
+于鄴,于武陵,ALIAS,C5 抽检：4 首作品文本前30字与「于武陵」名下完全相同（王將軍宅夜聽歌/友人亭松/感懷/遊中梁山），于鄴即于武陵,HIGH,CANDIDATE
+于邺,于武陵,ALIAS,同上（简体形）,HIGH,CANDIDATE

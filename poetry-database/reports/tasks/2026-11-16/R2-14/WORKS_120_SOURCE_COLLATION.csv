@@ -1,0 +1,30 @@
+﻿sample_id,work_id,title,source_id,source_file,json_index,db_han_len,source_han_len,collation,rebuild_status,candidate_body_head
+B001,tang:32f61e34a988,秋雨歎三首 二,CP-TANG-11,raw/poetry/tang/poet.tang.10000.json,582,75,75,EXACT,SUPPORTED_RECONSTRUCTION,闌風長雨秋紛紛，四海八荒同一雲。 去馬來牛不復辨，濁涇清渭何當分。 禾頭生耳黍穗黑，農夫田婦無消息。
+B002,tang:529d64f795fa,送袁郎中破賊北歸,CP-TANG-14,raw/poetry/tang/poet.tang.13000.json,246,62,62,EXACT,SUPPORTED_RECONSTRUCTION,優詔親賢時獨稀，中途紫紱換征衣。 黃香省闥登朝去，楊僕樓船振旅歸。 萬里長聞隨戰角，十年不得掩郊扉。
+B003,tang:b580141bd305,秋雨歎三首 三,CP-TANG-11,raw/poetry/tang/poet.tang.10000.json,583,65,65,EXACT,SUPPORTED_RECONSTRUCTION,長安布衣誰比數，反鏁衡門守環堵。 老夫不出長蓬蒿，穉子無憂走風雨。 雨聲颼颼催早寒，胡雁翅濕高飛難。
+B004,tang:c9701a3c9b85,秋浦歌十七首 十一,CP-TANG-09,raw/poetry/tang/poet.tang.8000.json,178,26,26,EXACT,SUPPORTED_RECONSTRUCTION,邏人橫鳥道，江祖出魚梁。 水急客舟疾，山花拂面香。
+B005,tang:e85ca662488c,秋浦歌十七首 十七,CP-TANG-09,raw/poetry/tang/poet.tang.8000.json,184,23,23,EXACT,SUPPORTED_RECONSTRUCTION,桃波一步地，了了語聲聞。 闇與山僧別，低頭禮白雲。
+B006,tang:ead514ddd56b,晚次（一作「歇」）湘源縣,CP-TANG-42,raw/poetry/tang/poet.tang.41000.json,533,59,59,EXACT,SUPPORTED_RECONSTRUCTION,煙郭遙聞向晚雞，水平舟靜浪聲齊。 高林帶雨楊梅熟，曲岸籠雲謝豹啼。 二女廟荒汀樹老，九疑山碧楚天低。
+B007,tang:f136b619469d,薛司空自青州歸朝,CP-TANG-18,raw/poetry/tang/poet.tang.17000.json,719,59,59,EXACT,SUPPORTED_RECONSTRUCTION,天眷君陳久在東，歸朝人看大司空。 黃河岸畔長無事，滄海東邊獨有功。 已變畏途成雅俗，仍過舊里揖秋風。
+B008,caocao:0d724fceb1c4,龟虽寿,CP-CAOCAO,raw/poetry/caocao/caocao.json,5,60,60,EXACT,SUPPORTED_RECONSTRUCTION,神龟虽寿，犹有竟时。 腾蛇乘雾，终为土灰。 老骥伏枥，志在千里。 烈士暮年，壮心不已。 盈缩之期，不
+B009,caocao:cec597d92f9c,短歌行 其一,CP-CAOCAO,raw/poetry/caocao/caocao.json,1,144,144,EXACT,SUPPORTED_RECONSTRUCTION,对酒当歌，人生几何！譬如朝露，去日苦多。 慨当以慷，忧思难忘。何以解忧？唯有杜康。 青青子衿，悠悠我
+B010,tang:256516182ce3,故都,CP-TANG-37,raw/poetry/tang/poet.tang.36000.json,862,28,28,EXACT,TEXT_STRUCTURE_CONFIRMED,江南江北兩風流，一作迷津一拜侯。 至竟不如隋煬帝，破家猶得到揚州。
+B011,tang:28a269570008,西明寺牡丹花時憶元九,CP-TANG-23,raw/poetry/tang/poet.tang.22000.json,296,50,50,EXACT,TEXT_STRUCTURE_CONFIRMED,前年題名處，今日看花來。 一作芸香吏，三見牡丹開。 豈獨花堪惜，方知老闇催。 何況尋花伴，東都去未迴
+B012,tang:4eb85ca81970,春日書懷寄朐山孫明府,CP-TANG-42,raw/poetry/tang/poet.tang.41000.json,906,40,40,EXACT,TEXT_STRUCTURE_CONFIRMED,一作邊城客，閑門兩度春。 鶯花深院雨，書劒滿牀塵。 紫閣期終負，青雲道未伸。 猶憐陶靖節，詩酒每相親
+B013,tang:58b1b5953427,戲題春意,CP-TANG-04,raw/poetry/tang/poet.tang.3000.json,93,40,40,EXACT,TEXT_STRUCTURE_CONFIRMED,一作江南守，江林三四春。 相鳴不及鳥，相樂喜關人。 日守朱絲直，年催華髮新。 淮陽秪有臥，持此度芳辰
+B014,tang:59ff2e94e4dd,重寄虬上人,CP-TANG-07,raw/poetry/tang/poet.tang.6000.json,678,40,40,EXACT,TEXT_STRUCTURE_CONFIRMED,一作雲峰別，三看花柳朝。 青山隔遠路，明月空長霄。 鵲浴西江雨，雞鳴東海潮。 此情勞夢寐，況道雙林遙
+B015,tang:cb582f199cd4,和元帥書記蕭郎中觀習水師,CP-TANG-43,raw/poetry/tang/poet.tang.42000.json,137,56,56,EXACT,TEXT_STRUCTURE_CONFIRMED,元帥樓船出治兵，落星山外火旗明。 千帆日助江陵勢，萬里風馳下瀨聲。 殺氣曉嚴波上鷁，凱歌遙駭海邊鯨。
+B016,songshi:0da6b86516a7,墨牛圖  其一,CP-SONGSHI-079,raw/poetry/songshi/poet.song.78000.json,285,28,28,EXACT,TEXT_STRUCTURE_CONFIRMED,一牛動是萬錢值，墨指一作何紛綸。 安得田家真有此，坐令四海無饑民。
+B017,songshi:2dff131bdf1b,思蜀四首  其二,CP-SONGSHI-131,raw/poetry/songshi/poet.song.130000.json,498,40,40,EXACT,TEXT_STRUCTURE_CONFIRMED,一作劍關客，閑逰將十年。 不嫌狂駭俗，自許醉知天。 瑞草溪橋路，青衣野廟壖。 霜天獵歸處，萬里入横鞭
+B018,songshi:642a70e6e494,送王覃,CP-SONGSHI-033,raw/poetry/songshi/poet.song.32000.json,453,56,56,EXACT,TEXT_STRUCTURE_CONFIRMED,分走人間十五年，塵沙吹鬢各蒼然。 山林渺渺長回首，兒女紛紛忽滿前。 知子有才思奮發，嗟余無地與迴旋。
+B019,songshi:912f4f03b0bd,秋雲,CP-SONGSHI-108,raw/poetry/songshi/poet.song.107000.json,273,56,56,EXACT,TEXT_STRUCTURE_CONFIRMED,數片悠揚出遠山，擬爲霖雨霈塵寰。 未乘風雨吹嘘便，驀被曦輪照爍還。 心在蒼生常欲起，蹤歸深岫暫投閒。
+B020,songshi:9d56506aa8d3,上致用院李同知論海舶,CP-SONGSHI-246,raw/poetry/songshi/poet.song.245000.json,592,520,520,EXACT,TEXT_STRUCTURE_CONFIRMED,易經致民用，肇自羲農先。 耒耜既生聚，市易還懋遷。 公私不交病，本末無倒懸。 古人致主術，稱物靡有偏
+B021,songshi:ab78f7a85438,都下無憂館小樓春盡旅懷二首  其二,CP-SONGSHI-140,raw/poetry/songshi/poet.song.139000.json,148,28,28,EXACT,TEXT_STRUCTURE_CONFIRMED,不關老去願春遲，只恨春歸我未歸。 最是楊花欺客子，向人一一作西飛。
+B022,songshi:b689448408a2,偈頌一百零三首  其五二,CP-SONGSHI-236,raw/poetry/songshi/poet.song.235000.json,640,39,39,EXACT,TEXT_STRUCTURE_CONFIRMED,識得一，萬事畢，畢竟一作麽生識。 不用天涯海角尋，日用當機明歷歷。 諸人若更遲疑，分明爲汝指出。
+B023,gushiji:ab37b3addbc0,瑟居,WS-GUSHIJI-153,raw/poetry/gushiji/卷153.json,54,38,38,EXACT,TEXT_STRUCTURE_CONFIRMED,梁武帝詩瑟居超七淨瑟與索同蕭索字一作蕭瑟則索居亦得作瑟居也葢瑟索借用字正作槭
+B024,wanqing:3fedb524017f,鸡鸣歌,WS-WANQING-一百三十二,raw/poetry/wanqing/卷一百三十二.json,100,76,76,EXACT,TEXT_STRUCTURE_CONFIRMED,万物冥冥，雄鸡一声。鸡声一作，天地清廓。天地清兮日当中，雄鸡声声声满空。空中百鸟聋瞆浪言语，天以鸡为
+B025,wanqing:d0a5e2a10f10,除夕祭诗侑以三百六十字,WS-WANQING-一百五十九,raw/poetry/wanqing/卷一百五十九.json,43,360,360,EXACT,TEXT_STRUCTURE_CONFIRMED,昔人创祭诗，岁暮例一作。我诗虽不工，颇亦出心腹。闲庭少尘事，清供役童仆。微闻古梅香，发此春筍束。悲欢
+B026,wanqing:e193c564b8e4,新秋集句,WS-WANQING-六,raw/poetry/wanqing/卷六.json,65,59,59,EXACT,TEXT_STRUCTURE_CONFIRMED,鸟临窗语报天晴，冰簟银床梦不成。万物尽一作并。遭风鼓动，一生长共月亏盈。时沽村酒当轩酌，自与烟萝结野
+B027,wanqing:f80067444b0d,松林庵古柏歌,WS-WANQING-一百六十八,raw/poetry/wanqing/卷一百六十八.json,21,301,301,EXACT,TEXT_STRUCTURE_CONFIRMED,忆我六月浮海吴陵来，吴陵园社生荒苔。忽见招提古柏势天矫，疑是苍龙堕地迟风雷。铜柯铁幹老无匹，参差何祇
+B028,wanqing:fd2ee4262cb2,示子艾十弟,WS-WANQING-一百五十四,raw/poetry/wanqing/卷一百五十四.json,97,270,270,EXACT,TEXT_STRUCTURE_CONFIRMED,刘家好兄弟，并世琨与舆。奕奕隽朗才，列在西晋书。美玉生蓝田，斯语洵不虚。为学务精一，筑堂题童初。汝当
+B029,tao:1c92e02b8348,歸園田居·其四,WS-TAO-2,raw/poetry/tao/卷二.json,8,90,90,EXACT,TEXT_STRUCTURE_CONFIRMED,久去山澤遊，浪莽林野娛。 試攜子侄輩，披榛步荒墟。 徘徊丘壠間，依依昔人居； 井竈有遺處，桑竹殘朽株

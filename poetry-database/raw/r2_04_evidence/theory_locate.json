@@ -1,0 +1,178 @@
+[
+  {
+    "id": 15,
+    "book_id": "wangli_shicilv",
+    "old_page": 42,
+    "topic": "孤平",
+    "quote": "犯孤平指的是平脚的句子；仄脚的句子即使只有一个平声字，也不算犯孤平，如李白《宿五松山下荀媪家》「我宿五松下」，只算拗句，不算孤平。",
+    "verified_pages": [],
+    "verdict": "NOT_FOUND"
+  },
+  {
+    "id": 16,
+    "book_id": "wangli_shicilv",
+    "old_page": 42,
+    "topic": "特拗（特定平仄格式）",
+    "quote": "这种格式的特点是：五言第三、四两字的平仄互换位置，七言第五、六两字的平仄互换位置。注意：在这种情况下，五言第一字、七言第三字必须用平声，不再是可平可仄的了。",
+    "verified_pages": [
+      42
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 17,
+    "book_id": "wangli_shicilv",
+    "old_page": 44,
+    "topic": "拗救",
+    "quote": "凡平仄不依常格的句子，叫做拗句……(a)在该用「平平仄仄平」的地方，第一字用了仄声，第三字补偿一个平声，以免犯孤平……这是本句自救。(b)……就在对句的第三字改用平声来补偿……这是对句相救。(c)……只是第三字用了仄声……这是半拗，可救可不救。",
+    "verified_pages": [
+      44
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 18,
+    "book_id": "wangli_shicilv",
+    "old_page": 47,
+    "topic": "一三五不论",
+    "quote": "在五言「平平仄仄平」这个格式中，第一字不能不论，在七言「仄仄平平仄仄平」这个格式中，第三字不能不论，否则就要犯孤平。",
+    "verified_pages": [
+      41,
+      47,
+      410
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 19,
+    "book_id": "wangli_shicilv",
+    "old_page": 48,
+    "topic": "一三五不论（续）",
+    "quote": "总之，七言仄脚的句子可以有三个字不论，平脚的句子只能有两个字不论。五言仄脚的句子可以有两个字不论，平脚的句子只能有一个字不论。「一三五不论」的话是不对的。",
+    "verified_pages": [
+      48
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 20,
+    "book_id": "wangli_shicilv",
+    "old_page": 50,
+    "topic": "三平调",
+    "quote": "这首诗第一句第五字应仄而用平（「摇」），这种三平调已经给人一种古风的感觉。",
+    "verified_pages": [
+      50
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 21,
+    "book_id": "wangli_shicilv",
+    "old_page": 57,
+    "topic": "合掌",
+    "quote": "出句与对句完全同义（或基本上同义），叫做合掌，更是诗家的大忌。",
+    "verified_pages": [
+      57
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 22,
+    "book_id": "wangli_shicilv",
+    "old_page": 57,
+    "topic": "对仗优劣",
+    "quote": "同义词相对，似工而实拙。《文心雕龙·丽辞》说：「反对为优，正对为劣。」",
+    "verified_pages": [
+      57
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 23,
+    "book_id": "long_yushsheng_cilv",
+    "old_page": 6,
+    "topic": "词韵分类",
+    "quote": "本编依韵脚分类，计分平韵、仄韵、平仄韵转换、平仄韵通叶、平仄韵错叶等五格。",
+    "verified_pages": [
+      6
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 24,
+    "book_id": "long_yushsheng_cilv",
+    "old_page": 7,
+    "topic": "词谱符号",
+    "quote": "每一格下所举唐宋词，以、表豆（在句中），·表句，◎表平韵，△表仄韵（均在句下），以便查核。",
+    "verified_pages": [
+      7
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 25,
+    "book_id": "long_yushsheng_cilv",
+    "old_page": 60,
+    "topic": "与《钦定词谱》分歧",
+    "quote": "《词谱》于第三字豆，作上三下五句式，非。",
+    "verified_pages": [
+      60
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 26,
+    "book_id": "long_cixue_shijiang",
+    "old_page": null,
+    "topic": "词的性质",
+    "quote": "词不称「作」而称「填」，因为它要受声律的严格约束……它的每一曲调都有固定形式，而这种特殊形式，是经过音乐的陶冶，在句读和韵位上都得和乐曲的节拍恰相谐会。",
+    "verified_pages": [
+      5
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 27,
+    "book_id": "long_cixue_shijiang",
+    "old_page": null,
+    "topic": "选调与声情",
+    "quote": "譬如《六州歌头》，只适宜于抒写苍凉激越的豪迈感情，如果拿来填上缠绵哀婉、抒写儿女柔情的歌词，那就必然要导致「声与意不相谐」的结果。",
+    "verified_pages": [
+      7
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 28,
+    "book_id": "long_cixue_shijiang",
+    "old_page": null,
+    "topic": "韵位与表情",
+    "quote": "大体说来，一般谐婉的曲调，例以隔句或三句一协韵为标准，韵位均匀，又多选用平声韵部的，率多呈现「纡徐为妍」的姿态。",
+    "verified_pages": [
+      9
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 29,
+    "book_id": "long_cixue_shijiang",
+    "old_page": null,
+    "topic": "四声阴阳",
+    "quote": "原来在唐宋词中，平声的阴阳还不够严格，只是上、去、入三声的安排，不论在句子中间或韵脚上都比律诗要讲究得多。一般韵脚是平入独用、上去通协的。",
+    "verified_pages": [
+      12
+    ],
+    "verdict": "QUOTE_FOUND"
+  },
+  {
+    "id": 30,
+    "book_id": "long_cixue_shijiang",
+    "old_page": null,
+    "topic": "句度与表情",
+    "quote": "一般说来，每一歌词的句式安排，在音节上总不出和谐与拗怒两种。",
+    "verified_pages": [
+      8
+    ],
+    "verdict": "QUOTE_FOUND"
+  }
+]

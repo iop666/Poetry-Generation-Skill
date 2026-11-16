@@ -1,0 +1,50 @@
+﻿sample_id,work_id,title,collection,source_file,locator,lyric_found_in_source,recovered_lyric_head_80,status,evidence
+S01,yuanqu:da4949b0f3e4,杨氏女杀狗劝夫・滚绣球,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=1568,Y,"有那等富汉每，他道是压瘴气，下的是国家祥瑞，怎知俺穷汉每少衣无食。
+我则见满天里飞磨旗，半空里下炮石，俺须是死无个葬身之地。
+只落得抱双肩紧把头低。
+我如今冒他",LYRIC_PRESENT,raw paragraphs=117 字，与库 text_raw 逐字相同=True
+S02,yuanqu:81d51a58ef61,洞庭湖柳毅传书・得胜令,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=6546,Y,"呀，管教你共醉紫霞觞，并绾紫游缰。
+(柳毅云)你如今既到人间，怎生还去得你处？(正旦指天云)疾，柳官人你觑者。
+(唱)岂不见天际秋虹起，(带云)婆婆，请就登桥。",LYRIC_PRESENT,raw paragraphs=102 字，与库 text_raw 逐字相同=True
+S03,yuanqu:c6b8a50d2bec,庞居士误放来生债・幺篇,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=8483,Y,"为甚么这番滚滚海藏里不沉埋？(云)这船怎生不沉？婆婆，我猜着了也。
+(唱)他本是个虚飘飘世上的浮财。
+我和你发虔心祷上苍，近岸口跪苍苔，(云)婆婆、灵兆、凤毛，",LYRIC_PRESENT,raw paragraphs=81 字，与库 text_raw 逐字相同=True
+S04,yuanqu:5068b2f71572,醉思乡王粲登楼・迎仙客,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=8404,Y,"雕檐外红日低，画栋畔彩云飞，十二栏干栏干在天外倚。
+（许达云）这里望中原，可也不远。
+（正末唱）我这里望中原，思故里，不由我感叹酸嘶。
+（带云）看了这秋江呵，（",LYRIC_PRESENT,raw paragraphs=72 字，与库 text_raw 逐字相同=True
+S05,yuanqu:38f42e332228,黑旋风双献功・煞尾,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=8499,Y,"我去阿，两只手忙揪住巅险峰，两只脚牢踏住村峭岭。
+主张的我神州庙里身周正，我可敢搬倒那嵯峨，（带云）放心也，哥，（唱）这一座泰山顶。
+（同孙孔目下）。",LYRIC_PRESENT,raw paragraphs=58 字，与库 text_raw 逐字相同=True
+S06,yuanqu:b8fbb9fa9ce3,关云长千里独行・菩萨梁州,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=5333,Y,"今日个你建节来封侯，登时间忘旧。
+知书的小叔，你可便枉看了些《左传》《春秋》。
+我这里听言说罢泪交流，弟兄今日难相守，甚日个得完就。
+准想你结义宾朋不到头，则他",LYRIC_PRESENT,raw paragraphs=112 字，与库 text_raw 逐字相同=True
+S07,yuanqu:416fc923b4d2,揽筝笆・嫌喧花，不挂许由瓢。玉兔金乌，从昏至晓。时复饮浊醪，且吃,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=4654,Y（曲文头在 raw title 内）,嫌喧花，不挂许由瓢。玉兔金乌，从昏至晓。时复饮浊醪，且吃,IN_OTHER_FIELD,"raw title=「揽筝笆・嫌喧花，不挂许由瓢。玉兔金乌，从昏至晓。时复饮浊醪，且吃」；raw paragraphs 首「的，沉醉陶陶。
+把人间万事都忘，到大来散诞逍遥。」"
+S08,yuanqu:1d07492d8f52,红绣鞋・黄甘甘胭憔粉悴，病恹恹瘦损香肌，急煎煎和泪数归期。急穰穰,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=8379,Y（曲文头在 raw title 内）,黄甘甘胭憔粉悴，病恹恹瘦损香肌，急煎煎和泪数归期。急穰穰,IN_OTHER_FIELD,raw title=「红绣鞋・黄甘甘胭憔粉悴，病恹恹瘦损香肌，急煎煎和泪数归期。急穰穰」；raw paragraphs 首「情没乱，碜磕磕的两分离，空着我闷恹恹盼望你。」
+S09,yuanqu:e8caad6ffca5,大迓鼓南・相逢莺燕友，四眸相顾，两意相投，此情难消受。风流自古，,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=7055,Y（曲文头在 raw title 内）,相逢莺燕友，四眸相顾，两意相投，此情难消受。风流自古，,IN_OTHER_FIELD,raw title=「大迓鼓南・相逢莺燕友，四眸相顾，两意相投，此情难消受。风流自古，」；raw paragraphs 首「偏惜风流，展转留情双凤眸。」
+S10,yuanqu:ccc39165838c,五煞・照妖镇释坛，护心保命全。分开后对成姻眷，乐昌暗结风流配，鲁,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=9088,Y（曲文头在 raw title 内）,照妖镇释坛，护心保命全。分开后对成姻眷，乐昌暗结风流配，鲁,IN_OTHER_FIELD,"raw title=「五煞・照妖镇释坛，护心保命全。分开后对成姻眷，乐昌暗结风流配，鲁」；raw paragraphs 首「肃深谋斩斫权。
+憔悴佳人倦，愁观衰貌，鼓照芳研。」"
+S11,yuanqu:12434c4857ef,幺篇・月下砧声幽，月下砧声幽，风前笛秦。断肠声无了无休，捣碎我心,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=154,Y（曲文头在 raw title 内）,月下砧声幽，月下砧声幽，风前笛秦。断肠声无了无休，捣碎我心,IN_OTHER_FIELD,raw title=「幺篇・月下砧声幽，月下砧声幽，风前笛秦。断肠声无了无休，捣碎我心」；raw paragraphs 首「又加上一场症候，顿使我愁不寐，襄王梦雨散云收。」
+S12,yuanqu:c70afa4e4569,油葫芦・虽住在洗耳溪边不饮牛，贫自守，乐闲身翻作抱官囚。布袍宽褪,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=4752,Y（曲文头在 raw title 内）,虽住在洗耳溪边不饮牛，贫自守，乐闲身翻作抱官囚。布袍宽褪,IN_OTHER_FIELD,"raw title=「油葫芦・虽住在洗耳溪边不饮牛，贫自守，乐闲身翻作抱官囚。布袍宽褪」；raw paragraphs 首「拿云手，玉箫占断谈天口。
+吹箫仿伍员，弃瓢学许由。
+」"
+S13,yuanqu:bbdd98666516,忒忒令,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=1929,N（源即残缺）,(生、旦)许多时缘何未归？眼巴。,FRAGMENTARY,raw paragraphs 仅 11 字且句中断裂：「(生、旦)许多时缘何未归？眼巴。」
+S14,yuanqu:0130b74f9739,上堂水陆,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=2673,N（源即残缺）,"衣锦归故乡。
+(合)我门得意。",FRAGMENTARY,"raw paragraphs 仅 10 字且句中断裂：「衣锦归故乡。
+(合)我门得意。」"
+S15,yuanqu:a762cad255d5,生查子,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=8835,N（源即残缺）,(末扮李三公上)村庄守已，茅屋悄然而已。,FRAGMENTARY,raw paragraphs 仅 16 字且句中断裂：「(末扮李三公上)村庄守已，茅屋悄然而已。」
+S16,yuanqu:ccd6ad9ada22,陶学士醉写风光好・鲍老作,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=6404,N（源即残缺）,则见他人丛里叠扑着个幽。,FRAGMENTARY,raw paragraphs 仅 11 字且句中断裂：「则见他人丛里叠扑着个幽。」
+S17,yuanqu:dba46748341c,金水桥陈琳抱妆盒・仁宗云,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=6883,N,这等，你怎生送的我到楚王府里去那？(正末唱)。,DIALOGUE_ONLY,raw paragraphs=「这等，你怎生送的我到楚王府里去那？(正末唱)。」，只有宾白
+S18,yuanqu:fa9bd37a9b42,争报恩三虎下山・迎仙客,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=7677,Y,"你不守着那小妮子，闲伴养这死尸骸。
+夜深的向我房里、我房里更做甚么来？你只恁的好不风流，只恁的不自在。
+(带云)我猜着你也。
+(唱)你则道我不肯将门开，多管是你",LYRIC_PRESENT,raw paragraphs=213 字，与库 text_raw 逐字相同=True
+S19,yuanqu:18e157bef8b4,前腔,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=5190,Y,"饥荒散乱无踪迹，存亡想不测。
+何意路途间，难禁这劳役。
+(合前)(贴唱)。",LYRIC_PRESENT,raw paragraphs=26 字，与库 text_raw 逐字相同=True
+S20,yuanqu:72902b3c62e6,亻刍梅香骗翰林风月・双调/新水令,yuanqu,raw/poetry/yuanqu/yuanqu.json,#index=9323,Y,"今日个洞房中敕赐与栋梁材。
+（云）小姐，我可是敢问你么，（唱）则你那寄香囊故人安在？（旦儿云）说这状元好才学哩。
+（正旦唱）都因他七步才及第了。
+（旦儿云）说那",LYRIC_PRESENT,raw paragraphs=478 字，与库 text_raw 逐字相同=True

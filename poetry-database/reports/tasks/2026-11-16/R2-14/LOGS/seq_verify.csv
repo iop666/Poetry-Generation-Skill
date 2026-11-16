@@ -1,0 +1,13 @@
+﻿source_id,local_path,parse,json_len,checked,title_hit,max_seq,verdict,note
+CP-YUANQU,raw/poetry/yuanqu/yuanqu.json,OK,11057,5,0/5,327707,SEQ_OUT_OF_RANGE,
+CP-TANG-08,raw/poetry/tang/poet.tang.7000.json,OK,1003,5,0/5,7723,SEQ_OUT_OF_RANGE,
+CP-TANG-26,raw/poetry/tang/poet.tang.25000.json,OK,1002,5,0/5,24731,SEQ_OUT_OF_RANGE,
+CP-TANG-21,raw/poetry/tang/poet.tang.20000.json,OK,1002,5,0/5,19730,SEQ_OUT_OF_RANGE,
+CP-TANG-20,raw/poetry/tang/poet.tang.19000.json,OK,1002,5,0/5,18728,SEQ_OUT_OF_RANGE,
+CP-TANG-45,raw/poetry/tang/poet.tang.44000.json,OK,1001,5,0/5,43735,SEQ_OUT_OF_RANGE,
+CP-TANG-01,raw/poetry/tang/poet.tang.0.json,OK,1000,5,0/5,721,SEQ_IS_INDEX,
+CP-TANG-02,raw/poetry/tang/poet.tang.1000.json,OK,1000,5,0/5,1720,SEQ_OUT_OF_RANGE,
+CP-TANG-03,raw/poetry/tang/poet.tang.2000.json,OK,1002,5,0/5,2720,SEQ_OUT_OF_RANGE,
+CP-SONGSHI-001,raw/poetry/songshi/poet.song.0.json,OK,1000,5,0/5,56029,SEQ_OUT_OF_RANGE,
+CP-SONGSHI-002,raw/poetry/songshi/poet.song.1000.json,OK,1000,5,0/5,57017,SEQ_OUT_OF_RANGE,
+CP-SONGSHI-003,raw/poetry/songshi/poet.song.2000.json,OK,1000,5,0/5,58013,SEQ_OUT_OF_RANGE,

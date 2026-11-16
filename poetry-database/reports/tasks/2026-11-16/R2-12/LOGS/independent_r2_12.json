@@ -1,0 +1,17 @@
+{
+ "total": 120,
+ "verdict": {
+  "AGREE": 88,
+  "DISAGREE": 3,
+  "UNDECIDABLE": 29
+ },
+ "by_category": {
+  "广韵": 25,
+  "集韵": 25,
+  "中华新韵": 15,
+  "词谱": 20,
+  "阅读记录": 8,
+  "作品文本": 27
+ },
+ "unique_ids": 120
+}

@@ -1,0 +1,185 @@
+﻿author_name,issue,evidence,n_suspect_rows,suggested_full_name,verdict,note
+向,SINGLE_CHAR_NAME,单字名 38 条（宋／词）；库内同姓更长名最多者：向子諲(182条)；向敏中(13条)；向滈(10条)；向光谦(4条)；正文前14字无重出,38,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+徐,SINGLE_CHAR_NAME,单字名 16 条（明／未定）；库内同姓更长名最多者：徐積(744条)；徐鉉(740条)；徐瑞(363条)；徐鈞(294条)；正文前14字无重出,16,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+曾,SINGLE_CHAR_NAME,单字名 14 条（宋／词）；库内同姓更长名最多者：曾丰(940条)；曾幾(622条)；曾鞏(453条)；曾協(209条)；正文前14字无重出,14,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+汪,SINGLE_CHAR_NAME,单字名 13 条（宋／词）；库内同姓更长名最多者：汪元量(545条)；汪藻(341条)；汪莘(221条)；汪炎昶(197条)；正文前14字无重出,13,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+柳,SINGLE_CHAR_NAME,"单字名 10 条（清／七言律诗,七言排律,古体诗）；库内同姓更长名最多者：柳永(216条)；柳宗元(207条)；柳子厚祠(15条)；柳子文(15条)；正文前14字无重出",10,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+顧,SINGLE_CHAR_NAME,单字名 8 条（明／未定）；库内同姓更长名最多者：顧況(269条)；顧逢(257条)；顧非熊(80条)；顧敻(56条)；正文前14字无重出,8,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+王,SINGLE_CHAR_NAME,单字名 7 条（宋／词）；库内同姓更长名最多者：王十朋(2206条)；王安石(1762条)；王之道(1055条)；王庭珪(857条)；正文前14字无重出,7,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+韩,SINGLE_CHAR_NAME,单字名 6 条（宋／词）；库内同姓更长名最多者：韩淲(197条)；韩元吉(82条)；韩崶(7条)；韩维(6条)；正文前14字无重出,6,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+景,SINGLE_CHAR_NAME,单字名 5 条（明／未定）；库内同姓更长名最多者：景岑(22条)；景元启(9条)；景安(3条)；景雲(3条)；正文前14字无重出,5,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+洽,SINGLE_CHAR_NAME,单字名 5 条（明／未定）；库内无同姓更长名,5,,UNRESOLVED,疑为法名/别号残字，无法定位全名
+莫,SINGLE_CHAR_NAME,单字名 5 条（宋／词）；库内同姓更长名最多者：莫将(13条)；莫是龍(7条)；莫蒙(7条)；莫瞻菉(5条)；正文前14字无重出,5,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+何,SINGLE_CHAR_NAME,单字名 4 条（宋／词）；库内同姓更长名最多者：何夢桂(482条)；何處士(59条)；何遜(52条)；何應龍(48条)；正文前14字无重出,4,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+张,SINGLE_CHAR_NAME,单字名 4 条（宋／词）；同姓候选：张炎(302条)；张孝祥(224条)；张元干(185条)；张先(165条)；正文重合证据：songci:5c72778ae6c4《水调歌头》与 朱熹(songci:80cb2d10a800)；4 条均为宋词，《满江红·无利无名》《离亭燕·一带江山如画》为张昪(张昇)名作；库内无张昪/张昇；《离亭燕》另见孙浩然(songci:210e2944394b),4,张昪,MERGE_UNCERTAIN,外部文献可定为张昪，但库内无该 name 条目、且有互见重出，需人工确认后并入
+李,SINGLE_CHAR_NAME,单字名 4 条（宋／词）；库内同姓更长名最多者：李綱(1608条)；李白(1240条)；李曾伯(792条)；李之儀(754条)；正文前14字无重出,4,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+陈,SINGLE_CHAR_NAME,单字名 4 条（宋／词）；库内同姓更长名最多者：陈允平(209条)；陈著(121条)；陈德武(64条)；陈渊(58条)；正文前14字无重出,4,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+梵,SINGLE_CHAR_NAME,单字名 3 条（明／未定）；库内同姓更长名最多者：梵仙(1条)；梵音(1条)；正文前14字无重出,3,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+萧,SINGLE_CHAR_NAME,单字名 3 条（宋／词）；库内同姓更长名最多者：萧德祥《小孙屠》(134条)；萧德祥(46条)；萧廷之(24条)；萧允之(6条)；正文前14字无重出,3,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+赵,SINGLE_CHAR_NAME,单字名 3 条（宋／词）；库内同姓更长名最多者：赵长卿(339条)；赵彦端(158条)；赵以夫(68条)；赵鼎(45条)；正文前14字无重出,3,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+含,SINGLE_CHAR_NAME,单字名 2 条（魏晋南北朝／未定）；库内同姓更长名最多者：含曦(1条)；含澈(1条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+楼,SINGLE_CHAR_NAME,单字名 2 条（宋／词）；库内同姓更长名最多者：楼采(8条)；楼钥(4条)；楼枎(3条)；楼锜(3条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+章,SINGLE_CHAR_NAME,单字名 2 条（宋／词）；同姓候选：章甫(324条)；章孝標(79条)；章謁(26条)；章得象(21条)；正文重合证据：songci:62036915c836《声声令・胜胜令》与 无名氏(songci:ebb826587d80),2,无名氏,MERGE_UNCERTAIN,同文重出但作者名不同，属互见/误属，不能据以确证全名
+良,SINGLE_CHAR_NAME,单字名 2 条（明／未定）；库内同姓更长名最多者：良价(36条)；良乂(1条)；良人(1条)；良史偉長(1条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+苏,SINGLE_CHAR_NAME,单字名 2 条（宋／词）；库内同姓更长名最多者：苏轼(356条)；苏庠(23条)；苏氏(6条)；苏廷魁(5条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+董,SINGLE_CHAR_NAME,单字名 2 条（宋／词）；库内同姓更长名最多者：董嗣杲(685条)；董思恭(22条)；董穎(16条)；董天吉(13条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+袁,SINGLE_CHAR_NAME,单字名 2 条（宋／词）；库内同姓更长名最多者：袁說友(663条)；袁燮(177条)；袁甫(135条)；袁去华(99条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+解,SINGLE_CHAR_NAME,单字名 2 条（宋／词）；库内同姓更长名最多者：解縉(3条)；解旦(2条)；解琬(2条)；解叔祿(1条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+陳,SINGLE_CHAR_NAME,单字名 2 条（明／未定）；库内同姓更长名最多者：陳造(2039条)；陳著(1248条)；陳普(762条)；陳宓(758条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+黄,SINGLE_CHAR_NAME,单字名 2 条（明／未定）；库内同姓更长名最多者：黄庭堅(2198条)；黄裳(724条)；黄庚(436条)；黄公度(347条)；正文前14字无重出,2,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+□,SINGLE_CHAR_NAME,单字名 1 条（先秦／未定）；库内同姓更长名最多者：□□乍(10条)；□韞(4条)；□子發(3条)；□公才(1条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+任,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；同姓候选：任希夷(117条)；任翻(20条)；任昱(15条)；任伯雨(10条)；正文重合证据：songci:8e0fa9cf36d3《雨中花慢》与 张生1(songci:12678ee88b46),1,张生1,MERGE_UNCERTAIN,同文重出但作者名不同，属互见/误属，不能据以确证全名
+余,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：余靖(143条)；余深(16条)；余幹(13条)；余觀復(12条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+刘,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：刘辰翁(354条)；刘克庄(269条)；刘唐卿《白兔记》(210条)；刘时中(62条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+劉,SINGLE_CHAR_NAME,单字名 1 条（明／未定）；库内同姓更长名最多者：劉克莊(4553条)；劉敞(1727条)；劉攽(1273条)；劉禹錫(892条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+孙,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：孙光宪(61条)；孙仲章(33条)；孙季昌(25条)；孙叔顺(21条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+应,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：应法孙(2条)；应捴谦(1条)；应时良(1条)；应次蘧(1条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+查,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：查慎行(26条)；查元偁(8条)；查世官(5条)；查为仁(5条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+紹,SINGLE_CHAR_NAME,单字名 1 条（魏晋南北朝／未定）；库内同姓更长名最多者：紹修(5条)；紹興卜者(2条)；紹伯(1条)；紹聖時人(1条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+翁,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：翁卷(143条)；翁承贊(44条)；翁方刚(29条)；翁森(28条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+荣,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：荣樵仲(1条)；荣涟(1条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+许,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：许棐(20条)；许燕珍(16条)；许友(9条)；许宗彦(8条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+金,SINGLE_CHAR_NAME,单字名 1 条（明／未定）；库内同姓更长名最多者：金元好問編(242条)；金履詳(127条)；金君卿(112条)；金朋說(95条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+鲁,SINGLE_CHAR_NAME,单字名 1 条（宋／词）；库内同姓更长名最多者：鲁兰仙(8条)；鲁一同(6条)；鲁之裕(4条)；鲁克恭(2条)；正文前14字无重出,1,,MERGE_UNCERTAIN,极可能截断，但库内无同文重出可直接证据，禁止强行合并
+佚名,ANON_VARIANT,同一「匿名」语义存在 4 种写法：佚名3974／无名氏3254／無名氏747／不詳731，简繁与用字均不统一,3974,佚名,MERGE_SAFE,纯书写变体合并，不涉及作者身份判断；建议统一为「佚名」
+无名氏,ANON_VARIANT,同一「匿名」语义存在 4 种写法：佚名3974／无名氏3254／無名氏747／不詳731，简繁与用字均不统一,3254,佚名,MERGE_SAFE,纯书写变体合并，不涉及作者身份判断；建议统一为「佚名」
+無名氏,ANON_VARIANT,同一「匿名」语义存在 4 种写法：佚名3974／无名氏3254／無名氏747／不詳731，简繁与用字均不统一,747,佚名,MERGE_SAFE,纯书写变体合并，不涉及作者身份判断；建议统一为「佚名」
+不詳,ANON_VARIANT,同一「匿名」语义存在 4 种写法：佚名3974／无名氏3254／無名氏747／不詳731，简繁与用字均不统一,731,佚名,MERGE_SAFE,纯书写变体合并，不涉及作者身份判断；建议统一为「佚名」
+姚述尧2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「姚述尧」（库内 0 条）,69,姚述尧,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+刘镇2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「刘镇」（库内 0 条）,26,刘镇,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+李好古1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「李好古」（库内 32 条）,14,李好古,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+王炎2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「王炎」（库内 825 条）,7,王炎,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+吴淑姬1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「吴淑姬」（库内 0 条）,3,吴淑姬,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+刘镇1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「刘镇」（库内 0 条）,2,刘镇,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+张生2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「张生」（库内 0 条）,2,张生,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+王炎1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「王炎」（库内 825 条）,2,王炎,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+吴氏1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「吴氏」（库内 1 条）,1,吴氏,DO_NOT_MERGE,「吴氏1/2/3」是三个不同的人，数字不可剥离合并
+吴氏2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「吴氏」（库内 1 条）,1,吴氏,DO_NOT_MERGE,「吴氏1/2/3」是三个不同的人，数字不可剥离合并
+吴氏3,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「吴氏」（库内 1 条）,1,吴氏,DO_NOT_MERGE,「吴氏1/2/3」是三个不同的人，数字不可剥离合并
+吴淑姬2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「吴淑姬」（库内 0 条）,1,吴淑姬,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+姚述尧1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「姚述尧」（库内 0 条）,1,姚述尧,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+张生1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「张生」（库内 0 条）,1,张生,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+李好古2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「李好古」（库内 32 条）,1,李好古,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+李氏1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「李氏」（库内 18 条）,1,李氏,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+李氏2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「李氏」（库内 18 条）,1,李氏,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+杨适1,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「杨适」（库内 0 条）,1,杨适,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+杨适2,NAME_DIGIT_SUFFIX,名字尾部带阿拉伯数字，系上游「同名消歧」后缀泄漏；去掉数字得「杨适」（库内 0 条）,1,杨适,MERGE_UNCERTAIN,数字是上游同名序号，剥离后需确认是同一人被拆分还是确有两人
+趙光逢、張衮,MULTI_AUTHOR_OR_PUNCT,作者字段内含顿号/逗号等分隔符，为多人合署或编者署名被写入作者字段,14,,UNRESOLVED,需拆分为多条 attribution，本表不给出单一全名
+魏徵、褚亮,MULTI_AUTHOR_OR_PUNCT,作者字段内含顿号/逗号等分隔符，为多人合署或编者署名被写入作者字段,11,,UNRESOLVED,需拆分为多条 attribution，本表不给出单一全名
+賀知章、源乾曜,MULTI_AUTHOR_OR_PUNCT,作者字段内含顿号/逗号等分隔符，为多人合署或编者署名被写入作者字段,8,,UNRESOLVED,需拆分为多条 attribution，本表不给出单一全名
+崔居儉、盧文紀,MULTI_AUTHOR_OR_PUNCT,作者字段内含顿号/逗号等分隔符，为多人合署或编者署名被写入作者字段,6,,UNRESOLVED,需拆分为多条 attribution，本表不给出单一全名
+趙與{𥫗/？/心},MULTI_AUTHOR_OR_PUNCT,作者字段内含顿号/逗号等分隔符，为多人合署或编者署名被写入作者字段,3,,UNRESOLVED,需拆分为多条 attribution，本表不给出单一全名
+王重民輯錄，劉脩業整理。,MULTI_AUTHOR_OR_PUNCT,作者字段内含顿号/逗号等分隔符，为多人合署或编者署名被写入作者字段,1,,UNRESOLVED,需拆分为多条 attribution，本表不给出单一全名
+曹菘〖1〗,NAME_NOTE_MARK,作者名尾部黏连校记序号「〖1〗」,3,曹菘,MERGE_SAFE,剥离〖…〗后与已有作者名比对合并
+張彥修〖1〗,NAME_NOTE_MARK,作者名尾部黏连校记序号「〖1〗」,1,張彥修,MERGE_SAFE,剥离〖…〗后与已有作者名比对合并
+清尚〖1〗,NAME_NOTE_MARK,作者名尾部黏连校记序号「〖1〗」,1,清尚,MERGE_SAFE,剥离〖…〗后与已有作者名比对合并
+郊廟朝會歌辭,NOT_PERSON,该名称是樂府類目，不具备作者身份；author_alias 亦标为 NOT_PERSON,1639,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+雜詩,NOT_PERSON,该名称是詩題誤作作者，不具备作者身份；author_alias 亦标为 NOT_PERSON,133,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+鼔吹曲辭,NOT_PERSON,该名称是樂府類目，不具备作者身份；author_alias 亦标为 NOT_PERSON,44,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+昭徳凱容樂,NOT_PERSON,该名称是樂府類目，不具备作者身份；author_alias 亦标为 NOT_PERSON,43,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+古諺,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,42,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+鼓吹曲辭,NOT_PERSON,该名称是樂府類目，不具备作者身份；author_alias 亦标为 NOT_PERSON,35,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+清商曲辭,NOT_PERSON,该名称是樂府類目，不具备作者身份；author_alias 亦标为 NOT_PERSON,24,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+劉子引古諺,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,23,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+柳子厚祠,NOT_PERSON,该名称是祠廟名誤作作者，不具备作者身份；author_alias 亦标为 NOT_PERSON,15,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+辰州田家諺,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,15,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+瓊州諺,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,14,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+吳中諺,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,4,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+廣州諺,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,3,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+黔中諺,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,2,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+乾道民謠,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,1,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+吳諺,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,1,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+宣和民謠,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,1,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+建炎民謠,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,1,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+樂章,NOT_PERSON,该名称是樂府類目，不具备作者身份；author_alias 亦标为 NOT_PERSON,1,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+淳祐民謠,NOT_PERSON,该名称是諺語/民謠（非个人作者），不具备作者身份；author_alias 亦标为 NOT_PERSON,1,,DO_NOT_MERGE,应转入 category/collection 字段，不得并入任何作者
+陸游／陆游,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：陸游(9269条) 与 陆游(144条)；author_alias 已标 VARIANT_SIMP→陆游，但 works 未回写,9269,陆游,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+劉克莊／刘克庄,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：劉克莊(4553条) 与 刘克庄(269条)；author_alias 已标 VARIANT_SIMP→刘克庄，但 works 未回写,4553,刘克庄,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+楊萬里／杨万里,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：楊萬里(4284条) 与 杨万里(8条)；author_alias 已标 VARIANT_SIMP→杨万里，但 works 未回写,4284,杨万里,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+梅堯臣／梅尧臣,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：梅堯臣(2931条) 与 梅尧臣(2条)；author_alias 已标 VARIANT_SIMP→梅尧臣，但 works 未回写,2931,梅尧臣,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+蘇軾／苏轼,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：蘇軾(2811条) 与 苏轼(356条)；author_alias 已标 VARIANT_SIMP→苏轼，但 works 未回写,2811,苏轼,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+韓淲／韩淲,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：韓淲(2623条) 与 韩淲(197条)；author_alias 已标 VARIANT_SIMP→韩淲，但 works 未回写,2623,韩淲,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+張耒／张耒,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：張耒(2261条) 与 张耒(9条)；author_alias 已标 VARIANT_SIMP→张耒，但 works 未回写,2261,张耒,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+黄庭堅／黄庭坚,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：黄庭堅(2198条) 与 黄庭坚(191条)；author_alias 已标 VARIANT_SIMP→黄庭坚，但 works 未回写,2198,黄庭坚,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+陳造／陈造,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：陳造(2039条) 与 陈造(10条)；author_alias 已标 VARIANT_SIMP→陈造，但 works 未回写,2039,陈造,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+蘇轍／苏辙,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：蘇轍(1854条) 与 苏辙(4条)；author_alias 已标 VARIANT_SIMP→苏辙，但 works 未回写,1854,苏辙,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+劉敞／刘敞,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：劉敞(1727条) 与 刘敞(2条)；author_alias 已标 VARIANT_SIMP→刘敞，但 works 未回写,1727,刘敞,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+李綱／李纲,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：李綱(1608条) 与 李纲(54条)；author_alias 已标 VARIANT_SIMP→李纲，但 works 未回写,1608,李纲,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+呂本中／吕本中,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：呂本中(1342条) 与 吕本中(27条)；author_alias 已标 VARIANT_SIMP→吕本中，但 works 未回写,1342,吕本中,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+司馬光／司马光,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：司馬光(1257条) 与 司马光(3条)；author_alias 已标 VARIANT_SIMP→司马光，但 works 未回写,1257,司马光,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+陳著／陈著,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：陳著(1248条) 与 陈著(121条)；author_alias 已标 VARIANT_SIMP→陈著，但 works 未回写,1248,陈著,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+樓鑰／楼钥,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：樓鑰(1243条) 与 楼钥(4条)；author_alias 已标 VARIANT_SIMP→楼钥，但 works 未回写,1243,楼钥,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+韋驤／韦骧,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：韋驤(1164条) 与 韦骧(11条)；author_alias 已标 VARIANT_SIMP→韦骧，但 works 未回写,1164,韦骧,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+吳芾／吴芾,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：吳芾(1149条) 与 吴芾(1条)；author_alias 已标 VARIANT_SIMP→吴芾，但 works 未回写,1149,吴芾,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+韓維／韩维,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：韓維(1018条) 与 韩维(6条)；author_alias 已标 VARIANT_SIMP→韩维，但 works 未回写,1018,韩维,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+鄒浩／邹浩,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：鄒浩(979条) 与 邹浩(2条)；author_alias 已标 VARIANT_SIMP→邹浩，但 works 未回写,979,邹浩,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+戴復古／戴复古,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：戴復古(953条) 与 戴复古(46条)；author_alias 已标 VARIANT_SIMP→戴复古，但 works 未回写,953,戴复古,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+歐陽修／欧阳修,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：歐陽修(951条) 与 欧阳修(242条)；author_alias 已标 VARIANT_SIMP→欧阳修，但 works 未回写,951,欧阳修,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+程公許／程公许,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：程公許(809条) 与 程公许(3条)；author_alias 已标 VARIANT_SIMP→程公许，但 works 未回写,809,程公许,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+李之儀／李之仪,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：李之儀(754条) 与 李之仪(96条)；author_alias 已标 VARIANT_SIMP→李之仪，但 works 未回写,754,李之仪,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+無名氏／无名氏,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：無名氏(747条) 与 无名氏(3254条)；author_alias 已标 VARIANT_SIMP→无名氏，但 works 未回写,747,无名氏,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+徐積／徐积,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：徐積(744条) 与 徐积(6条)；author_alias 已标 VARIANT_SIMP→徐积，但 works 未回写,744,徐积,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+韓琦／韩琦,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：韓琦(736条) 与 韩琦(5条)；author_alias 已标 VARIANT_SIMP→韩琦，但 works 未回写,736,韩琦,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+孫覿／孙觌,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：孫覿(722条) 与 孙觌(1条)；author_alias 已标 VARIANT_SIMP→孙觌，但 works 未回写,722,孙觌,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+陳師道／陈师道,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：陳師道(709条) 与 陈师道(54条)；author_alias 已标 VARIANT_SIMP→陈师道，但 works 未回写,709,陈师道,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+李彌遜／李弥逊,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：李彌遜(693条) 与 李弥逊(82条)；author_alias 已标 VARIANT_SIMP→李弥逊，但 works 未回写,693,李弥逊,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+鄭剛中／郑刚中,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：鄭剛中(679条) 与 郑刚中(1条)；author_alias 已标 VARIANT_SIMP→郑刚中，但 works 未回写,679,郑刚中,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+仇遠／仇远,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：仇遠(659条) 与 仇远(120条)；author_alias 已标 VARIANT_SIMP→仇远，但 works 未回写,659,仇远,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+晁補之／晁补之,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：晁補之(650条) 与 晁补之(167条)；author_alias 已标 VARIANT_SIMP→晁补之，但 works 未回写,650,晁补之,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+陳與義／陈与义,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：陳與義(643条) 与 陈与义(18条)；author_alias 已标 VARIANT_SIMP→陈与义，但 works 未回写,643,陈与义,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+葛勝仲／葛胜仲,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：葛勝仲(641条) 与 葛胜仲(82条)；author_alias 已标 VARIANT_SIMP→葛胜仲，但 works 未回写,641,葛胜仲,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+李流謙／李流谦,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：李流謙(633条) 与 李流谦(25条)；author_alias 已标 VARIANT_SIMP→李流谦，但 works 未回写,633,李流谦,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+韓元吉／韩元吉,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：韓元吉(606条) 与 韩元吉(82条)；author_alias 已标 VARIANT_SIMP→韩元吉，但 works 未回写,606,韩元吉,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+賀鑄／贺铸,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：賀鑄(602条) 与 贺铸(281条)；author_alias 已标 VARIANT_SIMP→贺铸，但 works 未回写,602,贺铸,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+楊億／杨亿,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：楊億(506条) 与 杨亿(1条)；author_alias 已标 VARIANT_SIMP→杨亿，但 works 未回写,506,杨亿,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+何夢桂／何梦桂,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：何夢桂(482条) 与 何梦桂(47条)；author_alias 已标 VARIANT_SIMP→何梦桂，但 works 未回写,482,何梦桂,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+王邁／王迈,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：王邁(475条) 与 王迈(19条)；author_alias 已标 VARIANT_SIMP→王迈，但 works 未回写,475,王迈,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+秦觀／秦观,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：秦觀(467条) 与 秦观(89条)；author_alias 已标 VARIANT_SIMP→秦观，但 works 未回写,467,秦观,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+曾鞏／曾巩,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：曾鞏(453条) 与 曾巩(1条)；author_alias 已标 VARIANT_SIMP→曾巩，但 works 未回写,453,曾巩,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+文彥博／文彦博,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：文彥博(451条) 与 文彦博(1条)；author_alias 已标 VARIANT_SIMP→文彦博，但 works 未回写,451,文彦博,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+韓愈／韩愈,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：韓愈(442条) 与 韩愈(1条)；author_alias 已标 VARIANT_SIMP→韩愈，但 works 未回写,442,韩愈,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+劉弇／刘弇,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：劉弇(439条) 与 刘弇(8条)；author_alias 已标 VARIANT_SIMP→刘弇，但 works 未回写,439,刘弇,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+鄭獬／郑獬,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：鄭獬(437条) 与 郑獬(3条)；author_alias 已标 VARIANT_SIMP→郑獬，但 works 未回写,437,郑獬,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+王質／王质,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：王質(436条) 与 王质(74条)；author_alias 已标 VARIANT_SIMP→王质，但 works 未回写,436,王质,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+溫庭筠／温庭筠,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：溫庭筠(434条) 与 温庭筠(66条)；author_alias 已标 VARIANT_SIMP→温庭筠，但 works 未回写,434,温庭筠,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+張孝祥／张孝祥,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：張孝祥(423条) 与 张孝祥(224条)；author_alias 已标 VARIANT_SIMP→张孝祥，但 works 未回写,423,张孝祥,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+韓駒／韩驹,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：韓駒(421条) 与 韩驹(2条)；author_alias 已标 VARIANT_SIMP→韩驹，但 works 未回写,421,韩驹,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+張侃／张侃,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：張侃(414条) 与 张侃(4条)；author_alias 已标 VARIANT_SIMP→张侃，但 works 未回写,414,张侃,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+范純仁／范纯仁,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：范純仁(398条) 与 范纯仁(1条)；author_alias 已标 VARIANT_SIMP→范纯仁，但 works 未回写,398,范纯仁,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+葉適／叶适,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：葉適(395条) 与 叶适(1条)；author_alias 已标 VARIANT_SIMP→叶适，但 works 未回写,395,叶适,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+衛宗武／卫宗武,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：衛宗武(394条) 与 卫宗武(11条)；author_alias 已标 VARIANT_SIMP→卫宗武，但 works 未回写,394,卫宗武,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+華岳／华岳,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：華岳(391条) 与 华岳(18条)；author_alias 已标 VARIANT_SIMP→华岳，但 works 未回写,391,华岳,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+韋莊／韦庄,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：韋莊(380条) 与 韦庄(49条)；author_alias 已标 VARIANT_SIMP→韦庄，但 works 未回写,380,韦庄,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+呂南公／吕南公,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：呂南公(359条) 与 吕南公(2条)；author_alias 已标 VARIANT_SIMP→吕南公，但 works 未回写,359,吕南公,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+鄭清之／郑清之,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：鄭清之(356条) 与 郑清之(1条)；author_alias 已标 VARIANT_SIMP→郑清之，但 works 未回写,356,郑清之,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+陳淵／陈渊,SIMPLIFIED_TRADITIONAL_SPLIT,同一作者在 works.author_name 中并存繁简两形：陳淵(351条) 与 陈渊(58条)；author_alias 已标 VARIANT_SIMP→陈渊，但 works 未回写,351,陈渊,MERGE_SAFE,纯字形差异，author_canonical 已正确归并，仅 author_name 未统一
+佚名,CROSS_DYNASTY_SAME_NAME,"10 个朝代：先秦,唐,宋,汉魏,魏晋南北朝,未定,隋,明,清,金；分布 魏晋南北朝:1798，未定:561，先秦:418，清:405，汉魏:264；少数派仅 ≤3 条（宋:1），属源数据朝代误标",3974,,DO_NOT_MERGE,匿名作者跨代属正常，非同一人
+無名氏,CROSS_DYNASTY_SAME_NAME,"4 个朝代：唐,宋,汉魏,明；分布 唐:527，宋:190，汉魏:29，明:1；少数派仅 ≤3 条（明:1），属源数据朝代误标",747,,DO_NOT_MERGE,匿名作者跨代属正常，非同一人
+王氏,CROSS_DYNASTY_SAME_NAME,"4 个朝代：唐,宋,元,清；分布 元:13，宋:7，清:1，唐:1；少数派仅 ≤3 条（清:1），属源数据朝代误标",22,,MERGE_SAFE,同一人，少数派朝代应改判
+李質,CROSS_DYNASTY_SAME_NAME,"3 个朝代：唐,宋,明；分布 宋:100，明:1，唐:1；少数派仅 ≤3 条（明:1），属源数据朝代误标",102,,MERGE_SAFE,同一人，少数派朝代应改判
+李珣,CROSS_DYNASTY_SAME_NAME,"3 个朝代：唐,宋,五代；分布 唐:60，五代:37，宋:1；少数派仅 ≤3 条（宋:1），属源数据朝代误标",98,,MERGE_SAFE,同一人，少数派朝代应改判
+王偁,CROSS_DYNASTY_SAME_NAME,"3 个朝代：宋,明,清；分布 明:7，清:5，宋:2；少数派仅 ≤3 条（宋:2），属源数据朝代误标",14,,MERGE_SAFE,同一人，少数派朝代应改判
+王逸,CROSS_DYNASTY_SAME_NAME,"3 个朝代：先秦,宋,汉魏；分布 先秦:9，汉魏:3，宋:1；少数派仅 ≤3 条（汉魏:3），属源数据朝代误标",13,,MERGE_SAFE,同一人，少数派朝代应改判
+方澤,CROSS_DYNASTY_SAME_NAME,"3 个朝代：唐,宋,明；分布 明:8，宋:3，唐:1；少数派仅 ≤3 条（宋:3），属源数据朝代误标",12,,MERGE_SAFE,同一人，少数派朝代应改判
+趙蕃,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:3735，唐:2；少数派仅 ≤3 条（唐:2），属源数据朝代误标",3737,,MERGE_SAFE,同一人，少数派朝代应改判
+无名氏,CROSS_DYNASTY_SAME_NAME,"2 个朝代：宋,元；分布 元:1875，宋:1379",3254,,DO_NOT_MERGE,匿名作者跨代属正常，非同一人
+劉禹錫,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 唐:890，宋:2；少数派仅 ≤3 条（宋:2），属源数据朝代误标",892,,MERGE_SAFE,同一人，少数派朝代应改判
+王炎,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:823，唐:2；少数派仅 ≤3 条（唐:2），属源数据朝代误标",825,,MERGE_SAFE,同一人，少数派朝代应改判
+徐鉉,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:431，唐:309",740,,MERGE_UNCERTAIN,两侧均有规模，可能是确有两个同名作者，需人工核对作品标题与文集
+王建,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 唐:581，宋:1；少数派仅 ≤3 条（宋:1），属源数据朝代误标",582,,MERGE_SAFE,同一人，少数派朝代应改判
+胡宿,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:426，唐:19",445,,MERGE_UNCERTAIN,两侧均有规模，可能是确有两个同名作者，需人工核对作品标题与文集
+王質,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:435，唐:1；少数派仅 ≤3 条（唐:1），属源数据朝代误标",436,,MERGE_SAFE,同一人，少数派朝代应改判
+王珪,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:430，唐:2；少数派仅 ≤3 条（唐:2），属源数据朝代误标",432,,MERGE_SAFE,同一人，少数派朝代应改判
+張說,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 唐:419，宋:1；少数派仅 ≤3 条（宋:1），属源数据朝代误标",420,,MERGE_SAFE,同一人，少数派朝代应改判
+李中,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 唐:310，宋:1；少数派仅 ≤3 条（宋:1），属源数据朝代误标",311,,MERGE_SAFE,同一人，少数派朝代应改判
+陳淳,CROSS_DYNASTY_SAME_NAME,"2 个朝代：宋,明；分布 宋:212，明:2；少数派仅 ≤3 条（明:2），属源数据朝代误标",214,,MERGE_SAFE,同一人，少数派朝代应改判
+陳巖,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:212，唐:1；少数派仅 ≤3 条（唐:1），属源数据朝代误标",213,,MERGE_SAFE,同一人，少数派朝代应改判
+和凝,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,五代；分布 唐:144，五代:20",164,,MERGE_UNCERTAIN,两侧均有规模，可能是确有两个同名作者，需人工核对作品标题与文集
+劉兼,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:81，唐:81",162,,MERGE_UNCERTAIN,两侧均有规模，可能是确有两个同名作者，需人工核对作品标题与文集
+田錫,CROSS_DYNASTY_SAME_NAME,"2 个朝代：宋,金；分布 宋:155，金:2；少数派仅 ≤3 条（金:2），属源数据朝代误标",157,,MERGE_SAFE,同一人，少数派朝代应改判
+趙湘,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:153，唐:1；少数派仅 ≤3 条（唐:1），属源数据朝代误标",154,,MERGE_SAFE,同一人，少数派朝代应改判
+李頎,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 唐:140，宋:1；少数派仅 ≤3 条（宋:1），属源数据朝代误标",141,,MERGE_SAFE,同一人，少数派朝代应改判
+雜詩,CROSS_DYNASTY_SAME_NAME,"2 个朝代：明,金；分布 明:131，金:2；少数派仅 ≤3 条（金:2），属源数据朝代误标",133,,MERGE_SAFE,同一人，少数派朝代应改判
+王周,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 宋:61，唐:60",121,,MERGE_UNCERTAIN,两侧均有规模，可能是确有两个同名作者，需人工核对作品标题与文集
+孫光憲,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 唐:96，宋:11",107,,MERGE_UNCERTAIN,两侧均有规模，可能是确有两个同名作者，需人工核对作品标题与文集
+李山甫,CROSS_DYNASTY_SAME_NAME,"2 个朝代：唐,宋；分布 唐:98，宋:9",107,,MERGE_UNCERTAIN,两侧均有规模，可能是确有两个同名作者，需人工核对作品标题与文集

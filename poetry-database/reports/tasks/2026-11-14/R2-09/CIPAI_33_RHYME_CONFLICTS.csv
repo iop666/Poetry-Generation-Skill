@@ -1,0 +1,34 @@
+﻿form_id,詞牌,格,原書標籤,譜行推導,例詞觀察,標籤層級,判定,證據,括注特徵
+F07-0009,浪淘沙,3,平韻,仄韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「平韻」；譜行與例詞顯示為仄韻,句×7|韵×16|豆×5
+F07-0029,柳梢青,2,平韻,仄韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「平韻」；譜行與例詞顯示為仄韻,韵×5|句×6|豆×1
+F07-0064,多丽,2,平韻,仄韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「平韻」；譜行與例詞顯示為仄韻,句×13|韵×11|豆×8
+F07-0066,六州歌头,2,平韻,平仄通叶,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「平韻」；譜行與例詞顯示為平仄通叶,句×5|韵×2|叶×32
+F07-0067,六州歌头,3,平韻,平仄錯叶,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「平韻」；譜行與例詞顯示為平仄錯叶,句×9|韵×2|换×5|叶×24
+F07-0078,霜天晓角,2,仄韻,平韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「仄韻」；譜行與例詞顯示為平韻,韵×7|句×2|豆×2
+F07-0086,忆秦娥,2,仄韻,平韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「仄韻」；譜行與例詞顯示為平韻,韵×6|叠×2|句×2
+F07-0091,木兰花,1,仄韻,平仄轉換,平仄通叶,BRAND_LEVEL,MULTIPLE_INTERPRETATIONS,標籤仄韻、譜行平仄轉換、例詞平仄通叶 三者不完全一致,韵×6|句×3|换×1
+F07-0093,木兰花,3,仄韻,平仄錯叶,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「仄韻」；譜行與例詞顯示為平仄錯叶,韵×4|叶×4|换×3
+F07-0094,木兰花,4,仄韻,平仄錯叶,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「仄韻」；譜行與例詞顯示為平仄錯叶,韵×4|叶×4|换×3
+F07-0095,木兰花,5,仄韻,平韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「仄韻」；譜行與例詞顯示為平韻,句×11|韵×12
+F07-0100,钗头凤,1,仄韻,平仄轉換,平仄通叶,BRAND_LEVEL,MULTIPLE_INTERPRETATIONS,標籤仄韻、譜行平仄轉換、例詞平仄通叶 三者不完全一致,韵×1|叶×12|换×1|句×2|叠×4
+F07-0121,满江红,2,仄韻,平韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「仄韻」；譜行與例詞顯示為平韻,句×9|豆×4|韵×9
+F07-0133,念奴娇,3,仄韻,平韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「仄韻」；譜行與例詞顯示為平韻,句×12|韵×8
+F07-0166,南乡子,3,平仄轉換,平韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「平仄轉換」；譜行與例詞顯示為平韻,韵×8|句×2
+F07-0168,调笑令,1,平仄轉換,平仄錯叶,,BRAND_LEVEL,INSUFFICIENT_EVIDENCE,無可用例詞或例詞字不在《詞林正韻》字表內,韵×3|叠×2|叶×3|转×2
+F07-0169,调笑令,2,平仄轉換,仄韻,仄韻,BRAND_LEVEL,SOURCE_SCORELINE_SUPPORTED,例詞實際韻腳為仄韻，與譜行推導一致,韵×1|叶×6
+F07-0170,昭君怨,1,平仄轉換,平仄錯叶,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄轉換同類，但與譜行推導平仄錯叶不符,韵×4|叶×4|转×2
+F07-0171,菩萨蛮,1,平仄轉換,平仄錯叶,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄轉換同類，但與譜行推導平仄錯叶不符,韵×4|叶×4|换×3
+F07-0172,更漏子,1,平仄轉換,平仄錯叶,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄轉換同類，但與譜行推導平仄錯叶不符,句×3|韵×4|叶×5|换×3
+F07-0173,喜迁莺,1,平仄轉換,平仄錯叶,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄轉換同類，但與譜行推導平仄錯叶不符,句×1|韵×3|叶×6|换×2
+F07-0177,河传,1,平仄轉換,平仄錯叶,平仄转换或错叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄转换或错叶，與原書標籤平仄轉換同類，但與譜行推導平仄錯叶不符,韵×4|叶×8|换×3|句×1
+F07-0178,河传,2,平仄轉換,平仄錯叶,平仄转换或错叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄转换或错叶，與原書標籤平仄轉換同類，但與譜行推導平仄錯叶不符,韵×4|叶×10|换×3
+F07-0179,虞美人,1,平仄轉換,平仄錯叶,平仄转换或错叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄转换或错叶，與原書標籤平仄轉換同類，但與譜行推導平仄錯叶不符,韵×4|叶×4|换×3
+F07-0180,虞美人,2,平仄轉換,平仄錯叶,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄轉換同類，但與譜行推導平仄錯叶不符,韵×4|叶×6|换×3
+F07-0187,荷叶杯,1,平仄錯叶,平仄轉換,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄錯叶同類，但與譜行推導平仄轉換不符,韵×3|叶×3|换×1
+F07-0189,诉衷情,1,平仄錯叶,平仄轉換,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄錯叶同類，但與譜行推導平仄轉換不符,韵×3|叶×8|换×1
+F07-0190,定西番,1,平仄錯叶,平仄通叶,平仄通叶,BRAND_LEVEL,SOURCE_SCORELINE_SUPPORTED,例詞實際韻腳為平仄通叶，與譜行推導一致,韵×2|句×1|叶×5
+F07-0191,相见欢,1,平仄錯叶,平仄通叶,平仄通叶,BRAND_LEVEL,SOURCE_SCORELINE_SUPPORTED,例詞實際韻腳為平仄通叶，與譜行推導一致,韵×2|叶×5
+F07-0192,上行杯,1,平仄錯叶,平仄轉換,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄錯叶同類，但與譜行推導平仄轉換不符,句×2|豆×1|韵×3|叶×4|换×1
+F07-0193,酒泉子,1,平仄錯叶,平仄轉換,平仄通叶,BRAND_LEVEL,EXAMPLE_CONTRADICTION,例詞實際為平仄通叶，與原書標籤平仄錯叶同類，但與譜行推導平仄轉換不符,韵×3|句×2|叶×5|换×1
+F07-0195,定风波,2,平仄錯叶,仄韻,,BRAND_LEVEL,SOURCE_ENTITY_LABEL_INHERITED,該格未另立韻式說明，沿用詞牌層級「平仄錯叶」；譜行與例詞顯示為仄韻,豆×2|句×9|韵×1|叶×12
+F07-0196,最高楼,1,平仄錯叶,平仄通叶,平仄转换或错叶,BRAND_LEVEL,TERM_CATEGORY_MISMATCH,標籤平仄錯叶、譜行推導平仄通叶、例詞平仄转换或错叶 屬不同名目（通叶／轉換／錯叶），不宜以「相符/矛盾」二分,句×8|韵×2|叶×7|豆×2

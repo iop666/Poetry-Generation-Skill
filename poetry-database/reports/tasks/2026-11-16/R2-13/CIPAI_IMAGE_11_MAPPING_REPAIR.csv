@@ -1,0 +1,12 @@
+﻿idx,form_id,pdf_page,r2_10_cipai,blind_cipai,blind_sentences,db_sentences,titles_on_page,ge_marks,verdict,method,note
+1,F07-0181,230,西江月,西江月,8,8,平仄韵通叶格/第四类/西江月,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+2,F07-0183,233,渡江云,渡江云,24,24,渡江云/醉翁操,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+3,F07-0175,224,忆馀杭,河渎神,8,8,忆馀杭/河渎神/清平乐,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+4,F07-0007,21,浪淘沙,捣练子,5,4,捣练子/浪淘沙/潇湘神,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+5,F07-0065,88,六州歌头,六州歌头,19,39,六州歌头,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+6,F07-0139,173,水龙吟,水龙吟,24,24,水龙吟/霓裳中序第一,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+7,F07-0066,89,六州歌头,六州歌头,39,39,六州歌头,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+8,F07-0140,176,石州慢,石州慢,21,21,石州慢,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+9,F07-0141,178,瑞鹤仙,瑞鹤仙,12,23,瑞鹤仙,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,
+10,F07-0009,23,浪淘沙,捣练子,10,28,江南春,,NEITHER_IN_TEXT_LAYER,TEXT_LAYER_CHECK,
+11,F07-0029,42,柳梢青,太常引,9,12,人月圆/太常引/柳梢青,,BOTH_IN_PAGE_TEXT,TEXT_LAYER_CHECK,

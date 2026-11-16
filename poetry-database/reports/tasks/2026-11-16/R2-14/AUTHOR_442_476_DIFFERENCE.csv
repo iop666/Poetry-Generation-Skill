@@ -1,0 +1,37 @@
+﻿name_a,name_b,n_works_a,n_works_b,in_442,in_476,direction,alias_kind_a,alias_kind_b,alias_canonical_a,alias_canonical_b,differing_chars,cause,net_delta_if_summed
+吴龍翰,吴龙翰,28,1,YES,NO,442_ONLY(-1),VARIANT_SIMP,SAME,吴龙翰,吴龙翰,龍→龙,n−1 去重副作用：t2s 同名组为三元组 吳龍翰/吴龍翰/吴龙翰，3 条可能配对只保留 2 条，此对被舍弃,-1
+劉义,劉義,1,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,刘义,刘义,义→義,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+劉子翬,刘子翬,670,4,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,刘子翚,刘子翚,劉→刘,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+劉皂,劉皁,5,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,刘皂,刘皂,皂→皁,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+吳龍翰,吴龍翰,145,28,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,吴龙翰,吴龙翰,吳→吴,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+孫升,孫陞,13,2,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,孙升,孙陞,升→陞,alias 单边转换：两侧各自被转成不同 canonical，未并到同一值,+1
+张景修,張景脩,2,34,NO,YES,476_ONLY(+1),SAME,VARIANT_SIMP,张景修,张景脩,张→張/修→脩,两侧 alias 类型不一致（SAME/VARIANT_SIMP），转换不对齐,+1
+张矩,張榘,12,59,NO,YES,476_ONLY(+1),SAME,VARIANT_SIMP,张矩,张榘,张→張/矩→榘,两侧 alias 类型不一致（SAME/VARIANT_SIMP），转换不对齐,+1
+張修之,張脩之,1,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,张修之,张脩之,修→脩,alias 单边转换：两侧各自被转成不同 canonical，未并到同一值,+1
+張鎡,张鎡,1045,51,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,张镃,张镃,張→张,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+徐冲渊,徐沖淵,1,12,NO,YES,476_ONLY(+1),SAME,VARIANT_SIMP,徐冲渊,徐沖渊,冲→沖/渊→淵,两侧 alias 类型不一致（SAME/VARIANT_SIMP），转换不对齐,+1
+晁冲之,晁沖之,16,171,NO,YES,476_ONLY(+1),SAME,SAME,晁冲之,晁沖之,冲→沖,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+曹修古,曹脩古,2,1,NO,YES,476_ONLY(+1),SAME,SAME,曹修古,曹脩古,修→脩,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+曹勋,曹勛,183,1326,NO,YES,476_ONLY(+1),SAME,SAME,曹勋,曹勛,勋→勛,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+曹希蕴,曹希藴,2,3,NO,YES,476_ONLY(+1),SAME,SAME,曹希蕴,曹希藴,蕴→藴,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+曾晞颜,曾晞顔,1,2,NO,YES,476_ONLY(+1),SAME,SAME,曾晞颜,曾晞顔,颜→顔,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+朱晞颜,朱晞顔,1,15,NO,YES,476_ONLY(+1),SAME,SAME,朱晞颜,朱晞顔,颜→顔,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+東方虬,東方虯,5,3,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,东方虬,东方虬,虬→虯,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+楊凌,楊淩,20,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,杨凌,杨淩,凌→淩,alias 单边转换：两侧各自被转成不同 canonical，未并到同一值,+1
+權德輿,權德舆,352,44,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,权德舆,权德舆,輿→舆,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+歐陽炯,欧陽炯,57,17,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,欧阳炯,欧阳炯,歐→欧,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+歐陽衮,歐陽袞,9,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,欧阳衮,欧阳衮,衮→袞,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+王讚,王贊,5,2,NO,YES,476_ONLY(+1),SAME,VARIANT_SIMP,王讚,王赞,讚→贊,两侧 alias 类型不一致（SAME/VARIANT_SIMP），转换不对齐,+1
+王采,王寀,12,16,NO,YES,476_ONLY(+1),SAME,SAME,王采,王寀,采→寀,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+王鑒,王鑑,3,1,NO,YES,476_ONLY(+1),SAME,VARIANT_SIMP,王鑒,王鉴,鑒→鑑,两侧 alias 类型不一致（SAME/VARIANT_SIMP），转换不对齐,+1
+羅衮,羅袞,3,2,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,罗衮,罗衮,衮→袞,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+薛昭蕴,薛昭藴,19,19,NO,YES,476_ONLY(+1),SAME,SAME,薛昭蕴,薛昭藴,蕴→藴,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+赵居貞,趙居貞,2,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,赵居贞,赵居贞,赵→趙,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+釋元淨,釋元凈,18,5,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,释元净,释元凈,淨→凈,alias 单边转换：两侧各自被转成不同 canonical，未并到同一值,+1
+釋鑒,釋鑑,12,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,释鑒,释鉴,鑒→鑑,alias 单边转换：两侧各自被转成不同 canonical，未并到同一值,+1
+陳塤,陳壎,4,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,陈塤,陈埙,塤→壎,alias 单边转换：两侧各自被转成不同 canonical，未并到同一值,+1
+顧況,顧况,269,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,顾况,顾况,況→况,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+顧祿,顧禄,2,2,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,顾禄,顾禄,祿→禄,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1
+颜博文,顔博文,2,7,NO,YES,476_ONLY(+1),SAME,SAME,颜博文,顔博文,颜→顔,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+黄升,黄昇,39,2,NO,YES,476_ONLY(+1),SAME,SAME,黄升,黄昇,升→昇,alias 判定「原样」，未做任何转换；实为异体字/混形（opencc 亦未覆盖）,+1
+黄夷簡,黃夷簡,3,1,NO,YES,476_ONLY(+1),VARIANT_SIMP,VARIANT_SIMP,黄夷简,黄夷简,黄→黃,两侧 alias 类型不一致（VARIANT_SIMP/VARIANT_SIMP），转换不对齐,+1

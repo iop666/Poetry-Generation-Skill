@@ -1,0 +1,21 @@
+﻿fixture_id,source_book,source_file,byte_or_page_offset,expected_head_or_group,expected_pattern,source_sha256,note
+GY-V1-01,GUANGYUN,raw/books/guangyun/卷1.wikitext,1116,蟲,直弓切爾雅有,bdbe52ea9e295b86ce85707a474b5a563020285940080dd8d5a11c1853a03d17,卷1首个带标记小韵首：蟲〈直弓切爾雅有足曰蟲又…〉
+GY-V2-01,GUANGYUN,raw/books/guangyun/卷2.wikitext,376,先,蘇前切先後也,73842db0cc57e8cdf0a32648f8a8e0c09479ebb256bd5a6fd90903ed183a7b5b,卷2首个带标记小韵首：先〈蘇前切先後也又姓左傳…〉
+GY-V3-01,GUANGYUN,raw/books/guangyun/卷3.wikitext,604,董,多動切督也正,cde6b542848026e9a70104b2c13c07e392c0ed8675c1cc838b485e42817686f0,卷3首个带标记小韵首：董〈多動切督也正也固也又…〉
+GY-V4-01,GUANGYUN,raw/books/guangyun/卷4.wikitext,744,送,蘇弄切遣也三,d11b4f12becdef1900d8de684799964c06647b27874db71f59d03c485a5fc0e9,卷4首个带标记小韵首：送〈蘇弄切遣也三…〉
+GY-V5-01,GUANGYUN,raw/books/guangyun/卷5.wikitext,937,縠,胡谷切羅縠十,ae43319b2c95745f97f042fdad5b1b0b0b635bf1e2a61d959ba6340b01f62e05,卷5首个带标记小韵首：縠〈胡谷切羅縠十四…〉
+JY-01,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷01_東第一.json,0,東第一,,2f92d746cec4f645a19223c0a3622436b21ad6ddd9b4e8f46a615930a1626e78,页 text_len=6405，含 ○ 标记 39 处
+JY-02,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷01_支第五.json,0,支第五,,6bc333a9cd43dcabf2f3fbf46f79d173a8de5cacb1450272b82bf44344944a4b,页 text_len=9938，含 ○ 标记 67 处
+JY-03,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷06_𤫏第二十八.json,0,𤫏第二十八,,b0b183d2d83ce778060764ffc030c2ef3732874d17e1c9933aa37840d95005c4,页 text_len=5019，含 ○ 标记 56 处
+JY-04,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷08_梵第六十.json,0,梵第六十,,3c225712e773c0fbbb10e4f7668005df6d8216b904a1a6fb8016a8c1c3855b4e,页 text_len=310，含 ○ 标记 3 处
+XY-13ZHI-1,ZHONGHUA_XINYUN,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,20587,詩,十三支,06542d28246db53b8ad5dd4ea0690284f4606eb7e1a47d6967015aa3c69add60,十三支字表中「尸师诗」一段，偏移 20587
+XY-13ZHI-2,ZHONGHUA_XINYUN,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,20783,時,十三支,06542d28246db53b8ad5dd4ea0690284f4606eb7e1a47d6967015aa3c69add60,十三支字表中「慈磁雌」一段，偏移 20783
+XY-13ZHI-3,ZHONGHUA_XINYUN,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,20619,知,十三支,06542d28246db53b8ad5dd4ea0690284f4606eb7e1a47d6967015aa3c69add60,十三支字表中「之知支」一段，偏移 20619
+PS-1,PINGSHUI_YUN,raw/r2_09/rhyme/平水韻.json,197,東,,b1a15436a0d9e9cafb69a0fcc60b941ba0c02152ee17222ef5e5c1b5d2584fbc,平水韻 東 韻首行，revid=8264804
+PS-2,PINGSHUI_YUN,raw/r2_09/rhyme/平水韻.json,11569,月,,b1a15436a0d9e9cafb69a0fcc60b941ba0c02152ee17222ef5e5c1b5d2584fbc,平水韻 月 韻首行，revid=8264804
+CL-1,CILIN_ZHENGYUN,database/poetry.db#ph_cilin_r2_09,0,第一部,,273a55bedab5cec5b5041da79c2290727b830dea8b1d5c12906e9b96f39c8c62,第一部，196 行
+CL-2,CILIN_ZHENGYUN,database/poetry.db#ph_cilin_r2_09,0,第二部,,273a55bedab5cec5b5041da79c2290727b830dea8b1d5c12906e9b96f39c8c62,第二部，328 行
+ZY-1,ZHONGYUAN_YINYUN,database/poetry.db#ph_zhongyuan_r2_09,0,東鍾,,273a55bedab5cec5b5041da79c2290727b830dea8b1d5c12906e9b96f39c8c62,東鍾，258 行
+ZY-2,ZHONGYUAN_YINYUN,database/poetry.db#ph_zhongyuan_r2_09,0,江陽,,273a55bedab5cec5b5041da79c2290727b830dea8b1d5c12906e9b96f39c8c62,江陽，357 行
+CP-01,CIPAI_PDF,"<PROJECT_ROOT>/books/唐宋词格律 (龙榆生) (z-library.sk, 1lib.sk, z-lib.sk).pdf",230,西江月,句|平韵|叶平|叶仄,0a26147550b5e73321589de91c347bf6f820f9e20c25a37891a9df11098204ad,p230 谱行块：＋｜＋－－｜（句）＋－＋｜－－（平韵）…
+CP-02,CIPAI_PDF,"<PROJECT_ROOT>/books/唐宋词格律 (龙榆生) (z-library.sk, 1lib.sk, z-lib.sk).pdf",42,柳梢青,韵|句|豆,0a26147550b5e73321589de91c347bf6f820f9e20c25a37891a9df11098204ad,p42 定格 12 句

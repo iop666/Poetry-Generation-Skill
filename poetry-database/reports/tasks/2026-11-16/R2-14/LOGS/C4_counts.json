@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-11-16T19:13:46",
+  "n_json": 11057,
+  "n_skipped": 372,
+  "n_kept": 10685,
+  "stats": {
+    "Y_TITLE+BODY": 225,
+    "valid:Y": 365,
+    "Y_TITLE_ONLY": 140,
+    "N": 7,
+    "valid:N": 7
+  },
+  "align_ok": true
+}

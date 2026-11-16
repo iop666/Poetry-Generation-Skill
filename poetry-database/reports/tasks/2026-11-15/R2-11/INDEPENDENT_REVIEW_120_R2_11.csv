@@ -1,0 +1,121 @@
+﻿object_id,category,source_locator,claim_checked,independent_finding,verdict,evidence,note
+GY-01,广韵,卷3,CONFIRMED_XIAOYUN_HEAD（言）,HEAD,AGREE,marked=True;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-02,广韵,卷3,CONFIRMED_XIAOYUN_HEAD（妥）,HEAD,AGREE,marked=True;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-03,广韵,卷1,CONFIRMED_XIAOYUN_HEAD（帷）,HEAD,AGREE,marked=True;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-04,广韵,卷1,CONFIRMED_XIAOYUN_HEAD（巍）,HEAD,AGREE,marked=True;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-05,广韵,卷3,CONFIRMED_XIAOYUN_HEAD（捧）,HEAD,AGREE,marked=True;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-06,广韵,卷5,CONFIRMED_XIAOYUN_HEAD（愎）,HEAD,AGREE,marked=True;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-07,广韵,卷5,CONFIRMED_XIAOYUN_HEAD（□）,HEAD,AGREE,marked=True;unmarked=True;marker_no_fanqie=True,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-08,广韵,卷4,CONFIRMED_XIAOYUN_HEAD（豷）,HEAD,AGREE,marked=True;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-09,广韵,卷4,SUPPORTED_HEAD_NO_MARKER（佐）,HEAD_NO_MARKER,AGREE,marked=False;unmarked=True;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-10,广韵,卷4,SUPPORTED_HEAD_NO_MARKER（𣎵）,HEAD_NO_MARKER,AGREE,marked=False;unmarked=True;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-11,广韵,卷2,SUPPORTED_HEAD_NO_MARKER（□）,HEAD,DISAGREE,marked=True;unmarked=True;marker_no_fanqie=True,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-12,广韵,卷4,SUPPORTED_HEAD_NO_MARKER（墜）,HEAD_NO_MARKER,AGREE,marked=False;unmarked=True;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-13,广韵,卷1,SUPPORTED_HEAD_NO_MARKER（□）,HEAD,DISAGREE,marked=True;unmarked=True;marker_no_fanqie=True,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-14,广韵,卷3,ALTERNATIVE_READING（𪒠）,NOT_FOUND,AGREE,marked=False;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-15,广韵,卷4,ALTERNATIVE_READING（懣）,NOT_FOUND,AGREE,marked=False;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-16,广韵,卷1,ALTERNATIVE_READING（眭）,HEAD,DISAGREE,marked=True;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-17,广韵,卷4,ALTERNATIVE_READING（灉）,NOT_FOUND,AGREE,marked=False;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-18,广韵,卷2,ALTERNATIVE_READING（鏈）,NOT_FOUND,AGREE,marked=False;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-19,广韵,卷4,POSSIBLE_XIAOYUN_HEAD（衽）,POSSIBLE,AGREE,marked=False;unmarked=False;marker_no_fanqie=True,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-20,广韵,卷2,POSSIBLE_XIAOYUN_HEAD（糖）,NOT_FOUND,DISAGREE,marked=False;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-21,广韵,卷4,POSSIBLE_XIAOYUN_HEAD（□）,HEAD,DISAGREE,marked=True;unmarked=True;marker_no_fanqie=True,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-22,广韵,卷5,POSSIBLE_XIAOYUN_HEAD（佖）,NOT_FOUND,DISAGREE,marked=False;unmarked=False;marker_no_fanqie=False,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-23,广韵,卷1,HEAD_LOST_FANQIE（）,HEAD_LOST,AGREE,marked=True;unmarked=True;marker_no_fanqie=True,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-24,广韵,卷2,HEAD_LOST_FANQIE（）,HEAD_LOST,AGREE,marked=True;unmarked=True;marker_no_fanqie=True,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+GY-25,广韵,卷2,HEAD_LOST_FANQIE（）,HEAD_LOST,AGREE,marked=True;unmarked=True;marker_no_fanqie=True,以「该字在该卷是否出现此结构形式」判定，不能区分同字多处出现
+JY-01,集韵,集韻 (四庫全書本)/卷04/尤第十八,𰀧〈尼猷切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-02,集韵,集韻 (四庫全書本)/卷10/陌第二十,迮〈側格切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-03,集韵,集韻 (四庫全書本)/卷09/屋第一,屋〈烏谷切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-04,集韵,集韻 (四庫全書本)/卷02/虞第十,雛〈崇芻切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-05,集韵,集韻 (四庫全書本)/卷10/葉第二十九,疌〈疾葉切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-06,集韵,集韻 (四庫全書本)/卷07/夬第十七,快〈苦夬切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-07,集韵,集韻 (四庫全書本)/卷07/未第八,未〈無沸切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-08,集韵,集韻 (四庫全書本)/卷05/緩第二十四,款〈苦緩切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-09,集韵,集韻 (四庫全書本)/卷08/勁第四十五,盛〈時正切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-10,集韵,集韻 (四庫全書本)/卷07/至第六,恣〈資四切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-11,集韵,集韻 (四庫全書本)/卷04/侵第二十一,嵾〈初簪切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-12,集韵,集韻 (四庫全書本)/卷02/刪第二十七,班〈逋還切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-13,集韵,集韻 (四庫全書本)/卷09/舝第十五,䵵〈〉于该页,NOT_FOUND,DISAGREE,head_in=True;fq_in=True;split_ok=False,
+JY-14,集韵,集韻 (四庫全書本)/卷05/止第六,潎〈鋪市切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-15,集韵,集韻 (四庫全書本)/卷04/耕第十三,爭〈甾莖切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-16,集韵,集韻 (四庫全書本)/卷01/東第一,中〈陟隆切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-17,集韵,集韻 (四庫全書本)/卷09/薛第十七,叕〈㭑劣切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-18,集韵,集韻 (四庫全書本)/卷01/魚第九,臚〈凌如切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-19,集韵,集韻 (四庫全書本)/卷02/眞第十七,鄰〈〉于该页,NOT_FOUND,DISAGREE,head_in=True;fq_in=True;split_ok=False,
+JY-20,集韵,集韻 (四庫全書本)/卷07/至第六,利〈力至切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-21,集韵,集韻 (四庫全書本)/卷07/代第十九,在〈昨代切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-22,集韵,集韻 (四庫全書本)/卷06/忝第五十一,簟〈徒㸃切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-23,集韵,集韻 (四庫全書本)/卷10/職第二十四,逼〈筆力切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-24,集韵,集韻 (四庫全書本)/卷04/侵第二十一,兂〈緇岑切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+JY-25,集韵,集韻 (四庫全書本)/卷10/狎第三十三,狎〈轄甲切〉于该页,FOUND,AGREE,head_in=True;fq_in=True;split_ok=True,
+XY-01,中华新韵,十三支/去声,「字」见于该韵段落,FOUND,AGREE,segment_len=579;pos=147,
+XY-02,中华新韵,十三支/阳平,「辞」见于该韵段落,FOUND,AGREE,segment_len=579;pos=210,
+XY-03,中华新韵,十三支/阴平,「訾」见于该韵段落,FOUND,AGREE,segment_len=579;pos=107,
+XY-04,中华新韵,十三支/去声,「恃」见于该韵段落,FOUND,AGREE,segment_len=579;pos=451,
+XY-05,中华新韵,十三支/去声,「痣」见于该韵段落,FOUND,AGREE,segment_len=579;pos=488,
+XY-06,中华新韵,六豪/去声,「诏」见于该韵段落,FOUND,AGREE,segment_len=886;pos=864,
+XY-07,中华新韵,二波/去声,「堕」见于该韵段落,FOUND,AGREE,segment_len=1016;pos=695,
+XY-08,中华新韵,三皆/阴平,「秸」见于该韵段落,FOUND,AGREE,segment_len=560;pos=98,
+XY-09,中华新韵,八寒/去声,「纤」见于该韵段落,FOUND,AGREE,segment_len=1365;pos=312,
+XY-10,中华新韵,十二齐/阴平,「西」见于该韵段落,FOUND,AGREE,segment_len=1294;pos=104,
+XY-11,中华新韵,七尤/阳平,「由」见于该韵段落,FOUND,AGREE,segment_len=638;pos=304,
+XY-12,中华新韵,十四姑/去声,「肃」见于该韵段落,FOUND,AGREE,segment_len=1395;pos=881,
+XY-13,中华新韵,十二齐/上声,「葸」见于该韵段落,FOUND,AGREE,segment_len=1294;pos=709,
+XY-14,中华新韵,八寒/去声,「粲」见于该韵段落,FOUND,AGREE,segment_len=1365;pos=972,
+XY-15,中华新韵,六豪/阴平,「嶕」见于该韵段落,FOUND,AGREE,segment_len=886;pos=119,
+CP-01,词谱,p129,库内 13 句（淡黄柳）,文字块括注 47 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=4|5|7|6|7|3|5|3|3|8|4|4|6,
+CP-02,词谱,p17,库内 4 句（南歌子）,文字块括注 13 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=5|5|7|9,
+CP-03,词谱,p31,库内 6 句（浣溪沙）,文字块括注 37 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=7|7|7|7|7|7,
+CP-04,词谱,p83,库内 25 句（沁园春）,文字块括注 25 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=4|4|4|5|4|4|4|4|4|7|3|5|4|6|8|,
+CP-05,词谱,p246,库内 10 句（上行杯）,文字块括注 26 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=6|3|4|7|4|3|3|2|2|4,
+CP-06,词谱,p247,库内 10 句（酒泉子）,文字块括注 29 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=4|6|3|3|3|7|6|3|3|3,
+CP-07,词谱,p87,库内 32 句（多丽）,文字块括注 85 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=3|6|3|4|6|3|4|3|4|4|4|7|3|4|5|,
+CP-08,词谱,p230,库内 8 句（西江月）,文字块括注 17 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=6|6|7|6|6|6|7|6,
+CP-09,词谱,p123,库内 20 句（钗头凤）,文字块括注 44 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=3|3|7|3|3|4|4|1|1|1|3|3|6|3|3|,
+CP-10,词谱,p19,库内 5 句（忆江南）,文字块括注 20 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=3|5|7|7|5,
+CP-11,词谱,p215,库内 7 句（蕃女怨）,文字块括注 30 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=7|4|3|3|4|7|3,
+CP-12,词谱,p104,库内 20 句（卜算子）,文字块括注 36 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=4|4|6|4|6|3|5|3|4|6|5|5|4|4|6|,
+CP-13,词谱,p166,库内 20 句（念奴娇）,文字块括注 64 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=4|5|4|7|6|4|4|5|4|6|6|5|4|7|6|,
+CP-14,词谱,p21,库内 4 句（浪淘沙）,文字块括注 24 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=7|7|7|7,
+CP-15,词谱,p239,库内 47 句（戚氏）,文字块括注 44 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=3|7|4|4|3|2|3|7|6|7|4|4|6|5|4|,
+CP-16,词谱,p48,库内 10 句（临江仙）,文字块括注 54 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=7|6|7|5|5|7|6|7|5|5,
+CP-17,词谱,p26,库内 8 句（江城子）,文字块括注 27 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=7|3|3|4|5|7|3|3,
+CP-18,词谱,p224,库内 8 句（忆馀杭）,文字块括注 24 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=4|7|7|5|7|7|7|5,
+CP-19,词谱,p42,库内 12 句（柳梢青）,文字块括注 46 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=4|4|4|4|4|4|6|3|4|4|4|4,
+CP-20,词谱,p23,库内 28 句（浪淘沙）,文字块括注 40 个,AGREE,允许±2（跨页/正文括注干扰）；stored_lens=3|4|4|6|6|8|3|4|8|5|2|6|8|5|5|,
+RD-01,阅读记录,wangli_shicilv p41,引文「犯孤平指的是平脚的句子；仄脚的句…」,NOT_FOUND,UNDECIDABLE,page_text_len=0,
+RD-02,阅读记录,long_cixue_shijiang pNone,引文「每一歌词的句式安排，在音节上总不…」,NOT_FOUND,UNDECIDABLE,page_text_len=0,
+RD-03,阅读记录,long_yushsheng_cilv p6,引文「本编依韵脚分类，计分平韵、仄韵、…」,NOT_FOUND,DISAGREE,page_text_len=652,
+RD-04,阅读记录,long_cixue_shijiang pNone,引文「哀声而歌乐词，乐声而歌怨词，故语…」,NOT_FOUND,UNDECIDABLE,page_text_len=0,
+RD-05,阅读记录,long_yushsheng_cilv p16,引文「二十七字，四平韵。中间三言两句，…」,NOT_FOUND,DISAGREE,page_text_len=646,
+RD-06,阅读记录,wangli_shicilv p56,引文「出句与对句完全同义（或基本上同义…」,NOT_FOUND,UNDECIDABLE,page_text_len=0,
+RD-07,阅读记录,wangli_shicilv p47,引文「「一三五不论」的话是不对的。…」,NOT_FOUND,UNDECIDABLE,page_text_len=0,
+RD-08,阅读记录,long_cixue_shijiang pNone,引文「词不称「作」而称「填」，因为它要…」,NOT_FOUND,UNDECIDABLE,page_text_len=0,
+EX-01,例词,songci:1d64bffecc53,例词「红笺小字，说尽平生意。鸿雁在…」,FOUND,AGREE,work_len=46,
+EX-02,例词,songci:0b8ddca679df,例词「红藕香残玉簟秋。轻解罗裳，独…」,FOUND,AGREE,work_len=60,
+EX-03,例词,songci:c0af2e8e1592,例词「夜来雨，赖倩得、东风吹住。海…」,FOUND,AGREE,work_len=96,
+EX-04,例词,songci:ca8d45abf7b8,例词「潇洒太湖岸，淡伫洞庭山。鱼龙…」,FOUND,AGREE,work_len=95,
+EX-05,例词,,例词「簟枕邀凉，琴书换日，睡馀无力…」,NOT_FOUND,DISAGREE,work_len=0,
+EX-06,例词,huajianji:f4eace271181,例词「晚日金陵岸草平。落霞明，水无…」,FOUND,AGREE,work_len=36,
+EX-07,例词,,例词「河汉，河汉，晓挂秋城漫漫。愁…」,NOT_FOUND,DISAGREE,work_len=0,
+EX-08,例词,songci:7be9711b796d,例词「似花还似非花，也无人惜从教坠…」,FOUND,AGREE,work_len=102,
+EX-09,例词,songci:e16f8ab4572b,例词「何处望神州？满眼风光北固楼。…」,FOUND,AGREE,work_len=56,
+EX-10,例词,,例词「子规啼血，可怜又是，春归时节…」,NOT_FOUND,DISAGREE,work_len=0,
+EX-11,例词,songci:214836e560a5,例词「天涯旧恨，独自凄凉人不问。欲…」,FOUND,AGREE,work_len=44,
+EX-12,例词,songci:d333424207c0,例词「风老莺雏，雨肥梅子，午阴嘉树…」,FOUND,AGREE,work_len=95,
+EX-13,例词,songci:f455929e65c4,例词「杨柳丝丝弄轻柔，烟缕织成愁。…」,FOUND,AGREE,work_len=48,
+EX-14,例词,huajianji:22d481655395,例词「春欲尽，日迟迟，牡丹时。罗幌…」,FOUND,AGREE,work_len=48,
+EX-15,例词,songci:24e576888b8e,例词「江水西头隔烟树，望不见、江东…」,FOUND,AGREE,work_len=52,
+EX-16,例词,,例词「长空降瑞，寒风剪、淅淅瑶花初…」,NOT_FOUND,DISAGREE,work_len=0,
+EX-17,例词,,例词「平岸小桥千嶂抱，揉蓝一水萦花…」,NOT_FOUND,DISAGREE,work_len=0,
+EX-18,例词,songci:a1a2081e7afc,例词「陇首云飞，江边日晚，烟波满目…」,FOUND,AGREE,work_len=105,
+EX-19,例词,,例词「斗酒彘肩，风雨渡江，岂不快哉…」,NOT_FOUND,DISAGREE,work_len=0,
+EX-20,例词,songci:39c31b7238f6,例词「洞庭青草，近中秋、更无一点风…」,FOUND,AGREE,work_len=100,
+EX-21,例词,songci:37ace37ce133,例词「小桃枝上春来早，初试薄罗衣。…」,FOUND,AGREE,work_len=48,
+EX-22,例词,songci:4133b37e12a7,例词「坠雨已辞云，流水难归浦。遗恨…」,FOUND,AGREE,work_len=40,
+EX-23,例词,,例词「麻叶层层檾叶光，谁家煮茧一村…」,NOT_FOUND,DISAGREE,work_len=0,
+EX-24,例词,huajianji:16bb64db7d7a,例词「柳色遮楼暗，桐花落砌香。画堂…」,FOUND,AGREE,work_len=26,
+EX-25,例词,songci:63a6f8ecf42c,例词「红酥手，黄縢酒，满城春色宫墙…」,FOUND,AGREE,work_len=60,
+EX-26,例词,,例词「宝钗分，桃叶渡，烟柳暗南浦。…」,NOT_FOUND,DISAGREE,work_len=0,
+EX-27,例词,songci:7be3526fc32f,例词「接叶巢莺，平波卷絮，断桥斜日…」,FOUND,AGREE,work_len=100,

@@ -1,0 +1,199 @@
+﻿work_id,title,author,class_r2_12,normalization_impact,raw_han_len,norm_han_len,body_han_len,n_variants,n_annotations,n_editorial,n_no_bracket_fixed,n_unresolved,nested_brackets,segment_status,body_head
+tang300:1a9ba7f6ff4f,宿桐廬江寄廣陵舊遊,孟浩然,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,44,40,40,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,山暝聞猿愁，滄江急夜流。 風鳴兩岸葉，月照一孤舟。 建德非吾土，維揚憶舊遊。 還將兩行淚，遙寄海西頭。
+tang300:48cbd02256fd,秋登蘭山寄張五,孟浩然,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,64,60,60,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,北山白雲裏，隱者自怡悅。 相望試登高，心隨雁飛滅。 愁因薄暮起，興是清秋髮。 時見歸村人，沙行渡頭歇。 天邊樹若薺，江畔
+tang300:7ba06a3fa6ce,長幹行·其一,李白,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,154,150,150,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,妾發初覆額，折花門前劇。 郎騎竹馬來，繞牀弄青梅。 同居長幹裏，兩小無嫌猜， 十四爲君婦，羞顏未嘗開。 低頭向暗壁，千喚
+tang300:7cc2bbd66338,與高適薛據同登慈恩寺,岑參,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,122,110,110,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,塔勢如涌出，孤高聳天宮。 登臨出世界，磴道盤虛空。 突兀壓神州，崢嶸如鬼工。 四角礙白日，七層摩蒼穹。 下窺指高鳥，俯聽
+tang300:89b0503bf86e,怨情,李白,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,24,20,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,美人卷珠簾，深坐顰蛾眉。 但見淚痕溼，不知心恨誰。
+tang300:a75364cc62ed,詠懷古蹟·其三,杜甫,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,66,58,56,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,羣山萬壑赴荊門，生長明妃尚有村。 一去紫臺連朔漠，獨留青冢向黃昏。 畫圖省識春風面，環佩空歸夜月魂。 千載琵琶作胡語，分
+tang300:aa1c51175119,山石,韓愈,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,144,140,140,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,山石犖确行徑微，黃昏到寺蝙蝠飛。 升堂坐階新雨足，芭蕉葉大梔子肥。 僧言古壁佛畫好，以火來照所見稀。 鋪牀拂席置羹飯，疏
+tang300:e1d02025fe58,琵琶行,白居易,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,639,623,616,4,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,潯陽江頭夜送客，楓葉荻花秋瑟瑟。 主人下馬客在船，舉酒欲飲無管絃。 醉不成歡慘將別，別時茫茫江浸月。 忽聞水上琵琶聲，主
+tang300:f4c9abc15dd8,兵車行,杜甫,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,227,223,223,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,車轔轔，馬蕭蕭，行人弓箭各在腰。 耶孃妻子走相送，塵埃不見咸陽橋。 牽衣頓足攔道哭，哭聲直上幹雲霄。 道旁過者問行人，行
+tang300:f623acd86d3c,送魏萬之京,李頎,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,60,56,56,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,朝聞遊子唱離歌，昨夜微霜初渡河。 鴻雁不堪愁裏聽，雲山況是客中過。 關城樹色催寒近，御苑砧聲向晚多。 莫見長安行樂處，空
+tang:0216b4ed6852,迴波樂 一○三,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,390,386,29,0,1,0,0,0,YES,NEEDS_REVIEW,夫妻擬百年，妻即在前死。 男女五六箇，小弱未中使。 衣破無人縫，小者肚露
+tang:0299d12b7d45,迴波樂 九十,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,94,82,80,3,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,今得入新年，合家蒙喜慶。 人人皆發願，遠離時氣病。 歲日食他肉，肉是他家命。 今朝入新年，昨暮煞他命。 論時大罪過，食肉
+tang:03f425eefeb5,偈 一,正原,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,42,38,28,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,滄溟幾度變桑田，唯有虛空獨湛然。 已到岸人休戀筏，未曾度者任須船。
+tang:05d4ad565571,道藏歌詩 十九,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,策駕玄中漢，轡素扶希林。 妙微渾混遘，長扇回五煙。
+tang:06dfa648e039,兵要望江南 占氣第四（京本作「占氣第二十三」○三十一首） 三,易靜,MIXED_BODY_AND_NOTE,BODY_DELETED|NOTE_RETAINED,71,59,3,0,1,0,0,0,YES,NEEDS_REVIEW,將軍善
+tang:0897ddc00253,答問附歌,柳宗元,MIXED_BODY_AND_NOTE,BODY_DELETED|NOTE_RETAINED,61,57,45,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,堯舜之修兮，禹益之憂兮，能者任而愚者休兮。 蹮蹮蓬藋，樂吾囚兮，文墨之彬彬，足以申吾愁兮。 已乎已乎，曷之求乎！。
+tang:08d0d8053e7a,詩（幷序） 四,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,106,90,90,4,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,身如圈裏羊，命報恰相當。 羊即披毛走，人著好衣裳。 脫衣赤體立，刑役不如羊。 羊即日日死，人還日日亡。 從頭捉將去，還同
+tang:0b5db351c2cb,日詩,趙匡胤,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,78,58,28,5,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,欲出未出光辣達，千山萬山如火發，須臾走向天下來，逐却殘星趕却月。 。
+tang:0b7521f9d0a9,迴波樂 八十三,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,58,42,40,4,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,年老造新舍，鬼來拍手哭。 身得蹔時坐，死後他人賣。 千年換百主，各自想還改。 前死後人坐，本主何須在。
+tang:0c1a18ca09e3,頌六十二首 十九,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,118,102,80,4,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,生來死還送，日往月復旋。 弱喪昏風動，流浪逐物遷。 愚戇失正路，漂沒入重淵。 一墜幽闇處，萬劫履鋒辛。 六道旋寰苦，三業
+tang:0d2b3f6a6b5d,觀佽飛斬蛟龍圖讚,李白,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,63,59,50,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,佽飛斬長蛟，遺圖畫中見。 登舟既虎嘯，激水方龍戰。 驚波動連山，拔劍曳雷電。 鱗摧白刃下，血染滄江變。 感此壯古人，千秋
+tang:0d3b25fe10fb,發機頌答鄭郎中又問,智閑,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,語裏埋筋骨，音聲染道容。 即時纔妙會，拍手趁乘龍。
+tang:0dcc5686091d,頌六十二首 三,道世,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,74,66,60,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,牧杖信爲急，調絃貴不奢。 騰猨安可制，逸馬本難罝。 驅馳習聲色，冠蓋競豪華。 既入王孫第，還向季倫家。 靜心澄業累，省念
+tang:0f4223028e19,晚景遊泛懷友詩,蕭鈞,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,428,424,2,0,1,0,0,0,YES,NEEDS_REVIEW,龍門
+tang:0fa7386db61c,頌六十二首 十六,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,111,99,80,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,五慾昏神識，五蓋蔽福力。 六根成苦集，六賊亂心色。 慾泿逐情飄，愛網隨心織。 三毒障人空，四流漂不息。 至金雖改秋，斬籌
+tang:13b0ffff74a5,寫心階詩 一,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,命禮遣舟車，佇望談言志。 若值信來符，共子同琴瑟。
+tang:13dec0a7f6dd,頌六十二首 二十,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,127,107,6,0,1,0,0,0,YES,NEEDS_REVIEW,高堂信逆旅，懷
+tang:14bd997b369c,假作幽蘭詩,上官儀,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,33,29,20,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,日月雖不照，馨香要自豐。 有怨生幽地，無由逐遠風。 。
+tang:14c3edccbb48,柳栢賦附謠,李德裕,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,54,50,42,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,楚山側兮秋水源，美斯栢兮託幽根，條總翠兮冬轉茂，實垂昧兮秋始蕃，彼變化兮不測焉，知非張緒之精魂。 。
+tang:167e3a7a2c81,永嘉證道歌,玄覺,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,1918,1910,208,0,1,0,0,0,YES,NEEDS_REVIEW,君不見，絕學無爲閒道人，不除妄想不求真。 無明實性即佛性，幻化空身即法身。 法身覺了無一物，本源自性天真佛。 五陰浮雲空
+tang:17a16314d939,迴波樂 八十七,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,118,94,100,6,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,仕人作官職，人中第一好。 行即食天廚，坐時請月料。 得祿四季領，家口尋常飽。 軄田佃人送，牛馬足䜺草。 每日勤判案，曹司
+tang:1ab0ac5cb6aa,詩（幷序） 十三,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,94,86,70,2,3,0,0,0,NO,SUPPORTED_RECONSTRUCTION,富者辦棺木，貧窮席裹角。 相共唱奈河，送着空塚各。 千休即萬休，永別生平樂。 志者入西方，愚人墮地獄。 掇頭入苦海，冥冥
+tang:1d9795c7114c,明古頌（一作「授指」）,智閑,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,168,136,143,8,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,古人骨，多靈異。 賢子孫。 密安置。 此一門，成孝義。 人未達，莫差池。 須志固，遣狐疑。 得安靜，不傾危。 向即遠，求
+tang:1f931d3965a1,迴波樂 八十六,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,81,57,52,6,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,富兒少男女，窮漢生一羣。 身上無衣着，長頭草裏存。 到大肥沒忽，直似飽糠{牛丨=乚}。 長大充兵朴，未解起家門。 積代不
+tang:1fa18fb0b6df,頌,守安,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,59,47,28,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,南臺靜坐一鑪香，亘日凝然萬事忘。 不是息心除忘想，都緣無事可思量。 。
+tang:20c3e3294269,詩（幷序） 二十四,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,43,39,40,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,生即巧風吹，死須業道過。 來去不相知，展脚陽坡臥。 只見生人悲，不聞鬼唱禍。 子細審三思，慈母莫生我。
+tang:20e38a7d4a2f,假作贈別詩,上官儀,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,37,29,20,2,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,離情絃上急，別曲雁邊嘶。 低雲百種鬱，垂露幾行啼。 。
+tang:20f25048e8f0,詩（幷序） 十,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,87,83,80,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,撩亂失精神，無由見家裏。 妻是他人妻，兒被後翁使。 駟馬被金鞍，鏤鐙銀鞦轡。 角弓無主張，寶劍拋著地。 設却百日齋，渾家
+tang:22d374ba7d70,小韻詩 二,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,夜中無與悟，獨寤撫躬歎。 唯慚一片月，流彩照南端。
+tang:2623caf6eb04,十二時歌,文偃,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,154,150,102,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,夜半子，愚夫說相似。 鷄鳴丑，癡人捧龜首。 平旦寅，曉何人。 日出卯，韓情枯骨咬。 食時辰，歷歷明機是悟真。 禺中巳，去
+tang:26b98ccbb13b,詩（幷序） 三十九,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,46,38,40,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,生時同飯瓮，死則同食瓶。 火急早掘塚，不遣暫時停。 永別世間樂，唯聞哭我聲。 四海交遊絕，籍帳便除名。
+tang:26dc0d65861c,頌六十二首 七,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,113,97,80,4,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,令月建清齋，佳辰召無強。 四部依時集，七衆會陞堂。 蕭條清梵舉，哀宛動宮商。 香氣騰空上，乘風散遐方。 歎德研沖邃，詞辯
+tang:272340171893,詩（幷序） 二,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,102,98,80,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,吾富有錢時，婦兒看我好。 吾若脫衣裳，與吾疊袍襖。 吾出經求去，送吾即上道。 將錢入舍來，見吾滿面笑。 遶吾白鴿旋，恰似
+tang:27a385d96fdd,桂花曲,李德谷,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,157,149,103,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,仙女侍，董雙成，桂殿夜涼吹玉笙。 曲終却從仙宮去，萬戶千門空月明。 河漢女，玉練顏，雲軿往往到人間。 九霄有路去無際，裊
+tang:28142a275249,詠廿四氣詩 小雪十月中,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,43,39,40,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,莫怪虹無影，如今小雪時。 陰陽依上下，寒暑喜分離。 滿月光天漢，長風響樹枝。 橫琴對淥醑，猶自歛愁眉。
+tang:287d2442b763,偈,處真,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,95,71,55,6,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,一片凝然光燦爛，擬意追尋卒難見。 炳然擲着豁人情，大事分明皆總辦。 是快活，無繫絆，萬兩黃金終不換。 任地千聖出頭來，從
+tang:2880e010fcc7,詠物階詩 一,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,雙眉學新綠，二臉例輕紅。 言模出浪鳥，字寫入花蟲。
+tang:2e81ed94844c,迴波樂 七十七,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,56,52,50,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,不淨膿血袋，四大共爲因。 六賊都成體，敗壞一時分。 風者吹將散，火者焰來親。 水者常流急，土者合成人。 體骨變爲土，還歸
+tang:2f41445f06a5,省題詩二十一首 未明求衣,王棨,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,63,59,60,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,夙夜甯無準，憂勤事萬機。 良宵猶未曙，深殿早求衣。 長樂鐘纔動，華胥夢已歸。 絲綸傳紫禁，黼黻進彤闈。 被處燭仍在，垂時
+tang:2faf4befc82a,詩（幷序） 二十七,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,57,53,50,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,得錢自喫用，留着櫃裏重。 一日厥摩師，空得紙錢送。 死入惡道中，量由罪根重。 埋向黃泉下，妻嫁別人用。 智者好思量，爲他
+tang:3003e6a25900,道藏歌詩 二十二,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,今日度元吉，憶曾狀曲泉。 萬神同斯和，億劫豈知淪。
+tang:305eae371994,迴波樂 七十九,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,53,49,50,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,不思身去促，能貪無限財。 生平惜不用，命盡如糞堆。 蟲蛆內攘攘，食脉爛穴開。 羅錦纏屍送，枉屈寶將埋。 寧知入土後，二節
+tang:310fedb9dc4e,小桃源（曩有耕于小桃源得一銅牌，牌上有詩一絕云：）,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,33,29,20,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,綽約去朝真，仙源萬木春。 要知竊桃客，定是會稽人。 。
+tang:32f61e34a988,秋雨歎三首 二,杜甫,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,75,55,56,5,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,闌風長雨秋紛紛，四海八荒同一雲。 去馬來牛不復辨，濁涇清渭何當分。 禾頭生耳黍穗黑，農夫田婦無消息。 城中斗米換衾裯，相
+tang:3473e2ce2344,勵學吟,智閑,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,81,61,65,5,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,滿口語，無處說，明明向道人不決。 急著力，勤咬囓，無常到來救不徹。 口裏話，暗嗟切，快磨古錐淨挑揭。 理盡覺，自護持，此
+tang:353e4f537df2,詠廿四氣詩 白露八月節,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,43,39,40,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,露霑蔬草白，天氣轉青高。 葉下和秋吹，驚看兩鬢毛。 養羞因野鳥，爲客[訝]蓬蒿。 火急收田種，晨昏莫辭勞。
+tang:35ed701b0543,詩（幷序） 十四,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,74,70,71,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,百歲乃有一人，得七十者稀。 張眼看他死，不能自覺知。 癡皮裹膿血，頑骨強相隨。 兩步行衣架，步步入阿鼻。 雙盲不識鬼，伺
+tang:36741958399c,代張孜幻夢李白歌,李山甫,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,294,278,10,0,1,0,0,0,YES,NEEDS_REVIEW,天使翰林生我前，相去歿
+tang:36dcade34e9e,詩（幷序） 十五,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,100,96,80,1,3,0,0,0,NO,SUPPORTED_RECONSTRUCTION,獨自心中驟，四面被兵圍。 向前十道捝，背後鐵鎚鎚。 伺命張弓射，苦痛劇刀錐。 使者門前喚，忙怕不容遲。 倮體逐他走，渾舍
+tang:3748716e9d7b,詩（幷序） 十一,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,84,80,70,1,3,0,0,0,NO,SUPPORTED_RECONSTRUCTION,夫婦相對坐，千年亦不足。 一箇病着床，遙看手不[觸]。 正報到頭來，徒費將錢卜。 寶物積如山，死得一棺木。 空手把兩拳，
+tang:374fe605402b,沙門崇惠登刀梯歌（幷序○題擬）,□釗,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,300,284,215,4,4,0,0,0,NO,SUPPORTED_RECONSTRUCTION,百尺凌空倚劍梯，千峰迴拔接天霓。 鏖鑪霜明鳥道齋，龍泉金鐶生虹蜺。 刀爲樹，劍作山，應真飛錫遊其間。 一步一登，揮手攀毛
+tang:37fc5c0c9749,奉和紀朝臣公咏雪詩,楊泰師,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,140,132,4,0,1,0,0,0,YES,NEEDS_REVIEW,昨夜龍雲
+tang:3dabfd35b8fe,十二時歌 一,從諗,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,88,72,51,4,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,鷄鳴丑，愁見起來還漏逗。 裙子褊衫箇也無，袈裟形相些些有。 裩無腰，袴無口，頭上青灰三五斗。 比望修行利濟人，誰知變作不
+tang:3ddd0b80a54e,蒸豚（王中令既平蜀，捕逐餘寇，與步隊〖隊伍〗相遠，饑甚，乃入一村寺中。主僧醉甚箕,村寺僧,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,105,93,24,0,1,0,0,0,YES,NEEDS_REVIEW,嘴長毛短淺含臕，久向山中食藥苗。 蒸處已將蒸葉裹，熟時兼
+tang:3f60a3109ab6,徵李懷杲（一作果）嘲道門 一,光業,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,65,61,56,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,雲鎖涪江水似天，又聞懷杲已升仙。 強思齊見應催膽，張茂卿聞必聳肩。 三尺霜刀充絳節，兩條朱棒替香煙。 報伊廣德先生道，社
+tang:3f65693187d6,迴波樂 七十六,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,85,81,60,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,前死未長別，後來亦非久。 新墳影舊塚，相續似魚鱗。 義陵秋節遠，曾逢幾箇春。 萬刼同今日，一種化微塵。 定知見土裏，還待
+tang:40bbd591a665,小韻詩 一,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,搴簾出戶望，霜花朝瀁日。 晨鶯傍杼飛，早燕挑軒出。
+tang:47c36682ad15,偈,善道,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,77,73,28,1,4,0,0,0,NO,SUPPORTED_RECONSTRUCTION,南山路仄東山低，新到莫辭三轉泥。 嗟汝在途經日久，明明不曉却成迷。 。
+tang:50011b8c557e,綠陰亭,盧肇,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,139,135,25,0,1,0,0,0,YES,NEEDS_REVIEW,亭邊古木晝陰陰，亭下寒潭百丈深。 黃菊近連陶令宅，青山遙負
+tang:529d64f795fa,送袁郎中破賊北歸,皇甫冉,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,62,54,56,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,優詔親賢時獨稀，中途紫紱換征衣。 黃香省闥登朝去，楊僕樓船振旅歸。 萬里長聞隨戰角，十年不得掩郊扉。 囗囗囗囗囗囗囗，但
+tang:529d8cfbc315,句,杜牧,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,58,50,14,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,閉門客到常疑病，滿院花開不似貧。 。
+tang:550d01aeac80,擲瓦果悟道偈（題擬）,智閑,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,69,57,40,3,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,一挃忘所知，更不自修持。 [動容揚古路，不墮悄然機]處處無蹤跡，聲色外威儀。 十方達道者，咸言上上機。
+tang:555066ba6f94,偈頌 四,文偃,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,43,39,28,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,是機是對對機迷，闢機塵遠遠機棲。 夕日日中誰有掛，因底底事隔情迷。 。
+tang:55abd185fa6a,歌,羅漢和尚,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,113,109,98,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,咸通七載初參道，到處逢言不識言。 心裏癡團若栲栳，三春不樂止林泉。 忽遇法王氈上坐，便陳疑懇向師前。 師從氈上那伽起，袒
+tang:560cabef696c,至真觀（三言詩）（仁傑善導氣烹鍊之術。孟知祥鎮西川時。來蜀留詩至真觀壁間。）,杜仁傑,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,395,375,44,0,1,0,0,0,YES,NEEDS_REVIEW,坤所載，乾所幬，象與形，孰朕兆？ 緯五行，環二曜，流百川，何浩浩。 四海晏，九河導，峙而山，亦多號。 神有嶽，山有嶠，粤
+tang:5ac7addce837,子夜歌（《全唐詩》八九九詞句只存首二句，題作《菩薩蠻》）,李煜,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,75,71,39,0,1,0,0,0,YES,NEEDS_REVIEW,尋春須是先春早，看花莫待花枝老。 縹色玉柔擎，醅浮盞面清。 何妨頻笑粲，禁苑春歸晚。 同醉與閒平
+tang:5c301b627b01,偈,張拙,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,114,86,56,7,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,光明寂照遍恒沙，凡聖含靈共一家。 一念不生全體現，六情纔動被雲遮。 遣除凡拙重增病，趣向真如亦是邪。 任逐境緣無罣[碍]
+tang:5ca80b543432,長信宮,孫郃,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,89,81,28,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,一從同輦辭君寵，已分齊紈賦妾詩。 別院花紅休悵望，亦曾開在阿嬌時。 。
+tang:5dd853b4461e,贈隱士,白居易,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,110,106,4,0,1,0,0,0,YES,NEEDS_REVIEW,御風煙眇
+tang:5e531657d32c,三傷頌 其二,伏牛上人,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,193,165,127,7,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,傷嗟鵽刀鳥，夜夜啼天曉。 墜翼柳攀枝，身隨露葉低，影逐風枝裊。 一種情相生，爾獨何枯槁。 驅驅飲啄稀，役役飛騰少。 不是
+tang:5f94338366ac,樂道歌（一作《了元歌》）,仁儉,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,268,216,1,0,1,0,0,0,YES,NEEDS_REVIEW,[修]
+tang:5fb9ea562405,偈 二,正原,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,91,71,28,5,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,尋師認得本心源，兩岸俱玄一不全。 是佛何須更求佛，只因從此便忘言。 。
+tang:6037214a9c22,述志階詩 二,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,丈夫懷慷慨，膽上湧波奔。 只將三尺劍，決搆一朱門。
+tang:6043c7f139bd,奉答燕公 二,王琚,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,282,278,16,0,1,0,0,0,YES,NEEDS_REVIEW,語別意淒淒，零陵湘水西。 佳人金谷返，愛
+tang:62b5dad6714e,偈,志端,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,54,38,20,4,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,年來二月二，別汝暫相棄。 爇灰散四林，勿占檀那地。 。
+tang:638ac88ed9ea,異類對詩,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,16,8,10,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,風織池間樹，蟲穿草上文。
+tang:63abb146e7e8,詩 五,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,61,57,40,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,梵志與王生，密敦膠[漆]友。 共喜[歌一]樂，同欣詠五柳。 適意叙詩書，清淡盃淥[酒]。 莫怪頻追逐，只爲相[知]久。 
+tang:6729e837aae0,詩（幷序） 二十六,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,46,42,40,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,前人心裏怯，乾喚愧曹長。 紙筆見續到，仍送一縑箱。 錢多早發遣，物少被頡頏。 解寫除却名，楷赤將頭放。
+tang:6849db60b8d4,詩（幷序） 三十六,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,67,63,60,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,興生市郭兒，從頭市內坐。 例有百餘千，火下三五箇。 行行皆有鋪，鋪裏有雜貨。 山鄣買物來，巧語能相和。 眼勾穩物著，不肯
+tang:6a9caafac302,又嘲,靈辯,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,26,18,20,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,柱枷異支策，擎枷非椐梧。 閉口臨枷柄，真似濫吹竽。
+tang:6c0521b6a46a,同夢得醉後戲贈,白居易,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,14,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,唯欠與君同制令，一時封作醉鄉侯。 。
+tang:6e1816517c2b,玄武山聖水宴（幷序）,王勃,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,231,223,14,0,1,0,0,0,YES,NEEDS_REVIEW,玄武山有聖泉焉，浸淫歷數百千年，
+tang:6eb236797936,戲宜春李令求廳前杜鵑,盧肇,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,81,77,56,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,杜家有女小名鵑，生在陶公吏案前。 百里望風驚調態，千金買笑愜當筵。 預防戶外鋤蘭地，莫把籬東種菊田。 爲問河陽妖艷主，聘
+tang:71103eb2e166,道藏歌詩 十七,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,今日慶元吉，億曾狀曲泉。 法師及弟子，至德自然勳。
+tang:7432ccd2c776,道藏歌詩 四十四,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,神暢感寂庭，嘿思徹九重。 靈歌理冥運，百和結成章。
+tang:796d0a4e57ee,詩（幷序） 六,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,68,60,60,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,他家笑吾貧，吾貧極快樂。 無牛亦無馬，不愁賊抄掠。 你富戶役高，差科並用却。 吾無呼喚處，飽喫長展脚。 你富披錦袍，尋常
+tang:7c6bd317f3de,迴波樂 八十五,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,109,85,80,6,4,0,0,0,NO,SUPPORTED_RECONSTRUCTION,父母憐男女，保愛掌中珠。 亦死手遮面，將衣即覆頭。 死朴哭真鬼，連夜不知休。 天明奈何送，埋着棘嵩丘。 耶孃腸寸斷，曾祖
+tang:7ca88392416d,三傷頌 其一,伏牛上人,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,243,203,167,10,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,傷嗟壘巢燕，雖巧無深見。 修營一箇窠，往復幾千轉。 雙飛碧水頭，對主動權虹梁畔。 身緣覓食疲，口爲銜泥爛。 驅馳九夏初，
+tang:7e0f45646288,採菱女,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,69,65,60,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,白日期何去？青春只自矜。 艷歌呈幾曲，江畔采新菱，望浦思同濟，輕舟喜共乘。 翠將眉比色，聲與調相應。 蕩漾微波散，清泠遠
+tang:7f9d4a455537,問政山,黃台,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,785,713,34,0,1,0,0,0,YES,NEEDS_REVIEW,千尋練帶新安水，萬仞花屏問政山。 自少雲霞居物外，不多塵土到人間。 壺懸仙島吞舟
+tang:803990ffe967,五位君臣頌 三,良价,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,27,23,24,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,正中來，無中有路隔塵埃。 但能不觸當今諱，也勝前朝斷舌才。
+tang:81ed7e7c20a9,詩（幷序） 二十三,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,144,136,129,2,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,寺內數箇尼，各各事威儀。 本是俗人女，出家挂佛衣。 徒衆數十箇，詮擇補[綱]維。 一一依佛教，五事總合知。 莫看他破戒，
+tang:821ed533fd50,留題雲門（一作「秦望山」）,蕭翼,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,82,66,4,0,1,0,0,0,YES,NEEDS_REVIEW,絕頂高峯
+tang:8779c71593de,詩（幷序） 二十五,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,79,68,70,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,佐史非臺補，任官州縣上。 未是好出身，丁兒避征防。 不慮棄家門，狗偷且求養。 每日求行案，尋常恐迸仗。 食即衆廚飡，童兒
+tang:88f29531f036,五位君臣頌 四,良价,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,30,23,24,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,兼中至，兩刃交鋒不須避。 好手猶如火裏蓮，宛然自有沖天志。 。
+tang:8cf3bab34d6b,桃源（二首） 一,李白,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,34,26,28,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,昔日狂秦事可嗟，直驅雞犬入桃花。 至今不出煙溪口，萬古潺湲二水斜。 。
+tang:93f0347bd5e4,迴波樂 七十四,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,89,77,80,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,身是五陰城，周廻無里數。 上下九穴門，膿流皆臭瘀。 湛然膿血間，安置八萬戶。 餘有九千家，出沒同居住。 攘攘相食噉，貼貼
+tang:96e70ee41766,頌六十二首 四,道世,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,67,63,56,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,三山羽化竟無成，五熱殷憂徒自縈。 並入繁籠處塵館，何如寂慮出危城。 鏡智圓規光且淨，月行馳輪皎復晴。 側徑崎嶇爾迴轍，通
+tang:9a07b8c35250,春（一作「風」）光好（今按：《全宋詞》亦未收，故補之）（穀爲學士，奉使。恃上國勢,陶穀,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,225,221,30,0,1,0,0,0,YES,NEEDS_REVIEW,好因緣，惡因緣，奈何天，只得郵亭一夜眠，別神仙。 琵琶撥盡相思調，知音少。 待
+tang:9a8139f88b1d,詠深沙（裕後詠深沙一絕，因暴疾而終，亦由神折天年，抑又神其靈也。詩曰：）,陳裕,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,40,36,28,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,瞋眉努目強乾嗔，便作閻浮有力神。 禍福豈由泥擔漢，燒香供養弄蛇人。 。
+tang:9b178d25520e,示洞山偈,隱山和尚,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,43,35,30,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,青山白雲父，白雲青山兒。 白雲終日依，青山都不知。 欲知此中意，寸步不相離。 。
+tang:9d5ad0e48903,最後頌（一作「語」）,智閑,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,57,45,48,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,有一語，全規矩，休思量，不自許。 路逢同道人，楊眉省來處。 踏不著，多疑慮，却思量，帶伴侶。 一生參學事無成，慇懃抱得栴
+tang:9d9e1e265e2f,黃鶴樓,賈島,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,155,151,32,0,1,0,0,0,YES,NEEDS_REVIEW,高檻危簷勢若飛，孤雲野水共依依。 青山萬古長如舊，黃鶴何年去不歸。 岸映西山
+tang:9db0ee094585,玄旨頌,智閑,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,去去無標的，來來只摩來。 有人相借問，不語笑咳咳。
+tang:9ef2f0d581dc,詩（幷序） 三十四,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,68,64,60,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,你孝我亦孝，不絕孝門戶。 只見母憐兒，不見兒憐母。 長大取得妻，却嫌父母醜。 耶娘不採括，專心聽婦語。 生時不恭養，死後
+tang:9f0739e219fa,贈同住歸寂頌（一作《歸寂吟贈同住》）,智閑,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,107,95,98,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,同住道人七十餘，共辭城郭樂山居。 身如寒木心芽絕，不話唐言休梵書。 心期盡處身雖喪，如來弟子沙門樣。 深信共崇鉢塔成，巍
+tang:9fb9e0d713aa,五位君臣頌 二,良价,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,30,22,24,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,偏中正，失曉老婆逢古鏡。 分明覿面別無真，休更迷頭猶認影。
+tang:a32b65f19687,徵青州長老嘲僧門 二,楊德輝,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,76,72,42,1,1,1,0,0,NO,SUPPORTED_RECONSTRUCTION,說法謾稱獅子吼，魅人多使野狐涎。 行婆餉送新童子，居士抄條施利錢。 蠶食萬民何所用，轉教海內有荒田。 。
+tang:a46948384ebd,道藏歌詩 十六,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,26,18,20,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,齊景西那東，肆歡善因緣。 常融無地官，皆是聖皇臣。
+tang:a530b8802051,迴波樂 八十,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,47,39,40,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,一聯無舍坐，須行去處寬。 少食巡門乞，文破忍饑寒。 迥獨一身活，病困遣誰看。 命絕拋坑裡，狼狐恣意飡。
+tang:a7453077d0cb,詩（幷序） 一一五,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,80,72,2,0,1,0,0,0,YES,NEEDS_REVIEW,慧心
+tang:a749969bb6d8,聳翠峰題石（原注：峯在袁州府城西三十里。）,盧肇,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,115,111,112,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,聳翠峰高千百尺，四時常似莓藍色。 卓然萬古鎮祗園，世代鬼工驅不得。 巍巍直上插青天，遠疑似與天相連。 韎臨下視羣山小，千
+tang:a7dfd6fe60f6,句 六,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,20,16,10,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,舒桃臨遠騎，垂柳映連營。 。
+tang:a8ea3bf3c5fa,詠廿四氣詩 冬至十一月中,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,33,29,30,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,二氣俱生處，周家正立年。 歲星瞻北極，舜日照南天。 拜慶朝金殿，歡娛列綺筵。
+tang:a8f9e6c636d6,詠廿四氣詩 立夏四月節,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,44,40,40,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,欲知春與夏，仲[呂]啓朱明。 蚯蚓誰教出，王苽自合生。 簾蠶呈蠒樣，林鳥哺雛聲。 漸覺雲峰好，徐徐帶雨行。
+tang:ae728994ab18,詩（幷序） 三十五,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,62,50,50,3,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,父母生男女，沒娑可憐許。 逢着好飲食，紙裏將來與。 心恆意不忘，入家覓男女。 養大長成人，角睛難共語。 五逆前後事，我死
+tang:af88e33f3580,行香子（清涼山文殊讚）,白居易,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,108,92,70,4,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,文殊菩薩，出化清涼，神通力以現他方。 真座金毛師子，微放珠光。 衆生仰持寶蓋，絕名香。 我今發願，虔誠歸命，不求富貴，不
+tang:af8af5fb67a2,樂道歌（《燈錄》作「獲珠吟」）,道常,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,250,186,161,16,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,三界兮和燄，六道兮如幻，聖賢出世兮同。 國土猶如水上泡，無常生滅頻遷變。 唯有摩訶大般若，堅如金剛是可羨。 軟似兜羅大等
+tang:b02555c01566,詩（幷序） 三十八,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,66,58,60,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,有錢惜不喫，身死留妻兒。 只得紙錢送，欠少元不知。 門前空言語，還將紙作衣。 除非夢裏見，觸體更何時。 獨守深泉下，冥冥
+tang:b0a82daba4d9,和入京,呂讓,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,108,104,32,0,1,0,0,0,YES,NEEDS_REVIEW,俘囚經萬里，憔悴度三春。 髮改河陽鬢，衣餘京洛塵。 鍾儀悲去楚，隨會泣留秦。 既謝
+tang:b580141bd305,秋雨歎三首 三,杜甫,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,65,53,56,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,長安布衣誰比數，反鏁衡門守環堵。 老夫不出長蓬蒿，穉子無憂走風雨。 雨聲颼颼催早寒，胡雁翅濕高飛難。 秋來未曾見白日，埿
+tang:b5f63039540c,句,杜牧,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,16,8,10,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,江聲秋入寺，雨氣夜侵樓。
+tang:b61b8917fac9,牡丹,盧肇,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,314,310,280,1,3,1,0,0,NO,SUPPORTED_RECONSTRUCTION,絕代祇西子，衆芳唯牡丹。 月中虛有桂，天上謾誇蘭。 夜濯金波滿，朝傾玉露殘。 性應輕菡萏，根本是琅玕。 奪日霞千片，[淩
+tang:b6573f4a8931,迴波樂 八十一,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,53,45,41,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,祭四時八節日，家家總哭聲。 侍養不孝子，酒食祭先靈。 將被外鬼哭，家親本無名。 一郡巡門鬼，噇盡捖鳴聲。
+tang:b78843e4fe8e,僧舉香巖語示頌,本寂,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,66,62,28,1,4,0,0,0,NO,SUPPORTED_RECONSTRUCTION,枯木龍吟真見道，髑髏無識眼初明。 喜識盡時消息盡，當人那辨濁中清。
+tang:b804ef0446ba,詠人祀聖君詩,鄭雲從,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,33,29,28,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,禍福從來豈自主，俗情淫祀也堪愁。 拜時何用頻偷眼，未必泥人解點頭。 。
+tang:bd315ae1b3a5,詠廿四氣詩 立冬十月節,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,43,39,40,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,霜降向人寒，輕冰淥水漫。 蟾將纖影出，雁帶幾行殘。 田種收藏了，衣裘製造看。 野鷄投水日，化蜃不將難。
+tang:be216b545304,迴波樂 八十九,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,92,80,70,3,1,1,0,0,NO,SUPPORTED_RECONSTRUCTION,菴羅能逸熟，獲得未來因。 後園多桃李，花盛亂迎春。 花繁條結實，何愁子不真。 努力勤心種，多留與後人。 新人食甘菓，慚賀
+tang:bed505144e62,歌行一首,法藏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,768,764,490,1,33,0,0,0,NO,SUPPORTED_RECONSTRUCTION,古人重義不重金，曲高和寡勿知音。 今時志士還如此，語默動用跡難尋。 所嗟世上歧路者，終日崎嶇狂用心。 平坦旃檀不肯收，要
+tang:bfb2067ca38e,塞上曲（句）,翁宏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,16,9,10,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,風高弓力大，霜重角聲枯。
+tang:c041ff241623,頌六十二首 四十,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,157,121,22,0,1,0,0,0,YES,NEEDS_REVIEW,業風恒泛濫，苦海濤波聲。 漂我常游浪，遠離湼槃城。 忽遇
+tang:c1c1e57777f1,七日禁中陪宴,仁貞,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,65,57,28,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,入朝貴國慙下客，七日承恩作上賓。 更見鳯聲無妓態，風流變動一園春。 。
+tang:c2745ea57d9e,頌六十二首 十,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,115,95,80,5,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,韞石諒非真，飾瓶信爲假。 寵服高門上，濫吹緇軒下。 風祀結驚心，騶文終好野。 真相豈或昭，浮榮未能捨。 跡殊冠冕客，事襲
+tang:c871ff283b59,詠霜朝城上烏,王拊,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,90,86,14,0,1,0,0,0,YES,NEEDS_REVIEW,霜旦早暉通，城烏漸颺空。 聲喧高疊
+tang:c9701a3c9b85,秋浦歌十七首 十一,李白,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,26,18,20,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,邏人橫鳥道，江祖出魚梁。 水急客舟疾，山花拂面香。
+tang:caec47739d6a,詠有年官健,令狐嶠,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,40,36,28,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,六十休論少壯時，尉遲功業擬奚爲。 高聲念佛尋街者，盡是抝停老健兒。 。
+tang:caf79fb3fd1b,和詩階詩 二,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,166,162,17,0,1,0,0,0,YES,NEEDS_REVIEW,風光搖隴麥，日華映林蘂。 春情重以傷，歸念
+tang:cbeb735458cb,悼鹽官和尚（題擬《祖庭事苑》擬。《海昌勝蹟志》題作《悟空塔》）,宣宗皇帝李忱,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,105,81,56,6,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,像季何教禍所鍾，釋門光彩喪驪龍。 香階懶踏初生草，抵掌悲看舊日容。 玉柄永雖三教座，金鳴長鎮萬年蹤。 知師下界因緣盡，應
+tang:ce337b23c0ad,詩（幷序） 七,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,81,66,60,4,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,大有愚癡君，獨身無兒子。 廣貪多覓財，養奴多養婢。 伺命門前喚，不容別隣里。 死得四片板，一條黃衾被。 錢財奴婢用，任將
+tang:cf45ce2f61b8,詠廿四氣詩 驚蟄二月節,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,52,40,43,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,陽氣初驚蟄，韶光大地周。 桃花開蜀錦，鷹老化春鳩。 時候爭催迫，萌芽牙{丿爲丶}矩修。 人間務生事，耕種滿田疇。 。
+tang:cfeca2a97770,無名歌,殷濟,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,217,209,141,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,天下沸騰積年歲，米到千錢人失計。 附郭種得二頃田，磨折不充十一稅。 今年苗稼看更弱，[枌]榆產業須拋却。 不知天下有幾人
+tang:d182cb542e11,迴波樂 八十八,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,156,128,130,7,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,童子得出家，一生受快樂。 飲食滿盂中，架上選衣着。 平明欲稀粥，食手調羹臛。 飽喫取他錢，此是口客作。 天王元不朝，父母
+tang:d32d4f7f5528,再酬復言和誇州宅,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,73,69,56,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,會稽天下本無儔，任取蘇杭作輩流。 斷髮儀刑千古學，奔濤翻動萬人憂。 石緣類鬼名羅剎，寺爲因墳號虎丘。 莫著詩章遠牽引，由
+tang:d49172cf7615,傳奇小說（詩句）,沈亞之,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,102,98,16,0,1,0,0,0,YES,NEEDS_REVIEW,命笑無人笑，含嬌何處嬌。 徘徊花上月，空
+tang:d4b649e39179,永嘉懷古（題一作《石門山》）,郭密之,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,897,877,9,0,1,0,0,0,YES,NEEDS_REVIEW,永嘉東南盡，□袒《青田志》
+tang:d53102c204f6,病馬,盧肇,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,180,172,6,0,1,0,0,0,YES,NEEDS_REVIEW,塵土臥多毛已
+tang:d5b946715f75,詩（幷序） 三,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,51,47,40,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,家口總死盡，吾死無親表。 急首賣資產，與設逆修齋。 託生得好處，身死雇人埋。 錢財隣保出，任你自相差。
+tang:d6f7e5d5f376,頌六十二首 五,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,129,101,80,7,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,玄亮吐清氣，神響徹幽籠。 登臺發春詠，高興避希蹤。 乘虛感靈覺，魚山振思童。 摹寫天歌梵，冀布法音同。 哀婉故不下，飄颺
+tang:d806c03d2a9d,中秋月（句）,翁宏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,40,36,7,0,1,0,0,0,YES,NEEDS_REVIEW,寒清萬國土，冷浸
+tang:d9052cd52dc9,頌六十二首 八,道世,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,51,47,40,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,禁饕緣芳味，持聲唯節儉。 一坐肅容儀，五萬豐餘歛。 戒香飛且馥，情關閉愈掩。 勿言徒辛苦，終然越危嶮。 。
+tang:d97418a779b0,奉和酬相公賓客漢南留贈八韻,李逢吉,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,181,177,28,0,1,0,0,0,YES,NEEDS_REVIEW,自作分憂別，今方便道過。 悲酸如我少，語笑爲君多。 淚亦因盃酒，歡非待
+tang:d98fb777f2c7,春日早朝,孫郃,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,66,54,56,3,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,三嚴望仗正徘徊，曙色盈盈正殿開。 青瑣侍香扶日出，紫霞護闕擁山來。 班聯鵷鷺仙官舞，影動龍蛇淑氣催。 禁祕天顏常咫尺，小
+tang:da856a985e0d,書翠崖（一作「巖」）寺壁,歐陽持,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,115,103,35,0,1,0,0,0,YES,NEEDS_REVIEW,迎笑堂前九節筇，閑來無事得從容，時聞雷護千年橘，夜聽風傳萬壑松。 茅屋人家芳草合
+tang:dcdc2ab74547,迴波樂 九十三,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,60,56,50,1,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,暫時自來生，暫時還即死。 [死]後却還家，生時寄住鬼。 不愁麥不熟，不怕少穀米。 佯坡展脚臥，不來世間事。 死去長眠樂，
+tang:de119b69758f,正紐詩 二,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,心中肝如割，腹裏氣便燋。 逢風迴無信，早雁轉成遙。
+tang:de72a501e84b,鞠歌行,羅隱,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,170,166,97,0,1,0,0,0,YES,NEEDS_REVIEW,麗莫似漢宮妃，謙莫似黃家女。 黃女持謙齒髮高，漢妃恃麗天庭去。 人生容德不自保，聖人安用推天道。 君不見，蔡澤嵌枯詭怪之
+tang:de917dc997f0,迴波樂 八十二,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,75,59,60,4,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,身強被却罪，修福只心懃。 專意涓涓念，時時報佛恩。 得病不須卜，實莫浪求神。 專心念三報，莫亂自家身。 十念得成就，化佛
+tang:debf1d5a9c3d,桃源行,包融,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,271,267,86,0,1,0,0,0,YES,NEEDS_REVIEW,武陵川徑入幽遐，中有雞犬秦人家，家傍流水多桃花。 桃花兩邊種來久，流水一道何時有？ 垂條落蕋暗春風，夾岸芳菲至山口。 歲
+tang:dfa90caeaf1f,頌六十二首 二,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,149,129,100,5,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,遺身八萬塔，寶飾高百丈。 儀鳳異靈鳥，金槃代佛掌。 積拱承彫月，高簷掛樹網。 寶地若池沙，風鈴如積響。 刻削生千變，丹青
+tang:dfbd7f11b996,古意,顏曹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,111,107,9,0,1,0,0,0,YES,NEEDS_REVIEW,逶迤臨雲雨，蛾眉戲瓊
+tang:dfd2f1caecff,句 二,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,21,17,10,0,1,0,0,0,YES,NEEDS_REVIEW,映浦樹疑浮，入雲峰似滅
+tang:e1cc9e094ac2,五言翫花鶯一首,智藏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,43,39,40,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,桑門寡言晤，策杖事迎逢。 以此芳春節，忽值竹林風。 求友鶯嫣樹，含香花笑叢。 雖喜遨遊志，還媿乏雕蟲。 。
+tang:e426f685e44e,出家箴,窺基,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,428,364,325,16,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,捨家出家何所以，稽首空王求出離。 三師七證定初機，剃髮染衣發弘誓。 去貪嗔，除鄙悋，十二時中須謹慎。 鍊磨真性若虛空，自
+tang:e7cbc40a779d,上成汭（句）（《全唐詩》七一九誤作路德延）（荆南舊有五花館，待賓之上地也。故蔣肱,蔣肱,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,22,18,14,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,不是上台名姓字，五花賓館敢從容。 。
+tang:e85ca662488c,秋浦歌十七首 十七,李白,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,23,19,20,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,桃波一步地，了了語聲聞。 闇與山僧別，低頭禮白雲。
+tang:e887de35bd52,詠廿四氣詩 秋分八月中,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,33,29,30,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,琴彈南呂調，風色已高清。 雲[散]飄颻影，雷收振怒聲。 乾坤能靜肅，寒暑喜均平。
+tang:ead514ddd56b,晚次（一作「歇」）湘源縣,張泌,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,59,55,56,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,煙郭遙聞向晚雞，水平舟靜浪聲齊。 高林帶雨楊梅熟，曲岸籠雲謝豹啼。 二女廟荒汀樹老，九疑山碧楚天低。 湘南自古多離怨，莫
+tang:eaf71efab142,白雲向空盡（原注：《類詩》作焦郁。《全唐詩》五○五作焦郁詩〖1〗）,周存,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,156,132,3,0,1,0,0,0,YES,NEEDS_REVIEW,白雲生
+tang:eb2fa333bdc6,迴波樂 七十八,王梵志,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,43,39,40,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,前人敬吾重，吾敬前人深。 恩來即義往，未許却相尋。 有能賜白玉，吾亦奉黃金。 君看我莫落，還同陌路人。
+tang:eb6d13c4ef5a,過舊居,陳裕,MIXED_BODY_AND_NOTE,BODY_DELETED|NOTE_RETAINED,45,41,39,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,昔日顏回宅，今爲裹飯家。 不聞吟秀句，只見𫗕油麻。 豉汁鍋中沸，粕餻案上葩。 朝朝唯早起，檐從自排衙。
+tang:ec08a77ad06e,頌六十二首 十二,道世,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,106,98,80,2,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,建志誠心愚，高慕欣朋儔。 相與立弘誓，捨俗慕閑丘。 蕭散人物外，晃朗免綢繆。 寂寂求戒真，亹亹勵心柔。 警策修三業，激切
+tang:ed0e87c515e6,詠白鹽山（許太尉宗憲鎮寧江日，辟劉隱辭爲節度掌書記。宗憲武人，多爲恣橫，隱辭諫不,劉隱辭,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,59,55,56,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,占斷瞿塘一峽煙，危峯迥出衆峯前。 都緣頑梗揎浮世，遮莫崢嶸倚半天。 有樹只知引鳥雀，無雲不易駐神仙。 假饒突兀高千丈，爭
+tang:ee127008add0,兵要望江南 占日第十一（京本列第六○五十六首） 三十六,易靜,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,66,54,27,3,5,0,0,0,NO,SUPPORTED_RECONSTRUCTION,太陽畔，如鼠樹枝間。 又似雞形雙翅舉，看看洪水作爲難，移寨向高山。 。
+tang:f06a0bceb44f,木芙蓉,白居易,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,27,23,14,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,晚函秋霧誰相似，如玉佳人帶酒容。 。
+tang:f136b619469d,薛司空自青州歸朝,楊巨源,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,59,55,56,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,天眷君陳久在東，歸朝人看大司空。 黃河岸畔長無事，滄海東邊獨有功。 已變畏途成雅俗，仍過舊里揖秋風。 一門累葉凌煙閣，次
+tang:f46f0921b844,夜聽擣衣詩,楊泰師,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,194,186,166,2,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,霜天月照夜河明，客子思歸別有情。 厭坐長宵愁欲死，忽聞鄰女擣衣聲。 聲來繼續因風至，夜久星低無暫止。 自從別國不相聞，今
+tang:f4c4e9bbddd3,詠泥,李君武,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,171,167,32,0,1,0,0,0,YES,NEEDS_REVIEW,椒塗香氣溢，芝封璽文生。 色逐梨陽紫，名隨蜀道清。 一丸封漢塞，數斗濁秦涇。 不分
+tang:f710eaf06f8d,普照寺,李白,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,149,137,40,3,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,天台國清寺，天下爲四絕。 今到普照遊，到來復何別。 柟木白雲飛，高僧頂殘雪。 門外一條溪，幾回流歲月。
+tang:f719d7bf9f40,薔薇,元稹,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,26,22,14,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,千重密葉侵階綠，萬朵閑花向日紅。 。
+tang:f8a053479596,一鉢歌,一鉢和尚,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,1536,1265,13,0,1,0,0,0,YES,NEEDS_REVIEW,阿剌剌，鬧聒聒，總是悠悠造末撻。
+tang:f93468782e5d,對御歌,陳摶,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,178,174,86,0,1,0,0,0,YES,NEEDS_REVIEW,臣愛睡，臣愛睡，不臥氈，不蓋被。 片石枕頭，蓑衣鋪地，震雷掣電鬼神驚，臣當其時正酣睡。 閑思張郎，悶想范蠡，說甚孟德，休
+tang:f9559951f3f1,宗廟九德之歌辭,褚亮,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,129,109,15,0,1,0,0,0,YES,NEEDS_REVIEW,皇祖誕慶，於昭於天。 積德斯遠，茂緒攸
+tang:f9db0e56ec7b,迴波樂 八十四,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|NOTE_RETAINED,132,112,111,6,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,身體骨崖崖，面皮千道皺。 行時頭即低，策杖與人語。 眼中雙淚流，鼻涕垂入口。 腰似斷弦弓，引氣{口廋}喘急。 口裏無牙齒
+tang:fbf04460be3e,上亭驛（題擬）,羅隱,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,132,128,1,0,1,0,0,0,YES,NEEDS_REVIEW,細
+tang:fd7ddb01b34d,詩（幷序） 二十一,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,112,100,80,3,2,1,0,0,NO,SUPPORTED_RECONSTRUCTION,觀內有婦人，號名是女官。 各各服梳畋，悉帶芙蓉冠。 長裙並金色，橫披黃儭單。 朝朝步虛讚，道聲數千般。 貧無巡門乞，得穀
+tang:fdf4f315f5ae,道藏歌詩 十一,無名氏,EDITORIAL_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,50,46,20,1,1,0,0,0,NO,SUPPORTED_RECONSTRUCTION,玄挺自嘉會，金書東華名。 賢安密所戒，相期陽洛汧。 。
+tang:feed66803880,詩（幷序） 十二,王梵志,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,76,68,60,2,2,0,0,0,NO,SUPPORTED_RECONSTRUCTION,平坐歌舞處，無由更習曲。 琵琶絕巧聲，琴絃斷不續。 花帳後人眠，前人自薄福。 生坐七寶堂，死入土角觸。 喪車相勾牽，鬼朴
+caocao:0d724fceb1c4,龟虽寿,曹操,MIXED_BODY_AND_NOTE,BODY_DELETED|VARIANT_LOST|NOTE_REMOVED,60,56,56,1,0,0,0,0,NO,SUPPORTED_RECONSTRUCTION,神龟虽寿，犹有竟时。 腾蛇乘雾，终为土灰。 老骥伏枥，志在千里。 烈士暮年，壮心不已。 盈缩之期，不但在天； 养怡之福，

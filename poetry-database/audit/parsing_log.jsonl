@@ -1,0 +1,941 @@
+{"ts": "2026-11-12T23:30:45", "source_id": "CP-SHIJING", "path": "raw/poetry/shijing/shijing.json", "collection": "shijing", "status": "PARSED", "items": 305, "kept": 305, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:45", "source_id": "CP-CHUCI", "path": "raw/poetry/chuci/chuci.json", "collection": "chuci", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:45", "source_id": "CP-CAOCAO", "path": "raw/poetry/caocao/caocao.json", "collection": "caocao", "status": "PARSED", "items": 26, "kept": 26, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:45", "source_id": "CP-TANG300", "path": "raw/poetry/tang300/tangshisanbaishou.json", "collection": "tang300", "status": "PARSED", "items": 320, "kept": 320, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:45", "source_id": "CP-TANG-01", "path": "raw/poetry/tang/poet.tang.0.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:45", "source_id": "CP-TANG-02", "path": "raw/poetry/tang/poet.tang.1000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:45", "source_id": "CP-TANG-03", "path": "raw/poetry/tang/poet.tang.2000.json", "collection": "tang", "status": "PARSED", "items": 1002, "kept": 1001, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:46", "source_id": "CP-TANG-04", "path": "raw/poetry/tang/poet.tang.3000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:46", "source_id": "CP-TANG-05", "path": "raw/poetry/tang/poet.tang.4000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:46", "source_id": "CP-TANG-06", "path": "raw/poetry/tang/poet.tang.5000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:46", "source_id": "CP-TANG-07", "path": "raw/poetry/tang/poet.tang.6000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:46", "source_id": "CP-TANG-08", "path": "raw/poetry/tang/poet.tang.7000.json", "collection": "tang", "status": "PARSED", "items": 1003, "kept": 1003, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:46", "source_id": "CP-TANG-09", "path": "raw/poetry/tang/poet.tang.8000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:46", "source_id": "CP-TANG-10", "path": "raw/poetry/tang/poet.tang.9000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:47", "source_id": "CP-TANG-11", "path": "raw/poetry/tang/poet.tang.10000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:47", "source_id": "CP-TANG-12", "path": "raw/poetry/tang/poet.tang.11000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:47", "source_id": "CP-TANG-13", "path": "raw/poetry/tang/poet.tang.12000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:47", "source_id": "CP-TANG-14", "path": "raw/poetry/tang/poet.tang.13000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:47", "source_id": "CP-TANG-15", "path": "raw/poetry/tang/poet.tang.14000.json", "collection": "tang", "status": "PARSE_ERROR", "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"}
+{"ts": "2026-11-12T23:30:47", "source_id": "CP-TANG-16", "path": "raw/poetry/tang/poet.tang.15000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:47", "source_id": "CP-TANG-17", "path": "raw/poetry/tang/poet.tang.16000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:47", "source_id": "CP-TANG-18", "path": "raw/poetry/tang/poet.tang.17000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:48", "source_id": "CP-TANG-19", "path": "raw/poetry/tang/poet.tang.18000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:48", "source_id": "CP-TANG-20", "path": "raw/poetry/tang/poet.tang.19000.json", "collection": "tang", "status": "PARSED", "items": 1002, "kept": 1002, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:48", "source_id": "CP-TANG-21", "path": "raw/poetry/tang/poet.tang.20000.json", "collection": "tang", "status": "PARSED", "items": 1002, "kept": 1002, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:48", "source_id": "CP-TANG-22", "path": "raw/poetry/tang/poet.tang.21000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:48", "source_id": "CP-TANG-23", "path": "raw/poetry/tang/poet.tang.22000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:48", "source_id": "CP-TANG-24", "path": "raw/poetry/tang/poet.tang.23000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:49", "source_id": "CP-TANG-25", "path": "raw/poetry/tang/poet.tang.24000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:49", "source_id": "CP-TANG-26", "path": "raw/poetry/tang/poet.tang.25000.json", "collection": "tang", "status": "PARSED", "items": 1002, "kept": 1002, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:49", "source_id": "CP-TANG-27", "path": "raw/poetry/tang/poet.tang.26000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:49", "source_id": "CP-TANG-28", "path": "raw/poetry/tang/poet.tang.27000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:49", "source_id": "CP-TANG-29", "path": "raw/poetry/tang/poet.tang.28000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:49", "source_id": "CP-TANG-30", "path": "raw/poetry/tang/poet.tang.29000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:49", "source_id": "CP-TANG-31", "path": "raw/poetry/tang/poet.tang.30000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:49", "source_id": "CP-TANG-32", "path": "raw/poetry/tang/poet.tang.31000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:50", "source_id": "CP-TANG-33", "path": "raw/poetry/tang/poet.tang.32000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:50", "source_id": "CP-TANG-34", "path": "raw/poetry/tang/poet.tang.33000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:50", "source_id": "CP-TANG-35", "path": "raw/poetry/tang/poet.tang.34000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:50", "source_id": "CP-TANG-36", "path": "raw/poetry/tang/poet.tang.35000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:50", "source_id": "CP-TANG-37", "path": "raw/poetry/tang/poet.tang.36000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:50", "source_id": "CP-TANG-38", "path": "raw/poetry/tang/poet.tang.37000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:50", "source_id": "CP-TANG-39", "path": "raw/poetry/tang/poet.tang.38000.json", "collection": "tang", "status": "PARSED", "items": 1002, "kept": 1001, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-40", "path": "raw/poetry/tang/poet.tang.39000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-41", "path": "raw/poetry/tang/poet.tang.40000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-42", "path": "raw/poetry/tang/poet.tang.41000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-43", "path": "raw/poetry/tang/poet.tang.42000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-44", "path": "raw/poetry/tang/poet.tang.43000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-45", "path": "raw/poetry/tang/poet.tang.44000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-46", "path": "raw/poetry/tang/poet.tang.45000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-47", "path": "raw/poetry/tang/poet.tang.46000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:51", "source_id": "CP-TANG-48", "path": "raw/poetry/tang/poet.tang.47000.json", "collection": "tang", "status": "PARSED", "items": 1001, "kept": 999, "skipped_short": 2}
+{"ts": "2026-11-12T23:30:52", "source_id": "CP-TANG-49", "path": "raw/poetry/tang/poet.tang.48000.json", "collection": "tang", "status": "PARSED", "items": 997, "kept": 934, "skipped_short": 63}
+{"ts": "2026-11-12T23:30:52", "source_id": "CP-TANG-50", "path": "raw/poetry/tang/poet.tang.49000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:52", "source_id": "CP-TANG-51", "path": "raw/poetry/tang/poet.tang.50000.json", "collection": "tang", "status": "PARSED", "items": 999, "kept": 961, "skipped_short": 38}
+{"ts": "2026-11-12T23:30:52", "source_id": "CP-TANG-52", "path": "raw/poetry/tang/poet.tang.51000.json", "collection": "tang", "status": "PARSED", "items": 997, "kept": 941, "skipped_short": 56}
+{"ts": "2026-11-12T23:30:52", "source_id": "CP-TANG-53", "path": "raw/poetry/tang/poet.tang.52000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 975, "skipped_short": 25}
+{"ts": "2026-11-12T23:30:52", "source_id": "CP-TANG-54", "path": "raw/poetry/tang/poet.tang.53000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 963, "skipped_short": 37}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-TANG-55", "path": "raw/poetry/tang/poet.tang.54000.json", "collection": "tang", "status": "PARSED", "items": 1000, "kept": 980, "skipped_short": 20}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-TANG-56", "path": "raw/poetry/tang/poet.tang.55000.json", "collection": "tang", "status": "PARSED", "items": 999, "kept": 958, "skipped_short": 41}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-TANG-57", "path": "raw/poetry/tang/poet.tang.56000.json", "collection": "tang", "status": "PARSE_ERROR", "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-TANG-58", "path": "raw/poetry/tang/poet.tang.57000.json", "collection": "tang", "status": "PARSED", "items": 591, "kept": 582, "skipped_short": 9}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-SONGSHI-001", "path": "raw/poetry/songshi/poet.song.0.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 988, "skipped_short": 12}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-SONGSHI-002", "path": "raw/poetry/songshi/poet.song.1000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-SONGSHI-003", "path": "raw/poetry/songshi/poet.song.2000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 974, "skipped_short": 26}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-SONGSHI-004", "path": "raw/poetry/songshi/poet.song.3000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 982, "skipped_short": 18}
+{"ts": "2026-11-12T23:30:53", "source_id": "CP-SONGSHI-005", "path": "raw/poetry/songshi/poet.song.4000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 980, "skipped_short": 20}
+{"ts": "2026-11-12T23:30:54", "source_id": "CP-SONGSHI-006", "path": "raw/poetry/songshi/poet.song.5000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 982, "skipped_short": 18}
+{"ts": "2026-11-12T23:30:54", "source_id": "CP-SONGSHI-007", "path": "raw/poetry/songshi/poet.song.6000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 991, "skipped_short": 9}
+{"ts": "2026-11-12T23:30:54", "source_id": "CP-SONGSHI-008", "path": "raw/poetry/songshi/poet.song.7000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 989, "skipped_short": 11}
+{"ts": "2026-11-12T23:30:54", "source_id": "CP-SONGSHI-009", "path": "raw/poetry/songshi/poet.song.8000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:30:54", "source_id": "CP-SONGSHI-010", "path": "raw/poetry/songshi/poet.song.9000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 969, "skipped_short": 31}
+{"ts": "2026-11-12T23:30:54", "source_id": "CP-SONGSHI-011", "path": "raw/poetry/songshi/poet.song.10000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:30:54", "source_id": "CP-SONGSHI-012", "path": "raw/poetry/songshi/poet.song.11000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 993, "skipped_short": 7}
+{"ts": "2026-11-12T23:30:54", "source_id": "CP-SONGSHI-013", "path": "raw/poetry/songshi/poet.song.12000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 991, "skipped_short": 9}
+{"ts": "2026-11-12T23:30:55", "source_id": "CP-SONGSHI-014", "path": "raw/poetry/songshi/poet.song.13000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:55", "source_id": "CP-SONGSHI-015", "path": "raw/poetry/songshi/poet.song.14000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:30:55", "source_id": "CP-SONGSHI-016", "path": "raw/poetry/songshi/poet.song.15000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:55", "source_id": "CP-SONGSHI-017", "path": "raw/poetry/songshi/poet.song.16000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 994, "skipped_short": 6}
+{"ts": "2026-11-12T23:30:55", "source_id": "CP-SONGSHI-018", "path": "raw/poetry/songshi/poet.song.17000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:30:55", "source_id": "CP-SONGSHI-019", "path": "raw/poetry/songshi/poet.song.18000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:56", "source_id": "CP-SONGSHI-020", "path": "raw/poetry/songshi/poet.song.19000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:56", "source_id": "CP-SONGSHI-021", "path": "raw/poetry/songshi/poet.song.20000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 986, "skipped_short": 15}
+{"ts": "2026-11-12T23:30:56", "source_id": "CP-SONGSHI-022", "path": "raw/poetry/songshi/poet.song.21000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:56", "source_id": "CP-SONGSHI-023", "path": "raw/poetry/songshi/poet.song.22000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:56", "source_id": "CP-SONGSHI-024", "path": "raw/poetry/songshi/poet.song.23000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 983, "skipped_short": 17}
+{"ts": "2026-11-12T23:30:56", "source_id": "CP-SONGSHI-025", "path": "raw/poetry/songshi/poet.song.24000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:30:56", "source_id": "CP-SONGSHI-026", "path": "raw/poetry/songshi/poet.song.25000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 993, "skipped_short": 7}
+{"ts": "2026-11-12T23:30:56", "source_id": "CP-SONGSHI-027", "path": "raw/poetry/songshi/poet.song.26000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 995, "skipped_short": 6}
+{"ts": "2026-11-12T23:30:57", "source_id": "CP-SONGSHI-028", "path": "raw/poetry/songshi/poet.song.27000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:57", "source_id": "CP-SONGSHI-029", "path": "raw/poetry/songshi/poet.song.28000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:57", "source_id": "CP-SONGSHI-030", "path": "raw/poetry/songshi/poet.song.29000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:30:57", "source_id": "CP-SONGSHI-031", "path": "raw/poetry/songshi/poet.song.30000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 987, "skipped_short": 13}
+{"ts": "2026-11-12T23:30:57", "source_id": "CP-SONGSHI-032", "path": "raw/poetry/songshi/poet.song.31000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:57", "source_id": "CP-SONGSHI-033", "path": "raw/poetry/songshi/poet.song.32000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:57", "source_id": "CP-SONGSHI-034", "path": "raw/poetry/songshi/poet.song.33000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 989, "skipped_short": 11}
+{"ts": "2026-11-12T23:30:58", "source_id": "CP-SONGSHI-035", "path": "raw/poetry/songshi/poet.song.34000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:30:58", "source_id": "CP-SONGSHI-036", "path": "raw/poetry/songshi/poet.song.35000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 994, "skipped_short": 6}
+{"ts": "2026-11-12T23:30:58", "source_id": "CP-SONGSHI-037", "path": "raw/poetry/songshi/poet.song.36000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 991, "skipped_short": 9}
+{"ts": "2026-11-12T23:30:58", "source_id": "CP-SONGSHI-038", "path": "raw/poetry/songshi/poet.song.37000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 994, "skipped_short": 6}
+{"ts": "2026-11-12T23:30:58", "source_id": "CP-SONGSHI-039", "path": "raw/poetry/songshi/poet.song.38000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:30:58", "source_id": "CP-SONGSHI-040", "path": "raw/poetry/songshi/poet.song.39000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 989, "skipped_short": 11}
+{"ts": "2026-11-12T23:30:59", "source_id": "CP-SONGSHI-041", "path": "raw/poetry/songshi/poet.song.40000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 993, "skipped_short": 7}
+{"ts": "2026-11-12T23:30:59", "source_id": "CP-SONGSHI-042", "path": "raw/poetry/songshi/poet.song.41000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:30:59", "source_id": "CP-SONGSHI-043", "path": "raw/poetry/songshi/poet.song.42000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:30:59", "source_id": "CP-SONGSHI-044", "path": "raw/poetry/songshi/poet.song.43000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:30:59", "source_id": "CP-SONGSHI-045", "path": "raw/poetry/songshi/poet.song.44000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:30:59", "source_id": "CP-SONGSHI-046", "path": "raw/poetry/songshi/poet.song.45000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:00", "source_id": "CP-SONGSHI-047", "path": "raw/poetry/songshi/poet.song.46000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 987, "skipped_short": 13}
+{"ts": "2026-11-12T23:31:00", "source_id": "CP-SONGSHI-048", "path": "raw/poetry/songshi/poet.song.47000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 991, "skipped_short": 9}
+{"ts": "2026-11-12T23:31:00", "source_id": "CP-SONGSHI-049", "path": "raw/poetry/songshi/poet.song.48000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:00", "source_id": "CP-SONGSHI-050", "path": "raw/poetry/songshi/poet.song.49000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:00", "source_id": "CP-SONGSHI-051", "path": "raw/poetry/songshi/poet.song.50000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 993, "skipped_short": 7}
+{"ts": "2026-11-12T23:31:00", "source_id": "CP-SONGSHI-052", "path": "raw/poetry/songshi/poet.song.51000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:00", "source_id": "CP-SONGSHI-053", "path": "raw/poetry/songshi/poet.song.52000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:01", "source_id": "CP-SONGSHI-054", "path": "raw/poetry/songshi/poet.song.53000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 1000, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:01", "source_id": "CP-SONGSHI-055", "path": "raw/poetry/songshi/poet.song.54000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 994, "skipped_short": 6}
+{"ts": "2026-11-12T23:31:01", "source_id": "CP-SONGSHI-056", "path": "raw/poetry/songshi/poet.song.55000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:01", "source_id": "CP-SONGSHI-057", "path": "raw/poetry/songshi/poet.song.56000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:01", "source_id": "CP-SONGSHI-058", "path": "raw/poetry/songshi/poet.song.57000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:01", "source_id": "CP-SONGSHI-059", "path": "raw/poetry/songshi/poet.song.58000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 984, "skipped_short": 16}
+{"ts": "2026-11-12T23:31:01", "source_id": "CP-SONGSHI-060", "path": "raw/poetry/songshi/poet.song.59000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:02", "source_id": "CP-SONGSHI-061", "path": "raw/poetry/songshi/poet.song.60000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 988, "skipped_short": 12}
+{"ts": "2026-11-12T23:31:02", "source_id": "CP-SONGSHI-062", "path": "raw/poetry/songshi/poet.song.61000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:02", "source_id": "CP-SONGSHI-063", "path": "raw/poetry/songshi/poet.song.62000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:02", "source_id": "CP-SONGSHI-064", "path": "raw/poetry/songshi/poet.song.63000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:02", "source_id": "CP-SONGSHI-065", "path": "raw/poetry/songshi/poet.song.64000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:02", "source_id": "CP-SONGSHI-066", "path": "raw/poetry/songshi/poet.song.65000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:03", "source_id": "CP-SONGSHI-067", "path": "raw/poetry/songshi/poet.song.66000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 985, "skipped_short": 15}
+{"ts": "2026-11-12T23:31:03", "source_id": "CP-SONGSHI-068", "path": "raw/poetry/songshi/poet.song.67000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 987, "skipped_short": 13}
+{"ts": "2026-11-12T23:31:03", "source_id": "CP-SONGSHI-069", "path": "raw/poetry/songshi/poet.song.68000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:03", "source_id": "CP-SONGSHI-070", "path": "raw/poetry/songshi/poet.song.69000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:03", "source_id": "CP-SONGSHI-071", "path": "raw/poetry/songshi/poet.song.70000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:03", "source_id": "CP-SONGSHI-072", "path": "raw/poetry/songshi/poet.song.71000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 993, "skipped_short": 7}
+{"ts": "2026-11-12T23:31:03", "source_id": "CP-SONGSHI-073", "path": "raw/poetry/songshi/poet.song.72000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:31:04", "source_id": "CP-SONGSHI-074", "path": "raw/poetry/songshi/poet.song.73000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 945, "skipped_short": 55}
+{"ts": "2026-11-12T23:31:04", "source_id": "CP-SONGSHI-075", "path": "raw/poetry/songshi/poet.song.74000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 990, "skipped_short": 10}
+{"ts": "2026-11-12T23:31:04", "source_id": "CP-SONGSHI-076", "path": "raw/poetry/songshi/poet.song.75000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 978, "skipped_short": 22}
+{"ts": "2026-11-12T23:31:04", "source_id": "CP-SONGSHI-077", "path": "raw/poetry/songshi/poet.song.76000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:04", "source_id": "CP-SONGSHI-078", "path": "raw/poetry/songshi/poet.song.77000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:04", "source_id": "CP-SONGSHI-079", "path": "raw/poetry/songshi/poet.song.78000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:04", "source_id": "CP-SONGSHI-080", "path": "raw/poetry/songshi/poet.song.79000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 957, "skipped_short": 43}
+{"ts": "2026-11-12T23:31:05", "source_id": "CP-SONGSHI-081", "path": "raw/poetry/songshi/poet.song.80000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 977, "skipped_short": 24}
+{"ts": "2026-11-12T23:31:05", "source_id": "CP-SONGSHI-082", "path": "raw/poetry/songshi/poet.song.81000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 993, "skipped_short": 7}
+{"ts": "2026-11-12T23:31:05", "source_id": "CP-SONGSHI-083", "path": "raw/poetry/songshi/poet.song.82000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:05", "source_id": "CP-SONGSHI-084", "path": "raw/poetry/songshi/poet.song.83000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:05", "source_id": "CP-SONGSHI-085", "path": "raw/poetry/songshi/poet.song.84000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 991, "skipped_short": 9}
+{"ts": "2026-11-12T23:31:05", "source_id": "CP-SONGSHI-086", "path": "raw/poetry/songshi/poet.song.85000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 982, "skipped_short": 18}
+{"ts": "2026-11-12T23:31:05", "source_id": "CP-SONGSHI-087", "path": "raw/poetry/songshi/poet.song.86000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:06", "source_id": "CP-SONGSHI-088", "path": "raw/poetry/songshi/poet.song.87000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:06", "source_id": "CP-SONGSHI-089", "path": "raw/poetry/songshi/poet.song.88000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:06", "source_id": "CP-SONGSHI-090", "path": "raw/poetry/songshi/poet.song.89000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:06", "source_id": "CP-SONGSHI-091", "path": "raw/poetry/songshi/poet.song.90000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 990, "skipped_short": 10}
+{"ts": "2026-11-12T23:31:06", "source_id": "CP-SONGSHI-092", "path": "raw/poetry/songshi/poet.song.91000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 986, "skipped_short": 14}
+{"ts": "2026-11-12T23:31:06", "source_id": "CP-SONGSHI-093", "path": "raw/poetry/songshi/poet.song.92000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:06", "source_id": "CP-SONGSHI-094", "path": "raw/poetry/songshi/poet.song.93000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:31:07", "source_id": "CP-SONGSHI-095", "path": "raw/poetry/songshi/poet.song.94000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:31:07", "source_id": "CP-SONGSHI-096", "path": "raw/poetry/songshi/poet.song.95000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:07", "source_id": "CP-SONGSHI-097", "path": "raw/poetry/songshi/poet.song.96000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:07", "source_id": "CP-SONGSHI-098", "path": "raw/poetry/songshi/poet.song.97000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:07", "source_id": "CP-SONGSHI-099", "path": "raw/poetry/songshi/poet.song.98000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:07", "source_id": "CP-SONGSHI-100", "path": "raw/poetry/songshi/poet.song.99000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:07", "source_id": "CP-SONGSHI-101", "path": "raw/poetry/songshi/poet.song.100000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:08", "source_id": "CP-SONGSHI-102", "path": "raw/poetry/songshi/poet.song.101000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:08", "source_id": "CP-SONGSHI-103", "path": "raw/poetry/songshi/poet.song.102000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:08", "source_id": "CP-SONGSHI-104", "path": "raw/poetry/songshi/poet.song.103000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 986, "skipped_short": 14}
+{"ts": "2026-11-12T23:31:08", "source_id": "CP-SONGSHI-105", "path": "raw/poetry/songshi/poet.song.104000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:08", "source_id": "CP-SONGSHI-106", "path": "raw/poetry/songshi/poet.song.105000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:08", "source_id": "CP-SONGSHI-107", "path": "raw/poetry/songshi/poet.song.106000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 883, "skipped_short": 117}
+{"ts": "2026-11-12T23:31:08", "source_id": "CP-SONGSHI-108", "path": "raw/poetry/songshi/poet.song.107000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:08", "source_id": "CP-SONGSHI-109", "path": "raw/poetry/songshi/poet.song.108000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:09", "source_id": "CP-SONGSHI-110", "path": "raw/poetry/songshi/poet.song.109000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:09", "source_id": "CP-SONGSHI-111", "path": "raw/poetry/songshi/poet.song.110000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 994, "skipped_short": 6}
+{"ts": "2026-11-12T23:31:09", "source_id": "CP-SONGSHI-112", "path": "raw/poetry/songshi/poet.song.111000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:31:09", "source_id": "CP-SONGSHI-113", "path": "raw/poetry/songshi/poet.song.112000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:09", "source_id": "CP-SONGSHI-114", "path": "raw/poetry/songshi/poet.song.113000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:09", "source_id": "CP-SONGSHI-115", "path": "raw/poetry/songshi/poet.song.114000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:09", "source_id": "CP-SONGSHI-116", "path": "raw/poetry/songshi/poet.song.115000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:10", "source_id": "CP-SONGSHI-117", "path": "raw/poetry/songshi/poet.song.116000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:10", "source_id": "CP-SONGSHI-118", "path": "raw/poetry/songshi/poet.song.117000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 966, "skipped_short": 34}
+{"ts": "2026-11-12T23:31:10", "source_id": "CP-SONGSHI-119", "path": "raw/poetry/songshi/poet.song.118000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:10", "source_id": "CP-SONGSHI-120", "path": "raw/poetry/songshi/poet.song.119000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:10", "source_id": "CP-SONGSHI-121", "path": "raw/poetry/songshi/poet.song.120000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 983, "skipped_short": 18}
+{"ts": "2026-11-12T23:31:10", "source_id": "CP-SONGSHI-122", "path": "raw/poetry/songshi/poet.song.121000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:10", "source_id": "CP-SONGSHI-123", "path": "raw/poetry/songshi/poet.song.122000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:31:11", "source_id": "CP-SONGSHI-124", "path": "raw/poetry/songshi/poet.song.123000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 1001, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:11", "source_id": "CP-SONGSHI-125", "path": "raw/poetry/songshi/poet.song.124000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:11", "source_id": "CP-SONGSHI-126", "path": "raw/poetry/songshi/poet.song.125000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:11", "source_id": "CP-SONGSHI-127", "path": "raw/poetry/songshi/poet.song.126000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:11", "source_id": "CP-SONGSHI-128", "path": "raw/poetry/songshi/poet.song.127000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:11", "source_id": "CP-SONGSHI-129", "path": "raw/poetry/songshi/poet.song.128000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:11", "source_id": "CP-SONGSHI-130", "path": "raw/poetry/songshi/poet.song.129000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:11", "source_id": "CP-SONGSHI-131", "path": "raw/poetry/songshi/poet.song.130000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:12", "source_id": "CP-SONGSHI-132", "path": "raw/poetry/songshi/poet.song.131000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:12", "source_id": "CP-SONGSHI-133", "path": "raw/poetry/songshi/poet.song.132000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:12", "source_id": "CP-SONGSHI-134", "path": "raw/poetry/songshi/poet.song.133000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:12", "source_id": "CP-SONGSHI-135", "path": "raw/poetry/songshi/poet.song.134000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:12", "source_id": "CP-SONGSHI-136", "path": "raw/poetry/songshi/poet.song.135000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:12", "source_id": "CP-SONGSHI-137", "path": "raw/poetry/songshi/poet.song.136000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:12", "source_id": "CP-SONGSHI-138", "path": "raw/poetry/songshi/poet.song.137000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:13", "source_id": "CP-SONGSHI-139", "path": "raw/poetry/songshi/poet.song.138000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:13", "source_id": "CP-SONGSHI-140", "path": "raw/poetry/songshi/poet.song.139000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:13", "source_id": "CP-SONGSHI-141", "path": "raw/poetry/songshi/poet.song.140000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:13", "source_id": "CP-SONGSHI-142", "path": "raw/poetry/songshi/poet.song.141000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:13", "source_id": "CP-SONGSHI-143", "path": "raw/poetry/songshi/poet.song.142000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:13", "source_id": "CP-SONGSHI-144", "path": "raw/poetry/songshi/poet.song.143000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:13", "source_id": "CP-SONGSHI-145", "path": "raw/poetry/songshi/poet.song.144000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:13", "source_id": "CP-SONGSHI-146", "path": "raw/poetry/songshi/poet.song.145000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:14", "source_id": "CP-SONGSHI-147", "path": "raw/poetry/songshi/poet.song.146000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:14", "source_id": "CP-SONGSHI-148", "path": "raw/poetry/songshi/poet.song.147000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:14", "source_id": "CP-SONGSHI-149", "path": "raw/poetry/songshi/poet.song.148000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 993, "skipped_short": 7}
+{"ts": "2026-11-12T23:31:14", "source_id": "CP-SONGSHI-150", "path": "raw/poetry/songshi/poet.song.149000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:14", "source_id": "CP-SONGSHI-151", "path": "raw/poetry/songshi/poet.song.150000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:14", "source_id": "CP-SONGSHI-152", "path": "raw/poetry/songshi/poet.song.151000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:14", "source_id": "CP-SONGSHI-153", "path": "raw/poetry/songshi/poet.song.152000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:14", "source_id": "CP-SONGSHI-154", "path": "raw/poetry/songshi/poet.song.153000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 991, "skipped_short": 9}
+{"ts": "2026-11-12T23:31:15", "source_id": "CP-SONGSHI-155", "path": "raw/poetry/songshi/poet.song.154000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:15", "source_id": "CP-SONGSHI-156", "path": "raw/poetry/songshi/poet.song.155000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:15", "source_id": "CP-SONGSHI-157", "path": "raw/poetry/songshi/poet.song.156000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:15", "source_id": "CP-SONGSHI-158", "path": "raw/poetry/songshi/poet.song.157000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:15", "source_id": "CP-SONGSHI-159", "path": "raw/poetry/songshi/poet.song.158000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:15", "source_id": "CP-SONGSHI-160", "path": "raw/poetry/songshi/poet.song.159000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:15", "source_id": "CP-SONGSHI-161", "path": "raw/poetry/songshi/poet.song.160000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:16", "source_id": "CP-SONGSHI-162", "path": "raw/poetry/songshi/poet.song.161000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 989, "skipped_short": 11}
+{"ts": "2026-11-12T23:31:16", "source_id": "CP-SONGSHI-163", "path": "raw/poetry/songshi/poet.song.162000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 990, "skipped_short": 10}
+{"ts": "2026-11-12T23:31:16", "source_id": "CP-SONGSHI-164", "path": "raw/poetry/songshi/poet.song.163000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:16", "source_id": "CP-SONGSHI-165", "path": "raw/poetry/songshi/poet.song.164000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:16", "source_id": "CP-SONGSHI-166", "path": "raw/poetry/songshi/poet.song.165000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:16", "source_id": "CP-SONGSHI-167", "path": "raw/poetry/songshi/poet.song.166000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:16", "source_id": "CP-SONGSHI-168", "path": "raw/poetry/songshi/poet.song.167000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:17", "source_id": "CP-SONGSHI-169", "path": "raw/poetry/songshi/poet.song.168000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 969, "skipped_short": 31}
+{"ts": "2026-11-12T23:31:17", "source_id": "CP-SONGSHI-170", "path": "raw/poetry/songshi/poet.song.169000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 944, "skipped_short": 56}
+{"ts": "2026-11-12T23:31:17", "source_id": "CP-SONGSHI-171", "path": "raw/poetry/songshi/poet.song.170000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 989, "skipped_short": 11}
+{"ts": "2026-11-12T23:31:17", "source_id": "CP-SONGSHI-172", "path": "raw/poetry/songshi/poet.song.171000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 990, "skipped_short": 10}
+{"ts": "2026-11-12T23:31:17", "source_id": "CP-SONGSHI-173", "path": "raw/poetry/songshi/poet.song.172000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:17", "source_id": "CP-SONGSHI-174", "path": "raw/poetry/songshi/poet.song.173000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 991, "skipped_short": 9}
+{"ts": "2026-11-12T23:31:17", "source_id": "CP-SONGSHI-175", "path": "raw/poetry/songshi/poet.song.174000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 993, "skipped_short": 7}
+{"ts": "2026-11-12T23:31:17", "source_id": "CP-SONGSHI-176", "path": "raw/poetry/songshi/poet.song.175000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:18", "source_id": "CP-SONGSHI-177", "path": "raw/poetry/songshi/poet.song.176000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:18", "source_id": "CP-SONGSHI-178", "path": "raw/poetry/songshi/poet.song.177000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:18", "source_id": "CP-SONGSHI-179", "path": "raw/poetry/songshi/poet.song.178000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 986, "skipped_short": 14}
+{"ts": "2026-11-12T23:31:18", "source_id": "CP-SONGSHI-180", "path": "raw/poetry/songshi/poet.song.179000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:18", "source_id": "CP-SONGSHI-181", "path": "raw/poetry/songshi/poet.song.180000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:18", "source_id": "CP-SONGSHI-182", "path": "raw/poetry/songshi/poet.song.181000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:18", "source_id": "CP-SONGSHI-183", "path": "raw/poetry/songshi/poet.song.182000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:18", "source_id": "CP-SONGSHI-184", "path": "raw/poetry/songshi/poet.song.183000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 985, "skipped_short": 15}
+{"ts": "2026-11-12T23:31:19", "source_id": "CP-SONGSHI-185", "path": "raw/poetry/songshi/poet.song.184000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 994, "skipped_short": 6}
+{"ts": "2026-11-12T23:31:19", "source_id": "CP-SONGSHI-186", "path": "raw/poetry/songshi/poet.song.185000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:19", "source_id": "CP-SONGSHI-187", "path": "raw/poetry/songshi/poet.song.186000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:19", "source_id": "CP-SONGSHI-188", "path": "raw/poetry/songshi/poet.song.187000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:19", "source_id": "CP-SONGSHI-189", "path": "raw/poetry/songshi/poet.song.188000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:19", "source_id": "CP-SONGSHI-190", "path": "raw/poetry/songshi/poet.song.189000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:19", "source_id": "CP-SONGSHI-191", "path": "raw/poetry/songshi/poet.song.190000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:20", "source_id": "CP-SONGSHI-192", "path": "raw/poetry/songshi/poet.song.191000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:20", "source_id": "CP-SONGSHI-193", "path": "raw/poetry/songshi/poet.song.192000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 955, "skipped_short": 46}
+{"ts": "2026-11-12T23:31:20", "source_id": "CP-SONGSHI-194", "path": "raw/poetry/songshi/poet.song.193000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:20", "source_id": "CP-SONGSHI-195", "path": "raw/poetry/songshi/poet.song.194000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:20", "source_id": "CP-SONGSHI-196", "path": "raw/poetry/songshi/poet.song.195000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:20", "source_id": "CP-SONGSHI-197", "path": "raw/poetry/songshi/poet.song.196000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:20", "source_id": "CP-SONGSHI-198", "path": "raw/poetry/songshi/poet.song.197000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-199", "path": "raw/poetry/songshi/poet.song.198000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-200", "path": "raw/poetry/songshi/poet.song.199000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-201", "path": "raw/poetry/songshi/poet.song.200000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-202", "path": "raw/poetry/songshi/poet.song.201000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-203", "path": "raw/poetry/songshi/poet.song.202000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-204", "path": "raw/poetry/songshi/poet.song.203000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-205", "path": "raw/poetry/songshi/poet.song.204000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-206", "path": "raw/poetry/songshi/poet.song.205000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:21", "source_id": "CP-SONGSHI-207", "path": "raw/poetry/songshi/poet.song.206000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:22", "source_id": "CP-SONGSHI-208", "path": "raw/poetry/songshi/poet.song.207000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:22", "source_id": "CP-SONGSHI-209", "path": "raw/poetry/songshi/poet.song.208000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 981, "skipped_short": 19}
+{"ts": "2026-11-12T23:31:22", "source_id": "CP-SONGSHI-210", "path": "raw/poetry/songshi/poet.song.209000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 1000, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:22", "source_id": "CP-SONGSHI-211", "path": "raw/poetry/songshi/poet.song.210000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 994, "skipped_short": 6}
+{"ts": "2026-11-12T23:31:22", "source_id": "CP-SONGSHI-212", "path": "raw/poetry/songshi/poet.song.211000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:22", "source_id": "CP-SONGSHI-213", "path": "raw/poetry/songshi/poet.song.212000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:22", "source_id": "CP-SONGSHI-214", "path": "raw/poetry/songshi/poet.song.213000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:22", "source_id": "CP-SONGSHI-215", "path": "raw/poetry/songshi/poet.song.214000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:23", "source_id": "CP-SONGSHI-216", "path": "raw/poetry/songshi/poet.song.215000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:23", "source_id": "CP-SONGSHI-217", "path": "raw/poetry/songshi/poet.song.216000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:23", "source_id": "CP-SONGSHI-218", "path": "raw/poetry/songshi/poet.song.217000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:23", "source_id": "CP-SONGSHI-219", "path": "raw/poetry/songshi/poet.song.218000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:23", "source_id": "CP-SONGSHI-220", "path": "raw/poetry/songshi/poet.song.219000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:23", "source_id": "CP-SONGSHI-221", "path": "raw/poetry/songshi/poet.song.220000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:23", "source_id": "CP-SONGSHI-222", "path": "raw/poetry/songshi/poet.song.221000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:23", "source_id": "CP-SONGSHI-223", "path": "raw/poetry/songshi/poet.song.222000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:24", "source_id": "CP-SONGSHI-224", "path": "raw/poetry/songshi/poet.song.223000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:24", "source_id": "CP-SONGSHI-225", "path": "raw/poetry/songshi/poet.song.224000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:24", "source_id": "CP-SONGSHI-226", "path": "raw/poetry/songshi/poet.song.225000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:24", "source_id": "CP-SONGSHI-227", "path": "raw/poetry/songshi/poet.song.226000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:24", "source_id": "CP-SONGSHI-228", "path": "raw/poetry/songshi/poet.song.227000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:24", "source_id": "CP-SONGSHI-229", "path": "raw/poetry/songshi/poet.song.228000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:24", "source_id": "CP-SONGSHI-230", "path": "raw/poetry/songshi/poet.song.229000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:24", "source_id": "CP-SONGSHI-231", "path": "raw/poetry/songshi/poet.song.230000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:25", "source_id": "CP-SONGSHI-232", "path": "raw/poetry/songshi/poet.song.231000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:25", "source_id": "CP-SONGSHI-233", "path": "raw/poetry/songshi/poet.song.232000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:25", "source_id": "CP-SONGSHI-234", "path": "raw/poetry/songshi/poet.song.233000.json", "collection": "songshi", "status": "PARSED", "items": 1001, "kept": 999, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:25", "source_id": "CP-SONGSHI-235", "path": "raw/poetry/songshi/poet.song.234000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 992, "skipped_short": 8}
+{"ts": "2026-11-12T23:31:25", "source_id": "CP-SONGSHI-236", "path": "raw/poetry/songshi/poet.song.235000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:25", "source_id": "CP-SONGSHI-237", "path": "raw/poetry/songshi/poet.song.236000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:25", "source_id": "CP-SONGSHI-238", "path": "raw/poetry/songshi/poet.song.237000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:26", "source_id": "CP-SONGSHI-239", "path": "raw/poetry/songshi/poet.song.238000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:26", "source_id": "CP-SONGSHI-240", "path": "raw/poetry/songshi/poet.song.239000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:26", "source_id": "CP-SONGSHI-241", "path": "raw/poetry/songshi/poet.song.240000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:26", "source_id": "CP-SONGSHI-242", "path": "raw/poetry/songshi/poet.song.241000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:26", "source_id": "CP-SONGSHI-243", "path": "raw/poetry/songshi/poet.song.242000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:26", "source_id": "CP-SONGSHI-244", "path": "raw/poetry/songshi/poet.song.243000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:26", "source_id": "CP-SONGSHI-245", "path": "raw/poetry/songshi/poet.song.244000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:26", "source_id": "CP-SONGSHI-246", "path": "raw/poetry/songshi/poet.song.245000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:27", "source_id": "CP-SONGSHI-247", "path": "raw/poetry/songshi/poet.song.246000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:27", "source_id": "CP-SONGSHI-248", "path": "raw/poetry/songshi/poet.song.247000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:27", "source_id": "CP-SONGSHI-249", "path": "raw/poetry/songshi/poet.song.248000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:27", "source_id": "CP-SONGSHI-250", "path": "raw/poetry/songshi/poet.song.249000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:27", "source_id": "CP-SONGSHI-251", "path": "raw/poetry/songshi/poet.song.250000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:27", "source_id": "CP-SONGSHI-252", "path": "raw/poetry/songshi/poet.song.251000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 988, "skipped_short": 12}
+{"ts": "2026-11-12T23:31:27", "source_id": "CP-SONGSHI-253", "path": "raw/poetry/songshi/poet.song.252000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 989, "skipped_short": 11}
+{"ts": "2026-11-12T23:31:27", "source_id": "CP-SONGSHI-254", "path": "raw/poetry/songshi/poet.song.253000.json", "collection": "songshi", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGSHI-255", "path": "raw/poetry/songshi/poet.song.254000.json", "collection": "songshi", "status": "PARSED", "items": 237, "kept": 236, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-01", "path": "raw/poetry/songci/ci.song.0.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 994, "skipped_short": 6}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-02", "path": "raw/poetry/songci/ci.song.1000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 990, "skipped_short": 10}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-03", "path": "raw/poetry/songci/ci.song.2000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-04", "path": "raw/poetry/songci/ci.song.3000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 996, "skipped_short": 4}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-05", "path": "raw/poetry/songci/ci.song.4000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 999, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-06", "path": "raw/poetry/songci/ci.song.5000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-07", "path": "raw/poetry/songci/ci.song.6000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-08", "path": "raw/poetry/songci/ci.song.7000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-09", "path": "raw/poetry/songci/ci.song.8000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 995, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:28", "source_id": "CP-SONGCI-10", "path": "raw/poetry/songci/ci.song.9000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-11", "path": "raw/poetry/songci/ci.song.10000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-12", "path": "raw/poetry/songci/ci.song.11000.json", "collection": "songci", "status": "PARSE_ERROR", "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-13", "path": "raw/poetry/songci/ci.song.12000.json", "collection": "songci", "status": "PARSE_ERROR", "error": "UnicodeDecodeError: 'utf-8' codec can't decode bytes in position 114686-114687: unexpected end of data"}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-14", "path": "raw/poetry/songci/ci.song.13000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-15", "path": "raw/poetry/songci/ci.song.14000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-16", "path": "raw/poetry/songci/ci.song.15000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 1000, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-17", "path": "raw/poetry/songci/ci.song.16000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 997, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-18", "path": "raw/poetry/songci/ci.song.17000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 998, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-19", "path": "raw/poetry/songci/ci.song.18000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 991, "skipped_short": 9}
+{"ts": "2026-11-12T23:31:29", "source_id": "CP-SONGCI-20", "path": "raw/poetry/songci/ci.song.19000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 821, "skipped_short": 179}
+{"ts": "2026-11-12T23:31:30", "source_id": "CP-SONGCI-21", "path": "raw/poetry/songci/ci.song.20000.json", "collection": "songci", "status": "PARSED", "items": 1000, "kept": 988, "skipped_short": 12}
+{"ts": "2026-11-12T23:31:30", "source_id": "CP-SONGCI-22", "path": "raw/poetry/songci/ci.song.21000.json", "collection": "songci", "status": "PARSED", "items": 50, "kept": 45, "skipped_short": 5}
+{"ts": "2026-11-12T23:31:30", "source_id": "CP-YUANQU", "path": "raw/poetry/yuanqu/yuanqu.json", "collection": "yuanqu", "status": "PARSED", "items": 11057, "kept": 10685, "skipped_short": 372}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-01", "path": "raw/poetry/huajianji/huajianji-1-juan.json", "collection": "huajianji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-02", "path": "raw/poetry/huajianji/huajianji-2-juan.json", "collection": "huajianji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-03", "path": "raw/poetry/huajianji/huajianji-3-juan.json", "collection": "huajianji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-04", "path": "raw/poetry/huajianji/huajianji-4-juan.json", "collection": "huajianji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-05", "path": "raw/poetry/huajianji/huajianji-5-juan.json", "collection": "huajianji", "status": "PARSED", "items": 48, "kept": 48, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-06", "path": "raw/poetry/huajianji/huajianji-6-juan.json", "collection": "huajianji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-07", "path": "raw/poetry/huajianji/huajianji-7-juan.json", "collection": "huajianji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-08", "path": "raw/poetry/huajianji/huajianji-8-juan.json", "collection": "huajianji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-09", "path": "raw/poetry/huajianji/huajianji-9-juan.json", "collection": "huajianji", "status": "PARSED", "items": 49, "kept": 49, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-10", "path": "raw/poetry/huajianji/huajianji-x-juan.json", "collection": "huajianji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-HUAJIAN-PRE", "path": "raw/poetry/huajianji/huajianji-0-preface.json", "collection": "huajianji", "status": "PARSED", "items": 1, "kept": 1, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-NANTANG", "path": "raw/poetry/nantang/poetrys.json", "collection": "nantang", "status": "PARSED", "items": 45, "kept": 45, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-NALAN", "path": "raw/poetry/nalan/纳兰性德诗集.json", "collection": "nalan", "status": "PARSED", "items": 258, "kept": 258, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "CP-SHENGLV", "path": "raw/poetry/shenglv/shenglvqimeng.json", "collection": "shenglv", "status": "SKIP_BOOK", "note": "蒙学对韵材料，属文献而非诗词，转由 convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WENJING", "path": "raw/books/ws_wenjing.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-SHENGLVQI", "path": "raw/books/ws_shenglvqi.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-SHIPIN", "path": "raw/books/ws_shipin.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-24SHIPIN", "path": "raw/books/ws_24shipin.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-CANGLANG", "path": "raw/books/ws_canglang.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-RENJIAN", "path": "raw/books/ws_renjian.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-神思", "path": "raw/books/ws_wxd_神思.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-體性", "path": "raw/books/ws_wxd_體性.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-風骨", "path": "raw/books/ws_wxd_風骨.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-通變", "path": "raw/books/ws_wxd_通變.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-情采", "path": "raw/books/ws_wxd_情采.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-聲律", "path": "raw/books/ws_wxd_聲律.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-麗辭", "path": "raw/books/ws_wxd_麗辭.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-比興", "path": "raw/books/ws_wxd_比興.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-物色", "path": "raw/books/ws_wxd_物色.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-WXD-知音", "path": "raw/books/ws_wxd_知音.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-SHIPIN-1", "path": "raw/books/sup_shipin_1.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-SHIPIN-2", "path": "raw/books/sup_shipin_2.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-SHIPIN-3", "path": "raw/books/sup_shipin_3.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-CANGLANG-1", "path": "raw/books/sup_canglang_1.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-CANGLANG-2", "path": "raw/books/sup_canglang_2.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-CANGLANG-3", "path": "raw/books/sup_canglang_3.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-CANGLANG-4", "path": "raw/books/sup_canglang_4.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-CANGLANG-5", "path": "raw/books/sup_canglang_5.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "SUP-SHENGLV", "path": "raw/books/sup_shenglv.wikitext", "collection": "gudian", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-001", "path": "raw/poetry/gushiji/卷001.json", "collection": "gushiji", "status": "PARSED", "items": 28, "kept": 28, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-002", "path": "raw/poetry/gushiji/卷002.json", "collection": "gushiji", "status": "PARSED", "items": 32, "kept": 32, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-003", "path": "raw/poetry/gushiji/卷003.json", "collection": "gushiji", "status": "PARSED", "items": 18, "kept": 17, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-004", "path": "raw/poetry/gushiji/卷004.json", "collection": "gushiji", "status": "PARSED", "items": 27, "kept": 27, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-005", "path": "raw/poetry/gushiji/卷005.json", "collection": "gushiji", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-006", "path": "raw/poetry/gushiji/卷006.json", "collection": "gushiji", "status": "PARSED", "items": 24, "kept": 24, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-007", "path": "raw/poetry/gushiji/卷007.json", "collection": "gushiji", "status": "PARSED", "items": 9, "kept": 9, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-008", "path": "raw/poetry/gushiji/卷008.json", "collection": "gushiji", "status": "PARSED", "items": 13, "kept": 13, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-009", "path": "raw/poetry/gushiji/卷009.json", "collection": "gushiji", "status": "PARSED", "items": 30, "kept": 29, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-010", "path": "raw/poetry/gushiji/卷010.json", "collection": "gushiji", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-011", "path": "raw/poetry/gushiji/卷011.json", "collection": "gushiji", "status": "PARSED", "items": 17, "kept": 17, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-012", "path": "raw/poetry/gushiji/卷012.json", "collection": "gushiji", "status": "PARSED", "items": 22, "kept": 22, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-013", "path": "raw/poetry/gushiji/卷013.json", "collection": "gushiji", "status": "PARSED", "items": 39, "kept": 39, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-014", "path": "raw/poetry/gushiji/卷014.json", "collection": "gushiji", "status": "PARSED", "items": 17, "kept": 17, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-015", "path": "raw/poetry/gushiji/卷015.json", "collection": "gushiji", "status": "PARSED", "items": 34, "kept": 33, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-016", "path": "raw/poetry/gushiji/卷016.json", "collection": "gushiji", "status": "PARSED", "items": 34, "kept": 34, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-017", "path": "raw/poetry/gushiji/卷017.json", "collection": "gushiji", "status": "PARSED", "items": 16, "kept": 16, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-018", "path": "raw/poetry/gushiji/卷018.json", "collection": "gushiji", "status": "PARSED", "items": 56, "kept": 56, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-019", "path": "raw/poetry/gushiji/卷019.json", "collection": "gushiji", "status": "PARSED", "items": 13, "kept": 13, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-020", "path": "raw/poetry/gushiji/卷020.json", "collection": "gushiji", "status": "PARSED", "items": 16, "kept": 16, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-021", "path": "raw/poetry/gushiji/卷021.json", "collection": "gushiji", "status": "PARSED", "items": 17, "kept": 17, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-022", "path": "raw/poetry/gushiji/卷022.json", "collection": "gushiji", "status": "PARSED", "items": 45, "kept": 45, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-023", "path": "raw/poetry/gushiji/卷023.json", "collection": "gushiji", "status": "PARSED", "items": 40, "kept": 40, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-024", "path": "raw/poetry/gushiji/卷024.json", "collection": "gushiji", "status": "PARSED", "items": 31, "kept": 31, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-025", "path": "raw/poetry/gushiji/卷025.json", "collection": "gushiji", "status": "PARSED", "items": 14, "kept": 14, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-026", "path": "raw/poetry/gushiji/卷026.json", "collection": "gushiji", "status": "PARSED", "items": 17, "kept": 17, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-027", "path": "raw/poetry/gushiji/卷027.json", "collection": "gushiji", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-028", "path": "raw/poetry/gushiji/卷028.json", "collection": "gushiji", "status": "PARSED", "items": 23, "kept": 23, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-029", "path": "raw/poetry/gushiji/卷029.json", "collection": "gushiji", "status": "PARSED", "items": 18, "kept": 18, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-030", "path": "raw/poetry/gushiji/卷030.json", "collection": "gushiji", "status": "PARSED", "items": 22, "kept": 22, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-031", "path": "raw/poetry/gushiji/卷031.json", "collection": "gushiji", "status": "PARSED", "items": 23, "kept": 23, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-032", "path": "raw/poetry/gushiji/卷032.json", "collection": "gushiji", "status": "PARSED", "items": 73, "kept": 73, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-033", "path": "raw/poetry/gushiji/卷033.json", "collection": "gushiji", "status": "PARSED", "items": 28, "kept": 28, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-034", "path": "raw/poetry/gushiji/卷034.json", "collection": "gushiji", "status": "PARSED", "items": 38, "kept": 38, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-035", "path": "raw/poetry/gushiji/卷035.json", "collection": "gushiji", "status": "PARSED", "items": 46, "kept": 46, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-036", "path": "raw/poetry/gushiji/卷036.json", "collection": "gushiji", "status": "PARSED", "items": 12, "kept": 12, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-037", "path": "raw/poetry/gushiji/卷037.json", "collection": "gushiji", "status": "PARSED", "items": 17, "kept": 17, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-038", "path": "raw/poetry/gushiji/卷038.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-039", "path": "raw/poetry/gushiji/卷039.json", "collection": "gushiji", "status": "PARSED", "items": 21, "kept": 21, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:31", "source_id": "WS-GUSHIJI-040", "path": "raw/poetry/gushiji/卷040.json", "collection": "gushiji", "status": "PARSED", "items": 43, "kept": 43, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-041", "path": "raw/poetry/gushiji/卷041.json", "collection": "gushiji", "status": "PARSED", "items": 21, "kept": 21, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-042", "path": "raw/poetry/gushiji/卷042.json", "collection": "gushiji", "status": "PARSED", "items": 43, "kept": 43, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-043", "path": "raw/poetry/gushiji/卷043.json", "collection": "gushiji", "status": "PARSED", "items": 19, "kept": 19, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-044", "path": "raw/poetry/gushiji/卷044.json", "collection": "gushiji", "status": "PARSED", "items": 28, "kept": 28, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-045", "path": "raw/poetry/gushiji/卷045.json", "collection": "gushiji", "status": "PARSED", "items": 30, "kept": 30, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-046", "path": "raw/poetry/gushiji/卷046.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-047", "path": "raw/poetry/gushiji/卷047.json", "collection": "gushiji", "status": "PARSED", "items": 27, "kept": 27, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-048", "path": "raw/poetry/gushiji/卷048.json", "collection": "gushiji", "status": "PARSED", "items": 17, "kept": 17, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-049", "path": "raw/poetry/gushiji/卷049.json", "collection": "gushiji", "status": "PARSED", "items": 58, "kept": 58, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-050", "path": "raw/poetry/gushiji/卷050.json", "collection": "gushiji", "status": "PARSED", "items": 44, "kept": 44, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-051", "path": "raw/poetry/gushiji/卷051.json", "collection": "gushiji", "status": "PARSED", "items": 40, "kept": 40, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-052", "path": "raw/poetry/gushiji/卷052.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-053", "path": "raw/poetry/gushiji/卷053.json", "collection": "gushiji", "status": "PARSED", "items": 37, "kept": 37, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-054", "path": "raw/poetry/gushiji/卷054.json", "collection": "gushiji", "status": "PARSED", "items": 42, "kept": 39, "skipped_short": 3}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-055", "path": "raw/poetry/gushiji/卷055.json", "collection": "gushiji", "status": "PARSED", "items": 51, "kept": 51, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-056", "path": "raw/poetry/gushiji/卷056.json", "collection": "gushiji", "status": "PARSED", "items": 43, "kept": 43, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-057", "path": "raw/poetry/gushiji/卷057.json", "collection": "gushiji", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-058", "path": "raw/poetry/gushiji/卷058.json", "collection": "gushiji", "status": "PARSED", "items": 51, "kept": 51, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-059", "path": "raw/poetry/gushiji/卷059.json", "collection": "gushiji", "status": "PARSED", "items": 31, "kept": 31, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-060", "path": "raw/poetry/gushiji/卷060.json", "collection": "gushiji", "status": "PARSED", "items": 42, "kept": 42, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-061", "path": "raw/poetry/gushiji/卷061.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-062", "path": "raw/poetry/gushiji/卷062.json", "collection": "gushiji", "status": "PARSED", "items": 49, "kept": 49, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-063", "path": "raw/poetry/gushiji/卷063.json", "collection": "gushiji", "status": "PARSED", "items": 43, "kept": 43, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-064", "path": "raw/poetry/gushiji/卷064.json", "collection": "gushiji", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-065", "path": "raw/poetry/gushiji/卷065.json", "collection": "gushiji", "status": "PARSED", "items": 68, "kept": 68, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-066", "path": "raw/poetry/gushiji/卷066.json", "collection": "gushiji", "status": "PARSED", "items": 15, "kept": 15, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-067", "path": "raw/poetry/gushiji/卷067.json", "collection": "gushiji", "status": "PARSED", "items": 63, "kept": 62, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-068", "path": "raw/poetry/gushiji/卷068.json", "collection": "gushiji", "status": "PARSED", "items": 27, "kept": 27, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-069", "path": "raw/poetry/gushiji/卷069.json", "collection": "gushiji", "status": "PARSED", "items": 37, "kept": 37, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-070", "path": "raw/poetry/gushiji/卷070.json", "collection": "gushiji", "status": "PARSED", "items": 21, "kept": 21, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-071", "path": "raw/poetry/gushiji/卷071.json", "collection": "gushiji", "status": "PARSED", "items": 39, "kept": 39, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-072", "path": "raw/poetry/gushiji/卷072.json", "collection": "gushiji", "status": "PARSED", "items": 47, "kept": 47, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-073", "path": "raw/poetry/gushiji/卷073.json", "collection": "gushiji", "status": "PARSED", "items": 79, "kept": 79, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-074", "path": "raw/poetry/gushiji/卷074.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-075", "path": "raw/poetry/gushiji/卷075.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-076", "path": "raw/poetry/gushiji/卷076.json", "collection": "gushiji", "status": "PARSED", "items": 30, "kept": 30, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-077", "path": "raw/poetry/gushiji/卷077.json", "collection": "gushiji", "status": "PARSED", "items": 74, "kept": 74, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-078", "path": "raw/poetry/gushiji/卷078.json", "collection": "gushiji", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-079", "path": "raw/poetry/gushiji/卷079.json", "collection": "gushiji", "status": "PARSED", "items": 113, "kept": 113, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-080", "path": "raw/poetry/gushiji/卷080.json", "collection": "gushiji", "status": "PARSED", "items": 58, "kept": 58, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-081", "path": "raw/poetry/gushiji/卷081.json", "collection": "gushiji", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-082", "path": "raw/poetry/gushiji/卷082.json", "collection": "gushiji", "status": "PARSED", "items": 44, "kept": 44, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-083", "path": "raw/poetry/gushiji/卷083.json", "collection": "gushiji", "status": "PARSED", "items": 45, "kept": 45, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-084", "path": "raw/poetry/gushiji/卷084.json", "collection": "gushiji", "status": "PARSED", "items": 82, "kept": 82, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-085", "path": "raw/poetry/gushiji/卷085.json", "collection": "gushiji", "status": "PARSED", "items": 39, "kept": 39, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-086", "path": "raw/poetry/gushiji/卷086.json", "collection": "gushiji", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-087", "path": "raw/poetry/gushiji/卷087.json", "collection": "gushiji", "status": "PARSED", "items": 49, "kept": 49, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-088", "path": "raw/poetry/gushiji/卷088.json", "collection": "gushiji", "status": "PARSED", "items": 55, "kept": 55, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-089", "path": "raw/poetry/gushiji/卷089.json", "collection": "gushiji", "status": "PARSED", "items": 31, "kept": 31, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-090", "path": "raw/poetry/gushiji/卷090.json", "collection": "gushiji", "status": "PARSED", "items": 98, "kept": 98, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-091", "path": "raw/poetry/gushiji/卷091.json", "collection": "gushiji", "status": "PARSED", "items": 57, "kept": 57, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-092", "path": "raw/poetry/gushiji/卷092.json", "collection": "gushiji", "status": "PARSED", "items": 42, "kept": 42, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-093", "path": "raw/poetry/gushiji/卷093.json", "collection": "gushiji", "status": "PARSED", "items": 52, "kept": 52, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-094", "path": "raw/poetry/gushiji/卷094.json", "collection": "gushiji", "status": "PARSED", "items": 53, "kept": 53, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-095", "path": "raw/poetry/gushiji/卷095.json", "collection": "gushiji", "status": "PARSED", "items": 38, "kept": 38, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-096", "path": "raw/poetry/gushiji/卷096.json", "collection": "gushiji", "status": "PARSED", "items": 43, "kept": 43, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-097", "path": "raw/poetry/gushiji/卷097.json", "collection": "gushiji", "status": "PARSED", "items": 80, "kept": 80, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-098", "path": "raw/poetry/gushiji/卷098.json", "collection": "gushiji", "status": "PARSED", "items": 78, "kept": 78, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-099", "path": "raw/poetry/gushiji/卷099.json", "collection": "gushiji", "status": "PARSED", "items": 54, "kept": 54, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-100", "path": "raw/poetry/gushiji/卷100.json", "collection": "gushiji", "status": "PARSED", "items": 29, "kept": 29, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-101", "path": "raw/poetry/gushiji/卷101.json", "collection": "gushiji", "status": "PARSED", "items": 43, "kept": 43, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-102", "path": "raw/poetry/gushiji/卷102.json", "collection": "gushiji", "status": "PARSED", "items": 45, "kept": 45, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-103", "path": "raw/poetry/gushiji/卷103.json", "collection": "gushiji", "status": "PARSED", "items": 72, "kept": 72, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-104", "path": "raw/poetry/gushiji/卷104.json", "collection": "gushiji", "status": "PARSED", "items": 78, "kept": 78, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-105", "path": "raw/poetry/gushiji/卷105.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-106", "path": "raw/poetry/gushiji/卷106.json", "collection": "gushiji", "status": "PARSED", "items": 35, "kept": 35, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-107", "path": "raw/poetry/gushiji/卷107.json", "collection": "gushiji", "status": "PARSED", "items": 26, "kept": 24, "skipped_short": 2}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-108", "path": "raw/poetry/gushiji/卷108.json", "collection": "gushiji", "status": "PARSED", "items": 56, "kept": 56, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-109", "path": "raw/poetry/gushiji/卷109.json", "collection": "gushiji", "status": "PARSED", "items": 34, "kept": 34, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-110", "path": "raw/poetry/gushiji/卷110.json", "collection": "gushiji", "status": "PARSED", "items": 37, "kept": 37, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-111", "path": "raw/poetry/gushiji/卷111.json", "collection": "gushiji", "status": "PARSED", "items": 47, "kept": 47, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-112", "path": "raw/poetry/gushiji/卷112.json", "collection": "gushiji", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-113", "path": "raw/poetry/gushiji/卷113.json", "collection": "gushiji", "status": "PARSED", "items": 42, "kept": 42, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-114", "path": "raw/poetry/gushiji/卷114.json", "collection": "gushiji", "status": "PARSED", "items": 25, "kept": 25, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-115", "path": "raw/poetry/gushiji/卷115.json", "collection": "gushiji", "status": "PARSED", "items": 59, "kept": 59, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-116", "path": "raw/poetry/gushiji/卷116.json", "collection": "gushiji", "status": "PARSED", "items": 77, "kept": 77, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-117", "path": "raw/poetry/gushiji/卷117.json", "collection": "gushiji", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-118", "path": "raw/poetry/gushiji/卷118.json", "collection": "gushiji", "status": "PARSED", "items": 25, "kept": 25, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-119", "path": "raw/poetry/gushiji/卷119.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-120", "path": "raw/poetry/gushiji/卷120.json", "collection": "gushiji", "status": "PARSED", "items": 72, "kept": 72, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-121", "path": "raw/poetry/gushiji/卷121.json", "collection": "gushiji", "status": "PARSED", "items": 73, "kept": 73, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-122", "path": "raw/poetry/gushiji/卷122.json", "collection": "gushiji", "status": "PARSED", "items": 18, "kept": 18, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-123", "path": "raw/poetry/gushiji/卷123.json", "collection": "gushiji", "status": "PARSED", "items": 52, "kept": 52, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-124", "path": "raw/poetry/gushiji/卷124.json", "collection": "gushiji", "status": "PARSED", "items": 12, "kept": 12, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-125", "path": "raw/poetry/gushiji/卷125.json", "collection": "gushiji", "status": "PARSED", "items": 48, "kept": 48, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-126", "path": "raw/poetry/gushiji/卷126.json", "collection": "gushiji", "status": "PARSED", "items": 24, "kept": 24, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-127", "path": "raw/poetry/gushiji/卷127.json", "collection": "gushiji", "status": "PARSED", "items": 39, "kept": 39, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-128", "path": "raw/poetry/gushiji/卷128.json", "collection": "gushiji", "status": "PARSED", "items": 47, "kept": 47, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-129", "path": "raw/poetry/gushiji/卷129.json", "collection": "gushiji", "status": "PARSED", "items": 49, "kept": 49, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-130", "path": "raw/poetry/gushiji/卷130.json", "collection": "gushiji", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-131", "path": "raw/poetry/gushiji/卷131.json", "collection": "gushiji", "status": "PARSED", "items": 22, "kept": 22, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-132", "path": "raw/poetry/gushiji/卷132.json", "collection": "gushiji", "status": "PARSED", "items": 30, "kept": 30, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-133", "path": "raw/poetry/gushiji/卷133.json", "collection": "gushiji", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-134", "path": "raw/poetry/gushiji/卷134.json", "collection": "gushiji", "status": "PARSED", "items": 32, "kept": 32, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-135", "path": "raw/poetry/gushiji/卷135.json", "collection": "gushiji", "status": "PARSED", "items": 28, "kept": 28, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-136", "path": "raw/poetry/gushiji/卷136.json", "collection": "gushiji", "status": "PARSED", "items": 58, "kept": 58, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-137", "path": "raw/poetry/gushiji/卷137.json", "collection": "gushiji", "status": "PARSED", "items": 31, "kept": 31, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-138", "path": "raw/poetry/gushiji/卷138.json", "collection": "gushiji", "status": "PARSED", "items": 37, "kept": 37, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-139", "path": "raw/poetry/gushiji/卷139.json", "collection": "gushiji", "status": "PARSED", "items": 57, "kept": 57, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-140", "path": "raw/poetry/gushiji/卷140.json", "collection": "gushiji", "status": "PARSED", "items": 16, "kept": 16, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-141", "path": "raw/poetry/gushiji/卷141.json", "collection": "gushiji", "status": "PARSED", "items": 33, "kept": 33, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:32", "source_id": "WS-GUSHIJI-142", "path": "raw/poetry/gushiji/卷142.json", "collection": "gushiji", "status": "PARSED", "items": 49, "kept": 49, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-143", "path": "raw/poetry/gushiji/卷143.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-144", "path": "raw/poetry/gushiji/卷144.json", "collection": "gushiji", "status": "PARSED", "items": 16, "kept": 16, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-145", "path": "raw/poetry/gushiji/卷145.json", "collection": "gushiji", "status": "PARSED", "items": 15, "kept": 15, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-146", "path": "raw/poetry/gushiji/卷146.json", "collection": "gushiji", "status": "PARSED", "items": 6, "kept": 6, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-147", "path": "raw/poetry/gushiji/卷147.json", "collection": "gushiji", "status": "PARSED", "items": 18, "kept": 18, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-148", "path": "raw/poetry/gushiji/卷148.json", "collection": "gushiji", "status": "PARSED", "items": 18, "kept": 18, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-149", "path": "raw/poetry/gushiji/卷149.json", "collection": "gushiji", "status": "PARSED", "items": 23, "kept": 23, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-150", "path": "raw/poetry/gushiji/卷150.json", "collection": "gushiji", "status": "PARSED", "items": 36, "kept": 36, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-151", "path": "raw/poetry/gushiji/卷151.json", "collection": "gushiji", "status": "PARSED", "items": 64, "kept": 64, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-152", "path": "raw/poetry/gushiji/卷152.json", "collection": "gushiji", "status": "PARSED", "items": 1, "kept": 1, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-153", "path": "raw/poetry/gushiji/卷153.json", "collection": "gushiji", "status": "PARSED", "items": 59, "kept": 59, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-154", "path": "raw/poetry/gushiji/卷154.json", "collection": "gushiji", "status": "PARSED", "items": 48, "kept": 48, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-155", "path": "raw/poetry/gushiji/卷155.json", "collection": "gushiji", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-GUSHIJI-156", "path": "raw/poetry/gushiji/卷156.json", "collection": "gushiji", "status": "PARSED", "items": 45, "kept": 45, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-001", "path": "raw/poetry/mingshi/卷001.json", "collection": "mingshi", "status": "PARSED", "items": 24, "kept": 24, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-002", "path": "raw/poetry/mingshi/卷002.json", "collection": "mingshi", "status": "PARSED", "items": 62, "kept": 62, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-003", "path": "raw/poetry/mingshi/卷003.json", "collection": "mingshi", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-004", "path": "raw/poetry/mingshi/卷004.json", "collection": "mingshi", "status": "PARSED", "items": 74, "kept": 74, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-005", "path": "raw/poetry/mingshi/卷005.json", "collection": "mingshi", "status": "PARSED", "items": 76, "kept": 76, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-006", "path": "raw/poetry/mingshi/卷006.json", "collection": "mingshi", "status": "PARSED", "items": 58, "kept": 58, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-007", "path": "raw/poetry/mingshi/卷007.json", "collection": "mingshi", "status": "PARSED", "items": 55, "kept": 55, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-008", "path": "raw/poetry/mingshi/卷008.json", "collection": "mingshi", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-009", "path": "raw/poetry/mingshi/卷009.json", "collection": "mingshi", "status": "PARSED", "items": 115, "kept": 115, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-010", "path": "raw/poetry/mingshi/卷010.json", "collection": "mingshi", "status": "PARSED", "items": 86, "kept": 86, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-011", "path": "raw/poetry/mingshi/卷011.json", "collection": "mingshi", "status": "PARSED", "items": 96, "kept": 96, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-012", "path": "raw/poetry/mingshi/卷012.json", "collection": "mingshi", "status": "PARSED", "items": 113, "kept": 113, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-013", "path": "raw/poetry/mingshi/卷013.json", "collection": "mingshi", "status": "PARSED", "items": 91, "kept": 91, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-014", "path": "raw/poetry/mingshi/卷014.json", "collection": "mingshi", "status": "PARSED", "items": 134, "kept": 134, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-015", "path": "raw/poetry/mingshi/卷015.json", "collection": "mingshi", "status": "PARSED", "items": 84, "kept": 84, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-016", "path": "raw/poetry/mingshi/卷016.json", "collection": "mingshi", "status": "PARSED", "items": 61, "kept": 61, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-017", "path": "raw/poetry/mingshi/卷017.json", "collection": "mingshi", "status": "PARSED", "items": 64, "kept": 64, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-018", "path": "raw/poetry/mingshi/卷018.json", "collection": "mingshi", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-019", "path": "raw/poetry/mingshi/卷019.json", "collection": "mingshi", "status": "PARSED", "items": 112, "kept": 112, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-020", "path": "raw/poetry/mingshi/卷020.json", "collection": "mingshi", "status": "PARSED", "items": 63, "kept": 63, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-021", "path": "raw/poetry/mingshi/卷021.json", "collection": "mingshi", "status": "PARSED", "items": 66, "kept": 66, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-022", "path": "raw/poetry/mingshi/卷022.json", "collection": "mingshi", "status": "PARSED", "items": 88, "kept": 88, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-023", "path": "raw/poetry/mingshi/卷023.json", "collection": "mingshi", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-024", "path": "raw/poetry/mingshi/卷024.json", "collection": "mingshi", "status": "PARSED", "items": 95, "kept": 95, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-025", "path": "raw/poetry/mingshi/卷025.json", "collection": "mingshi", "status": "PARSED", "items": 88, "kept": 88, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-026", "path": "raw/poetry/mingshi/卷026.json", "collection": "mingshi", "status": "PARSED", "items": 85, "kept": 85, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-027", "path": "raw/poetry/mingshi/卷027.json", "collection": "mingshi", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-028", "path": "raw/poetry/mingshi/卷028.json", "collection": "mingshi", "status": "PARSED", "items": 114, "kept": 114, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-029", "path": "raw/poetry/mingshi/卷029.json", "collection": "mingshi", "status": "PARSED", "items": 85, "kept": 85, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-030", "path": "raw/poetry/mingshi/卷030.json", "collection": "mingshi", "status": "PARSED", "items": 116, "kept": 116, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-031", "path": "raw/poetry/mingshi/卷031.json", "collection": "mingshi", "status": "PARSED", "items": 64, "kept": 64, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-032", "path": "raw/poetry/mingshi/卷032.json", "collection": "mingshi", "status": "PARSED", "items": 76, "kept": 76, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-033", "path": "raw/poetry/mingshi/卷033.json", "collection": "mingshi", "status": "PARSED", "items": 94, "kept": 94, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-034", "path": "raw/poetry/mingshi/卷034.json", "collection": "mingshi", "status": "PARSED", "items": 61, "kept": 61, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-035", "path": "raw/poetry/mingshi/卷035.json", "collection": "mingshi", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-036", "path": "raw/poetry/mingshi/卷036.json", "collection": "mingshi", "status": "PARSED", "items": 81, "kept": 81, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-037", "path": "raw/poetry/mingshi/卷037.json", "collection": "mingshi", "status": "PARSED", "items": 86, "kept": 86, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-038", "path": "raw/poetry/mingshi/卷038.json", "collection": "mingshi", "status": "PARSED", "items": 68, "kept": 68, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-039", "path": "raw/poetry/mingshi/卷039.json", "collection": "mingshi", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-040", "path": "raw/poetry/mingshi/卷040.json", "collection": "mingshi", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-041", "path": "raw/poetry/mingshi/卷041.json", "collection": "mingshi", "status": "PARSED", "items": 96, "kept": 96, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-042", "path": "raw/poetry/mingshi/卷042.json", "collection": "mingshi", "status": "PARSED", "items": 75, "kept": 75, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-043", "path": "raw/poetry/mingshi/卷043.json", "collection": "mingshi", "status": "PARSED", "items": 103, "kept": 103, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-044", "path": "raw/poetry/mingshi/卷044.json", "collection": "mingshi", "status": "PARSED", "items": 89, "kept": 89, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-045", "path": "raw/poetry/mingshi/卷045.json", "collection": "mingshi", "status": "PARSED", "items": 88, "kept": 88, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-046", "path": "raw/poetry/mingshi/卷046.json", "collection": "mingshi", "status": "PARSED", "items": 98, "kept": 98, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-047", "path": "raw/poetry/mingshi/卷047.json", "collection": "mingshi", "status": "PARSED", "items": 100, "kept": 100, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-048", "path": "raw/poetry/mingshi/卷048.json", "collection": "mingshi", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-049", "path": "raw/poetry/mingshi/卷049.json", "collection": "mingshi", "status": "PARSED", "items": 122, "kept": 122, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:33", "source_id": "WS-MINGSHI-050", "path": "raw/poetry/mingshi/卷050.json", "collection": "mingshi", "status": "PARSED", "items": 110, "kept": 110, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-051", "path": "raw/poetry/mingshi/卷051.json", "collection": "mingshi", "status": "PARSED", "items": 85, "kept": 85, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-052", "path": "raw/poetry/mingshi/卷052.json", "collection": "mingshi", "status": "PARSED", "items": 107, "kept": 107, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-053", "path": "raw/poetry/mingshi/卷053.json", "collection": "mingshi", "status": "PARSED", "items": 117, "kept": 117, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-054", "path": "raw/poetry/mingshi/卷054.json", "collection": "mingshi", "status": "PARSED", "items": 91, "kept": 91, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-055", "path": "raw/poetry/mingshi/卷055.json", "collection": "mingshi", "status": "PARSED", "items": 117, "kept": 117, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-056", "path": "raw/poetry/mingshi/卷056.json", "collection": "mingshi", "status": "PARSED", "items": 82, "kept": 82, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-057", "path": "raw/poetry/mingshi/卷057.json", "collection": "mingshi", "status": "PARSED", "items": 83, "kept": 83, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-058", "path": "raw/poetry/mingshi/卷058.json", "collection": "mingshi", "status": "PARSED", "items": 110, "kept": 110, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-059", "path": "raw/poetry/mingshi/卷059.json", "collection": "mingshi", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-060", "path": "raw/poetry/mingshi/卷060.json", "collection": "mingshi", "status": "PARSED", "items": 108, "kept": 108, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-061", "path": "raw/poetry/mingshi/卷061.json", "collection": "mingshi", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-062", "path": "raw/poetry/mingshi/卷062.json", "collection": "mingshi", "status": "PARSED", "items": 82, "kept": 82, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-063", "path": "raw/poetry/mingshi/卷063.json", "collection": "mingshi", "status": "PARSED", "items": 67, "kept": 67, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-064", "path": "raw/poetry/mingshi/卷064.json", "collection": "mingshi", "status": "PARSED", "items": 68, "kept": 68, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-065", "path": "raw/poetry/mingshi/卷065.json", "collection": "mingshi", "status": "PARSED", "items": 102, "kept": 102, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-066", "path": "raw/poetry/mingshi/卷066.json", "collection": "mingshi", "status": "PARSED", "items": 53, "kept": 53, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-067", "path": "raw/poetry/mingshi/卷067.json", "collection": "mingshi", "status": "PARSED", "items": 99, "kept": 99, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-068", "path": "raw/poetry/mingshi/卷068.json", "collection": "mingshi", "status": "PARSED", "items": 91, "kept": 91, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-069", "path": "raw/poetry/mingshi/卷069.json", "collection": "mingshi", "status": "PARSED", "items": 105, "kept": 105, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-070", "path": "raw/poetry/mingshi/卷070.json", "collection": "mingshi", "status": "PARSED", "items": 90, "kept": 90, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-071", "path": "raw/poetry/mingshi/卷071.json", "collection": "mingshi", "status": "PARSED", "items": 58, "kept": 58, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-072", "path": "raw/poetry/mingshi/卷072.json", "collection": "mingshi", "status": "PARSED", "items": 73, "kept": 73, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-073", "path": "raw/poetry/mingshi/卷073.json", "collection": "mingshi", "status": "PARSED", "items": 97, "kept": 97, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-074", "path": "raw/poetry/mingshi/卷074.json", "collection": "mingshi", "status": "PARSED", "items": 85, "kept": 85, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-075", "path": "raw/poetry/mingshi/卷075.json", "collection": "mingshi", "status": "PARSED", "items": 52, "kept": 52, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-076", "path": "raw/poetry/mingshi/卷076.json", "collection": "mingshi", "status": "PARSED", "items": 58, "kept": 58, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-077", "path": "raw/poetry/mingshi/卷077.json", "collection": "mingshi", "status": "PARSED", "items": 18, "kept": 18, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-078", "path": "raw/poetry/mingshi/卷078.json", "collection": "mingshi", "status": "PARSED", "items": 33, "kept": 33, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-079", "path": "raw/poetry/mingshi/卷079.json", "collection": "mingshi", "status": "PARSED", "items": 88, "kept": 88, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-080", "path": "raw/poetry/mingshi/卷080.json", "collection": "mingshi", "status": "PARSED", "items": 51, "kept": 51, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-081", "path": "raw/poetry/mingshi/卷081.json", "collection": "mingshi", "status": "PARSED", "items": 11, "kept": 11, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-082", "path": "raw/poetry/mingshi/卷082.json", "collection": "mingshi", "status": "PARSED", "items": 7, "kept": 7, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-083", "path": "raw/poetry/mingshi/卷083.json", "collection": "mingshi", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-084", "path": "raw/poetry/mingshi/卷084.json", "collection": "mingshi", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-085", "path": "raw/poetry/mingshi/卷085.json", "collection": "mingshi", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-086", "path": "raw/poetry/mingshi/卷086.json", "collection": "mingshi", "status": "PARSED", "items": 8, "kept": 8, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-087", "path": "raw/poetry/mingshi/卷087.json", "collection": "mingshi", "status": "PARSED", "items": 40, "kept": 40, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-088", "path": "raw/poetry/mingshi/卷088.json", "collection": "mingshi", "status": "PARSED", "items": 51, "kept": 51, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-089", "path": "raw/poetry/mingshi/卷089.json", "collection": "mingshi", "status": "PARSED", "items": 76, "kept": 76, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-090", "path": "raw/poetry/mingshi/卷090.json", "collection": "mingshi", "status": "PARSED", "items": 85, "kept": 85, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-091", "path": "raw/poetry/mingshi/卷091.json", "collection": "mingshi", "status": "PARSED", "items": 94, "kept": 94, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-092", "path": "raw/poetry/mingshi/卷092.json", "collection": "mingshi", "status": "PARSED", "items": 5, "kept": 5, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-093", "path": "raw/poetry/mingshi/卷093.json", "collection": "mingshi", "status": "PARSED", "items": 8, "kept": 8, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-094", "path": "raw/poetry/mingshi/卷094.json", "collection": "mingshi", "status": "PARSED", "items": 90, "kept": 90, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-095", "path": "raw/poetry/mingshi/卷095.json", "collection": "mingshi", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-096", "path": "raw/poetry/mingshi/卷096.json", "collection": "mingshi", "status": "PARSED", "items": 59, "kept": 59, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-097", "path": "raw/poetry/mingshi/卷097.json", "collection": "mingshi", "status": "PARSED", "items": 20, "kept": 20, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-098", "path": "raw/poetry/mingshi/卷098.json", "collection": "mingshi", "status": "PARSED", "items": 34, "kept": 34, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-099", "path": "raw/poetry/mingshi/卷099.json", "collection": "mingshi", "status": "PARSED", "items": 23, "kept": 22, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-MINGSHI-100", "path": "raw/poetry/mingshi/卷100.json", "collection": "mingshi", "status": "PARSED", "items": 114, "kept": 113, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一", "path": "raw/poetry/wanqing/卷一.json", "collection": "wanqing", "status": "PARSED", "items": 32, "kept": 32, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百", "path": "raw/poetry/wanqing/卷一百.json", "collection": "wanqing", "status": "PARSED", "items": 97, "kept": 97, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百一", "path": "raw/poetry/wanqing/卷一百一.json", "collection": "wanqing", "status": "PARSED", "items": 101, "kept": 101, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七", "path": "raw/poetry/wanqing/卷一百七.json", "collection": "wanqing", "status": "PARSED", "items": 142, "kept": 142, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十", "path": "raw/poetry/wanqing/卷一百七十.json", "collection": "wanqing", "status": "PARSED", "items": 114, "kept": 114, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十一", "path": "raw/poetry/wanqing/卷一百七十一.json", "collection": "wanqing", "status": "PARSED", "items": 78, "kept": 78, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十七", "path": "raw/poetry/wanqing/卷一百七十七.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十三", "path": "raw/poetry/wanqing/卷一百七十三.json", "collection": "wanqing", "status": "PARSED", "items": 54, "kept": 54, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十九", "path": "raw/poetry/wanqing/卷一百七十九.json", "collection": "wanqing", "status": "PARSED", "items": 119, "kept": 119, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十二", "path": "raw/poetry/wanqing/卷一百七十二.json", "collection": "wanqing", "status": "PARSED", "items": 117, "kept": 117, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十五", "path": "raw/poetry/wanqing/卷一百七十五.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十八", "path": "raw/poetry/wanqing/卷一百七十八.json", "collection": "wanqing", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十六", "path": "raw/poetry/wanqing/卷一百七十六.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百七十四", "path": "raw/poetry/wanqing/卷一百七十四.json", "collection": "wanqing", "status": "PARSED", "items": 24, "kept": 24, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百三", "path": "raw/poetry/wanqing/卷一百三.json", "collection": "wanqing", "status": "PARSED", "items": 110, "kept": 110, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百三十", "path": "raw/poetry/wanqing/卷一百三十.json", "collection": "wanqing", "status": "PARSED", "items": 105, "kept": 105, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百三十一", "path": "raw/poetry/wanqing/卷一百三十一.json", "collection": "wanqing", "status": "PARSED", "items": 101, "kept": 101, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百三十七", "path": "raw/poetry/wanqing/卷一百三十七.json", "collection": "wanqing", "status": "PARSED", "items": 116, "kept": 116, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:34", "source_id": "WS-WANQING-一百三十三", "path": "raw/poetry/wanqing/卷一百三十三.json", "collection": "wanqing", "status": "PARSED", "items": 109, "kept": 109, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百三十九", "path": "raw/poetry/wanqing/卷一百三十九.json", "collection": "wanqing", "status": "PARSED", "items": 125, "kept": 125, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百三十二", "path": "raw/poetry/wanqing/卷一百三十二.json", "collection": "wanqing", "status": "PARSED", "items": 126, "kept": 126, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百三十五", "path": "raw/poetry/wanqing/卷一百三十五.json", "collection": "wanqing", "status": "PARSED", "items": 80, "kept": 80, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百三十八", "path": "raw/poetry/wanqing/卷一百三十八.json", "collection": "wanqing", "status": "PARSED", "items": 122, "kept": 122, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百三十六", "path": "raw/poetry/wanqing/卷一百三十六.json", "collection": "wanqing", "status": "PARSED", "items": 99, "kept": 99, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百三十四", "path": "raw/poetry/wanqing/卷一百三十四.json", "collection": "wanqing", "status": "PARSED", "items": 97, "kept": 97, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九", "path": "raw/poetry/wanqing/卷一百九.json", "collection": "wanqing", "status": "PARSED", "items": 114, "kept": 114, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十", "path": "raw/poetry/wanqing/卷一百九十.json", "collection": "wanqing", "status": "PARSED", "items": 121, "kept": 121, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十一", "path": "raw/poetry/wanqing/卷一百九十一.json", "collection": "wanqing", "status": "PARSED", "items": 222, "kept": 222, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十七", "path": "raw/poetry/wanqing/卷一百九十七.json", "collection": "wanqing", "status": "PARSED", "items": 166, "kept": 166, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十三", "path": "raw/poetry/wanqing/卷一百九十三.json", "collection": "wanqing", "status": "PARSED", "items": 80, "kept": 80, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十九", "path": "raw/poetry/wanqing/卷一百九十九.json", "collection": "wanqing", "status": "PARSED", "items": 148, "kept": 148, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十二", "path": "raw/poetry/wanqing/卷一百九十二.json", "collection": "wanqing", "status": "PARSED", "items": 189, "kept": 189, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十五", "path": "raw/poetry/wanqing/卷一百九十五.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十八", "path": "raw/poetry/wanqing/卷一百九十八.json", "collection": "wanqing", "status": "PARSED", "items": 104, "kept": 104, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十六", "path": "raw/poetry/wanqing/卷一百九十六.json", "collection": "wanqing", "status": "PARSED", "items": 118, "kept": 118, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百九十四", "path": "raw/poetry/wanqing/卷一百九十四.json", "collection": "wanqing", "status": "PARSED", "items": 92, "kept": 92, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二", "path": "raw/poetry/wanqing/卷一百二.json", "collection": "wanqing", "status": "PARSED", "items": 116, "kept": 116, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十", "path": "raw/poetry/wanqing/卷一百二十.json", "collection": "wanqing", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十一", "path": "raw/poetry/wanqing/卷一百二十一.json", "collection": "wanqing", "status": "PARSED", "items": 125, "kept": 125, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十七", "path": "raw/poetry/wanqing/卷一百二十七.json", "collection": "wanqing", "status": "PARSED", "items": 96, "kept": 96, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十三", "path": "raw/poetry/wanqing/卷一百二十三.json", "collection": "wanqing", "status": "PARSED", "items": 65, "kept": 65, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十九", "path": "raw/poetry/wanqing/卷一百二十九.json", "collection": "wanqing", "status": "PARSED", "items": 109, "kept": 109, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十二", "path": "raw/poetry/wanqing/卷一百二十二.json", "collection": "wanqing", "status": "PARSED", "items": 102, "kept": 102, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十五", "path": "raw/poetry/wanqing/卷一百二十五.json", "collection": "wanqing", "status": "PARSED", "items": 122, "kept": 122, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十八", "path": "raw/poetry/wanqing/卷一百二十八.json", "collection": "wanqing", "status": "PARSED", "items": 128, "kept": 128, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十六", "path": "raw/poetry/wanqing/卷一百二十六.json", "collection": "wanqing", "status": "PARSED", "items": 120, "kept": 120, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百二十四", "path": "raw/poetry/wanqing/卷一百二十四.json", "collection": "wanqing", "status": "PARSED", "items": 94, "kept": 94, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五", "path": "raw/poetry/wanqing/卷一百五.json", "collection": "wanqing", "status": "PARSED", "items": 122, "kept": 122, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十", "path": "raw/poetry/wanqing/卷一百五十.json", "collection": "wanqing", "status": "PARSED", "items": 126, "kept": 126, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十一", "path": "raw/poetry/wanqing/卷一百五十一.json", "collection": "wanqing", "status": "PARSED", "items": 107, "kept": 107, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十七", "path": "raw/poetry/wanqing/卷一百五十七.json", "collection": "wanqing", "status": "PARSED", "items": 92, "kept": 92, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十三", "path": "raw/poetry/wanqing/卷一百五十三.json", "collection": "wanqing", "status": "PARSED", "items": 85, "kept": 85, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十九", "path": "raw/poetry/wanqing/卷一百五十九.json", "collection": "wanqing", "status": "PARSED", "items": 102, "kept": 102, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十二", "path": "raw/poetry/wanqing/卷一百五十二.json", "collection": "wanqing", "status": "PARSED", "items": 109, "kept": 109, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十五", "path": "raw/poetry/wanqing/卷一百五十五.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十八", "path": "raw/poetry/wanqing/卷一百五十八.json", "collection": "wanqing", "status": "PARSED", "items": 140, "kept": 140, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十六", "path": "raw/poetry/wanqing/卷一百五十六.json", "collection": "wanqing", "status": "PARSED", "items": 66, "kept": 66, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百五十四", "path": "raw/poetry/wanqing/卷一百五十四.json", "collection": "wanqing", "status": "PARSED", "items": 115, "kept": 115, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百八", "path": "raw/poetry/wanqing/卷一百八.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百八十", "path": "raw/poetry/wanqing/卷一百八十.json", "collection": "wanqing", "status": "PARSED", "items": 92, "kept": 92, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百八十一", "path": "raw/poetry/wanqing/卷一百八十一.json", "collection": "wanqing", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百八十七", "path": "raw/poetry/wanqing/卷一百八十七.json", "collection": "wanqing", "status": "PARSED", "items": 192, "kept": 192, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:35", "source_id": "WS-WANQING-一百八十三", "path": "raw/poetry/wanqing/卷一百八十三.json", "collection": "wanqing", "status": "PARSED", "items": 239, "kept": 239, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百八十九", "path": "raw/poetry/wanqing/卷一百八十九.json", "collection": "wanqing", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百八十二", "path": "raw/poetry/wanqing/卷一百八十二.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百八十五", "path": "raw/poetry/wanqing/卷一百八十五.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百八十八", "path": "raw/poetry/wanqing/卷一百八十八.json", "collection": "wanqing", "status": "PARSED", "items": 325, "kept": 325, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百八十六", "path": "raw/poetry/wanqing/卷一百八十六.json", "collection": "wanqing", "status": "PARSED", "items": 393, "kept": 393, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百八十四", "path": "raw/poetry/wanqing/卷一百八十四.json", "collection": "wanqing", "status": "PARSED", "items": 375, "kept": 375, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六", "path": "raw/poetry/wanqing/卷一百六.json", "collection": "wanqing", "status": "PARSED", "items": 82, "kept": 82, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十", "path": "raw/poetry/wanqing/卷一百六十.json", "collection": "wanqing", "status": "PARSED", "items": 94, "kept": 94, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十一", "path": "raw/poetry/wanqing/卷一百六十一.json", "collection": "wanqing", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十七", "path": "raw/poetry/wanqing/卷一百六十七.json", "collection": "wanqing", "status": "PARSED", "items": 125, "kept": 125, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十三", "path": "raw/poetry/wanqing/卷一百六十三.json", "collection": "wanqing", "status": "PARSED", "items": 80, "kept": 80, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十九", "path": "raw/poetry/wanqing/卷一百六十九.json", "collection": "wanqing", "status": "PARSED", "items": 88, "kept": 88, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十二", "path": "raw/poetry/wanqing/卷一百六十二.json", "collection": "wanqing", "status": "PARSED", "items": 53, "kept": 53, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十五", "path": "raw/poetry/wanqing/卷一百六十五.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十八", "path": "raw/poetry/wanqing/卷一百六十八.json", "collection": "wanqing", "status": "PARSED", "items": 116, "kept": 116, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十六", "path": "raw/poetry/wanqing/卷一百六十六.json", "collection": "wanqing", "status": "PARSED", "items": 82, "kept": 82, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百六十四", "path": "raw/poetry/wanqing/卷一百六十四.json", "collection": "wanqing", "status": "PARSED", "items": 123, "kept": 123, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十", "path": "raw/poetry/wanqing/卷一百十.json", "collection": "wanqing", "status": "PARSED", "items": 113, "kept": 113, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十一", "path": "raw/poetry/wanqing/卷一百十一.json", "collection": "wanqing", "status": "PARSED", "items": 108, "kept": 108, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十七", "path": "raw/poetry/wanqing/卷一百十七.json", "collection": "wanqing", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十三", "path": "raw/poetry/wanqing/卷一百十三.json", "collection": "wanqing", "status": "PARSED", "items": 115, "kept": 115, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十九", "path": "raw/poetry/wanqing/卷一百十九.json", "collection": "wanqing", "status": "PARSED", "items": 108, "kept": 108, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十二", "path": "raw/poetry/wanqing/卷一百十二.json", "collection": "wanqing", "status": "PARSED", "items": 99, "kept": 99, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十五", "path": "raw/poetry/wanqing/卷一百十五.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十八", "path": "raw/poetry/wanqing/卷一百十八.json", "collection": "wanqing", "status": "PARSED", "items": 97, "kept": 97, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十六", "path": "raw/poetry/wanqing/卷一百十六.json", "collection": "wanqing", "status": "PARSED", "items": 121, "kept": 121, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百十四", "path": "raw/poetry/wanqing/卷一百十四.json", "collection": "wanqing", "status": "PARSED", "items": 124, "kept": 124, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四", "path": "raw/poetry/wanqing/卷一百四.json", "collection": "wanqing", "status": "PARSED", "items": 116, "kept": 116, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十", "path": "raw/poetry/wanqing/卷一百四十.json", "collection": "wanqing", "status": "PARSED", "items": 118, "kept": 118, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十一", "path": "raw/poetry/wanqing/卷一百四十一.json", "collection": "wanqing", "status": "PARSED", "items": 106, "kept": 106, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十七", "path": "raw/poetry/wanqing/卷一百四十七.json", "collection": "wanqing", "status": "PARSED", "items": 75, "kept": 75, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十三", "path": "raw/poetry/wanqing/卷一百四十三.json", "collection": "wanqing", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十九", "path": "raw/poetry/wanqing/卷一百四十九.json", "collection": "wanqing", "status": "PARSED", "items": 100, "kept": 100, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十二", "path": "raw/poetry/wanqing/卷一百四十二.json", "collection": "wanqing", "status": "PARSED", "items": 80, "kept": 80, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十五", "path": "raw/poetry/wanqing/卷一百四十五.json", "collection": "wanqing", "status": "PARSED", "items": 86, "kept": 86, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十八", "path": "raw/poetry/wanqing/卷一百四十八.json", "collection": "wanqing", "status": "PARSED", "items": 137, "kept": 137, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十六", "path": "raw/poetry/wanqing/卷一百四十六.json", "collection": "wanqing", "status": "PARSED", "items": 97, "kept": 97, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-一百四十四", "path": "raw/poetry/wanqing/卷一百四十四.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-七", "path": "raw/poetry/wanqing/卷七.json", "collection": "wanqing", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-七十", "path": "raw/poetry/wanqing/卷七十.json", "collection": "wanqing", "status": "PARSED", "items": 116, "kept": 116, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-七十一", "path": "raw/poetry/wanqing/卷七十一.json", "collection": "wanqing", "status": "PARSED", "items": 95, "kept": 95, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:36", "source_id": "WS-WANQING-七十七", "path": "raw/poetry/wanqing/卷七十七.json", "collection": "wanqing", "status": "PARSED", "items": 115, "kept": 115, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-七十三", "path": "raw/poetry/wanqing/卷七十三.json", "collection": "wanqing", "status": "PARSED", "items": 95, "kept": 95, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-七十九", "path": "raw/poetry/wanqing/卷七十九.json", "collection": "wanqing", "status": "PARSED", "items": 104, "kept": 104, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-七十二", "path": "raw/poetry/wanqing/卷七十二.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-七十五", "path": "raw/poetry/wanqing/卷七十五.json", "collection": "wanqing", "status": "PARSED", "items": 107, "kept": 107, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-七十八", "path": "raw/poetry/wanqing/卷七十八.json", "collection": "wanqing", "status": "PARSED", "items": 136, "kept": 136, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-七十六", "path": "raw/poetry/wanqing/卷七十六.json", "collection": "wanqing", "status": "PARSED", "items": 74, "kept": 74, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-七十四", "path": "raw/poetry/wanqing/卷七十四.json", "collection": "wanqing", "status": "PARSED", "items": 119, "kept": 119, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三", "path": "raw/poetry/wanqing/卷三.json", "collection": "wanqing", "status": "PARSED", "items": 56, "kept": 56, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十", "path": "raw/poetry/wanqing/卷三十.json", "collection": "wanqing", "status": "PARSED", "items": 66, "kept": 66, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十一", "path": "raw/poetry/wanqing/卷三十一.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十七", "path": "raw/poetry/wanqing/卷三十七.json", "collection": "wanqing", "status": "PARSED", "items": 133, "kept": 133, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十三", "path": "raw/poetry/wanqing/卷三十三.json", "collection": "wanqing", "status": "PARSED", "items": 114, "kept": 114, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十九", "path": "raw/poetry/wanqing/卷三十九.json", "collection": "wanqing", "status": "PARSED", "items": 118, "kept": 118, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十二", "path": "raw/poetry/wanqing/卷三十二.json", "collection": "wanqing", "status": "PARSED", "items": 114, "kept": 114, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十五", "path": "raw/poetry/wanqing/卷三十五.json", "collection": "wanqing", "status": "PARSED", "items": 103, "kept": 103, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十八", "path": "raw/poetry/wanqing/卷三十八.json", "collection": "wanqing", "status": "PARSED", "items": 146, "kept": 146, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十六", "path": "raw/poetry/wanqing/卷三十六.json", "collection": "wanqing", "status": "PARSED", "items": 132, "kept": 132, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-三十四", "path": "raw/poetry/wanqing/卷三十四.json", "collection": "wanqing", "status": "PARSED", "items": 113, "kept": 113, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九", "path": "raw/poetry/wanqing/卷九.json", "collection": "wanqing", "status": "PARSED", "items": 58, "kept": 58, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十", "path": "raw/poetry/wanqing/卷九十.json", "collection": "wanqing", "status": "PARSED", "items": 105, "kept": 105, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十一", "path": "raw/poetry/wanqing/卷九十一.json", "collection": "wanqing", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十七", "path": "raw/poetry/wanqing/卷九十七.json", "collection": "wanqing", "status": "PARSED", "items": 94, "kept": 94, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十三", "path": "raw/poetry/wanqing/卷九十三.json", "collection": "wanqing", "status": "PARSED", "items": 113, "kept": 113, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十九", "path": "raw/poetry/wanqing/卷九十九.json", "collection": "wanqing", "status": "PARSED", "items": 102, "kept": 102, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十二", "path": "raw/poetry/wanqing/卷九十二.json", "collection": "wanqing", "status": "PARSED", "items": 106, "kept": 106, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十五", "path": "raw/poetry/wanqing/卷九十五.json", "collection": "wanqing", "status": "PARSED", "items": 99, "kept": 99, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十八", "path": "raw/poetry/wanqing/卷九十八.json", "collection": "wanqing", "status": "PARSED", "items": 118, "kept": 118, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十六", "path": "raw/poetry/wanqing/卷九十六.json", "collection": "wanqing", "status": "PARSED", "items": 103, "kept": 103, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-九十四", "path": "raw/poetry/wanqing/卷九十四.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二", "path": "raw/poetry/wanqing/卷二.json", "collection": "wanqing", "status": "PARSED", "items": 42, "kept": 42, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十", "path": "raw/poetry/wanqing/卷二十.json", "collection": "wanqing", "status": "PARSED", "items": 91, "kept": 91, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十一", "path": "raw/poetry/wanqing/卷二十一.json", "collection": "wanqing", "status": "PARSED", "items": 102, "kept": 102, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十七", "path": "raw/poetry/wanqing/卷二十七.json", "collection": "wanqing", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十三", "path": "raw/poetry/wanqing/卷二十三.json", "collection": "wanqing", "status": "PARSED", "items": 117, "kept": 117, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十九", "path": "raw/poetry/wanqing/卷二十九.json", "collection": "wanqing", "status": "PARSED", "items": 1, "kept": 1, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十二", "path": "raw/poetry/wanqing/卷二十二.json", "collection": "wanqing", "status": "PARSED", "items": 122, "kept": 122, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十五", "path": "raw/poetry/wanqing/卷二十五.json", "collection": "wanqing", "status": "PARSED", "items": 107, "kept": 107, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十八", "path": "raw/poetry/wanqing/卷二十八.json", "collection": "wanqing", "status": "PARSED", "items": 99, "kept": 99, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十六", "path": "raw/poetry/wanqing/卷二十六.json", "collection": "wanqing", "status": "PARSED", "items": 112, "kept": 112, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二十四", "path": "raw/poetry/wanqing/卷二十四.json", "collection": "wanqing", "status": "PARSED", "items": 126, "kept": 126, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-二百", "path": "raw/poetry/wanqing/卷二百.json", "collection": "wanqing", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-五", "path": "raw/poetry/wanqing/卷五.json", "collection": "wanqing", "status": "PARSED", "items": 56, "kept": 56, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-五十", "path": "raw/poetry/wanqing/卷五十.json", "collection": "wanqing", "status": "PARSED", "items": 135, "kept": 135, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-五十一", "path": "raw/poetry/wanqing/卷五十一.json", "collection": "wanqing", "status": "PARSED", "items": 99, "kept": 99, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-五十七", "path": "raw/poetry/wanqing/卷五十七.json", "collection": "wanqing", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-五十三", "path": "raw/poetry/wanqing/卷五十三.json", "collection": "wanqing", "status": "PARSED", "items": 97, "kept": 97, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-五十九", "path": "raw/poetry/wanqing/卷五十九.json", "collection": "wanqing", "status": "PARSED", "items": 129, "kept": 129, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:37", "source_id": "WS-WANQING-五十二", "path": "raw/poetry/wanqing/卷五十二.json", "collection": "wanqing", "status": "PARSED", "items": 101, "kept": 101, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-五十五", "path": "raw/poetry/wanqing/卷五十五.json", "collection": "wanqing", "status": "PARSED", "items": 112, "kept": 112, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-五十八", "path": "raw/poetry/wanqing/卷五十八.json", "collection": "wanqing", "status": "PARSED", "items": 118, "kept": 118, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-五十六", "path": "raw/poetry/wanqing/卷五十六.json", "collection": "wanqing", "status": "PARSED", "items": 88, "kept": 88, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-五十四", "path": "raw/poetry/wanqing/卷五十四.json", "collection": "wanqing", "status": "PARSED", "items": 123, "kept": 123, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八", "path": "raw/poetry/wanqing/卷八.json", "collection": "wanqing", "status": "PARSED", "items": 54, "kept": 54, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十", "path": "raw/poetry/wanqing/卷八十.json", "collection": "wanqing", "status": "PARSED", "items": 104, "kept": 104, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十一", "path": "raw/poetry/wanqing/卷八十一.json", "collection": "wanqing", "status": "PARSED", "items": 98, "kept": 98, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十七", "path": "raw/poetry/wanqing/卷八十七.json", "collection": "wanqing", "status": "PARSED", "items": 114, "kept": 114, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十三", "path": "raw/poetry/wanqing/卷八十三.json", "collection": "wanqing", "status": "PARSED", "items": 84, "kept": 84, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十九", "path": "raw/poetry/wanqing/卷八十九.json", "collection": "wanqing", "status": "PARSED", "items": 117, "kept": 117, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十二", "path": "raw/poetry/wanqing/卷八十二.json", "collection": "wanqing", "status": "PARSED", "items": 73, "kept": 73, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十五", "path": "raw/poetry/wanqing/卷八十五.json", "collection": "wanqing", "status": "PARSED", "items": 99, "kept": 99, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十八", "path": "raw/poetry/wanqing/卷八十八.json", "collection": "wanqing", "status": "PARSED", "items": 90, "kept": 90, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十六", "path": "raw/poetry/wanqing/卷八十六.json", "collection": "wanqing", "status": "PARSED", "items": 96, "kept": 96, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-八十四", "path": "raw/poetry/wanqing/卷八十四.json", "collection": "wanqing", "status": "PARSED", "items": 92, "kept": 92, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六", "path": "raw/poetry/wanqing/卷六.json", "collection": "wanqing", "status": "PARSED", "items": 78, "kept": 78, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十", "path": "raw/poetry/wanqing/卷六十.json", "collection": "wanqing", "status": "PARSED", "items": 83, "kept": 83, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十一", "path": "raw/poetry/wanqing/卷六十一.json", "collection": "wanqing", "status": "PARSED", "items": 87, "kept": 87, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十七", "path": "raw/poetry/wanqing/卷六十七.json", "collection": "wanqing", "status": "PARSED", "items": 99, "kept": 99, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十三", "path": "raw/poetry/wanqing/卷六十三.json", "collection": "wanqing", "status": "PARSED", "items": 127, "kept": 127, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十九", "path": "raw/poetry/wanqing/卷六十九.json", "collection": "wanqing", "status": "PARSED", "items": 93, "kept": 93, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十二", "path": "raw/poetry/wanqing/卷六十二.json", "collection": "wanqing", "status": "PARSED", "items": 110, "kept": 110, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十五", "path": "raw/poetry/wanqing/卷六十五.json", "collection": "wanqing", "status": "PARSED", "items": 86, "kept": 86, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十八", "path": "raw/poetry/wanqing/卷六十八.json", "collection": "wanqing", "status": "PARSED", "items": 132, "kept": 132, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十六", "path": "raw/poetry/wanqing/卷六十六.json", "collection": "wanqing", "status": "PARSED", "items": 92, "kept": 92, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-六十四", "path": "raw/poetry/wanqing/卷六十四.json", "collection": "wanqing", "status": "PARSED", "items": 118, "kept": 118, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十", "path": "raw/poetry/wanqing/卷十.json", "collection": "wanqing", "status": "PARSED", "items": 49, "kept": 49, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十一", "path": "raw/poetry/wanqing/卷十一.json", "collection": "wanqing", "status": "PARSED", "items": 84, "kept": 84, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十七", "path": "raw/poetry/wanqing/卷十七.json", "collection": "wanqing", "status": "PARSED", "items": 103, "kept": 103, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十三", "path": "raw/poetry/wanqing/卷十三.json", "collection": "wanqing", "status": "PARSED", "items": 95, "kept": 95, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十九", "path": "raw/poetry/wanqing/卷十九.json", "collection": "wanqing", "status": "PARSED", "items": 35, "kept": 35, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十二", "path": "raw/poetry/wanqing/卷十二.json", "collection": "wanqing", "status": "PARSED", "items": 103, "kept": 103, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十五", "path": "raw/poetry/wanqing/卷十五.json", "collection": "wanqing", "status": "PARSED", "items": 107, "kept": 107, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十八", "path": "raw/poetry/wanqing/卷十八.json", "collection": "wanqing", "status": "PARSED", "items": 90, "kept": 90, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十六", "path": "raw/poetry/wanqing/卷十六.json", "collection": "wanqing", "status": "PARSED", "items": 118, "kept": 118, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-十四", "path": "raw/poetry/wanqing/卷十四.json", "collection": "wanqing", "status": "PARSED", "items": 115, "kept": 115, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四", "path": "raw/poetry/wanqing/卷四.json", "collection": "wanqing", "status": "PARSED", "items": 25, "kept": 25, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四十", "path": "raw/poetry/wanqing/卷四十.json", "collection": "wanqing", "status": "PARSED", "items": 128, "kept": 128, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四十一", "path": "raw/poetry/wanqing/卷四十一.json", "collection": "wanqing", "status": "PARSED", "items": 118, "kept": 118, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四十七", "path": "raw/poetry/wanqing/卷四十七.json", "collection": "wanqing", "status": "PARSED", "items": 109, "kept": 109, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四十三", "path": "raw/poetry/wanqing/卷四十三.json", "collection": "wanqing", "status": "PARSED", "items": 67, "kept": 67, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四十九", "path": "raw/poetry/wanqing/卷四十九.json", "collection": "wanqing", "status": "PARSED", "items": 127, "kept": 127, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四十二", "path": "raw/poetry/wanqing/卷四十二.json", "collection": "wanqing", "status": "PARSED", "items": 86, "kept": 86, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四十五", "path": "raw/poetry/wanqing/卷四十五.json", "collection": "wanqing", "status": "PARSED", "items": 83, "kept": 83, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:38", "source_id": "WS-WANQING-四十八", "path": "raw/poetry/wanqing/卷四十八.json", "collection": "wanqing", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WANQING-四十六", "path": "raw/poetry/wanqing/卷四十六.json", "collection": "wanqing", "status": "PARSED", "items": 111, "kept": 111, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WANQING-四十四", "path": "raw/poetry/wanqing/卷四十四.json", "collection": "wanqing", "status": "PARSED", "items": 81, "kept": 81, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-中州集 (四庫全書本)", "path": "raw/poetry/zhongzhou/中州集 (四庫全書本).json", "collection": "zhongzhou", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-全覽", "path": "raw/poetry/zhongzhou/全覽.json", "collection": "zhongzhou", "status": "PARSED", "items": 0, "kept": 0, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-01", "path": "raw/poetry/zhongzhou/卷01.json", "collection": "zhongzhou", "status": "PARSED", "items": 240, "kept": 240, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-02", "path": "raw/poetry/zhongzhou/卷02.json", "collection": "zhongzhou", "status": "PARSED", "items": 182, "kept": 182, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-03", "path": "raw/poetry/zhongzhou/卷03.json", "collection": "zhongzhou", "status": "PARSED", "items": 255, "kept": 255, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-04", "path": "raw/poetry/zhongzhou/卷04.json", "collection": "zhongzhou", "status": "PARSED", "items": 266, "kept": 266, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-05", "path": "raw/poetry/zhongzhou/卷05.json", "collection": "zhongzhou", "status": "PARSED", "items": 217, "kept": 217, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-06", "path": "raw/poetry/zhongzhou/卷06.json", "collection": "zhongzhou", "status": "PARSED", "items": 168, "kept": 168, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-07", "path": "raw/poetry/zhongzhou/卷07.json", "collection": "zhongzhou", "status": "PARSED", "items": 224, "kept": 224, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-08", "path": "raw/poetry/zhongzhou/卷08.json", "collection": "zhongzhou", "status": "PARSED", "items": 103, "kept": 103, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-09", "path": "raw/poetry/zhongzhou/卷09.json", "collection": "zhongzhou", "status": "PARSED", "items": 104, "kept": 104, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-10", "path": "raw/poetry/zhongzhou/卷10.json", "collection": "zhongzhou", "status": "PARSED", "items": 180, "kept": 180, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-首", "path": "raw/poetry/zhongzhou/卷首.json", "collection": "zhongzhou", "status": "PARSED", "items": 3, "kept": 3, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-ZHONGZHOU-附録", "path": "raw/poetry/zhongzhou/附録.json", "collection": "zhongzhou", "status": "PARSED", "items": 124, "kept": 124, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-TAO-1", "path": "raw/poetry/tao/卷一.json", "collection": "tao", "status": "PARSED", "items": 9, "kept": 9, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-TAO-2", "path": "raw/poetry/tao/卷二.json", "collection": "tao", "status": "PARSED", "items": 30, "kept": 30, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-TAO-3", "path": "raw/poetry/tao/卷三.json", "collection": "tao", "status": "PARSED", "items": 38, "kept": 38, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-TAO-4", "path": "raw/poetry/tao/卷四.json", "collection": "tao", "status": "PARSED", "items": 47, "kept": 47, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-19", "path": "raw/poetry/wenxuan/卷19.json", "collection": "wenxuan", "status": "PARSED", "items": 8, "kept": 8, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-20", "path": "raw/poetry/wenxuan/卷20.json", "collection": "wenxuan", "status": "PARSED", "items": 25, "kept": 25, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-21", "path": "raw/poetry/wenxuan/卷21.json", "collection": "wenxuan", "status": "PARSED", "items": 18, "kept": 17, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-22", "path": "raw/poetry/wenxuan/卷22.json", "collection": "wenxuan", "status": "PARSED", "items": 26, "kept": 26, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-23", "path": "raw/poetry/wenxuan/卷23.json", "collection": "wenxuan", "status": "PARSED", "items": 18, "kept": 18, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-24", "path": "raw/poetry/wenxuan/卷24.json", "collection": "wenxuan", "status": "PARSED", "items": 24, "kept": 24, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-25", "path": "raw/poetry/wenxuan/卷25.json", "collection": "wenxuan", "status": "PARSED", "items": 16, "kept": 16, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-26", "path": "raw/poetry/wenxuan/卷26.json", "collection": "wenxuan", "status": "PARSED", "items": 31, "kept": 31, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-27", "path": "raw/poetry/wenxuan/卷27.json", "collection": "wenxuan", "status": "PARSED", "items": 28, "kept": 28, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-28", "path": "raw/poetry/wenxuan/卷28.json", "collection": "wenxuan", "status": "PARSED", "items": 34, "kept": 34, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-29", "path": "raw/poetry/wenxuan/卷29.json", "collection": "wenxuan", "status": "PARSED", "items": 41, "kept": 41, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-30", "path": "raw/poetry/wenxuan/卷30.json", "collection": "wenxuan", "status": "PARSED", "items": 50, "kept": 50, "skipped_short": 0}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-WENXUAN-31", "path": "raw/poetry/wenxuan/卷31.json", "collection": "wenxuan", "status": "PARSED", "items": 40, "kept": 39, "skipped_short": 1}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-GUANGYUN-1", "path": "raw/books/guangyun/卷1.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-GUANGYUN-2", "path": "raw/books/guangyun/卷2.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-GUANGYUN-3", "path": "raw/books/guangyun/卷3.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-GUANGYUN-4", "path": "raw/books/guangyun/卷4.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-GUANGYUN-5", "path": "raw/books/guangyun/卷5.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-01", "path": "raw/books/jiliyun/卷01.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-02", "path": "raw/books/jiliyun/卷02.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-03", "path": "raw/books/jiliyun/卷03.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-04", "path": "raw/books/jiliyun/卷04.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-05", "path": "raw/books/jiliyun/卷05.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-06", "path": "raw/books/jiliyun/卷06.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-07", "path": "raw/books/jiliyun/卷07.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-08", "path": "raw/books/jiliyun/卷08.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-09", "path": "raw/books/jiliyun/卷09.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-JILIYUN-10", "path": "raw/books/jiliyun/卷10.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-01", "path": "raw/books/cilv/卷01.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-02", "path": "raw/books/cilv/卷02.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-03", "path": "raw/books/cilv/卷03.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-04", "path": "raw/books/cilv/卷04.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-05", "path": "raw/books/cilv/卷05.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-06", "path": "raw/books/cilv/卷06.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-07", "path": "raw/books/cilv/卷07.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-08", "path": "raw/books/cilv/卷08.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-09", "path": "raw/books/cilv/卷09.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-10", "path": "raw/books/cilv/卷10.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-11", "path": "raw/books/cilv/卷11.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-12", "path": "raw/books/cilv/卷12.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-13", "path": "raw/books/cilv/卷13.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-14", "path": "raw/books/cilv/卷14.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-15", "path": "raw/books/cilv/卷15.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-16", "path": "raw/books/cilv/卷16.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-17", "path": "raw/books/cilv/卷17.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-18", "path": "raw/books/cilv/卷18.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-19", "path": "raw/books/cilv/卷19.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CILV-20", "path": "raw/books/cilv/卷20.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-01", "path": "raw/books/cipu/卷01.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-02", "path": "raw/books/cipu/卷02.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-03", "path": "raw/books/cipu/卷03.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-04", "path": "raw/books/cipu/卷04.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-05", "path": "raw/books/cipu/卷05.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-06", "path": "raw/books/cipu/卷06.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-07", "path": "raw/books/cipu/卷07.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-08", "path": "raw/books/cipu/卷08.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-09", "path": "raw/books/cipu/卷09.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-10", "path": "raw/books/cipu/卷10.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-11", "path": "raw/books/cipu/卷11.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-12", "path": "raw/books/cipu/卷12.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-13", "path": "raw/books/cipu/卷13.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-14", "path": "raw/books/cipu/卷14.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-15", "path": "raw/books/cipu/卷15.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-16", "path": "raw/books/cipu/卷16.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-17", "path": "raw/books/cipu/卷17.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-18", "path": "raw/books/cipu/卷18.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-19", "path": "raw/books/cipu/卷19.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-20", "path": "raw/books/cipu/卷20.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-21", "path": "raw/books/cipu/卷21.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-22", "path": "raw/books/cipu/卷22.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-23", "path": "raw/books/cipu/卷23.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-24", "path": "raw/books/cipu/卷24.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-25", "path": "raw/books/cipu/卷25.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-26", "path": "raw/books/cipu/卷26.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-27", "path": "raw/books/cipu/卷27.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-28", "path": "raw/books/cipu/卷28.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-29", "path": "raw/books/cipu/卷29.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-30", "path": "raw/books/cipu/卷30.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-31", "path": "raw/books/cipu/卷31.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-32", "path": "raw/books/cipu/卷32.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-33", "path": "raw/books/cipu/卷33.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-34", "path": "raw/books/cipu/卷34.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-35", "path": "raw/books/cipu/卷35.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-36", "path": "raw/books/cipu/卷36.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-37", "path": "raw/books/cipu/卷37.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-38", "path": "raw/books/cipu/卷38.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-39", "path": "raw/books/cipu/卷39.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}
+{"ts": "2026-11-12T23:31:39", "source_id": "WS-REF-CIPU-40", "path": "raw/books/cipu/卷40.wikitext", "collection": "reference", "status": "SKIP_NON_JSON", "note": "文献类来源，由 tools/convert_books.py 处理"}

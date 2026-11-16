@@ -1,0 +1,39 @@
+{
+ "frozen_at": "2026-11-15T23:03:58",
+ "db_path": "database/poetry.db",
+ "bytes": 709943296,
+ "sha256": "cddcc659104730895daf51902b96c7e73cbf86d0d01f6d45734c195200b2a50a",
+ "mtime": "2026-11-15T21:57:18",
+ "integrity_check": "ok",
+ "foreign_key_check_n": 0,
+ "page_count": 173326,
+ "page_size": 4096,
+ "journal_mode": "delete",
+ "freelist_count": 0,
+ "objects": {
+  "index": 68,
+  "table": 84,
+  "view": 2
+ },
+ "wal_shm": {
+  "-wal": false,
+  "-shm": false
+ },
+ "r2_10_objects": {
+  "guangyun_fanqie_r2_10": true,
+  "guangyun_yunmu_repair_r2_10": true,
+  "jiyun_page_provenance_r2_10": true,
+  "jiyun_small_rhyme_audit_r2_10": true,
+  "cipai_symbol_audit_r2_10": true,
+  "v_ph_semantics_r2_10": true
+ },
+ "r2_10_rowcounts": {
+  "guangyun_fanqie_r2_10": 20530,
+  "guangyun_yunmu_repair_r2_10": 206,
+  "jiyun_page_provenance_r2_10": 206,
+  "jiyun_small_rhyme_audit_r2_10": 4169,
+  "cipai_symbol_audit_r2_10": 60,
+  "v_ph_semantics_r2_10": 80652
+ },
+ "disk_df": "/dev/disk3s5   239362496 163637264  58966560    74% 1039609 589665600    0%   /System/Volumes/Data"
+}

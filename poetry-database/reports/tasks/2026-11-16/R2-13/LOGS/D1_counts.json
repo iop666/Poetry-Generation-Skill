@@ -1,0 +1,15 @@
+{
+ "yuanqu_total": 10685,
+ "A_chang_any_bracket": 2740,
+ "A_chang_ascii_only_r2_12": 2447,
+ "B_title_lyric": 1729,
+ "C_short": 206,
+ "A_union_B_union_C": 4510,
+ "audit_rows": 4510,
+ "status_counts": {
+  "LYRIC_PRESENT": 2739,
+  "IN_OTHER_FIELD": 1729,
+  "FRAGMENTARY": 41,
+  "DIALOGUE_ONLY": 1
+ }
+}

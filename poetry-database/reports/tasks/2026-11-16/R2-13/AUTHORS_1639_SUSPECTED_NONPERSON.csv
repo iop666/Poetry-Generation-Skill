@@ -1,0 +1,74 @@
+﻿author_name,n_works,sample_titles,collections,genre,suspected_origin,classification,evidence,note
+佚名,3974,关雎 | 葛覃 | 卷耳,gushiji(2949);wanqing(405),未定(3117);古体诗(359),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=SAME; dynasty=魏晋南北朝
+无名氏,3254,醉落魄・一斛珠 | 满江红 | 西江月,yuanqu(1875);songci(1379),曲(1875);词(1379),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=SAME; dynasty=元
+郊廟朝會歌辭,1639,建隆郊祀八首 降神用《高安》。 | 建隆郊祀八首 皇帝升降用《隆安》。 | 建隆郊祀八首 奠玉幣用《嘉安》。,songshi(1639),古体诗(1595);五言律诗(38),乐府类目/乐章名,COLLECTION,作品为郊庙/乐府群体歌辞,alias=NOT_PERSON; dynasty=宋
+無名氏,747,明月湖醉後薔薇花歌 | 春二首 一 | 春二首 二,tang(527);songshi(190),古体诗(293);七言绝句(147),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=唐
+不詳,731,郊廟歌辭 郊天舊樂章 豫和 | 郊廟歌辭 武后大享昊天樂章 一 | 郊廟歌辭 武后大享昊天樂章 二,tang(731),古体诗(462);五言绝句(117),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=唐
+高明《蔡伯喈琵琶记》,377,水调歌头 | 沁园春 | 瑞鹤仙,yuanqu(377),曲(377),人名＋剧名/书名黏连,PERSON,作者名后直接黏附《…》作品名，需剥离,alias=SAME; dynasty=元
+柯丹邱《荆钗记》,340,临江仙 | 沁园春 | 满庭芳,yuanqu(340),曲(340),人名＋剧名/书名黏连,PERSON,作者名后直接黏附《…》作品名，需剥离,alias=SAME; dynasty=元
+无名氏《张协状元》,304,水斗调歌头 | 满庭芳 | 凤时春,yuanqu(304),曲(304),人名＋剧名/书名黏连,ANONYMOUS,作者名后直接黏附《…》作品名，需剥离,alias=SAME; dynasty=元
+施惠《幽闺记》,277,西江月 | 沁园春 | 珍珠帘,yuanqu(277),曲(277),人名＋剧名/书名黏连,PERSON,作者名后直接黏附《…》作品名，需剥离,alias=SAME; dynasty=元
+徐田臣《杀狗记》,276,满江红 | 鸳鸯阵 | 挂真儿,yuanqu(276),曲(276),人名＋剧名/书名黏连,PERSON,作者名后直接黏附《…》作品名，需剥离,alias=SAME; dynasty=元
+刘唐卿《白兔记》,210,满庭芳 | 绛都春引 | 绛都春,yuanqu(210),曲(210),人名＋剧名/书名黏连,PERSON,作者名后直接黏附《…》作品名，需剥离,alias=SAME; dynasty=元
+萧德祥《小孙屠》,134,满庭芳 | 满庭芳 | 粉蝶儿,yuanqu(134),曲(134),人名＋剧名/书名黏连,PERSON,作者名后直接黏附《…》作品名，需剥离,alias=SAME; dynasty=元
+雜詩,133,早發灕江示同舟戴伯貞 | 夜渡郎官湖 | 赴夷陵,mingshi(131);zhongzhou(2),未定(133),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=VARIANT_SIMP; dynasty=明
+无名氏《宦门子弟错立身》,48,鹧鸪天 | 粉蝶儿 | 一封书,yuanqu(48),曲(48),人名＋剧名/书名黏连,ANONYMOUS,作者名后直接黏附《…》作品名，需剥离,alias=SAME; dynasty=元
+鼔吹曲辭,44,靈之祥 | 宣受命 | 征遼東,gushiji(44),未定(44),乐府类目/乐章名,COLLECTION,作品为郊庙/乐府群体歌辞,alias=NOT_PERSON; dynasty=魏晋南北朝
+昭徳凱容樂,43,宣徳凱容樂 | 嘉胙樂 | 昭夏樂,gushiji(43),未定(43),乐府类目/乐章名,COLLECTION,作品为郊庙/乐府群体歌辞,alias=NOT_PERSON; dynasty=魏晋南北朝
+古諺,42,太公兵法引黃帝語 | 六韜 | 曾子,gushiji(42),未定(42),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=先秦
+鼓吹曲辭,35,木紀謝 | 賢首山 | 桐柏山,gushiji(35),未定(35),乐府类目/乐章名,COLLECTION,作品为郊庙/乐府群体歌辞,alias=NOT_PERSON; dynasty=魏晋南北朝
+陳思王植,31,上責躬詩 | 應詔詩 | 朔風詩,gushiji(31),未定(31),帝号/封号式署名,PERSON,alias 已按帝号/封号归姓名：陳思王植→曹植,alias=STYLE_NAME; dynasty=汉魏
+昭明太子,30,相逄狹路間 | 三婦艶 | 飲馬長城窟行,gushiji(30),未定(30),帝号/封号式署名,PERSON,alias 已按帝号/封号归姓名：昭明太子→萧统,alias=TEMPLE_NAME; dynasty=魏晋南北朝
+月重輪行,27,神仙篇 | 車馬行 | 度關山,gushiji(27),未定(27),乐府旧题被当作作者,COLLECTION,,alias=VARIANT_SIMP; dynasty=魏晋南北朝
+清商曲辭,24,應王受圖曲 | 臣道曲 | 積惡篇,gushiji(24),未定(24),乐府类目/乐章名,COLLECTION,作品为郊庙/乐府群体歌辞,alias=NOT_PERSON; dynasty=魏晋南北朝
+劉子引古諺,23,韓嬰詩傳引古語 | 疲馬不渡澠水 | 詩正義引語,gushiji(23),未定(23),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=先秦
+出郊抵東屯,22,顧榮廟 | 答張山人憲 | 澄景閣夜宴,mingshi(22),未定(22),诗题误入作者字段,COLLECTION,,alias=VARIANT_SIMP; dynasty=明
+斋中读书,17,赠徐赓陛 | 出都留别往还 | 佳人,wanqing(17),七言律诗(9);七言排律(5),诗题被当作作者,COLLECTION,,alias=SAME; dynasty=清
+歸田雜詠,17,擬杜遣興 | 秋夜 | 濟河道中,mingshi(17),未定(17),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=VARIANT_SIMP; dynasty=明
+柳子厚祠,15,出山词 | 谢太傅祠 | 临安怀古,wanqing(15),七言律诗(10);七言排律(2),祠庙题咏,ANONYMOUS,名称为祠庙，作者不详,alias=SAME; dynasty=清
+辰州田家諺,15,四月八日晴魚兒上髙坪 | 蜀人語 | 崇慶諺,mingshi(15),未定(15),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=明
+紫騮馬歌,14,懊儂歌 | 黄督 | 古意,mingshi(14),未定(14),乐府旧题被当作作者,COLLECTION,,alias=VARIANT_SIMP; dynasty=明
+瓊州諺,14,海水熱穀不結海水凉禾登場 | 瓊州諺 | 猺人謡,mingshi(14),未定(14),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=明
+《靖康小雅》作者,14,吏部員外郎傅公 | 河東馬步軍副總管王公 | 真定府路兵馬都鈐轄劉公,songshi(14),古体诗(14),书名＋“作者”,UNKNOWN,书名后缀“作者”，实际作者失载,alias=SAME; dynasty=宋
+秋日雜詠,14,荅趙彬 | 雜詠 | 游習家池,mingshi(14),未定(14),诗题被当作作者,COLLECTION,,alias=VARIANT_SIMP; dynasty=明
+湘妃廟,13,與崔渥冥會雜詩 一 | 與崔渥冥會雜詩 二 | 與崔渥冥會雜詩 三,tang(13),七言绝句(13),祠庙题咏,ANONYMOUS,名称为祠庙，作者不详,alias=VARIANT_SIMP; dynasty=唐
+自君之出矣,13,訪樵者 | 陶淵明 | 贈别王與時方伯,mingshi(13),未定(13),乐府旧题被当作作者,COLLECTION,,alias=SAME; dynasty=明
+巫山神女,9,惜奴娇 | 惜奴娇 | 惜奴娇,songci(9),词(9),乐府/传说人物名被当作作者,COLLECTION,,alias=SAME; dynasty=宋
+舟中夜坐,8,登浮翠阁 | 仲春初十日大雪 | 季秋初七夜登舟留别重闱,wanqing(8),七言绝句(3);五言排律(3),诗题被当作作者,COLLECTION,,alias=SAME; dynasty=清
+長安雜詩,6,送許時用歸越 | 秦州 | 澠池道中,mingshi(6),未定(6),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=VARIANT_SIMP; dynasty=明
+無名僧,5,禪詩 一 | 禪詩 二 | 禪詩 三,tang(5),古体诗(5),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=唐
+北征雜詠,5,長安道 | 齋居 | 閭閻曲,mingshi(5),未定(5),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=VARIANT_SIMP; dynasty=明
+虎山黄公祠,4,宿何氏山居 | 西嶽 | 嚴陵,mingshi(4),未定(4),祠庙题咏,ANONYMOUS,名称为祠庙，作者不详,alias=SAME; dynasty=明
+田家杂诗,4,对雪 | 丁丑岁暮喜史梅裳归自河中 | 柬陈行之,wanqing(4),五言律诗(3);七言律诗(1),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=SAME; dynasty=清
+和陶飲酒,4,愍農 | 漢闕 | 廣州贈龍鴻臚,mingshi(4),未定(4),诗题被当作作者,COLLECTION,,alias=VARIANT_SIMP; dynasty=明
+吳中諺,4,常州語 | 恵山謡 | 解州歌,mingshi(4),未定(4),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=明
+还乡杂诗,3,秋日湖隄晚眺 | 今日何日行 | 秋色,wanqing(3),五言律诗(2);古体诗(1),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=SAME; dynasty=清
+山中雜詠,3,春夜夢呉心淵文學 | 晩春 | 幽居,mingshi(3),未定(3),诗题被当作作者,COLLECTION,,alias=VARIANT_SIMP; dynasty=明
+上元夫人,3,贈封陟 | 再贈 | 留別,tang(3),七言绝句(3),传说人物名被当作作者,UNKNOWN,,alias=SAME; dynasty=唐
+春日杂诗,3,济源段园 | 历下亭 | 宏济寺,wanqing(3),五言律诗(1);七言绝句(1),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=SAME; dynasty=清
+無名鬼,3,詩 一 | 詩 二 | 句,tang(3),七言绝句(2);古体诗(1),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=唐
+廣州諺,3,家有竹雞啼白蟻化作泥 | 朝為泡魚暮為蒿豬 | 粤諺,mingshi(3),未定(3),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=明
+周平王庙,3,夏盖湖 | 留别敬修 | 镫下,wanqing(3),五言律诗(2);七言律诗(1),祠庙题咏,ANONYMOUS,名称为祠庙，作者不详,alias=SAME; dynasty=清
+朱柜国大夫祠,2,昆阳怀古 | 黄鹤楼,wanqing(2),七言排律(1);古体诗(1),祠庙题咏,ANONYMOUS,名称为祠庙，作者不详,alias=SAME; dynasty=清
+嶺南雜詠,2,涼州曲 | 竹枝詞,mingshi(2),未定(2),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=VARIANT_SIMP; dynasty=明
+黔中諺,2,陳父歌 | 翰林諺,mingshi(2),未定(2),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=明
+榕堂雜詩,1,贈余若水城南隠居,mingshi(1),未定(1),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=VARIANT_SIMP; dynasty=明
+張祠部,1,瑞香花,songshi(1),七言绝句(1),姓氏＋官署简称,PERSON,“張祠部”为姓＋官署（祠部）简称，仍属人物,alias=VARIANT_SIMP; dynasty=宋
+舟中雜詠,1,吳歌,mingshi(1),未定(1),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=VARIANT_SIMP; dynasty=明
+無名女鬼,1,示宋善威,tang(1),五言绝句(1),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=唐
+吳諺,1,官粻辦便無飯,mingshi(1),未定(1),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=明
+宣和民謠,1,譏王黼,songshi(1),古体诗(1),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=宋
+建炎民謠,1,譏劉豫,songshi(1),七言绝句(1),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=宋
+無名子,1,嘲林洪,songshi(1),七言绝句(1),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=宋
+無名婦人,1,句,songshi(1),古体诗(1),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=宋
+秣陵雜詠,1,釣臺懷古,mingshi(1),未定(1),诗题/类目被当作作者,COLLECTION,“杂诗/杂咏”类标题串入作者字段,alias=VARIANT_SIMP; dynasty=明
+無名女子,1,永安驛題柱,songshi(1),五言绝句(1),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=宋
+乾道民謠,1,爲三狀元詠,songshi(1),七言绝句(1),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=宋
+無名釋,1,古梅,tang(1),七言绝句(1),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=VARIANT_SIMP; dynasty=唐
+柳州谒柳侯祠,1,太平土州飞来钟歌,wanqing(1),古体诗(1),祠庙题咏,ANONYMOUS,名称为祠庙，作者不详,alias=SAME; dynasty=清
+樂章,1,龍壽山萬歲寺,songshi(1),五言律诗(1),乐府类目/乐章名,COLLECTION,作品为郊庙/乐府群体歌辞,alias=NOT_PERSON; dynasty=宋
+谒泰伯庙,1,寄讯龚御史翔麟,wanqing(1),古体诗(1),祠庙题咏,ANONYMOUS,名称为祠庙，作者不详,alias=SAME; dynasty=清
+台州八忠祠歌,1,题石屏诗钞,wanqing(1),七言排律(1),祠庙题咏,ANONYMOUS,名称为祠庙，作者不详,alias=SAME; dynasty=清
+南唐失名僧,1,月,tang(1),五言绝句(1),佚名占位符,ANONYMOUS,库内通行佚名写法,alias=SAME; dynasty=唐
+淳祐民謠,1,二吳謠,songshi(1),古体诗(1),谚谣出处标签,ANONYMOUS,名称为谚谣的地域/时代标签,alias=NOT_PERSON; dynasty=宋
+#TOTAL#,13006,,,,,,按作品计总条数（本表 76 个 author_name）,

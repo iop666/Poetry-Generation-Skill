@@ -1,0 +1,23 @@
+{
+ "pingshui_groups": 106,
+ "pingshui_chars_first_line": 8985,
+ "guangyun_yun": 206,
+ "jiyun_yun": 206,
+ "cilin_bu": 19,
+ "zhongyuan_bu": 19,
+ "xinyun_yun": 14,
+ "group_ids": 570,
+ "query_rows": 90,
+ "query_stat": {
+  "GUANGYUN|XIAOYUN_HEAD": 10,
+  "JIYUN|PRIMARY_BOOK": 10,
+  "CILIN_ZHENGYUN|PRIMARY_BOOK": 13,
+  "ZHONGYUAN_YINYUN|PRIMARY_BOOK": 14,
+  "ZHONGHUA_XINYUN|NOT_IN_JIANBIAO": 3,
+  "PINGSHUI_YUN|PRIMARY_BOOK": 13,
+  "GUANGYUN/JIYUN|NOT_BUILT": 12,
+  "ZHONGHUA_XINYUN|DERIVED_RULE": 11,
+  "JIYUN|NOT_AS_XIAOYUN_HEAD": 2,
+  "GUANGYUN|NON_HEAD_ENTRY": 2
+ }
+}

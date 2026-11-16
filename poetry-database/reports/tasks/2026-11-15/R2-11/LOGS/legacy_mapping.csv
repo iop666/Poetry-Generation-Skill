@@ -1,0 +1,8 @@
+﻿legacy_value,legacy_scope,source_book_id,rhyme_system_id,phonological_family_id,n_rows,note
+middle_chinese,ph_readings_r2_08.system,GUANGYUN,GY_206,MIDDLE_CHINESE,20530,"该值把广韵与集韵合并，51,392 行无法区分来源书；须按 source_book 字段拆分；source_book=廣韻（四庫全書本·維基文庫轉錄） 实际 20530 行"
+middle_chinese,ph_readings_r2_08.system,JIYUN,JY_206,MIDDLE_CHINESE,51392,同上；集韵具体行数须按 source_book 统计
+regulated_verse,ph_readings_r2_08.system,PINGSHUI_YUN,PS_106,TRADITIONAL_POETIC_RHYME,10662,诗韵
+ci_rhyme,ph_readings_r2_08.system,CILIN_ZHENGYUN,CL_19,TRADITIONAL_POETIC_RHYME,11382,词韵
+modern_rhyme,ph_readings_r2_08.system,ZHONGHUA_XINYUN,XY_14,MODERN_MANDARIN,7216,派生记录，缺十三支 173 条
+yuan_qu,ph_readings_r2_08.system,ZHONGYUAN_YINYUN,ZY_19,YUAN_DYNASTY_NORTHERN_CHINESE,0,"ph_readings 中 0 行；实际字表在 ph_zhongyuan_r2_09（5,731 行），未并入统一 readings"
+old_chinese,ph_readings_r2_08.system,,,ANCIENT_CHINESE,0,未建（NOT_BUILT）

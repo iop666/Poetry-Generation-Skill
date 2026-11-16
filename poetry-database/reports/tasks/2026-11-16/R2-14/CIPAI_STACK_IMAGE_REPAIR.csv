@@ -1,0 +1,12 @@
+﻿idx,form_id,pdf_page,titles_on_page,repair_action,crop_evidence
+1,F07-0181,230,第四类|平仄韵通叶格|西江月,SPLIT_BY_TITLE_REQUIRED,裁切 y 边界：第四类@79 / 平仄韵通叶格@107 / 西江月@283
+2,F07-0183,233,渡江云,SINGLE_FORM_OK,裁切 y 边界：渡江云@319
+3,F07-0175,224,忆馀杭,SINGLE_FORM_OK,裁切 y 边界：忆馀杭@345
+4,F07-0007,21,浪淘沙,SINGLE_FORM_OK,裁切 y 边界：浪淘沙@222
+5,F07-0065,88,六州歌头,SINGLE_FORM_OK,裁切 y 边界：六州歌头@172
+6,F07-0139,173,水龙吟,SINGLE_FORM_OK,裁切 y 边界：水龙吟@285
+7,F07-0066,89,,SINGLE_FORM_OK,裁切 y 边界：
+8,F07-0140,176,石州慢,SINGLE_FORM_OK,裁切 y 边界：石州慢@232
+9,F07-0141,178,瑞鹤仙,SINGLE_FORM_OK,裁切 y 边界：瑞鹤仙@267
+10,F07-0009,23,,SINGLE_FORM_OK,裁切 y 边界：
+11,F07-0029,42,柳梢青,SINGLE_FORM_OK,裁切 y 边界：柳梢青@151

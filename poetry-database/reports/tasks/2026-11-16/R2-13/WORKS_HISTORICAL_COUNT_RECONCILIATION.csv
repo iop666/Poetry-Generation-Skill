@@ -1,0 +1,11 @@
+﻿item_id,item,r2_12_claim,r2_13_measured,reconciliation,action,note
+R12-01,作品抽样 560/564,报告称 560 条、分类合计 564,记录数 560，唯一 work_id 560；多标签记录 4 条；按记录 560，按标签 564,RESOLVED：不存在计数错误。564 是「标签计数」，560 是「记录计数」，差 4 来自 4 条多标签记录（TRUNCATED|NOTE_MIXED 2、DUP|TITLE_REPEAT 1、TRUNCATED|DUP 1）,今后同时报两种口径：记录数与标签数
+R12-02,100 字 × 七类来源 = 936 行,报告称 936 行,100 个汉字，平均 9.36 行/字；同一字在六书各有记录，且同书内可有多韵/多读,RESOLVED：936 是「多记录数」，不是 700 个固定格。每行代表一条「书—韵—反切/声调」记录,报告中已注明「多记录」，需在调用方文档中明示「行数≠字数」
+R12-03,120 对象含 20 条未盲读词谱,主表生成时盲读未落地,词谱 20 条在主表中为 UNDECIDABLE；盲读结果另存 CIPAI_11_DOUBLE_BLIND_REVIEW.csv,PARTIAL：本轮已用盲读结果重算词谱 11 条（见 CIPAI_5_TUNE_CONFLICTS_REAUDIT.csv），但 20 条中含 9 条不在 11 条之列，仍为 UNDECIDABLE,需在 R2-13 的 120 表中把词谱项替换为已盲读的 11 条
+R12-04,11 图 5 条冲突,R2-12 报告,BOTH_AGREE 5 / CIPAI_CONFLICT 3 / SENTENCE_COUNT_CONFLICT 2 / UNDECIDABLE 1,CONFIRMED：已在 R2-12 记录；本轮做映射修复（工作包 H）,裁切图与 form_id 对应须重建
+R12-05,"42,352 行字级索引",R2-12 报告,"含 HEAD_MATCH 3,569 / OUT_OF_ORDER 364 / POSITION_ONLY 227 / NO_SEGMENT 9",CONFIRMED：本轮在查询口径中分层标注 align 字段，不再合并称「98.9% 定位成功」,POSITION_ONLY 227 条不得当已确认
+R12-06,339 是筛查集合,R2-12 报告,339 条均来自 `text_raw LIKE %一作%`；其中 POEM_BODY 42 条不需清洗,CONFIRMED：339 是「候选集」，实际需处理的是非 POEM_BODY 部分,不得把 339 当「339 条待删」
+R12-07,328 条 applied=NO,R2-12 报告,328 条全部未应用；11 条缺口全部为 POEM_BODY,CONFIRMED：本轮仍不写入，只出候选（见 WORKS_TEXT_REPAIR_CANDIDATES.csv）,本轮不覆盖 works.text_norm
+R12-08,442 对繁简双写,R2-12 报告,本轮由作者专项独立核实（AUTHORS_442_VARIANT_PAIRS.csv）,PARTIAL：分类结果见作者专项，但一律不合并,须建立身份而非去重
+R12-09,"1,639 条非人名",R2-12 报告,本轮由作者专项核实（AUTHORS_1639_SUSPECTED_NONPERSON.csv）,PARTIAL：按 author_name 聚合给出分类，不按字切分更正,需核来源字段
+R12-10,"元曲 2,447 条缺曲文",R2-12 报告,本轮由元曲专项全量核查（YUANQU_2447_MISSING_TEXT_AUDIT.csv）,PARTIAL：根因与可恢复比例见 YUANQU_TEXT_RECOVERY_SUMMARY.md,不得从网络补文

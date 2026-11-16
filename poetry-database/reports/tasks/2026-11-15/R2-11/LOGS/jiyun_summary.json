@@ -1,0 +1,37 @@
+{
+ "T12": {
+  "rows": 4,
+  "recovered": 4,
+  "partial": 0,
+  "unresolved": 0
+ },
+ "D2": {
+  "reviewed_total_in_csv": 4169,
+  "ok": 91,
+  "fail": 12,
+  "partial": 8,
+  "reopened": 20,
+  "closure": {
+   "PARTIAL_DECLARED_MISSING": 1,
+   "CLOSED_FIXABLE": 17,
+   "REMAINS_FAIL": 2
+  }
+ },
+ "D3": {
+  "PASS": 194,
+  "FAIL": 6
+ },
+ "D4": {
+  "requested": 50,
+  "local_djvu_files": [],
+  "blocked": 50
+ },
+ "D5": {
+  "UNVERIFIABLE": 206
+ },
+ "D0_fanqie_old_new": {
+  "old_table_unsplit_upper": 3942,
+  "new_table_unsplit_upper": 0,
+  "note": "R2-10 报告称 3,967/4,169；实测旧表 3,942 条上字被存成整串"
+ }
+}

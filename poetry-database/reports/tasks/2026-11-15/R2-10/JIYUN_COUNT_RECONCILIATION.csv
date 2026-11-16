@@ -1,0 +1,10 @@
+﻿metric,value,definition,algorithm,status,reproducible,note
+小韻數,4344,R2-08 舊解析器，202 頁（4 頁 429 失敗未採）,舊 r2_08_jiyun_parse.py；每段以「○」切分、逐〈〉串接後取 文N,CONFIRMED_DIFFERENT_DEFINITION,YES,"頁集不同：本輪以同腳本在 203 頁重跑得 4,377；202 頁快照已被補抓覆蓋，無法逐頁復原"
+小韻數,4432,R2-08 同一舊解析器，但頁數已補至 206（報告未更新）,同上,CONFIRMED_DIFFERENT_DEFINITION,YES,"同腳本重跑 206 頁得 4,432，與此數完全一致，可復算"
+小韻數,4169,R2-09 新解析器，206 頁，要求 ○ 後 ≥6 字且首字可匹配,"r2_09_jiyun_loader.py；SEG=○[^○]{6,}，HEAD 必須匹配",CONFIRMED_DIFFERENT_DEFINITION,NO_PAGE_SNAPSHOT_LOST,可復算；比舊法少 263 條，主要是頁首導航殘段與缺 ○ 的合併段被排除
+字數,51803,R2-08 舊解析器 202 頁的 Σ文N,"同 4,344",CONFIRMED_DIFFERENT_DEFINITION,NO_PAGE_SNAPSHOT_LOST,頁集不同；202 頁快照不可復原
+字數,52983,R2-08 舊解析器 206 頁的 Σ文N,"同 4,432",CONFIRMED_SAME_DEFINITION,YES,"本輪以舊腳本重跑 206 頁得 52,983，可復算"
+字數,53952,本輪新統計：206 頁全部「文N」字樣求和（含注文中《說文》引文誤命中）,正則 文[中文數字] 全頁求和,CONFIRMED_DIFFERENT_DEFINITION,YES,"與 53,525 相差 427（0.8%），說明原書自述總字數接近「所有文N之和」而非「首文N之和」"
+字數,53525,原書（四庫提要/序）自述全書字數,文獻記載，非本項目統計,SOURCE_DIFFERENCE,NO_PAGE_SNAPSHOT_LOST,"非程序可算；與 53,952 差 0.8%，可視為同一量級的兩個來源"
+字數,50132,R2-09 每小韻取「段內首個文N」,r2_09_jiyun_loader.py WEN.search(body),CONFIRMED_SAME_DEFINITION,YES,"可復算；比「全部文N求和」少 3,820，因為一小韻內後續〈〉的「文N」多為《說文》篇卷數"
+字數,49084,R2-09 字頭估計（〈〉前緊鄰漢字全計）,r2_09_jiyun_loader.py heads 累加,COMPUTED,NO_PAGE_SNAPSHOT_LOST,可復算；此為估計值，非原書字頭數

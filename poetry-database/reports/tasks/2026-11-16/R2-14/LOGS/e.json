@@ -1,0 +1,14 @@
+{
+ "n_issue": 81,
+ "label_sum": 83,
+ "labels": {
+  "TITLE_REPEAT": 30,
+  "BODY_PARTIAL": 5,
+  "DUPLICATE_SUSPECTED": 38,
+  "ANNOTATION_MIXED": 4,
+  "BODY_DELETED": 4,
+  "AUTHOR_IN_BODY": 2
+ },
+ "n500": 500,
+ "n500_audit": 2000
+}

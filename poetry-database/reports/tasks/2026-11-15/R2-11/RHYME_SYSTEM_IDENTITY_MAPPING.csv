@@ -1,0 +1,7 @@
+﻿source_book_id,rhyme_system_id,phonological_family_id,tone_scheme,yun_count,char_count,db_tables,verify_level,note
+GUANGYUN,GY_206,MIDDLE_CHINESE,四声（平上去入）206 韵，平声分上下,206,25619,raw/books/guangyun/卷1..5.wikitext,SOURCE_TRANSCRIPTION,与集韵同属中古音系，但为独立韵书
+JIYUN,JY_206,MIDDLE_CHINESE,四声 206 韵，韵目次序与广韵不同,206,,raw/r2_08/jiyun_pages/*.json,SOURCE_TRANSCRIPTION,合并统计会破坏两书独立性
+PINGSHUI_YUN,PS_106,TRADITIONAL_POETIC_RHYME,四声 106 韵（平30/上29/去30/入17）,106,,raw/r2_09/rhyme/平水韻.json,SOURCE_TRANSCRIPTION,作诗用韵分类
+CILIN_ZHENGYUN,CL_19,TRADITIONAL_POETIC_RHYME,十九部，每部辖平上去入,19,,ph_cilin_r2_09,SOURCE_TRANSCRIPTION,填词用韵分类，与平水韵不同层
+ZHONGYUAN_YINYUN,ZY_19,YUAN_DYNASTY_NORTHERN_CHINESE,十九部，四声，平声分阴阳，入派三声,19,,ph_zhongyuan_r2_09,SOURCE_TRANSCRIPTION,元代北方官话
+ZHONGHUA_XINYUN,XY_14,MODERN_MANDARIN,十四韵，四声（阴平/阳平/上声/去声）,14,7597,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,SOURCE_TRANSCRIPTION,现代普通话，入声已派入四声

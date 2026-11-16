@@ -1,0 +1,6 @@
+﻿idx,form_id,cipai,db_sentences,blind_sentences,blind_confidence,possible_reason,verdict
+4,F07-0007,浪淘沙,4,5,HIGH,句界判定差异,UNDECIDABLE_NEEDS_SINGLE_FORM_CROP
+5,F07-0065,六州歌头,39,19,HIGH,图含两段或裁切越界；盲读者只读到上片,UNDECIDABLE_NEEDS_SINGLE_FORM_CROP
+9,F07-0141,瑞鹤仙,23,12,LOW,图含两段或裁切越界；盲读者只读到上片,UNDECIDABLE_NEEDS_SINGLE_FORM_CROP
+10,F07-0009,浪淘沙,28,10,LOW,图含两段或裁切越界；盲读者只读到上片,UNDECIDABLE_NEEDS_SINGLE_FORM_CROP
+11,F07-0029,柳梢青,12,9,HIGH,图含两段或裁切越界；盲读者只读到上片,UNDECIDABLE_NEEDS_SINGLE_FORM_CROP

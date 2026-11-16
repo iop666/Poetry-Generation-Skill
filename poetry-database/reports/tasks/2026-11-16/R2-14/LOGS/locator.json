@@ -1,0 +1,12 @@
+{
+ "verified_sources": 551,
+ "works_covered": 164217,
+ "pool_sources": 551,
+ "recovery_200": 200,
+ "file_check_100": 100,
+ "collation_30": 30,
+ "collation_result": {
+  "EXACT": 30
+ },
+ "sources_used": 3
+}

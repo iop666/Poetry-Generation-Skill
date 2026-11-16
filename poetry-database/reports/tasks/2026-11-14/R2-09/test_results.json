@@ -1,0 +1,570 @@
+[
+ {
+  "id": "T-01",
+  "cat": "結構",
+  "desc": "R2-07/R2-08 表數 22",
+  "expect": 22,
+  "actual": 22,
+  "result": "PASS"
+ },
+ {
+  "id": "T-02",
+  "cat": "結構",
+  "desc": "R2-09 新增表 14",
+  "expect": 14,
+  "actual": 14,
+  "result": "PASS"
+ },
+ {
+  "id": "T-03",
+  "cat": "結構",
+  "desc": "cipai_forms 主鍵唯一 196",
+  "expect": 196,
+  "actual": 196,
+  "result": "PASS"
+ },
+ {
+  "id": "T-04",
+  "cat": "結構",
+  "desc": "forms→entities 無孤兒",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-05",
+  "cat": "結構",
+  "desc": "rhyme_dual 覆蓋全部 196 格",
+  "expect": 196,
+  "actual": 196,
+  "result": "PASS"
+ },
+ {
+  "id": "T-06",
+  "cat": "結構",
+  "desc": "rhyme_fields 覆蓋 196",
+  "expect": 196,
+  "actual": 196,
+  "result": "PASS"
+ },
+ {
+  "id": "T-07",
+  "cat": "結構",
+  "desc": "entities.n_form 合計 196",
+  "expect": 196,
+  "actual": 196,
+  "result": "PASS"
+ },
+ {
+  "id": "T-08",
+  "cat": "結構",
+  "desc": "works 未被本輪改動 375399",
+  "expect": 375399,
+  "actual": 375399,
+  "result": "PASS"
+ },
+ {
+  "id": "T-09",
+  "cat": "結構",
+  "desc": "舊表 cipai_specs 仍 76",
+  "expect": 76,
+  "actual": 76,
+  "result": "PASS"
+ },
+ {
+  "id": "T-10",
+  "cat": "結構",
+  "desc": "舊表 cipai_index 仍 144",
+  "expect": 144,
+  "actual": 144,
+  "result": "PASS"
+ },
+ {
+  "id": "T-11",
+  "cat": "證據",
+  "desc": "每條 ph_readings 都能映射新等級",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-12",
+  "cat": "證據",
+  "desc": "SOURCE_PRIMARY 條數 0（本輪確無原書影印）",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-13",
+  "cat": "證據",
+  "desc": "COMPUTED 條數 18598",
+  "expect": 18598,
+  "actual": 18598,
+  "result": "PASS"
+ },
+ {
+  "id": "T-14",
+  "cat": "證據",
+  "desc": "SOURCE_EDITION 條數 10662",
+  "expect": 10662,
+  "actual": 10662,
+  "result": "PASS"
+ },
+ {
+  "id": "T-15",
+  "cat": "證據",
+  "desc": "SOURCE_TRANSCRIPTION 條數 51392",
+  "expect": 51392,
+  "actual": 51392,
+  "result": "PASS"
+ },
+ {
+  "id": "T-16",
+  "cat": "證據",
+  "desc": "詞林正韻字表標為 SOURCE_TRANSCRIPTION",
+  "expect": 5563,
+  "actual": 5563,
+  "result": "PASS"
+ },
+ {
+  "id": "T-17",
+  "cat": "證據",
+  "desc": "中原音韻字表標為 SOURCE_TRANSCRIPTION",
+  "expect": 5731,
+  "actual": 5731,
+  "result": "PASS"
+ },
+ {
+  "id": "T-18",
+  "cat": "證據",
+  "desc": "中華新韻規則表 14 韻",
+  "expect": 14,
+  "actual": 14,
+  "result": "PASS"
+ },
+ {
+  "id": "T-19",
+  "cat": "韻書",
+  "desc": "集韻韻頁 206 全部 OK",
+  "expect": 206,
+  "actual": 206,
+  "result": "PASS"
+ },
+ {
+  "id": "T-20",
+  "cat": "韻書",
+  "desc": "集韻新表 206 韻",
+  "expect": 206,
+  "actual": 206,
+  "result": "PASS"
+ },
+ {
+  "id": "T-20b",
+  "cat": "韻書",
+  "desc": "集韻新表 小韻 4169",
+  "expect": 4169,
+  "actual": 4169,
+  "result": "PASS"
+ },
+ {
+  "id": "T-20c",
+  "cat": "韻書",
+  "desc": "集韻自述字數與字頭估計差 <3%",
+  "expect": true,
+  "actual": true,
+  "result": "PASS"
+ },
+ {
+  "id": "T-21",
+  "cat": "韻書",
+  "desc": "詞林正韻 19 部",
+  "expect": 19,
+  "actual": 19,
+  "result": "PASS"
+ },
+ {
+  "id": "T-22",
+  "cat": "韻書",
+  "desc": "詞林正韻 106 韻目",
+  "expect": 106,
+  "actual": 106,
+  "result": "PASS"
+ },
+ {
+  "id": "T-23",
+  "cat": "韻書",
+  "desc": "詞林正韻 半韻 9 個",
+  "expect": 9,
+  "actual": 9,
+  "result": "PASS"
+ },
+ {
+  "id": "T-24",
+  "cat": "韻書",
+  "desc": "中原音韻 19 部",
+  "expect": 19,
+  "actual": 19,
+  "result": "PASS"
+ },
+ {
+  "id": "T-25",
+  "cat": "韻書",
+  "desc": "中原音韻 平聲分陰陽",
+  "expect": 2,
+  "actual": 2,
+  "result": "PASS"
+ },
+ {
+  "id": "T-26",
+  "cat": "韻書",
+  "desc": "中原音韻 入聲三派齊備",
+  "expect": 3,
+  "actual": 3,
+  "result": "PASS"
+ },
+ {
+  "id": "T-27",
+  "cat": "韻書",
+  "desc": "平水韻 106 韻",
+  "expect": 106,
+  "actual": 106,
+  "result": "PASS"
+ },
+ {
+  "id": "T-28",
+  "cat": "韻書",
+  "desc": "平水韻字數 8564",
+  "expect": 8564,
+  "actual": 8564,
+  "result": "PASS"
+ },
+ {
+  "id": "T-29",
+  "cat": "韻書",
+  "desc": "廣韻韻目表 206",
+  "expect": 206,
+  "actual": 206,
+  "result": "PASS"
+ },
+ {
+  "id": "T-30",
+  "cat": "韻書",
+  "desc": "廣韻條目 20530",
+  "expect": 20530,
+  "actual": 20530,
+  "result": "PASS"
+ },
+ {
+  "id": "T-31",
+  "cat": "韻書",
+  "desc": "廣韻 fanqie_upper 實為下字（已知缺陷可重現）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS"
+ },
+ {
+  "id": "T-32",
+  "cat": "韻書",
+  "desc": "中華新韻派生 7216 全部有規則對應",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-33",
+  "cat": "韻書",
+  "desc": "六套體系分立（system 數 ≥4）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS"
+ },
+ {
+  "id": "T-34",
+  "cat": "詞格",
+  "desc": "196 格 sentence_count 全 > 0",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-35",
+  "cat": "詞格",
+  "desc": "196 格中譜行符號數與 total_characters 一致者",
+  "expect": 196,
+  "actual": 196,
+  "result": "PASS"
+ },
+ {
+  "id": "T-36",
+  "cat": "詞格",
+  "desc": "13 條字數異常全部有五方數值",
+  "expect": 13,
+  "actual": 13,
+  "result": "PASS"
+ },
+ {
+  "id": "T-37",
+  "cat": "詞格",
+  "desc": "33 條衝突全部有判定",
+  "expect": 33,
+  "actual": 33,
+  "result": "PASS"
+ },
+ {
+  "id": "T-38",
+  "cat": "詞格",
+  "desc": "衝突判定無空值",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-39",
+  "cat": "詞格",
+  "desc": "196 格韻式標籤層級皆 BRAND_LEVEL（本輪關鍵發現）",
+  "expect": 196,
+  "actual": 196,
+  "result": "PASS"
+ },
+ {
+  "id": "T-40",
+  "cat": "詞格",
+  "desc": "例詞觀察欄已填 ≥150",
+  "expect": true,
+  "actual": true,
+  "result": "PASS"
+ },
+ {
+  "id": "T-41",
+  "cat": "詞格",
+  "desc": "review_status 仍無一條 VERIFIED（不得自我升級）",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-42",
+  "cat": "詞格",
+  "desc": "same_rhyme_group_verified 仍為 0",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-43",
+  "cat": "原圖",
+  "desc": "樣本 60",
+  "expect": 60,
+  "actual": 60,
+  "result": "PASS"
+ },
+ {
+  "id": "T-44",
+  "cat": "原圖",
+  "desc": "已核驗 26 + 34 = 60",
+  "expect": 60,
+  "actual": 60,
+  "result": "PASS"
+ },
+ {
+  "id": "T-45",
+  "cat": "原圖",
+  "desc": "本輪核驗記錄 34 條",
+  "expect": 34,
+  "actual": 34,
+  "result": "PASS"
+ },
+ {
+  "id": "T-46",
+  "cat": "原圖",
+  "desc": "本輪無 ANNOTATION_MISMATCH",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-47",
+  "cat": "原圖",
+  "desc": "跨頁紀錄 10 條",
+  "expect": 10,
+  "actual": 10,
+  "result": "PASS"
+ },
+ {
+  "id": "T-48",
+  "cat": "原圖",
+  "desc": "每條都有圖檔 SHA-256",
+  "expect": 34,
+  "actual": 34,
+  "result": "PASS"
+ },
+ {
+  "id": "T-49",
+  "cat": "例詞",
+  "desc": "310 條例詞",
+  "expect": 310,
+  "actual": 310,
+  "result": "PASS"
+ },
+ {
+  "id": "T-50",
+  "cat": "例詞",
+  "desc": "重判後關聯 310 條",
+  "expect": 310,
+  "actual": 310,
+  "result": "PASS"
+ },
+ {
+  "id": "T-51",
+  "cat": "例詞",
+  "desc": "TITLE_ONLY 未升級為高級別（修正後 5）",
+  "expect": 5,
+  "actual": 5,
+  "result": "PASS"
+ },
+ {
+  "id": "T-52",
+  "cat": "例詞",
+  "desc": "作者衝突單列（繁簡正規化後 6）",
+  "expect": 6,
+  "actual": 6,
+  "result": "PASS"
+ },
+ {
+  "id": "T-53",
+  "cat": "例詞",
+  "desc": "完全相等 50 條",
+  "expect": 50,
+  "actual": 50,
+  "result": "PASS"
+ },
+ {
+  "id": "T-54",
+  "cat": "例詞",
+  "desc": "未掛接保持 NO_MATCH（修正後 114）",
+  "expect": 114,
+  "actual": 114,
+  "result": "PASS"
+ },
+ {
+  "id": "T-55",
+  "cat": "閱讀",
+  "desc": "907 條記錄",
+  "expect": 907,
+  "actual": 907,
+  "result": "PASS"
+ },
+ {
+  "id": "T-56",
+  "cat": "閱讀",
+  "desc": "引文回查失敗 0",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-57",
+  "cat": "閱讀",
+  "desc": "閱讀審查 120 條",
+  "expect": 120,
+  "actual": 120,
+  "result": "PASS"
+ },
+ {
+  "id": "T-58",
+  "cat": "閱讀",
+  "desc": "審查 S1 條數 2",
+  "expect": 2,
+  "actual": 2,
+  "result": "PASS"
+ },
+ {
+  "id": "T-59",
+  "cat": "閱讀",
+  "desc": "PDF 全 476 頁有分類",
+  "expect": 476,
+  "actual": 476,
+  "result": "PASS"
+ },
+ {
+  "id": "T-60",
+  "cat": "閱讀",
+  "desc": "音標索引 688 條",
+  "expect": 688,
+  "actual": 688,
+  "result": "PASS"
+ },
+ {
+  "id": "T-61",
+  "cat": "跨系統",
+  "desc": "多音字樣本 200",
+  "expect": 200,
+  "actual": 200,
+  "result": "PASS"
+ },
+ {
+  "id": "T-62",
+  "cat": "跨系統",
+  "desc": "跨韻書案例 100",
+  "expect": 100,
+  "actual": 100,
+  "result": "PASS"
+ },
+ {
+  "id": "T-63",
+  "cat": "跨系統",
+  "desc": "多音字至少跨 2 體系",
+  "expect": 200,
+  "actual": 200,
+  "result": "PASS"
+ },
+ {
+  "id": "T-64",
+  "cat": "跨系統",
+  "desc": "未把不同體系合併為單一讀音（charx 可多行）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS"
+ },
+ {
+  "id": "T-65",
+  "cat": "文件",
+  "desc": "報告檔數 ≥ 20",
+  "expect": true,
+  "actual": true,
+  "result": "PASS"
+ },
+ {
+  "id": "T-66",
+  "cat": "文件",
+  "desc": "集韻每頁記 HTML SHA-256（可追溯）",
+  "expect": 206,
+  "actual": 206,
+  "result": "PASS"
+ },
+ {
+  "id": "T-66b",
+  "cat": "文件",
+  "desc": "集韻 revid 已記錄頁數（本輪發現為 0，缺口如實保留）",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS"
+ },
+ {
+  "id": "T-67",
+  "cat": "文件",
+  "desc": "詞林正韻來源有 revid",
+  "expect": true,
+  "actual": true,
+  "result": "PASS"
+ },
+ {
+  "id": "T-68",
+  "cat": "文件",
+  "desc": "中原音韻來源為維基文庫正文（有 revid 或已記版本）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS"
+ }
+]

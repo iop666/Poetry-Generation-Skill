@@ -1,0 +1,26 @@
+[ 52/75] OK   cipu/卷32            43256B
+[ 53/75] OK   cipu/卷33            42068B
+[ 54/75] OK   cipu/卷34            36432B
+[ 55/75] OK   cipu/卷35            46667B
+[ 56/75] OK   cipu/卷36            41691B
+[ 57/75] OK   cipu/卷37            30544B
+[ 58/75] OK   cipu/卷38            24103B
+[ 59/75] OK   cipu/卷39            24910B
+[ 60/75] OK   cipu/卷40            23973B
+[ 62/75] OK   guangyun/卷2            131055B
+[ 63/75] OK   guangyun/卷3            140360B
+[ 64/75] OK   guangyun/卷4            158618B
+[ 65/75] OK   guangyun/卷5            157898B
+[ 66/75] OK   jiliyun/卷01             2488B
+[ 67/75] OK   jiliyun/卷02             1296B
+[ 68/75] OK   jiliyun/卷03              775B
+[ 69/75] OK   jiliyun/卷04             1218B
+[ 70/75] OK   jiliyun/卷05             1583B
+[ 71/75] OK   jiliyun/卷06             1860B
+[ 72/75] OK   jiliyun/卷07             1827B
+[ 73/75] OK   jiliyun/卷08             1861B
+[ 74/75] FAIL jiliyun/卷09  http=429
+[ 75/75] OK   jiliyun/卷10             1178B
+
+完成：成功 22 / 跳过 52 / 失败 1
+EXIT=1

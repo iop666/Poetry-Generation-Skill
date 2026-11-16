@@ -1,0 +1,32 @@
+[PASS] T-01 PaddleOCR 页数=432 — 432 页
+[PASS] T-02 清洗前后汉字数一致（A 部分 p15–182） — 清洗后 57086 / 原 57086
+[PASS] T-03 清洗后无 LaTeX 残留 — 残留 0
+[PASS] T-04 p32 韵脚字保留（书/胥/车/如/余） — 逐字命中
+[PASS] T-05 阅读记录 27 条 — 27
+[PASS] T-06 覆盖率=1.00 的单元 20 个 — 20
+[PASS] T-07 gate_pass=1 共 20 个 — 20
+[PASS] T-08 王力 17 单元全部 coverage=1 — min=1.0 n=17
+[PASS] T-09 EXTRACTED 仅限《词学十讲》 — 越界 0
+[PASS] T-10 reading_units A/B 章级全部 READ — [('READ', 17)]
+[PASS] T-11 词学十讲 idx 映射正确（10 讲字数逐一匹配） — E:第1讲=2615; E:第6讲=5331; E:第3讲=5681 …
+[PASS] T-12 理论条目 38 条 — 38
+[PASS] T-13 理论条目全部有引文 — 缺 0
+[PASS] T-14 A/B 条目 PDF 页在 15–346 内 — []
+[PASS] T-15 10 条关键引文逐字命中原文页 — 未命中 []
+[PASS] T-16 theory_claims id=15 = RETIRED_MISATTRIBUTED — RETIRED_MISATTRIBUTED
+[PASS] T-17 v2 记录 1 条且 supersedes 指向 id=15 — [('R05-CL-001', 'theory_claims id=15', 'VERIFIED（仅 A 范围）')]
+[PASS] T-18 其余 15 条未被私自升级为 VERIFIED — 0
+[PASS] T-19 两书差异 18 条，其中冲突类 8 条 — 18 / 8
+[PASS] T-20 词牌缺口 6 行且定格 143>135 — [('定格', 143, 135), ('变格', 27, 9)]
+[PASS] T-21 词牌计数可复现 — {'定格': 143, '变格': 27, '格一': 21, '格二': 23, '格三': 8, '别格': 7}
+[PASS] T-22 A 条目不越界（≤182） — 越界 0
+[PASS] T-23 九份报告齐全 — 缺 []
+[PASS] T-24 阅读笔记 10 份 — 10
+[PASS] T-25 gedou.py 存在且不在本轮改动清单 — 未触碰
+[PASS] T-26 交付物中无 OCR 凭据 — 命中 0
+[PASS] T-27 总覆盖 69.7%（±0.5%） — 113547/162846 = 0.697
+[PASS] T-28 无 NOT_STARTED — 0
+[PASS] T-29 A/B 引文 34 条全部可逐字定位 — 未命中 []
+[PASS] T-30 引文未把原文 “ ” 改写为 「 」 — 0 条含「
+
+合计 30 项：PASS 30，FAIL 0

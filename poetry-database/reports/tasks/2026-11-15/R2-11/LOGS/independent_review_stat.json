@@ -1,0 +1,21 @@
+{
+ "total": 120,
+ "unique": 120,
+ "verdict": {
+  "AGREE": 96,
+  "DISAGREE": 18,
+  "UNDECIDABLE": 6
+ },
+ "by_category": {
+  "广韵|AGREE": 19,
+  "广韵|DISAGREE": 6,
+  "集韵|AGREE": 23,
+  "集韵|DISAGREE": 2,
+  "中华新韵|AGREE": 15,
+  "词谱|AGREE": 20,
+  "阅读记录|UNDECIDABLE": 6,
+  "阅读记录|DISAGREE": 2,
+  "例词|AGREE": 19,
+  "例词|DISAGREE": 8
+ }
+}

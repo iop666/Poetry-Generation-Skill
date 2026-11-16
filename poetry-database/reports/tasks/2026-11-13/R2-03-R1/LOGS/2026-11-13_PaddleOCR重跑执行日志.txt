@@ -1,0 +1,197 @@
+提交： {"files": 3, "out": "<LOCAL_WORKBUDDY>/2026-11-13/2026-11-13_PaddleOCR-VL重跑结果", "model": "PaddleOCR-VL-1.6"}
+
+===== [1/3] =====
+[1/3] 提交任务  <PROJECT_ROOT>/books/王力全集 诗词格律 诗词格律概要 (王力) (z-library.sk, 1lib.sk, z-lib.sk).pdf
+      jobId = 114676397850828800
+[2/3] 等待解析（排队常占 35~90s）
+  完成：432 页，2026-11-13 18:43:04 → 2026-11-13 18:43:04
+[3/3] 下载结果  → <LOCAL_WORKBUDDY>/2026-11-13/2026-11-13_PaddleOCR-VL重跑结果/王力全集 诗词格律 诗词格律概要 (王力) (z-library.sk, 1lib.sk, z-lib.sk)
+      页数 432｜图片 4｜耗时 0.9s｜警告 0
+      [警告] 7 页未识别出文字。常见原因：分辨率过低、PNG 透明背景、页面大面积留白。
+
+===== [2/3] =====
+[1/3] 提交任务  <PROJECT_ROOT>/books/王力全集 汉语音韵学 (王力) (z-library.sk, 1lib.sk, z-lib.sk)(1).pdf
+      jobId = 114676687443656704
+[2/3] 等待解析（排队常占 35~90s）
+  状态 pending
+  识别中 running  0/476 页
+  识别中 running  8/476 页
+  识别中 running  12/476 页
+  识别中 running  16/476 页
+  识别中 running  24/476 页
+  识别中 running  32/476 页
+  识别中 running  36/476 页
+  识别中 running  44/476 页
+  识别中 running  52/476 页
+  识别中 running  56/476 页
+  识别中 running  60/476 页
+  识别中 running  68/476 页
+  识别中 running  72/476 页
+  识别中 running  76/476 页
+  识别中 running  80/476 页
+  识别中 running  84/476 页
+  识别中 running  92/476 页
+  识别中 running  112/476 页
+  识别中 running  116/476 页
+  识别中 running  120/476 页
+  识别中 running  124/476 页
+  识别中 running  132/476 页
+  识别中 running  140/476 页
+  识别中 running  148/476 页
+  识别中 running  176/476 页
+  识别中 running  180/476 页
+  识别中 running  184/476 页
+  识别中 running  188/476 页
+  识别中 running  192/476 页
+  识别中 running  196/476 页
+  识别中 running  200/476 页
+  识别中 running  204/476 页
+  识别中 running  212/476 页
+  识别中 running  220/476 页
+  识别中 running  224/476 页
+  识别中 running  248/476 页
+  识别中 running  252/476 页
+  识别中 running  260/476 页
+  识别中 running  264/476 页
+  识别中 running  268/476 页
+  识别中 running  272/476 页
+  识别中 running  276/476 页
+  识别中 running  280/476 页
+  识别中 running  304/476 页
+  识别中 running  312/476 页
+  识别中 running  316/476 页
+  识别中 running  324/476 页
+  识别中 running  328/476 页
+  识别中 running  332/476 页
+  识别中 running  336/476 页
+  识别中 running  340/476 页
+  识别中 running  344/476 页
+  识别中 running  368/476 页
+  识别中 running  372/476 页
+  识别中 running  376/476 页
+  识别中 running  380/476 页
+  识别中 running  388/476 页
+  识别中 running  392/476 页
+  识别中 running  396/476 页
+  识别中 running  404/476 页
+  识别中 running  424/476 页
+  识别中 running  432/476 页
+  识别中 running  436/476 页
+  识别中 running  440/476 页
+  识别中 running  448/476 页
+  识别中 running  456/476 页
+  完成：476 页，2026-11-13 18:44:13 → 2026-11-13 18:54:20
+[3/3] 下载结果  → <LOCAL_WORKBUDDY>/2026-11-13/2026-11-13_PaddleOCR-VL重跑结果/王力全集 汉语音韵学 (王力) (z-library.sk, 1lib.sk, z-lib.sk)(1)
+      页数 476｜图片 13｜耗时 608.5s｜警告 0
+      [警告] 1 页未识别出文字。常见原因：分辨率过低、PNG 透明背景、页面大面积留白。
+
+===== [3/3] =====
+[1/3] 提交任务  <PROJECT_ROOT>/books/王力全集 同源字典 (王力) (z-library.sk, 1lib.sk, z-lib.sk)(1).pdf
+      jobId = 114679491062239232
+[2/3] 等待解析（排队常占 35~90s）
+  状态 pending
+  识别中 running  4/783 页
+  识别中 running  16/783 页
+  识别中 running  28/783 页
+  识别中 running  36/783 页
+  识别中 running  44/783 页
+  识别中 running  52/783 页
+  识别中 running  60/783 页
+  识别中 running  64/783 页
+  识别中 running  68/783 页
+  识别中 running  72/783 页
+  识别中 running  88/783 页
+  识别中 running  104/783 页
+  识别中 running  124/783 页
+  识别中 running  140/783 页
+  识别中 running  144/783 页
+  识别中 running  156/783 页
+  识别中 running  160/783 页
+  识别中 running  164/783 页
+  识别中 running  172/783 页
+  识别中 running  184/783 页
+  识别中 running  188/783 页
+  识别中 running  204/783 页
+  识别中 running  224/783 页
+  识别中 running  244/783 页
+  识别中 running  256/783 页
+  识别中 running  260/783 页
+  识别中 running  264/783 页
+  识别中 running  272/783 页
+  识别中 running  280/783 页
+  识别中 running  284/783 页
+  识别中 running  288/783 页
+  识别中 running  300/783 页
+  识别中 running  312/783 页
+  识别中 running  316/783 页
+  识别中 running  324/783 页
+  识别中 running  332/783 页
+  识别中 running  336/783 页
+  识别中 running  344/783 页
+  识别中 running  352/783 页
+  识别中 running  364/783 页
+  识别中 running  380/783 页
+  识别中 running  384/783 页
+  识别中 running  396/783 页
+  识别中 running  408/783 页
+  识别中 running  416/783 页
+  识别中 running  428/783 页
+  识别中 running  436/783 页
+  识别中 running  444/783 页
+  识别中 running  452/783 页
+  识别中 running  456/783 页
+  识别中 running  460/783 页
+  识别中 running  464/783 页
+  识别中 running  476/783 页
+  识别中 running  484/783 页
+  识别中 running  496/783 页
+  识别中 running  504/783 页
+  识别中 running  512/783 页
+  识别中 running  516/783 页
+  识别中 running  536/783 页
+  识别中 running  552/783 页
+  识别中 running  556/783 页
+  识别中 running  568/783 页
+  识别中 running  572/783 页
+  识别中 running  588/783 页
+  识别中 running  604/783 页
+  识别中 running  620/783 页
+  识别中 running  632/783 页
+  识别中 running  636/783 页
+  识别中 running  648/783 页
+  识别中 running  656/783 页
+  识别中 running  660/783 页
+  识别中 running  668/783 页
+  识别中 running  680/783 页
+  识别中 running  684/783 页
+  识别中 running  688/783 页
+  识别中 running  700/783 页
+  识别中 running  716/783 页
+  识别中 running  720/783 页
+  识别中 running  740/783 页
+  识别中 running  748/783 页
+  识别中 running  752/783 页
+  识别中 running  756/783 页
+  识别中 running  764/783 页
+  识别中 running  772/783 页
+  识别中 running  776/783 页
+  识别中 running  780/783 页
+  完成：783 页，2026-11-13 18:55:36 → 2026-11-13 19:07:24
+[3/3] 下载结果  → <LOCAL_WORKBUDDY>/2026-11-13/2026-11-13_PaddleOCR-VL重跑结果/王力全集 同源字典 (王力) (z-library.sk, 1lib.sk, z-lib.sk)(1)
+      页数 783｜图片 4｜耗时 729.8s｜警告 0
+      [警告] 1 页未识别出文字。常见原因：分辨率过低、PNG 透明背景、页面大面积留白。
+
+===== 汇总 =====
+  OK   <PROJECT_ROOT>/books/王力全集 诗词格律 诗词格律概要 (王力) (z-library.sk, 1lib.sk, z-lib.sk).pdf  → 432 页  engine=PaddleOCR-VL-1.6
+  OK   <PROJECT_ROOT>/books/王力全集 汉语音韵学 (王力) (z-library.sk, 1lib.sk, z-lib.sk)(1).pdf  → 476 页  engine=PaddleOCR-VL-1.6
+  OK   <PROJECT_ROOT>/books/王力全集 同源字典 (王力) (z-library.sk, 1lib.sk, z-lib.sk)(1).pdf  → 783 页  engine=PaddleOCR-VL-1.6
+已落地： {
+  "wangli_yinyunxue": "<PROJECT_ROOT>/poetry-database/raw/books_ocr_paddle/wangli_yinyunxue",
+  "wangli_tongyuan": "<PROJECT_ROOT>/poetry-database/raw/books_ocr_paddle/wangli_tongyuan",
+  "wangli_shicilv": "<PROJECT_ROOT>/poetry-database/raw/books_ocr_paddle/wangli_shicilv"
+}
+对照完成：1691 页 → <PROJECT_ROOT>/poetry-database/raw/books_ocr_paddle/comparison.jsonl
+  wangli_shicilv       共有页  432  均值相似 0.2531  Vision误识   768 → Paddle误识     5  圈号 Vision   10 / Paddle    8  Paddle空页 7
+  wangli_yinyunxue     共有页  476  均值相似 0.2065  Vision误识     0 → Paddle误识     7  圈号 Vision   32 / Paddle  201  Paddle空页 1
+  wangli_tongyuan      共有页  783  均值相似 0.3396  Vision误识     0 → Paddle误识     0  圈号 Vision   96 / Paddle   10  Paddle空页 1
+入库完成：book_pages_paddle 1691 行；ocr_comparison 1691 行；ocr_runs 新增 3 条。旧表 book_pages 未改动。

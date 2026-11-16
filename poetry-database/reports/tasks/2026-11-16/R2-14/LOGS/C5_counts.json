@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-11-16T19:14:28",
+  "seed": 20261116,
+  "n": 100,
+  "stats": {
+    "EXACT": 100,
+    "IN_OTHER_FIELD": 50,
+    "LYRIC_PRESENT": 25,
+    "FRAGMENTARY": 15,
+    "DIALOGUE_ONLY": 1,
+    "SUBSTITUTE_FRAGMENTARY": 9
+  },
+  "source_unavailable_found": 0,
+  "gap": 9
+}

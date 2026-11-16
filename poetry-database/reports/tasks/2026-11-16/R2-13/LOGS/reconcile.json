@@ -1,0 +1,24 @@
+{
+ "n_339": 339,
+ "n_328": 328,
+ "n_gap": 11,
+ "class": {
+  "MIXED_BODY_AND_NOTE": 141,
+  "EDITORIAL_NOTE": 143,
+  "VARIANT_NOTE": 13,
+  "POEM_BODY": 42
+ },
+ "impact": {
+  "BODY_EXPANDED": 74,
+  "VARIANT_LOST": 322,
+  "NOTE_REMOVED": 282,
+  "BODY_DELETED": 198,
+  "NOTE_REMOVED_ONLY": 15,
+  "NOTE_RETAINED": 17,
+  "NO_BRACKET_NOTE_STRUCTURE": 40,
+  "BODY_PRESERVED": 12
+ },
+ "sample_records": 560,
+ "sample_labels": 564,
+ "multi_label_rows": 4
+}

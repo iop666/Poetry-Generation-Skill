@@ -1,0 +1,30 @@
+{
+ "total": 7597,
+ "mismatch": 238,
+ "diff_types": {
+  "RHYME_MAPPING_ERROR": 204,
+  "RIME_NEAR_MISS": 34
+ },
+ "trad_stat": {
+  "SAME_FORM": 4584,
+  "HAS_TRADITIONAL": 2146
+ },
+ "multi_shared": 9,
+ "polyphone_rows": 3140,
+ "by_rhyme": {
+  "一麻": 2,
+  "二波": 23,
+  "三皆": 4,
+  "四开": 2,
+  "五微": 9,
+  "六豪": 13,
+  "七尤": 7,
+  "八寒": 6,
+  "九文": 12,
+  "十唐": 15,
+  "十一庚": 26,
+  "十二齐": 52,
+  "十三支": 27,
+  "十四姑": 40
+ }
+}

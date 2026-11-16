@@ -1,0 +1,937 @@
+﻿query_id,character,source_book_id,source_book_name,volume,rhyme_group,xiaoyun,fanqie,tone,evidence_level,source_locator,is_derived,unresolved,note
+QX-001,東,GUANGYUN,广韵,,東,,徳紅切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-001,東,JIYUN,集韵,,東第一,,都籠切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（東第一）,0,,小韵首组：東
+QX-001,東,PINGSHUI_YUN,平水韵,上平聲一,東,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-001,東,CILIN_ZHENGYUN,词林正韵,第一部,一東,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-001,東,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-001,東,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-001,東,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-002,同,GUANGYUN,广韵,,東,,徒紅切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-002,同,JIYUN,集韵,,東第一,,徒東切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（東第一）,0,,小韵首组：同
+QX-002,同,PINGSHUI_YUN,平水韵,上平聲一,東,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-002,同,CILIN_ZHENGYUN,词林正韵,第一部,一東,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-002,同,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-002,同,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-002,同,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-003,中,GUANGYUN,广韵,,東,,陟弓切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-003,中,GUANGYUN,广韵,,送,,陟仲切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-003,中,JIYUN,集韵,,東第一,,陟隆切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（東第一）,0,,小韵首组：中𠁧𠁩
+QX-003,中,JIYUN,集韵,,送第一,,陟仲切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（送第一）,0,,小韵首组：中
+QX-003,中,PINGSHUI_YUN,平水韵,上平聲一,東,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-003,中,PINGSHUI_YUN,平水韵,去聲一,送,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-003,中,CILIN_ZHENGYUN,词林正韵,第一部,一東,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-003,中,CILIN_ZHENGYUN,词林正韵,第一部,一送,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-003,中,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-003,中,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-003,中,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-003,中,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-003,中,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-004,蟲,GUANGYUN,广韵,,東,,直弓切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-004,蟲,GUANGYUN,广韵,,送,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-004,蟲,JIYUN,集韵,,冬第二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（冬第二）,0,非小韵首，本字无独立反切,小韵内字
+QX-004,蟲,JIYUN,集韵,,東第一,,持中切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（東第一）,0,,小韵首组：蟲
+QX-004,蟲,JIYUN,集韵,,送第一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（送第一）,0,非小韵首，本字无独立反切,小韵内字
+QX-004,蟲,PINGSHUI_YUN,平水韵,上平聲一,東,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-004,蟲,CILIN_ZHENGYUN,词林正韵,第一部,一東,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-004,蟲,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-004,蟲,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-004,蟲,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-005,終,GUANGYUN,广韵,,東,,職戎切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-005,終,JIYUN,集韵,,東第一,,之戎切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（東第一）,0,,小韵首组：終𣊜𠂂𣈩𤽬夂
+QX-005,終,PINGSHUI_YUN,平水韵,上平聲一,東,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-005,終,CILIN_ZHENGYUN,词林正韵,第一部,一東,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-005,終,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-005,終,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-005,終,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-006,風,GUANGYUN,广韵,,東,,方戎切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-006,風,GUANGYUN,广韵,,送,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-006,風,JIYUN,集韵,,凡第二十九,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（凡第二十九）,0,非小韵首，本字无独立反切,小韵内字
+QX-006,風,JIYUN,集韵,,送第一,,方鳯切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（送第一）,0,,小韵首组：諷風
+QX-006,風,PINGSHUI_YUN,平水韵,上平聲一,東,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-006,風,CILIN_ZHENGYUN,词林正韵,第一部,一東,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-006,風,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-006,風,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-006,風,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-007,衣,GUANGYUN,广韵,,㣲,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-007,衣,GUANGYUN,广韵,,未,,於既切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-007,衣,JIYUN,集韵,,微第八,,於希切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（微第八）,0,,小韵首组：衣
+QX-007,衣,JIYUN,集韵,,未第八,,於旣切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（未第八）,0,,小韵首组：衣
+QX-007,衣,PINGSHUI_YUN,平水韵,上平聲五,微,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-007,衣,PINGSHUI_YUN,平水韵,去聲五,未,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-007,衣,CILIN_ZHENGYUN,词林正韵,第三部,五微,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-007,衣,CILIN_ZHENGYUN,词林正韵,第三部,五未,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-007,衣,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-007,衣,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-007,衣,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-007,衣,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-008,重,GUANGYUN,广韵,,鍾,,直容切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-008,重,GUANGYUN,广韵,,腫,,直隴切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-008,重,GUANGYUN,广韵,,用,,柱用切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-008,重,JIYUN,集韵,,鍾第三,,傳容切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（鍾第三）,0,,小韵首组：重
+QX-008,重,JIYUN,集韵,,腫第二,,柱勇切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（腫第二）,0,,小韵首组：重𡔌
+QX-008,重,JIYUN,集韵,,用第三,,儲用切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（用第三）,0,,小韵首组：重
+QX-008,重,PINGSHUI_YUN,平水韵,上平聲二,冬,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-008,重,PINGSHUI_YUN,平水韵,上聲二,腫,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-008,重,PINGSHUI_YUN,平水韵,去聲二,宋,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-008,重,CILIN_ZHENGYUN,词林正韵,第一部,二冬,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-008,重,CILIN_ZHENGYUN,词林正韵,第一部,二腫,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-008,重,CILIN_ZHENGYUN,词林正韵,第一部,二宋,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-008,重,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-008,重,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-008,重,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-008,重,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-008,重,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-009,行,GUANGYUN,广韵,,唐,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-009,行,GUANGYUN,广韵,,庚,,户庚切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-009,行,GUANGYUN,广韵,,宕,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-009,行,GUANGYUN,广韵,,映,,胡孟切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-009,行,JIYUN,集韵,,唐第十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（唐第十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-009,行,JIYUN,集韵,,庚第十二,,何庚切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（庚第十二）,0,,小韵首组：行
+QX-009,行,JIYUN,集韵,,銜第二十八,,乎監切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（銜第二十八）,0,,小韵首组：銜行
+QX-009,行,JIYUN,集韵,,蕩第三十七,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（蕩第三十七）,0,非小韵首，本字无独立反切,小韵内字
+QX-009,行,JIYUN,集韵,,宕第四十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（宕第四十二）,0,非小韵首，本字无独立反切,小韵内字
+QX-009,行,JIYUN,集韵,,映第四十三,,下孟切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（映第四十三）,0,,小韵首组：行
+QX-009,行,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-009,行,PINGSHUI_YUN,平水韵,下平聲八,庚,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-009,行,PINGSHUI_YUN,平水韵,去聲二十三,漾,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-009,行,PINGSHUI_YUN,平水韵,去聲二十四,敬,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-009,行,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-009,行,CILIN_ZHENGYUN,词林正韵,第十一部,八庚,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-009,行,CILIN_ZHENGYUN,词林正韵,第十一部,二十四敬,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-009,行,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-009,行,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-009,行,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-009,行,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-009,行,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-009,行,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-009,行,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-010,長,GUANGYUN,广韵,,陽,,直良切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-010,長,GUANGYUN,广韵,,養,,知丈切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-010,長,GUANGYUN,广韵,,漾,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-010,長,JIYUN,集韵,,養第三十六,,展兩切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（養第三十六）,0,,小韵首组：長仧
+QX-010,長,JIYUN,集韵,,漾第四十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（漾第四十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-010,長,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-010,長,PINGSHUI_YUN,平水韵,上聲二十二,養,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-010,長,PINGSHUI_YUN,平水韵,去聲二十三,漾,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-010,長,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-010,長,CILIN_ZHENGYUN,词林正韵,第二部,二十二養,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-010,長,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-010,長,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-010,長,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-010,長,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-011,樂,GUANGYUN,广韵,,效,,五教切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-011,樂,GUANGYUN,广韵,,覺,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-011,樂,GUANGYUN,广韵,,鐸,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-011,樂,JIYUN,集韵,,效第三十六,,魚教切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（效第三十六）,0,,小韵首组：樂
+QX-011,樂,JIYUN,集韵,,笑第三十五,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（笑第三十五）,0,非小韵首，本字无独立反切,小韵内字
+QX-011,樂,JIYUN,集韵,,覺第四,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（覺第四）,0,非小韵首，本字无独立反切,小韵内字
+QX-011,樂,JIYUN,集韵,,鐸第十九,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（鐸第十九）,0,非小韵首，本字无独立反切,小韵内字
+QX-011,樂,PINGSHUI_YUN,平水韵,去聲十九,效,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-011,樂,PINGSHUI_YUN,平水韵,入聲三,覺,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-011,樂,PINGSHUI_YUN,平水韵,入聲十,藥,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-011,樂,CILIN_ZHENGYUN,词林正韵,第十六部,三覺,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-011,樂,CILIN_ZHENGYUN,词林正韵,第十六部,十藥,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-011,樂,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-011,樂,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-011,樂,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-011,樂,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-011,樂,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-011,樂,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-011,樂,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-011,樂,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-012,白,GUANGYUN,广韵,,陌,,傍伯切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-012,白,JIYUN,集韵,,禡第四十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（禡第四十）,0,非小韵首，本字无独立反切,小韵内字
+QX-012,白,JIYUN,集韵,,陌第二十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陌第二十）,0,非小韵首，本字无独立反切,小韵内字
+QX-012,白,JIYUN,集韵,,陌第二十,,薄陌切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陌第二十）,0,,小韵首组：白㿟
+QX-012,白,PINGSHUI_YUN,平水韵,入聲十一,陌,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-012,白,CILIN_ZHENGYUN,词林正韵,第十七部,十一陌,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-012,白,ZHONGYUAN_YINYUN,中原音韵,皆來,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-012,白,ZHONGHUA_XINYUN,中华新韵,十四韵,四开,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-012,白,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-013,雲,GUANGYUN,广韵,,文,,于分切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-013,雲,JIYUN,集韵,,文第二十,,玉分切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（文第二十）,0,,小韵首组：雲
+QX-013,雲,PINGSHUI_YUN,平水韵,上平聲十二,文,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-013,雲,CILIN_ZHENGYUN,词林正韵,第六部,十二文,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-013,雲,ZHONGYUAN_YINYUN,中原音韵,真文,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-013,雲,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-013,雲,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-014,山,GUANGYUN,广韵,,山,,所間切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-014,山,JIYUN,集韵,,山第二十八,,師間切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（山第二十八）,0,,小韵首组：山
+QX-014,山,JIYUN,集韵,,僊第二,,所旃切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（僊第二）,0,,小韵首组：山
+QX-014,山,PINGSHUI_YUN,平水韵,上平聲十五,刪,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-014,山,CILIN_ZHENGYUN,词林正韵,第七部,十五刪,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-014,山,ZHONGYUAN_YINYUN,中原音韵,寒山,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-014,山,ZHONGHUA_XINYUN,中华新韵,十四韵,八寒,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-014,山,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-015,水,GUANGYUN,广韵,,㫖,,式軌切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-015,水,JIYUN,集韵,,㫖第五,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（㫖第五）,0,非小韵首，本字无独立反切,小韵首组：水
+QX-015,水,PINGSHUI_YUN,平水韵,上聲四,紙,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-015,水,CILIN_ZHENGYUN,词林正韵,第三部,四紙,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-015,水,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-015,水,ZHONGHUA_XINYUN,中华新韵,十四韵,五微,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-015,水,ZHONGHUA_XINYUN,中华新韵,十四韵,十四姑,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-015,水,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-016,月,GUANGYUN,广韵,,月,,魚厥切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-016,月,JIYUN,集韵,,𠊱第五十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（𠊱第五十）,0,非小韵首，本字无独立反切,小韵内字
+QX-016,月,JIYUN,集韵,,月第十,,魚厥切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（月第十）,0,,小韵首组：月囝
+QX-016,月,PINGSHUI_YUN,平水韵,入聲六,月,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-016,月,CILIN_ZHENGYUN,词林正韵,第十八部,六月,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-016,月,ZHONGYUAN_YINYUN,中原音韵,車遮,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-016,月,ZHONGHUA_XINYUN,中华新韵,十四韵,三皆,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-016,月,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-017,明,GUANGYUN,广韵,,庚,,武兵切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-017,明,JIYUN,集韵,,庚第十二,,眉兵切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（庚第十二）,0,,小韵首组：朙明
+QX-017,明,JIYUN,集韵,,映第四十三,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（映第四十三）,0,非小韵首，本字无独立反切,小韵内字
+QX-017,明,PINGSHUI_YUN,平水韵,下平聲八,庚,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-017,明,CILIN_ZHENGYUN,词林正韵,第十一部,八庚,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-017,明,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-017,明,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-017,明,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-017,明,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-018,光,GUANGYUN,广韵,,唐,,古黄切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-018,光,GUANGYUN,广韵,,宕,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-018,光,JIYUN,集韵,,宕第四十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（宕第四十二）,0,非小韵首，本字无独立反切,小韵内字
+QX-018,光,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-018,光,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-018,光,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-018,光,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-018,光,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-019,夜,GUANGYUN,广韵,,禡,,羊謝切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-019,夜,JIYUN,集韵,,禡第四十,,夤謝切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（禡第四十）,0,,小韵首组：夜
+QX-019,夜,JIYUN,集韵,,㫺第二十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（㫺第二十二）,0,非小韵首，本字无独立反切,小韵内字
+QX-019,夜,PINGSHUI_YUN,平水韵,去聲二十二,禡,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-019,夜,CILIN_ZHENGYUN,词林正韵,第十部,二十二禡,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-019,夜,ZHONGYUAN_YINYUN,中原音韵,車遮,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-019,夜,ZHONGHUA_XINYUN,中华新韵,十四韵,三皆,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-019,夜,ZHONGHUA_XINYUN,中华新韵,十四韵,十四姑,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-019,夜,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-020,思,GUANGYUN,广韵,,之,,息兹切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-020,思,GUANGYUN,广韵,,志,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-020,思,JIYUN,集韵,,咍第十六,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（咍第十六）,0,非小韵首，本字无独立反切,小韵内字
+QX-020,思,PINGSHUI_YUN,平水韵,上平聲四,支,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-020,思,PINGSHUI_YUN,平水韵,去聲四,寘,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-020,思,CILIN_ZHENGYUN,词林正韵,第三部,四支,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-020,思,CILIN_ZHENGYUN,词林正韵,第三部,四寘,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-020,思,ZHONGYUAN_YINYUN,中原音韵,支思,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-020,思,ZHONGYUAN_YINYUN,中原音韵,支思,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-020,思,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-020,思,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-021,春,GUANGYUN,广韵,,諄,,昌脣切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-021,春,JIYUN,集韵,,諄第十八,,樞倫切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（諄第十八）,0,,小韵首组：萅𦸬旾𣈤春
+QX-021,春,JIYUN,集韵,,準第十七,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（準第十七）,0,非小韵首，本字无独立反切,小韵内字
+QX-021,春,PINGSHUI_YUN,平水韵,上平聲十一,真,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-021,春,CILIN_ZHENGYUN,词林正韵,第六部,十一真,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-021,春,ZHONGYUAN_YINYUN,中原音韵,真文,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-021,春,ZHONGHUA_XINYUN,中华新韵,十四韵,九文,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-021,春,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-022,江,GUANGYUN,广韵,,江,,古雙切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-022,江,JIYUN,集韵,,江第四,,古雙切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（江第四）,0,,小韵首组：江
+QX-022,江,PINGSHUI_YUN,平水韵,上平聲三,江,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-022,江,CILIN_ZHENGYUN,词林正韵,第二部,三江,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-022,江,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-022,江,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-022,江,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-023,花,GUANGYUN,广韵,,麻,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-023,花,JIYUN,集韵,,NO_RECORD,,,,,,0,,
+QX-023,花,PINGSHUI_YUN,平水韵,下平聲六,麻,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-023,花,CILIN_ZHENGYUN,词林正韵,第十部,六麻,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-023,花,ZHONGYUAN_YINYUN,中原音韵,家麻,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-023,花,ZHONGHUA_XINYUN,中华新韵,十四韵,一麻,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-023,花,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-024,秋,GUANGYUN,广韵,,尤,,七由切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-024,秋,JIYUN,集韵,,NO_RECORD,,,,,,0,,
+QX-024,秋,PINGSHUI_YUN,平水韵,下平聲十一,尤,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-024,秋,CILIN_ZHENGYUN,词林正韵,第十二部,十一尤,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-024,秋,ZHONGYUAN_YINYUN,中原音韵,尤侯,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-024,秋,ZHONGHUA_XINYUN,中华新韵,十四韵,七尤,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-024,秋,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-025,聲,GUANGYUN,广韵,,清,,書盈切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-025,聲,JIYUN,集韵,,清第十四,,書盈切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（清第十四）,0,,小韵首组：聲殸
+QX-025,聲,PINGSHUI_YUN,平水韵,下平聲八,庚,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-025,聲,CILIN_ZHENGYUN,词林正韵,第十一部,八庚,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-025,聲,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-025,聲,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-025,聲,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-025,聲,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-025,聲,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-026,去,GUANGYUN,广韵,,語,,羌舉切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-026,去,GUANGYUN,广韵,,御,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-026,去,JIYUN,集韵,,魚第九,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（魚第九）,0,非小韵首，本字无独立反切,小韵内字
+QX-026,去,JIYUN,集韵,,語第八,,口舉切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（語第八）,0,,小韵首组：去弆
+QX-026,去,JIYUN,集韵,,語第八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（語第八）,0,非小韵首，本字无独立反切,小韵内字
+QX-026,去,PINGSHUI_YUN,平水韵,上聲六,語,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-026,去,PINGSHUI_YUN,平水韵,去聲六,御,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-026,去,CILIN_ZHENGYUN,词林正韵,第四部,六語,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-026,去,CILIN_ZHENGYUN,词林正韵,第四部,六御,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-026,去,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-026,去,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-026,去,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-026,去,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-026,去,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-027,來,GUANGYUN,广韵,,咍,,落哀切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-027,來,JIYUN,集韵,,之第七,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（之第七）,0,非小韵首，本字无独立反切,小韵内字
+QX-027,來,JIYUN,集韵,,咍第十六,,郎才切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（咍第十六）,0,,小韵首组：來徠逨𧼛
+QX-027,來,JIYUN,集韵,,模第十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（模第十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-027,來,JIYUN,集韵,,代第十九,,洛代切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（代第十九）,0,,小韵首组：勑徠倈來逨
+QX-027,來,PINGSHUI_YUN,平水韵,上平聲十,灰,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-027,來,CILIN_ZHENGYUN,词林正韵,第五部,十灰<半>,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-027,來,ZHONGYUAN_YINYUN,中原音韵,皆來,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-027,來,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-027,來,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-028,歸,GUANGYUN,广韵,,㣲,,舉韋切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-028,歸,JIYUN,集韵,,至第六,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（至第六）,0,非小韵首，本字无独立反切,小韵内字
+QX-028,歸,PINGSHUI_YUN,平水韵,上平聲五,微,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-028,歸,CILIN_ZHENGYUN,词林正韵,第三部,五微,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-028,歸,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-028,歸,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-028,歸,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-029,學,GUANGYUN,广韵,,覺,,胡覺切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-029,學,JIYUN,集韵,,效第三十六,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（效第三十六）,0,非小韵首，本字无独立反切,小韵内字
+QX-029,學,JIYUN,集韵,,覺第四,,轄覺切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（覺第四）,0,,小韵首组：斆學
+QX-029,學,JIYUN,集韵,,覺第四,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（覺第四）,0,非小韵首，本字无独立反切,小韵内字
+QX-029,學,JIYUN,集韵,,𭶑第十四,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（𭶑第十四）,0,非小韵首，本字无独立反切,小韵内字
+QX-029,學,PINGSHUI_YUN,平水韵,入聲三,覺,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-029,學,CILIN_ZHENGYUN,词林正韵,第十六部,三覺,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-029,學,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-029,學,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-029,學,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-029,學,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-030,問,GUANGYUN,广韵,,問,,亡運切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-030,問,JIYUN,集韵,,問第二十三,,文運切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（問第二十三）,0,,小韵首组：問
+QX-030,問,PINGSHUI_YUN,平水韵,去聲十三,問,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-030,問,CILIN_ZHENGYUN,词林正韵,第六部,十三問,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-030,問,ZHONGYUAN_YINYUN,中原音韵,真文,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-030,問,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-030,問,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-031,心,GUANGYUN,广韵,,侵,,息林切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-031,心,JIYUN,集韵,,侵第二十一,,思林切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（侵第二十一）,0,,小韵首组：心
+QX-031,心,PINGSHUI_YUN,平水韵,下平聲十二,侵,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-031,心,CILIN_ZHENGYUN,词林正韵,第十三部,十二侵,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-031,心,ZHONGYUAN_YINYUN,中原音韵,侵尋,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-031,心,ZHONGHUA_XINYUN,中华新韵,十四韵,九文,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-031,心,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-032,知,GUANGYUN,广韵,,支,,移疾移二切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-032,知,JIYUN,集韵,,支第五,,珍離切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（支第五）,0,,小韵首组：知𥎿
+QX-032,知,PINGSHUI_YUN,平水韵,上平聲四,支,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-032,知,CILIN_ZHENGYUN,词林正韵,第三部,四支,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-032,知,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-032,知,ZHONGHUA_XINYUN,中华新韵,十四韵,十三支,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-032,知,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-033,時,GUANGYUN,广韵,,之,,市之切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-033,時,JIYUN,集韵,,之第七,,市之切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（之第七）,0,,小韵首组：時旹
+QX-033,時,PINGSHUI_YUN,平水韵,上平聲四,支,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-033,時,CILIN_ZHENGYUN,词林正韵,第三部,四支,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-033,時,ZHONGYUAN_YINYUN,中原音韵,支思,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-033,時,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-033,時,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-034,日,GUANGYUN,广韵,,質,,人質切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-034,日,JIYUN,集韵,,質第五,,入質切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（質第五）,0,,小韵首组：日
+QX-034,日,PINGSHUI_YUN,平水韵,入聲四,質,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-034,日,CILIN_ZHENGYUN,词林正韵,第十七部,四質,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-034,日,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-034,日,ZHONGHUA_XINYUN,中华新韵,十四韵,十三支,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-034,日,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-035,星,GUANGYUN,广韵,,青,,桑經切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-035,星,JIYUN,集韵,,NO_RECORD,,,,,,0,,
+QX-035,星,PINGSHUI_YUN,平水韵,下平聲九,青,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-035,星,CILIN_ZHENGYUN,词林正韵,第十一部,九青,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-035,星,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-035,星,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-035,星,ZHONGHUA_XINYUN,中华新韵,十四韵,十四姑,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-035,星,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-036,辰,GUANGYUN,广韵,,真,,植鄰切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-036,辰,JIYUN,集韵,,眞第十七,,丞眞切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（眞第十七）,0,,小韵首组：辰辰
+QX-036,辰,PINGSHUI_YUN,平水韵,上平聲十一,真,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-036,辰,CILIN_ZHENGYUN,词林正韵,第六部,十一真,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-036,辰,ZHONGYUAN_YINYUN,中原音韵,真文,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-036,辰,ZHONGHUA_XINYUN,中华新韵,十四韵,九文,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-036,辰,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-037,天,GUANGYUN,广韵,,先,,他前切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-037,天,JIYUN,集韵,,諄第十八,,鐵因切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（諄第十八）,0,,小韵首组：天
+QX-037,天,JIYUN,集韵,,先第一,,他年切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（先第一）,0,,小韵首组：天𠀘𠀑
+QX-037,天,PINGSHUI_YUN,平水韵,下平聲一,先,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-037,天,CILIN_ZHENGYUN,词林正韵,第七部,一先,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-037,天,ZHONGYUAN_YINYUN,中原音韵,先天,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-037,天,ZHONGHUA_XINYUN,中华新韵,十四韵,八寒,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-037,天,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-038,地,GUANGYUN,广韵,,至,,徒四切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-038,地,JIYUN,集韵,,至第六,,徒二切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（至第六）,0,,小韵首组：地坔埊
+QX-038,地,JIYUN,集韵,,霽第十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（霽第十二）,0,非小韵首，本字无独立反切,小韵内字
+QX-038,地,PINGSHUI_YUN,平水韵,去聲四,寘,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-038,地,CILIN_ZHENGYUN,词林正韵,第三部,四寘,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-038,地,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-038,地,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-038,地,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-039,人,GUANGYUN,广韵,,真,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-039,人,JIYUN,集韵,,眞第十七,,而鄰切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（眞第十七）,0,,小韵首组：人𠔽𤯔
+QX-039,人,PINGSHUI_YUN,平水韵,上平聲十一,真,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-039,人,CILIN_ZHENGYUN,词林正韵,第六部,十一真,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-039,人,ZHONGYUAN_YINYUN,中原音韵,真文,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-039,人,ZHONGHUA_XINYUN,中华新韵,十四韵,九文,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-039,人,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-040,和,GUANGYUN,广韵,,戈,,户戈切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-040,和,GUANGYUN,广韵,,過,,胡臥切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-040,和,JIYUN,集韵,,戈第八,,胡戈切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（戈第八）,0,,小韵首组：和
+QX-040,和,JIYUN,集韵,,過第三十九,,胡卧切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（過第三十九）,0,,小韵首组：和
+QX-040,和,PINGSHUI_YUN,平水韵,下平聲五,歌,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-040,和,PINGSHUI_YUN,平水韵,去聲二十一,箇,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-040,和,CILIN_ZHENGYUN,词林正韵,第九部,五歌,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-040,和,CILIN_ZHENGYUN,词林正韵,第九部,二十一箇,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-040,和,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-040,和,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-040,和,ZHONGHUA_XINYUN,中华新韵,十四韵,二波,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-040,和,ZHONGHUA_XINYUN,中华新韵,十四韵,二波,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-040,和,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-040,和,ZHONGHUA_XINYUN,中华新韵,十四韵,十四姑,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-040,和,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-041,氣,GUANGYUN,广韵,,未,,去旣切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-041,氣,GUANGYUN,广韵,,未,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-041,氣,JIYUN,集韵,,未第八,,丘旣切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（未第八）,0,,小韵首组：气氣炁
+QX-041,氣,PINGSHUI_YUN,平水韵,去聲五,未,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-041,氣,CILIN_ZHENGYUN,词林正韵,第三部,五未,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-041,氣,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-041,氣,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-041,氣,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-042,力,GUANGYUN,广韵,,職,,林直切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-042,力,JIYUN,集韵,,職第二十四,,六直切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（職第二十四）,0,,小韵首组：力
+QX-042,力,PINGSHUI_YUN,平水韵,入聲十三,職,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-042,力,CILIN_ZHENGYUN,词林正韵,第十七部,十三職,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-042,力,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-042,力,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-042,力,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-043,生,GUANGYUN,广韵,,庚,,所庚切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-043,生,GUANGYUN,广韵,,映,,所敬切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-043,生,JIYUN,集韵,,庚第十二,,師庚切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（庚第十二）,0,,小韵首组：生𤯓𠥱
+QX-043,生,JIYUN,集韵,,映第四十三,,所慶切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（映第四十三）,0,,小韵首组：生
+QX-043,生,PINGSHUI_YUN,平水韵,下平聲八,庚,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-043,生,CILIN_ZHENGYUN,词林正韵,第十一部,八庚,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-043,生,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-043,生,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-043,生,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-044,老,GUANGYUN,广韵,,晧,,盧皓切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-044,老,JIYUN,集韵,,晧第三十二,,魯晧切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（晧第三十二）,0,,小韵首组：老
+QX-044,老,PINGSHUI_YUN,平水韵,上聲十九,皓,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-044,老,CILIN_ZHENGYUN,词林正韵,第八部,十九皓,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-044,老,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-044,老,ZHONGHUA_XINYUN,中华新韵,十四韵,六豪,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-044,老,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-045,病,GUANGYUN,广韵,,映,,皮命切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-045,病,JIYUN,集韵,,映第四十三,,皮命切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（映第四十三）,0,,小韵首组：病
+QX-045,病,PINGSHUI_YUN,平水韵,去聲二十四,敬,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-045,病,CILIN_ZHENGYUN,词林正韵,第十一部,二十四敬,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-045,病,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-045,病,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-045,病,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-046,死,GUANGYUN,广韵,,㫖,,息姊切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-046,死,JIYUN,集韵,,㫖第五,,想姊切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（㫖第五）,0,,小韵首组：死𦭀𣥴
+QX-046,死,PINGSHUI_YUN,平水韵,上聲四,紙,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-046,死,CILIN_ZHENGYUN,词林正韵,第三部,四紙,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-046,死,ZHONGYUAN_YINYUN,中原音韵,支思,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-046,死,ZHONGHUA_XINYUN,中华新韵,十四韵,十三支,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-046,死,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-047,愛,GUANGYUN,广韵,,代,,烏代切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-047,愛,JIYUN,集韵,,代第十九,,於代切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（代第十九）,0,,小韵首组：㤅愛
+QX-047,愛,PINGSHUI_YUN,平水韵,去聲十一,隊,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-047,愛,CILIN_ZHENGYUN,词林正韵,第五部,十一隊<半>,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-047,愛,ZHONGYUAN_YINYUN,中原音韵,皆來,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-047,愛,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-047,愛,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-048,惡,GUANGYUN,广韵,,模,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-048,惡,GUANGYUN,广韵,,暮,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-048,惡,GUANGYUN,广韵,,鐸,,烏各切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-048,惡,GUANGYUN,广韵,,鐸,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-048,惡,JIYUN,集韵,,模第十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（模第十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-048,惡,JIYUN,集韵,,莫第十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（莫第十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-048,惡,JIYUN,集韵,,禡第四十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（禡第四十）,0,非小韵首，本字无独立反切,小韵内字
+QX-048,惡,JIYUN,集韵,,鐸第十九,,遏鄂切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（鐸第十九）,0,,小韵首组：惡𢙣僫
+QX-048,惡,PINGSHUI_YUN,平水韵,上平聲七,虞,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-048,惡,PINGSHUI_YUN,平水韵,去聲七,遇,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-048,惡,PINGSHUI_YUN,平水韵,入聲十,藥,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-048,惡,CILIN_ZHENGYUN,词林正韵,第四部,七遇,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-048,惡,CILIN_ZHENGYUN,词林正韵,第十六部,十藥,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-048,惡,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-048,惡,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-048,惡,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-048,惡,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-048,惡,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-049,欲,GUANGYUN,广韵,,燭,,余蜀切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-049,欲,JIYUN,集韵,,燭第三,,俞玉切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（燭第三）,0,,小韵首组：欲
+QX-049,欲,PINGSHUI_YUN,平水韵,入聲二,沃,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-049,欲,CILIN_ZHENGYUN,词林正韵,第十五部,二沃,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-049,欲,CILIN_ZHENGYUN,词林正韵,第十五部,二沃,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-049,欲,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-049,欲,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-049,欲,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-050,色,GUANGYUN,广韵,,職,,所力切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-050,色,JIYUN,集韵,,職第二十四,,殺測切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（職第二十四）,0,,小韵首组：色
+QX-050,色,PINGSHUI_YUN,平水韵,入聲十三,職,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-050,色,CILIN_ZHENGYUN,词林正韵,第十七部,十三職,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-050,色,ZHONGYUAN_YINYUN,中原音韵,皆來,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-050,色,ZHONGHUA_XINYUN,中华新韵,十四韵,二波,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-050,色,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-051,香,GUANGYUN,广韵,,陽,,許良切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-051,香,JIYUN,集韵,,陽第十,,虚良切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陽第十）,0,,小韵首组：𪏰香薌
+QX-051,香,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-051,香,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-051,香,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-051,香,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-051,香,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-052,味,GUANGYUN,广韵,,未,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-052,味,JIYUN,集韵,,怪第十六,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（怪第十六）,0,非小韵首，本字无独立反切,小韵内字
+QX-052,味,JIYUN,集韵,,未第八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（未第八）,0,非小韵首，本字无独立反切,小韵内字
+QX-052,味,JIYUN,集韵,,隊第十八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（隊第十八）,0,非小韵首，本字无独立反切,小韵内字
+QX-052,味,PINGSHUI_YUN,平水韵,去聲五,未,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-052,味,CILIN_ZHENGYUN,词林正韵,第三部,五未,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-052,味,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-052,味,ZHONGHUA_XINYUN,中华新韵,十四韵,五微,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-052,味,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-053,觸,GUANGYUN,广韵,,燭,,尺王切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-053,觸,JIYUN,集韵,,燭第三,,樞玉切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（燭第三）,0,,小韵首组：觸𧢻
+QX-053,觸,PINGSHUI_YUN,平水韵,入聲二,沃,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-053,觸,CILIN_ZHENGYUN,词林正韵,第十五部,二沃,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-053,觸,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-053,觸,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-053,觸,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-054,法,GUANGYUN,广韵,,乏,,方乏切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-054,法,JIYUN,集韵,,乏第三十四,,弗乏切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（乏第三十四）,0,,小韵首组：灋法佱
+QX-054,法,PINGSHUI_YUN,平水韵,入聲十七,洽,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-054,法,CILIN_ZHENGYUN,词林正韵,第十九部,十七洽,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-054,法,ZHONGYUAN_YINYUN,中原音韵,家麻,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-054,法,ZHONGHUA_XINYUN,中华新韵,十四韵,一麻,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-054,法,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-055,詩,GUANGYUN,广韵,,之,,書之切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-055,詩,JIYUN,集韵,,之第七,,申之切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（之第七）,0,,小韵首组：詩𧥳
+QX-055,詩,PINGSHUI_YUN,平水韵,上平聲四,支,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-055,詩,CILIN_ZHENGYUN,词林正韵,第三部,四支,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-055,詩,ZHONGYUAN_YINYUN,中原音韵,支思,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-055,詩,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-055,詩,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-056,書,GUANGYUN,广韵,,魚,,傷魚切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-056,書,JIYUN,集韵,,魚第九,,商居切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（魚第九）,0,,小韵首组：書𦘠
+QX-056,書,PINGSHUI_YUN,平水韵,上平聲六,魚,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-056,書,PINGSHUI_YUN,平水韵,入聲十七,洽,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-056,書,CILIN_ZHENGYUN,词林正韵,第四部,六魚,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-056,書,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-056,書,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-056,書,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-057,禮,GUANGYUN,广韵,,薺,,二切盧啟切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-057,禮,JIYUN,集韵,,止第六,,鄰以切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（止第六）,0,,小韵首组：禮
+QX-057,禮,JIYUN,集韵,,薺第十一,,里弟切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（薺第十一）,0,,小韵首组：禮礼𠃞
+QX-057,禮,PINGSHUI_YUN,平水韵,上聲八,薺,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-057,禮,CILIN_ZHENGYUN,词林正韵,第三部,八薺,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-057,禮,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-057,禮,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-057,禮,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-058,射,GUANGYUN,广韵,,禡,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-058,射,GUANGYUN,广韵,,禡,,神夜切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-058,射,GUANGYUN,广韵,,昔,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-058,射,GUANGYUN,广韵,,昔,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-058,射,JIYUN,集韵,,禡第四十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（禡第四十）,0,非小韵首，本字无独立反切,小韵内字
+QX-058,射,JIYUN,集韵,,㫺第二十二,,食亦切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（㫺第二十二）,0,,小韵首组：䠶射
+QX-058,射,JIYUN,集韵,,㫺第二十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（㫺第二十二）,0,非小韵首，本字无独立反切,小韵内字
+QX-058,射,PINGSHUI_YUN,平水韵,去聲二十二,禡,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-058,射,PINGSHUI_YUN,平水韵,入聲十一,陌,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-058,射,CILIN_ZHENGYUN,词林正韵,第十部,二十二禡,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-058,射,CILIN_ZHENGYUN,词林正韵,第十七部,十一陌,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-058,射,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-058,射,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-058,射,ZHONGYUAN_YINYUN,中原音韵,車遮,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-058,射,ZHONGYUAN_YINYUN,中原音韵,車遮,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-058,射,ZHONGHUA_XINYUN,中华新韵,十四韵,二波,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-058,射,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-059,御,GUANGYUN,广韵,,御,,牛倨切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-059,御,JIYUN,集韵,,語第八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（語第八）,0,非小韵首，本字无独立反切,小韵内字
+QX-059,御,JIYUN,集韵,,御第九,,牛據切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（御第九）,0,,小韵首组：御馭
+QX-059,御,JIYUN,集韵,,禡第四十,,魚駕切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（禡第四十）,0,,小韵首组：訝迓御輅
+QX-059,御,PINGSHUI_YUN,平水韵,去聲六,御,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-059,御,CILIN_ZHENGYUN,词林正韵,第四部,六御,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-059,御,ZHONGYUAN_YINYUN,中原音韵,,NO_RECORD,,,,,,0,,
+QX-059,御,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-059,御,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-060,數,GUANGYUN,广韵,,麌,,所矩切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-060,數,GUANGYUN,广韵,,遇,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-060,數,GUANGYUN,广韵,,覺,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-060,數,JIYUN,集韵,,噳第九,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（噳第九）,0,非小韵首，本字无独立反切,小韵内字
+QX-060,數,JIYUN,集韵,,噳第九,,爽主切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（噳第九）,0,,小韵首组：數
+QX-060,數,JIYUN,集韵,,語第八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（語第八）,0,非小韵首，本字无独立反切,小韵内字
+QX-060,數,JIYUN,集韵,,遇第十,,雙遇切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（遇第十）,0,,小韵首组：數
+QX-060,數,JIYUN,集韵,,屋第一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（屋第一）,0,非小韵首，本字无独立反切,小韵内字
+QX-060,數,JIYUN,集韵,,燭第三,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（燭第三）,0,非小韵首，本字无独立反切,小韵内字
+QX-060,數,JIYUN,集韵,,燭第三,,所録切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（燭第三）,0,,小韵首组：數
+QX-060,數,JIYUN,集韵,,覺第四,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（覺第四）,0,非小韵首，本字无独立反切,小韵内字
+QX-060,數,PINGSHUI_YUN,平水韵,上聲七,麌,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-060,數,PINGSHUI_YUN,平水韵,去聲七,遇,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-060,數,PINGSHUI_YUN,平水韵,入聲二,沃,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-060,數,PINGSHUI_YUN,平水韵,入聲三,覺,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-060,數,CILIN_ZHENGYUN,词林正韵,第四部,七麌,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-060,數,CILIN_ZHENGYUN,词林正韵,第四部,七遇,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-060,數,CILIN_ZHENGYUN,词林正韵,第十六部,三覺,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-060,數,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-060,數,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-060,數,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-060,數,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-061,方,GUANGYUN,广韵,,陽,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-061,方,GUANGYUN,广韵,,陽,,府良切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-061,方,JIYUN,集韵,,唐第十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（唐第十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-061,方,JIYUN,集韵,,陽第十,,分房切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陽第十）,0,,小韵首组：方汸放舫
+QX-061,方,JIYUN,集韵,,陽第十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陽第十）,0,非小韵首，本字无独立反切,小韵内字
+QX-061,方,JIYUN,集韵,,養第三十六,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（養第三十六）,0,非小韵首，本字无独立反切,小韵内字
+QX-061,方,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-061,方,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-061,方,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-061,方,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-061,方,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-062,圓,GUANGYUN,广韵,,仙,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-062,圓,JIYUN,集韵,,NO_RECORD,,,,,,0,,
+QX-062,圓,PINGSHUI_YUN,平水韵,下平聲一,先,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-062,圓,CILIN_ZHENGYUN,词林正韵,第七部,一先,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-062,圓,ZHONGYUAN_YINYUN,中原音韵,先天,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-062,圓,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-062,圓,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-063,規,GUANGYUN,广韵,,支,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-063,規,JIYUN,集韵,,支第五,,均窺切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（支第五）,0,,小韵首组：規槼
+QX-063,規,JIYUN,集韵,,寘第五,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（寘第五）,0,非小韵首，本字无独立反切,小韵内字
+QX-063,規,PINGSHUI_YUN,平水韵,上平聲四,支,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-063,規,CILIN_ZHENGYUN,词林正韵,第三部,四支,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-063,規,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-063,規,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-063,規,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-064,矩,GUANGYUN,广韵,,麌,,俱雨切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-064,矩,JIYUN,集韵,,噳第九,,果羽切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（噳第九）,0,,小韵首组：矩榘
+QX-064,矩,PINGSHUI_YUN,平水韵,上聲七,麌,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-064,矩,CILIN_ZHENGYUN,词林正韵,第四部,七麌,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-064,矩,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-064,矩,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-064,矩,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-065,權,GUANGYUN,广韵,,仙,,巨員切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-065,權,JIYUN,集韵,,僊第二,,連貟切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（僊第二）,0,,小韵首组：權
+QX-065,權,JIYUN,集韵,,換第二十九,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（換第二十九）,0,非小韵首，本字无独立反切,小韵内字
+QX-065,權,JIYUN,集韵,,宕第四十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（宕第四十二）,0,非小韵首，本字无独立反切,小韵内字
+QX-065,權,PINGSHUI_YUN,平水韵,下平聲一,先,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-065,權,CILIN_ZHENGYUN,词林正韵,第七部,一先,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-065,權,ZHONGYUAN_YINYUN,中原音韵,先天,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-065,權,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-065,權,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-066,衡,GUANGYUN,广韵,,庚,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-066,衡,JIYUN,集韵,,庚第十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（庚第十二）,0,非小韵首，本字无独立反切,小韵内字
+QX-066,衡,JIYUN,集韵,,庚第十二,,胡盲切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（庚第十二）,0,,小韵首组：横衡
+QX-066,衡,PINGSHUI_YUN,平水韵,上平聲二,冬,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-066,衡,PINGSHUI_YUN,平水韵,下平聲八,庚,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-066,衡,CILIN_ZHENGYUN,词林正韵,第十一部,八庚,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-066,衡,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-066,衡,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-066,衡,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-067,度,GUANGYUN,广韵,,暮,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-067,度,GUANGYUN,广韵,,鐸,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-067,度,JIYUN,集韵,,鐸第十九,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（鐸第十九）,0,非小韵首，本字无独立反切,小韵内字
+QX-067,度,JIYUN,集韵,,陌第二十,,直格切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陌第二十）,0,,小韵首组：㡯度
+QX-067,度,PINGSHUI_YUN,平水韵,去聲七,遇,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-067,度,PINGSHUI_YUN,平水韵,入聲十,藥,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-067,度,CILIN_ZHENGYUN,词林正韵,第四部,七遇,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-067,度,CILIN_ZHENGYUN,词林正韵,第十六部,十藥,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-067,度,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-067,度,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-067,度,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,入聲作平聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-067,度,ZHONGHUA_XINYUN,中华新韵,十四韵,二波,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-067,度,ZHONGHUA_XINYUN,中华新韵,十四韵,十四姑,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-067,度,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-068,量,GUANGYUN,广韵,,陽,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-068,量,GUANGYUN,广韵,,漾,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-068,量,JIYUN,集韵,,陽第十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陽第十）,0,非小韵首，本字无独立反切,小韵内字
+QX-068,量,JIYUN,集韵,,漾第四十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（漾第四十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-068,量,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-068,量,PINGSHUI_YUN,平水韵,去聲二十三,漾,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-068,量,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-068,量,CILIN_ZHENGYUN,词林正韵,第二部,二十三漾,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-068,量,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-068,量,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-068,量,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-068,量,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-068,量,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-069,上,GUANGYUN,广韵,,養,,羊二切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-069,上,GUANGYUN,广韵,,漾,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-069,上,JIYUN,集韵,,養第三十六,,是掌切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（養第三十六）,0,,小韵首组：丄上二
+QX-069,上,JIYUN,集韵,,漾第四十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（漾第四十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-069,上,PINGSHUI_YUN,平水韵,上聲二十二,養,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-069,上,PINGSHUI_YUN,平水韵,去聲二十三,漾,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-069,上,CILIN_ZHENGYUN,词林正韵,第二部,二十二養,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-069,上,CILIN_ZHENGYUN,词林正韵,第二部,二十三漾,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-069,上,CILIN_ZHENGYUN,词林正韵,第三部,八薺,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-069,上,CILIN_ZHENGYUN,词林正韵,第十八部,九屑,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-069,上,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-069,上,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-069,上,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-069,上,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-070,下,GUANGYUN,广韵,,馬,,胡雅切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-070,下,GUANGYUN,广韵,,禡,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-070,下,JIYUN,集韵,,馬第三十五,,亥雅切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（馬第三十五）,0,,小韵首组：丅下
+QX-070,下,JIYUN,集韵,,禡第四十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（禡第四十）,0,非小韵首，本字无独立反切,小韵内字
+QX-070,下,PINGSHUI_YUN,平水韵,上聲二十一,馬,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-070,下,PINGSHUI_YUN,平水韵,去聲二十二,禡,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-070,下,CILIN_ZHENGYUN,词林正韵,第三部,八薺,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-070,下,CILIN_ZHENGYUN,词林正韵,第十部,二十一馬,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-070,下,CILIN_ZHENGYUN,词林正韵,第十部,二十二禡,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-070,下,CILIN_ZHENGYUN,词林正韵,第十八部,九屑,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-070,下,ZHONGYUAN_YINYUN,中原音韵,家麻,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-070,下,ZHONGHUA_XINYUN,中华新韵,十四韵,一麻,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-070,下,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-071,左,GUANGYUN,广韵,,哿,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-071,左,GUANGYUN,广韵,,箇,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-071,左,JIYUN,集韵,,哿第三十三,,子我切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（哿第三十三）,0,,小韵首组：𠂇左
+QX-071,左,JIYUN,集韵,,箇第三十八,,子賀切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（箇第三十八）,0,,小韵首组：左佐
+QX-071,左,PINGSHUI_YUN,平水韵,上聲二十,哿,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-071,左,PINGSHUI_YUN,平水韵,去聲二十一,箇,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-071,左,CILIN_ZHENGYUN,词林正韵,第九部,二十哿,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-071,左,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-071,左,ZHONGYUAN_YINYUN,中原音韵,歌戈,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-071,左,ZHONGHUA_XINYUN,中华新韵,十四韵,二波,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-071,左,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-072,右,GUANGYUN,广韵,,有,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-072,右,GUANGYUN,广韵,,宥,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-072,右,JIYUN,集韵,,有第四十四,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（有第四十四）,0,非小韵首，本字无独立反切,小韵内字
+QX-072,右,JIYUN,集韵,,宥第四十九,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（宥第四十九）,0,非小韵首，本字无独立反切,小韵内字
+QX-072,右,PINGSHUI_YUN,平水韵,上聲二十五,有,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-072,右,PINGSHUI_YUN,平水韵,去聲二十六,宥,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-072,右,CILIN_ZHENGYUN,词林正韵,第十二部,二十五有,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-072,右,CILIN_ZHENGYUN,词林正韵,第十二部,二十六宥,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-072,右,ZHONGYUAN_YINYUN,中原音韵,尤侯,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-072,右,ZHONGHUA_XINYUN,中华新韵,十四韵,七尤,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-072,右,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-073,前,GUANGYUN,广韵,,先,,昨先切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-073,前,JIYUN,集韵,,先第一,,才先切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（先第一）,0,,小韵首组：前
+QX-073,前,JIYUN,集韵,,𤫏第二十八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（𤫏第二十八）,0,非小韵首，本字无独立反切,小韵内字
+QX-073,前,PINGSHUI_YUN,平水韵,下平聲一,先,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-073,前,CILIN_ZHENGYUN,词林正韵,第七部,一先,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-073,前,ZHONGYUAN_YINYUN,中原音韵,先天,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-073,前,ZHONGHUA_XINYUN,中华新韵,十四韵,八寒,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-073,前,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-074,後,GUANGYUN,广韵,,厚,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-074,後,GUANGYUN,广韵,,𠋫,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-074,後,JIYUN,集韵,,𠊱第五十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（𠊱第五十）,0,非小韵首，本字无独立反切,小韵内字
+QX-074,後,PINGSHUI_YUN,平水韵,上聲二十五,有,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-074,後,PINGSHUI_YUN,平水韵,去聲二十六,宥,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-074,後,CILIN_ZHENGYUN,词林正韵,第十二部,二十五有,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-074,後,CILIN_ZHENGYUN,词林正韵,第十二部,二十五有,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-074,後,ZHONGYUAN_YINYUN,中原音韵,尤侯,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-074,後,ZHONGYUAN_YINYUN,中原音韵,尤侯,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-074,後,ZHONGYUAN_YINYUN,中原音韵,尤侯,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-074,後,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-074,後,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-075,西,GUANGYUN,广韵,,齊,,先稽切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-075,西,JIYUN,集韵,,脂第六,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（脂第六）,0,非小韵首，本字无独立反切,小韵内字
+QX-075,西,JIYUN,集韵,,齊第十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（齊第十二）,0,非小韵首，本字无独立反切,小韵首组：西㢴卥卤
+QX-075,西,JIYUN,集韵,,先第一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（先第一）,0,非小韵首，本字无独立反切,小韵内字
+QX-075,西,JIYUN,集韵,,禡第四十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（禡第四十）,0,非小韵首，本字无独立反切,小韵内字
+QX-075,西,JIYUN,集韵,,藥第十八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（藥第十八）,0,非小韵首，本字无独立反切,小韵内字
+QX-075,西,PINGSHUI_YUN,平水韵,上平聲八,齊,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-075,西,CILIN_ZHENGYUN,词林正韵,第三部,八齊,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-075,西,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-075,西,ZHONGYUAN_YINYUN,中原音韵,家麻,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-075,西,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-075,西,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-076,南,GUANGYUN,广韵,,覃,,那含切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-076,南,JIYUN,集韵,,覃第二十二,,那含切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（覃第二十二）,0,,小韵首组：南𡴟
+QX-076,南,PINGSHUI_YUN,平水韵,下平聲十三,覃,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-076,南,CILIN_ZHENGYUN,词林正韵,第十四部,十三覃,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-076,南,ZHONGYUAN_YINYUN,中原音韵,監咸,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-076,南,ZHONGHUA_XINYUN,中华新韵,十四韵,八寒,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-076,南,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-077,北,GUANGYUN,广韵,,德,,博墨切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-077,北,JIYUN,集韵,,隊第十八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（隊第十八）,0,非小韵首，本字无独立反切,小韵内字
+QX-077,北,JIYUN,集韵,,德第二十五,,必墨切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（德第二十五）,0,,小韵首组：北
+QX-077,北,PINGSHUI_YUN,平水韵,去聲十一,隊,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-077,北,PINGSHUI_YUN,平水韵,入聲二,沃,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-077,北,PINGSHUI_YUN,平水韵,入聲八,黠,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-077,北,PINGSHUI_YUN,平水韵,入聲十三,職,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-077,北,CILIN_ZHENGYUN,词林正韵,第十五部,二沃,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-077,北,CILIN_ZHENGYUN,词林正韵,第十七部,十三職,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-077,北,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-077,北,ZHONGHUA_XINYUN,中华新韵,十四韵,五微,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-077,北,ZHONGHUA_XINYUN,中华新韵,十四韵,五微,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-077,北,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-078,雷,GUANGYUN,广韵,,灰,,魯回切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-078,雷,JIYUN,集韵,,灰第十五,,盧回切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（灰第十五）,0,,小韵首组：𤴐䨓𩄣雷
+QX-078,雷,JIYUN,集韵,,㫖第五,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（㫖第五）,0,非小韵首，本字无独立反切,小韵内字
+QX-078,雷,JIYUN,集韵,,隊第十八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（隊第十八）,0,非小韵首，本字无独立反切,小韵内字
+QX-078,雷,PINGSHUI_YUN,平水韵,上平聲十,灰,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-078,雷,CILIN_ZHENGYUN,词林正韵,第三部,十灰<半>,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-078,雷,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-078,雷,ZHONGHUA_XINYUN,中华新韵,十四韵,五微,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-078,雷,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-079,雨,GUANGYUN,广韵,,麌,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-079,雨,GUANGYUN,广韵,,遇,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-079,雨,JIYUN,集韵,,噳第九,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（噳第九）,0,非小韵首，本字无独立反切,小韵内字
+QX-079,雨,JIYUN,集韵,,語第八,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（語第八）,0,非小韵首，本字无独立反切,小韵内字
+QX-079,雨,JIYUN,集韵,,遇第十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（遇第十）,0,非小韵首，本字无独立反切,小韵内字
+QX-079,雨,PINGSHUI_YUN,平水韵,上聲七,麌,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-079,雨,PINGSHUI_YUN,平水韵,去聲七,遇,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-079,雨,CILIN_ZHENGYUN,词林正韵,第四部,七麌,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-079,雨,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-079,雨,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-079,雨,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-080,霜,GUANGYUN,广韵,,陽,,色莊切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-080,霜,JIYUN,集韵,,陽第十,,師莊切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陽第十）,0,,小韵首组：霜
+QX-080,霜,JIYUN,集韵,,漾第四十一,,色荘切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（漾第四十一）,0,,小韵首组：霜
+QX-080,霜,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-080,霜,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-080,霜,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-080,霜,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-080,霜,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-081,雪,GUANGYUN,广韵,,薛,,相絶切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-081,雪,JIYUN,集韵,,薛第十七,,相絶切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（薛第十七）,0,,小韵首组：䨮雪
+QX-081,雪,PINGSHUI_YUN,平水韵,入聲九,屑,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-081,雪,CILIN_ZHENGYUN,词林正韵,第十八部,九屑,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-081,雪,ZHONGYUAN_YINYUN,中原音韵,車遮,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-081,雪,ZHONGHUA_XINYUN,中华新韵,十四韵,三皆,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-081,雪,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-082,露,GUANGYUN,广韵,,暮,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-082,露,JIYUN,集韵,,莫第十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（莫第十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-082,露,PINGSHUI_YUN,平水韵,去聲七,遇,,,去聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-082,露,CILIN_ZHENGYUN,词林正韵,第四部,七遇,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-082,露,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-082,露,ZHONGHUA_XINYUN,中华新韵,十四韵,七尤,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-082,露,ZHONGHUA_XINYUN,中华新韵,十四韵,十四姑,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-082,露,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-083,珠,GUANGYUN,广韵,,虞,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-083,珠,JIYUN,集韵,,虞第十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（虞第十）,0,非小韵首，本字无独立反切,小韵内字
+QX-083,珠,PINGSHUI_YUN,平水韵,上平聲七,虞,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-083,珠,CILIN_ZHENGYUN,词林正韵,第四部,七虞,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-083,珠,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-083,珠,ZHONGHUA_XINYUN,中华新韵,十四韵,十四姑,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-083,珠,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-084,玉,GUANGYUN,广韵,,屋,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-084,玉,GUANGYUN,广韵,,燭,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-084,玉,JIYUN,集韵,,屋第一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（屋第一）,0,非小韵首，本字无独立反切,小韵内字
+QX-084,玉,JIYUN,集韵,,燭第三,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（燭第三）,0,非小韵首，本字无独立反切,小韵内字
+QX-084,玉,JIYUN,集韵,,燭第三,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（燭第三）,0,非小韵首，本字无独立反切,小韵首组：王玉
+QX-084,玉,PINGSHUI_YUN,平水韵,入聲二,沃,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-084,玉,CILIN_ZHENGYUN,词林正韵,第十五部,二沃,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-084,玉,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,入聲作去聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-084,玉,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-084,玉,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-084,玉,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-085,金,GUANGYUN,广韵,,侵,,居吟切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-085,金,JIYUN,集韵,,侵第二十一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（侵第二十一）,0,非小韵首，本字无独立反切,小韵内字
+QX-085,金,PINGSHUI_YUN,平水韵,下平聲十二,侵,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-085,金,CILIN_ZHENGYUN,词林正韵,第十三部,十二侵,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-085,金,ZHONGYUAN_YINYUN,中原音韵,侵尋,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-085,金,ZHONGHUA_XINYUN,中华新韵,十四韵,九文,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-085,金,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-086,銀,GUANGYUN,广韵,,真,,語巾切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-086,銀,JIYUN,集韵,,諄第十八,,魚巾切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（諄第十八）,0,,小韵首组：銀
+QX-086,銀,PINGSHUI_YUN,平水韵,上平聲十一,真,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-086,銀,CILIN_ZHENGYUN,词林正韵,第六部,十一真,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-086,銀,ZHONGYUAN_YINYUN,中原音韵,真文,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-086,銀,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-086,銀,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-087,銅,GUANGYUN,广韵,,東,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-087,銅,JIYUN,集韵,,東第一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（東第一）,0,非小韵首，本字无独立反切,小韵内字
+QX-087,銅,PINGSHUI_YUN,平水韵,上平聲一,東,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-087,銅,CILIN_ZHENGYUN,词林正韵,第一部,一東,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-087,銅,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-087,銅,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-087,銅,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-088,鐵,GUANGYUN,广韵,,屑,,他結切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-088,鐵,JIYUN,集韵,,NO_RECORD,,,,,,0,,
+QX-088,鐵,PINGSHUI_YUN,平水韵,入聲九,屑,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-088,鐵,CILIN_ZHENGYUN,词林正韵,第十八部,九屑,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-088,鐵,ZHONGYUAN_YINYUN,中原音韵,車遮,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-088,鐵,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-088,鐵,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-089,丹,GUANGYUN,广韵,,寒,,都寒切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-089,丹,JIYUN,集韵,,寒第二十五,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（寒第二十五）,0,非小韵首，本字无独立反切,小韵内字
+QX-089,丹,PINGSHUI_YUN,平水韵,上平聲十四,寒,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-089,丹,CILIN_ZHENGYUN,词林正韵,第七部,十四寒,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-089,丹,ZHONGYUAN_YINYUN,中原音韵,寒山,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-089,丹,ZHONGHUA_XINYUN,中华新韵,十四韵,八寒,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-089,丹,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-090,青,GUANGYUN,广韵,,青,,倉經切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-090,青,JIYUN,集韵,,青第十五,,倉經切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（青第十五）,0,,小韵首组：青𡗡𡴏𡴐
+QX-090,青,JIYUN,集韵,,青第十五,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（青第十五）,0,非小韵首，本字无独立反切,小韵内字
+QX-090,青,PINGSHUI_YUN,平水韵,下平聲九,青,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-090,青,CILIN_ZHENGYUN,词林正韵,第十一部,九青,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-090,青,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-090,青,ZHONGHUA_XINYUN,中华新韵,十四韵,十一庚,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-090,青,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-091,黃,GUANGYUN,广韵,,NO_RECORD,,,,,,0,,该字未见于本转录
+QX-091,黃,JIYUN,集韵,,NO_RECORD,,,,,,0,,
+QX-091,黃,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-091,黃,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-091,黃,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-091,黃,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-091,黃,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-092,赤,GUANGYUN,广韵,,昔,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-092,赤,JIYUN,集韵,,㫺第二十二,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（㫺第二十二）,0,非小韵首，本字无独立反切,小韵内字
+QX-092,赤,PINGSHUI_YUN,平水韵,入聲十一,陌,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-092,赤,CILIN_ZHENGYUN,词林正韵,第十七部,十一陌,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-092,赤,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-092,赤,ZHONGHUA_XINYUN,中华新韵,十四韵,十三支,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-092,赤,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-093,黑,GUANGYUN,广韵,,德,,呼北切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-093,黑,JIYUN,集韵,,德第二十五,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（德第二十五）,0,非小韵首，本字无独立反切,小韵首组：黑
+QX-093,黑,PINGSHUI_YUN,平水韵,入聲十三,職,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-093,黑,CILIN_ZHENGYUN,词林正韵,第十七部,十三職,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-093,黑,ZHONGYUAN_YINYUN,中原音韵,齊微,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-093,黑,ZHONGHUA_XINYUN,中华新韵,十四韵,五微,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-093,黑,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-094,玄,GUANGYUN,广韵,,NO_RECORD,,,,,,0,,该字未见于本转录
+QX-094,玄,JIYUN,集韵,,NO_RECORD,,,,,,0,,
+QX-094,玄,PINGSHUI_YUN,平水韵,下平聲一,先,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-094,玄,CILIN_ZHENGYUN,词林正韵,,NO_RECORD,,,,,,0,,
+QX-094,玄,ZHONGYUAN_YINYUN,中原音韵,先天,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-094,玄,ZHONGHUA_XINYUN,中华新韵,十四韵,八寒,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-094,玄,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-095,宮,GUANGYUN,广韵,,NO_RECORD,,,,,,0,,该字未见于本转录
+QX-095,宮,JIYUN,集韵,,NO_RECORD,,,,,,0,,
+QX-095,宮,PINGSHUI_YUN,平水韵,上平聲一,東,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-095,宮,CILIN_ZHENGYUN,词林正韵,第一部,一東,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-095,宮,ZHONGYUAN_YINYUN,中原音韵,東鍾,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-095,宮,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-095,宮,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-096,商,GUANGYUN,广韵,,陽,,式羊切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-096,商,JIYUN,集韵,,陽第十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陽第十）,0,非小韵首，本字无独立反切,小韵首组：商𡅟𠾃𡂦𠿧𡃬𡄚
+QX-096,商,JIYUN,集韵,,陽第十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（陽第十）,0,非小韵首，本字无独立反切,小韵内字
+QX-096,商,PINGSHUI_YUN,平水韵,下平聲七,陽,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-096,商,CILIN_ZHENGYUN,词林正韵,第二部,七陽,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-096,商,ZHONGYUAN_YINYUN,中原音韵,江陽,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-096,商,ZHONGHUA_XINYUN,中华新韵,十四韵,十唐,,,阴平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-096,商,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-097,角,GUANGYUN,广韵,,覺,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-097,角,JIYUN,集韵,,屋第一,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（屋第一）,0,非小韵首，本字无独立反切,小韵内字
+QX-097,角,JIYUN,集韵,,覺第四,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（覺第四）,0,非小韵首，本字无独立反切,小韵内字
+QX-097,角,PINGSHUI_YUN,平水韵,入聲三,覺,,,入聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-097,角,CILIN_ZHENGYUN,词林正韵,第十六部,三覺,,,入,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-097,角,ZHONGYUAN_YINYUN,中原音韵,蕭豪,,,,入聲作上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-097,角,ZHONGHUA_XINYUN,中华新韵,十四韵,六豪,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-097,角,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-098,徵,GUANGYUN,广韵,,蒸,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-098,徵,GUANGYUN,广韵,,止,,陟里切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-098,徵,JIYUN,集韵,,蒸第十六,,知陵切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（蒸第十六）,0,,小韵首组：徵𢾷𢽠𡈼
+QX-098,徵,JIYUN,集韵,,蒸第十六,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（蒸第十六）,0,非小韵首，本字无独立反切,小韵内字
+QX-098,徵,PINGSHUI_YUN,平水韵,下平聲十,蒸,,,下平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-098,徵,PINGSHUI_YUN,平水韵,上聲四,紙,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-098,徵,CILIN_ZHENGYUN,词林正韵,第十一部,八庚,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-098,徵,CILIN_ZHENGYUN,词林正韵,第十一部,十蒸,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-098,徵,ZHONGYUAN_YINYUN,中原音韵,支思,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-098,徵,ZHONGYUAN_YINYUN,中原音韵,庚青,,,,平聲/陰,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-098,徵,ZHONGHUA_XINYUN,中华新韵,,NO_RECORD,,,,,,0,简表为简体，繁体字需字形对应,
+QX-098,徵,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-099,羽,GUANGYUN,广韵,,麌,,主矩切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-099,羽,GUANGYUN,广韵,,遇,,,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵内条目（无独立反切）
+QX-099,羽,JIYUN,集韵,,噳第九,,㠪矩切,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（噳第九）,0,,小韵首组：羽
+QX-099,羽,JIYUN,集韵,,姥第十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（姥第十）,0,非小韵首，本字无独立反切,小韵内字
+QX-099,羽,JIYUN,集韵,,遇第十,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（遇第十）,0,非小韵首，本字无独立反切,小韵内字
+QX-099,羽,PINGSHUI_YUN,平水韵,上聲七,麌,,,上聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-099,羽,CILIN_ZHENGYUN,词林正韵,第四部,七麌,,,上,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-099,羽,ZHONGYUAN_YINYUN,中原音韵,魚模,,,,上聲/None,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-099,羽,ZHONGHUA_XINYUN,中华新韵,十四韵,十二齐,,,上声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-099,羽,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断
+QX-100,仁,GUANGYUN,广韵,,真,,如鄰切,,DIGITAL_TRANSCRIPTION,raw/books/guangyun/卷N.wikitext,0,,小韵首
+QX-100,仁,JIYUN,集韵,,眞第十七,,,,DIGITAL_TRANSCRIPTION,raw/r2_08/jiyun_pages（眞第十七）,0,非小韵首，本字无独立反切,小韵内字
+QX-100,仁,PINGSHUI_YUN,平水韵,上平聲十一,真,,,上平聲,DIGITAL_TRANSCRIPTION,平水韻 revid=8264804,0,,同字多韵，未去重
+QX-100,仁,CILIN_ZHENGYUN,词林正韵,第六部,十一真,,,平,DIGITAL_TRANSCRIPTION,ph_cilin_r2_09,0,,十九部体系，非206韵
+QX-100,仁,ZHONGYUAN_YINYUN,中原音韵,真文,,,,平聲/陽,DIGITAL_TRANSCRIPTION,ph_zhongyuan_r2_09,0,,元代北方音系，不可当中古音值
+QX-100,仁,ZHONGHUA_XINYUN,中华新韵,十四韵,九文,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-100,仁,ZHONGHUA_XINYUN,中华新韵,十四韵,十三支,,,阳平,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-100,仁,ZHONGHUA_XINYUN,中华新韵,十四韵,十三支,,,去声,DIGITAL_TRANSCRIPTION,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,,现代普通话规范，不可回推中古
+QX-100,仁,OLD_CHINESE,上古音,,UNAVAILABLE,,,,UNKNOWN,,0,无可靠来源链（《诗经韵读》《楚辞韵读》未完成影印对校）,不推断

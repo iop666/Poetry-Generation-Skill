@@ -1,0 +1,54 @@
+{
+ "entries_total": 25619,
+ "kinds": {
+  "SUPPORTED_HEAD_NO_MARKER": 487,
+  "PLAIN_ENTRY": 19250,
+  "ALTERNATIVE_READING": 1847,
+  "CONFIRMED_XIAOYUN_HEAD": 3052,
+  "POSSIBLE_XIAOYUN_HEAD": 690,
+  "YUN_TAG": 102,
+  "HEAD_WITH_DISPLACED_FANQIE": 180,
+  "HEAD_LOST_FANQIE": 11
+ },
+ "xiaoyun_total": 3730,
+ "yun_matched": 204,
+ "yun_absorbed": 2,
+ "numeral_check": {
+  "agree": 3223,
+  "disagree": 201,
+  "no_numeral": 306
+ },
+ "fanqie_compare": {
+  "MATCH": 3119,
+  "NOT_IN_R2_10": 353,
+  "FANQIE_ABSENT_IN_R2_10": 226,
+  "NO_FANQIE": 32
+ },
+ "fanqie_structure": {
+  "TWO_CHAR": 3482,
+  "IRREGULAR_LONG": 83,
+  "NONE": 165
+ },
+ "rhyme_not_direct": 303,
+ "vol_sha256": {
+  "1": "bdbe52ea9e295b86ce85707a474b5a563020285940080dd8d5a11c1853a03d17",
+  "2": "73842db0cc57e8cdf0a32648f8a8e0c09479ebb256bd5a6fd90903ed183a7b5b",
+  "3": "cde6b542848026e9a70104b2c13c07e392c0ed8675c1cc838b485e42817686f0",
+  "4": "d11b4f12becdef1900d8de684799964c06647b27874db71f59d03c485a5fc0e9",
+  "5": "ae43319b2c95745f97f042fdad5b1b0b0b635bf1e2a61d959ba6340b01f62e05"
+ },
+ "anchor_via": {
+  "VOLUME_FIRST": 5,
+  "STANDALONE": 99,
+  "MERGED": 49,
+  "HEAD_CHAR": 51
+ },
+ "declared_sum": 22615,
+ "per_volume_xiaoyun": {
+  "1": 564,
+  "2": 553,
+  "3": 864,
+  "4": 1058,
+  "5": 691
+ }
+}

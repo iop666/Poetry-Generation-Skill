@@ -1,0 +1,17 @@
+{
+ "small_rhyme_table": 4169,
+ "entries": 33664,
+ "char_rows": 42352,
+ "distinct_chars": 23938,
+ "rhymes": 206,
+ "rhyme_complete": 95,
+ "rhyme_aligned_partial": 111,
+ "rhyme_no_align": 0,
+ "align": {
+  "HEAD_MATCH": 3569,
+  "POSITION_ONLY": 227,
+  "NO_SEGMENT": 9,
+  "OUT_OF_ORDER": 364
+ },
+ "head_entries": 4122
+}

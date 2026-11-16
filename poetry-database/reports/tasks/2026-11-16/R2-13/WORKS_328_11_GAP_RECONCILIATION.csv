@@ -1,0 +1,12 @@
+﻿work_id,title,author,class_r2_12,confidence,gap_type,reason,disposition
+tang:4eb85ca81970,春日書懷寄朐山孫明府,李中,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+tang:58b1b5953427,戲題春意,張九齡,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+tang:59ff2e94e4dd,重寄虬上人,儲光羲,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+tang:83d0d782f83b,《灌畦暇語》引常言,佚名,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+songshi:00d08b2f940d,交游,郭祥正,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+songshi:0a6f92f05cdf,與元輿論詩而風雨驟至,郭祥正,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+songshi:2dff131bdf1b,思蜀四首其二,陸游,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+songshi:b0dedc13c731,木芙蓉其二,宋祁,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+songshi:d934ac96f58a,使遼作十四首其九,劉跂,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+songshi:e0c693072a11,題錢少愚四畫釣雪,周紫芝,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS
+songshi:f959e7297aa4,次韻鄭固道侍郎見寄長句二首其一,汪藻,POEM_BODY,HIGH,NO_CANDIDATE,POEM_BODY: 属原文自注/诗句正文，不应清洗，故未生成修订候选,KEEP_AS_IS

@@ -1,0 +1,14 @@
+﻿form_id,cipai_name,form_seq,pattern_label,declared_text,declared_num,scoreline_symbols,example_chars,db_total_characters,old_computed,old_delta,old_verdict,recomputed_minus_declared,note,pdf_page,printed_page
+F07-0007,浪淘沙,1,格一,"54,133,134",54,28,127,28,28,-26,EXPECTED_VARIANT,-26,三者皆不合，須回原書,21,6
+F07-0018,浣溪沙,2,格二,42,42,48,,48,48,6,EXPECTED_VARIANT,6,三者皆不合，須回原書,33,18
+F07-0021,采桑子,2,格二,44,44,48,,48,48,4,EXPECTED_VARIANT,4,三者皆不合，須回原書,35,20
+F07-0037,临江仙,3,格三,"58,93",58,60,60,60,60,2,VARIANT_UNSTATED,2,例詞近於譜行，說明數字疑為承前格,48,33
+F07-0060,夜飞鹊,1,定格,107,107,106,106,106,106,-1,OCR_OR_DESC_INCONSISTENT,-1,例詞近於譜行，說明數字疑為承前格,80,65
+F07-0066,六州歌头,2,格二,143,143,144,,144,144,1,UNRESOLVED_COUNT_DELTA,1,譜行與說明差 1，屬近值,89,74
+F07-0071,天仙子,2,格二,34,34,68,68,68,68,34,EXPECTED_DOUBLE,34,例詞近於譜行，說明數字疑為承前格,96,81
+F07-0099,踏莎行,2,格二,"58,66",58,65,,65,65,7,EXPECTED_VARIANT,7,三者皆不合，須回原書,122,107
+F07-0100,钗头凤,1,定格,60,60,59,60,59,59,-1,ORIGINAL_PRINT_OMISSION,-1,例詞近於譜行，說明數字疑為承前格,123,108
+F07-0143,瑞鹤仙,3,格三,102,102,103,103,103,103,1,VARIANT_UNSTATED,1,例詞近於譜行，說明數字疑為承前格,180,165
+F07-0165,南乡子,2,格二,"27,56",27,30,30,30,30,3,VARIANT_UNSTATED,3,例詞近於譜行，說明數字疑為承前格,214,199
+F07-0188,荷叶杯,2,格二,23,23,50,50,50,50,27,EXPECTED_VARIANT,27,例詞近於譜行，說明數字疑為承前格,243,228
+F07-0196,最高楼,1,定格,,,81,81,81,81,,UNKNOWN,,,250,235

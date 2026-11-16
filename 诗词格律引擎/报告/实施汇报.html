@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>诗词格律体系 · 实施汇报</title>
+<style>
+  :root{
+    --paper:#f7f5f0; --card:#fffdf8; --ink:#1f2328; --ink2:#4a5058; --ink3:#8b9199;
+    --line:#e2ddd2; --red:#8c3a2b; --ping:#2f6f9f; --ze:#a8662a; --ok:#3f7d58;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    line-height:1.75;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1000px;margin:0 auto;padding:56px 28px 90px}
+  .serif{font-family:"Songti SC","Source Han Serif SC","Noto Serif CJK SC",Georgia,serif}
+
+  header{border-bottom:2px solid var(--ink);padding-bottom:22px;margin-bottom:34px}
+  .kicker{font-size:12px;letter-spacing:.28em;color:var(--red);text-transform:uppercase;margin-bottom:14px}
+  h1{font-size:34px;line-height:1.3;margin:0 0 12px;font-weight:700;letter-spacing:.02em}
+  .sub{color:var(--ink2);font-size:15px}
+  .stats{display:flex;gap:34px;margin-top:26px;flex-wrap:wrap}
+  .stat b{display:block;font-size:26px;font-weight:700;letter-spacing:.02em}
+  .stat span{font-size:12.5px;color:var(--ink3)}
+
+  h2{font-size:20px;margin:52px 0 8px;padding-left:12px;border-left:4px solid var(--red);letter-spacing:.04em}
+  .lead{color:var(--ink2);font-size:14.5px;margin:0 0 20px;padding-left:16px}
+
+  .callout{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--red);
+    padding:22px 24px;margin:8px 0 6px;box-shadow:0 1px 0 rgba(0,0,0,.02)}
+  .callout .tag{display:inline-block;font-size:11px;letter-spacing:.18em;color:var(--red);
+    border:1px solid var(--red);padding:2px 8px;margin-bottom:12px}
+  .callout p{margin:0;font-size:14.5px;color:var(--ink2)}
+  .callout strong{color:var(--ink)}
+
+  table{width:100%;border-collapse:collapse;font-size:13.8px;margin-top:6px}
+  th{text-align:left;font-weight:600;color:var(--ink2);border-bottom:1.5px solid var(--ink);
+    padding:9px 10px;font-size:12.5px;letter-spacing:.06em;white-space:nowrap}
+  td{padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  tr:last-child td{border-bottom:none}
+  .pill{display:inline-block;font-size:11.5px;padding:2px 9px;border-radius:11px;white-space:nowrap}
+  .done{background:#e6f0e9;color:var(--ok)}
+  .part{background:#f6ecd9;color:#8a6218}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(292px,1fr));gap:14px;margin-top:10px}
+  .card{background:var(--card);border:1px solid var(--line);padding:18px 20px}
+  .card .no{font-size:11.5px;letter-spacing:.16em;color:var(--ink3)}
+  .card h3{font-size:15px;margin:6px 0 10px;font-weight:600;line-height:1.5}
+  .card .res{font-size:12.5px;color:var(--ink2)}
+  .card .res .ok{color:var(--ok);font-weight:600}
+  .card .metric{font-size:12.5px;color:var(--red);margin-top:8px}
+
+  .errlist{background:#fdf6f2;border:1px solid #ecd9cd;padding:20px 24px;margin-top:8px}
+  .errlist li{font-size:13.8px;margin:6px 0;color:#6b3226}
+  .errlist .k{display:inline-block;min-width:64px;font-weight:600;color:var(--red)}
+
+  .three{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:10px}
+  .poem{background:var(--card);border:1px solid var(--line);padding:20px 16px;text-align:center}
+  .poem .cap{font-size:12px;letter-spacing:.14em;color:var(--red);margin-bottom:12px}
+  .poem .body{font-size:17px;line-height:2.05;letter-spacing:.06em}
+  .poem .meta{font-size:11.5px;color:var(--ink3);margin-top:12px}
+  @media(max-width:720px){.three{grid-template-columns:1fr}}
+
+  .pingze{margin-top:12px;background:var(--card);border:1px solid var(--line);padding:22px 20px;overflow-x:auto}
+  .pzrow{display:flex;align-items:center;gap:6px;margin-bottom:10px;min-width:520px}
+  .pzlabel{font-size:11px;color:var(--ink3);width:22px;flex:0 0 22px}
+  .ch{width:38px;flex:0 0 38px;text-align:center;border:1px solid var(--line);border-radius:3px;
+    font-family:"Songti SC",serif;font-size:17px;padding:5px 0;background:#fff}
+  .ch.p{border-color:#c6dbe8;background:#f2f8fb;color:var(--ping)}
+  .ch.z{border-color:#ecd6bf;background:#fdf7ef;color:var(--ze)}
+  .ch.m{border-color:#ddd;background:#faf9f6;color:#8a8f95}
+  .pzlegend{font-size:11.5px;color:var(--ink3);margin-top:14px;padding-top:10px;border-top:1px dashed var(--line)}
+
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:10px}
+  @media(max-width:720px){.two{grid-template-columns:1fr}}
+  .bounded{background:var(--card);border:1px solid var(--line);padding:20px 22px}
+  .bounded h4{margin:0 0 10px;font-size:13.5px;letter-spacing:.06em}
+  .bounded.yes h4{color:var(--ok)} .bounded.no h4{color:#9a5a3a}
+  .bounded ul{margin:0;padding-left:18px;font-size:13.4px;color:var(--ink2)}
+  .bounded li{margin:4px 0}
+
+  pre{background:#20242a;color:#e6e3dc;padding:20px 22px;overflow-x:auto;font-size:12.4px;line-height:1.85;
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;border-radius:3px;margin-top:10px}
+  .note{font-size:12.5px;color:var(--ink3);margin-top:10px}
+  footer{margin-top:60px;padding-top:18px;border-top:1px solid var(--line);font-size:12px;color:var(--ink3);
+    display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="kicker">实施汇报 · IMPLEMENTATION REPORT</div>
+  <h1>从纲要到可运行的诗词格律体系</h1>
+  <div class="sub">按方案「一、缘起 → 六、最终建议」逐节实施：知识库 + 格律审查引擎 + 七首复核合格的作品</div>
+  <div class="stats">
+    <div class="stat"><b>6 / 6</b><span>方案验收题通过</span></div>
+    <div class="stat"><b>8,116</b><span>平水韵索引字头</span></div>
+    <div class="stat"><b>10 类</b><span>可自动判定的格律问题</span></div>
+    <div class="stat"><b>5 阶段</b><span>Phase 0–3 完成　Phase 4 样本级</span></div>
+  </div>
+</header>
+
+<section>
+  <div class="callout">
+    <div class="tag">最关键的一处补漏</div>
+    <p>方案第六节的示例诗下方原本标着一行小字：<strong>「此处作品仅用于展示排版，未接格律引擎，不得标记为合格作品。」</strong><br>
+    也就是说，方案缺的从来不是诗，而是那台审查引擎。本次把《秋山》送进引擎复核：<strong>判定合格</strong> ——
+    仄起首句入韵，「收／洲／游」同属下平十一尤，二四六字全合，孤平、三平调、重字皆无。缺口补上了。</p>
+  </div>
+</section>
+
+<h2>一、五阶段执行状态</h2>
+<p class="lead">方案把建设过程拆成五个阶段。以下是逐阶段的实际产出与边界，不做「全部完成」的模糊表述。</p>
+<table>
+  <thead><tr><th style="width:96px">阶段</th><th>工作内容</th><th>本项目产出</th><th style="width:86px">状态</th></tr></thead>
+  <tbody>
+    <tr><td><b>Phase 0</b></td><td>收集格律书、韵书、名篇，建可检索目录</td><td>平水韵 106 韵全表（繁）+ 简体索引 8116 字头；词林正韵十四部；中华新韵；唐诗标注 13 首</td><td><span class="pill done">完成</span></td></tr>
+    <tr><td><b>Phase 1</b></td><td>阅读、标注、建立知识库</td><td>格律规则 / 对仗句式 / 意象词典 / 典故库 / 诗话摘录 —— 5 篇，全部写成「可执行」体例</td><td><span class="pill done">完成</span></td></tr>
+    <tr><td><b>Phase 2</b></td><td>把对仗、词牌、格律规则变成可执行规则</td><td><code>engine/gedou.py</code>：4 种诗体 × 4 式 + 3 个词牌 + 10 类检查</td><td><span class="pill done">完成</span></td></tr>
+    <tr><td><b>Phase 3</b></td><td>建立创作与审查流程</td><td>「作品 + 创作说明 + 审查报告」三件套，7 份作品卡即模板实例</td><td><span class="pill done">完成</span></td></tr>
+    <tr><td><b>Phase 4</b></td><td>名篇对读、百首规模、反复修改</td><td>13 首对读 + 1 组重构对照 + 3 版同题实验；百首规模与修改史未做</td><td><span class="pill part">部分</span></td></tr>
+  </tbody>
+</table>
+
+<h2>二、六道验收题</h2>
+<p class="lead">方案第五条列出的六道题，由 <code>run_acceptance.py</code> 一次跑完并留档，结果 6/6。</p>
+<div class="grid">
+  <div class="card">
+    <div class="no">T1 · 七言绝句</div>
+    <h3>指定平水韵写一首七绝</h3>
+    <div class="res"><span class="ok">合格</span>　《秋山》仄起首句入韵</div>
+    <div class="metric">下平十一尤 · 失律 0 字</div>
+  </div>
+  <div class="card">
+    <div class="no">T2 · 词</div>
+    <h3>指定词牌写宋词风格作品</h3>
+    <div class="res"><span class="ok">合格</span>　《浣溪沙·秋江送别》</div>
+    <div class="metric">42 字 · 五韵脚同属第十二部</div>
+  </div>
+  <div class="card">
+    <div class="no">T3 · 七言律诗</div>
+    <h3>指定主题写一首七律</h3>
+    <div class="res"><span class="ok">合格</span>　《秋日登楼》</div>
+    <div class="metric">颔联/颈联结构相似度 100% / 100%</div>
+  </div>
+  <div class="card">
+    <div class="no">T4 · 查错</div>
+    <h3>给一首错诗，找出所有错误</h3>
+    <div class="res"><span class="ok">通过</span>　一次报全 7 条错误</div>
+    <div class="metric">6 类病：出律·落韵·失对·失粘·孤平·三平调</div>
+  </div>
+  <div class="card">
+    <div class="no">T5 · 重构</div>
+    <h3>意境平庸的诗，重新构思</h3>
+    <div class="res"><span class="ok">通过</span>　平庸稿 → 重构稿</div>
+    <div class="metric">删「思乡」二字，以「剪灯到明」代之</div>
+  </div>
+  <div class="card">
+    <div class="no">T6 · 三版</div>
+    <h3>同题写婉约 / 豪放 / 清远</h3>
+    <div class="res"><span class="ok">三版均合格</span></div>
+    <div class="metric">清远·婉约押尤韵，豪放押阳韵</div>
+  </div>
+</div>
+
+<h2>三、查错能力：一首故意写坏的诗</h2>
+<p class="lead">引擎不是只报第一条。下面这首病例在四句里埋了六类病，引擎一次全部指出，并区分「错误」与「提示」。</p>
+<div class="errlist">
+  <div class="serif" style="font-size:16.5px;letter-spacing:.08em;color:#3a2a24;margin-bottom:14px">
+    独坐小窗夜气清，一灯明灭照孤城。旧约难忘空叹息，露冷空庭生秋风。
+  </div>
+  <ul style="margin:0;padding-left:18px">
+    <li><span class="k">孤平</span>第1句除韵脚外仅「窗」一字可读为平</li>
+    <li><span class="k">出律</span>第3句「约」应平实仄；第4句「秋」应仄实平</li>
+    <li><span class="k">失粘</span>第2、3句第二字「灯」「约」平仄相反</li>
+    <li><span class="k">失对</span>第3、4句第二字「约」「冷」平仄相同</li>
+    <li><span class="k">三平调</span>第4句句末「生秋风」三字全平</li>
+    <li><span class="k">落韵</span>韵脚「清/城」属八庚，「风」属一东，出韵</li>
+    <li><span class="k">提示</span>重字「空」×2（有意复沓可忽略）</li>
+  </ul>
+</div>
+
+<h2>四、逐字平仄表（《秋山》，机读结果）</h2>
+<p class="lead">下面是引擎对方案示例诗的逐字输出。蓝为平、赭为仄、灰为多读字；每行末尾给出与诗谱的对位结果。</p>
+<div class="pingze">
+  <div class="pzrow"><div class="pzlabel">1</div>
+    <div class="ch p">山</div><div class="ch z">色</div><div class="ch m">苍</div><div class="ch p">茫</div><div class="ch z">暮</div><div class="ch z">雨</div><div class="ch m">收</div>
+    <div style="font-size:11.5px;color:#8b9199;margin-left:8px">仄起首句入韵 · 全合</div>
+  </div>
+  <div class="pzrow"><div class="pzlabel">2</div>
+    <div class="ch p">寒</div><div class="ch p">烟</div><div class="ch z">一</div><div class="ch z">带</div><div class="ch m">过</div><div class="ch p">汀</div><div class="ch p">洲</div>
+    <div style="font-size:11.5px;color:#8b9199;margin-left:8px">「过」此处读仄，避三平调</div>
+  </div>
+  <div class="pzrow"><div class="pzlabel">3</div>
+    <div class="ch p">归</div><div class="ch p">鸿</div><div class="ch m">不</div><div class="ch z">解</div><div class="ch p">人</div><div class="ch m">间</div><div class="ch z">意</div>
+    <div style="font-size:11.5px;color:#8b9199;margin-left:8px">白脚仄收 · 合</div>
+  </div>
+  <div class="pzrow"><div class="pzlabel">4</div>
+    <div class="ch m">犹</div><div class="ch z">向</div><div class="ch p">斜</div><div class="ch p">阳</div><div class="ch z">万</div><div class="ch z">里</div><div class="ch p">游</div>
+    <div style="font-size:11.5px;color:#8b9199;margin-left:8px">韵脚「游」· 十一尤</div>
+  </div>
+  <div class="pzlegend">韵脚：收 / 洲 / 游 → 同属<b>下平十一尤</b>　｜　结论：<b style="color:#3f7d58">合格</b>，失律 0 字，无孤平、无三平调、无重字</div>
+</div>
+
+<h2>五、同一主题，三种笔法</h2>
+<p class="lead">方案要求 AI 掌握不同创作方向。以「秋望」为题做三版实验，三版全部通过引擎复核，笔法可辨。</p>
+<div class="three">
+  <div class="poem">
+    <div class="cap">清 远</div>
+    <div class="body serif">一江秋水澹无愁<br>远岫微茫入暮流<br>散尽沙鸥烟未起<br>清辉夜半满归舟</div>
+    <div class="meta">尤韵 · 平起入韵<br>以「淡」写空阔，不作情绪</div>
+  </div>
+  <div class="poem">
+    <div class="cap">婉 约</div>
+    <div class="body serif">残香轻袅锁清愁<br>独倚危阑数去舟<br>雁字不回桐叶老<br>一帘疏雨到深秋</div>
+    <div class="meta">尤韵 · 平起入韵<br>「数」字把等待写成动作</div>
+  </div>
+  <div class="poem">
+    <div class="cap">豪 放</div>
+    <div class="body serif">万里西风卷大荒<br>长河一线走苍茫<br>男儿莫洒临歧泪<br>且向天涯拓土疆</div>
+    <div class="meta">阳韵 · 仄起入韵<br>卷、走、拓三个外力动词</div>
+  </div>
+</div>
+
+<h2>六、判定边界：能判什么，不能判什么</h2>
+<p class="lead">说清边界比宣称能力重要。引擎拒绝给文学性打分，这不是缺口，是设计。</p>
+<div class="two">
+  <div class="bounded yes">
+    <h4>✓ 引擎可判定</h4>
+    <ul>
+      <li>出律（二四六字与诗谱不合）</li>
+      <li>失对、失粘</li>
+      <li>落韵／出韵、撞韵</li>
+      <li>孤平、三平调、三仄尾</li>
+      <li>重字、重韵</li>
+      <li>句式字数、词牌谱、词韵同部</li>
+      <li>对仗结构粗检（词性对位 + 相似度）</li>
+    </ul>
+  </div>
+  <div class="bounded no">
+    <h4>✗ 需人工复核</h4>
+    <ul>
+      <li>合掌（两句说同一件事）</li>
+      <li>四平头、摞眼（中二联句法雷同）</li>
+      <li>意象陈腐、套路化</li>
+      <li>情理不通、逻辑断裂</li>
+      <li>工拙高下、余味长短</li>
+      <li>文学性评分</li>
+    </ul>
+  </div>
+</div>
+
+<h2>七、交付物</h2>
+<p class="lead">全部本地可运行，零第三方依赖（仅重建韵书索引时需要 opencc 一次）。</p>
+<pre>诗词格律引擎/
+├── README.md                  用法与边界
+├── 计划/五阶段实施计划.md       Phase 0–4 执行版
+├── 报告/实施报告.md             完整实施报告
+├── engine/gedou.py             格律审查引擎（诗 + 词）
+├── engine/run_acceptance.py    六道验收题，一键复现
+├── tools/build_lexicon.py      韵表 → 简体索引
+└── 诗歌知识库/
+    ├── 01_基础库/   格律规则 · 对仗句式 · 意象词典 · 典故库
+    ├── 02_作品库/   唐诗精选标注 13 首
+    ├── 03_鉴赏库/   诗话摘录（已转为可执行检查）
+    ├── 04_韵书/     平水韵全表 + 简体索引 · 词林正韵 · 中华新韵
+    ├── 05_创作库/   7 份作品卡 + 病例卡（作品 + 创作说明 + 审查报告）
+    └── 06_迭代记录/ 验收测试结果 + 记录</pre>
+<p class="note">复现全部结论：<code>cd 诗词格律引擎 &amp;&amp; python3 engine/run_acceptance.py</code></p>
+
+<h2>八、下一步（按性价比排序）</h2>
+<table>
+  <thead><tr><th style="width:34px">#</th><th>事项</th><th>理由</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>词牌扩容至 20 个高频平韵词牌</td><td>当前仅 3 个，是「能写词」的最大短板</td></tr>
+    <tr><td>2</td><td>建立修改史（v1→vN + 改动理由）</td><td>文学性提升最有效的路径，靠改不靠写</td></tr>
+    <tr><td>3</td><td>对读扩容至百首，按「技术动作」建索引</td><td>13 首只是样本，语感需要量</td></tr>
+    <tr><td>4</td><td>人机同题对照实验（匿名互评）</td><td>Phase 4 的真正验收方式</td></tr>
+  </tbody>
+</table>
+
+<footer>
+  <span>诗词格律体系 · 实施汇报　|　2026-11-09</span>
+  <span>依据：用户提供的六节方案纲要</span>
+</footer>
+
+</div>
+</body>
+</html>

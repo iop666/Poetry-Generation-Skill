@@ -1,0 +1,72 @@
+﻿id,cat,desc,expect,actual,result
+T-01,結構,R2-07/R2-08 表數 22,22,22,PASS
+T-02,結構,R2-09 新增表 14,14,14,PASS
+T-03,結構,cipai_forms 主鍵唯一 196,196,196,PASS
+T-04,結構,forms→entities 無孤兒,0,0,PASS
+T-05,結構,rhyme_dual 覆蓋全部 196 格,196,196,PASS
+T-06,結構,rhyme_fields 覆蓋 196,196,196,PASS
+T-07,結構,entities.n_form 合計 196,196,196,PASS
+T-08,結構,works 未被本輪改動 375399,375399,375399,PASS
+T-09,結構,舊表 cipai_specs 仍 76,76,76,PASS
+T-10,結構,舊表 cipai_index 仍 144,144,144,PASS
+T-11,證據,每條 ph_readings 都能映射新等級,0,0,PASS
+T-12,證據,SOURCE_PRIMARY 條數 0（本輪確無原書影印）,0,0,PASS
+T-13,證據,COMPUTED 條數 18598,18598,18598,PASS
+T-14,證據,SOURCE_EDITION 條數 10662,10662,10662,PASS
+T-15,證據,SOURCE_TRANSCRIPTION 條數 51392,51392,51392,PASS
+T-16,證據,詞林正韻字表標為 SOURCE_TRANSCRIPTION,5563,5563,PASS
+T-17,證據,中原音韻字表標為 SOURCE_TRANSCRIPTION,5731,5731,PASS
+T-18,證據,中華新韻規則表 14 韻,14,14,PASS
+T-19,韻書,集韻韻頁 206 全部 OK,206,206,PASS
+T-20,韻書,集韻新表 206 韻,206,206,PASS
+T-20b,韻書,集韻新表 小韻 4169,4169,4169,PASS
+T-20c,韻書,集韻自述字數與字頭估計差 <3%,True,True,PASS
+T-21,韻書,詞林正韻 19 部,19,19,PASS
+T-22,韻書,詞林正韻 106 韻目,106,106,PASS
+T-23,韻書,詞林正韻 半韻 9 個,9,9,PASS
+T-24,韻書,中原音韻 19 部,19,19,PASS
+T-25,韻書,中原音韻 平聲分陰陽,2,2,PASS
+T-26,韻書,中原音韻 入聲三派齊備,3,3,PASS
+T-27,韻書,平水韻 106 韻,106,106,PASS
+T-28,韻書,平水韻字數 8564,8564,8564,PASS
+T-29,韻書,廣韻韻目表 206,206,206,PASS
+T-30,韻書,廣韻條目 20530,20530,20530,PASS
+T-31,韻書,廣韻 fanqie_upper 實為下字（已知缺陷可重現）,True,True,PASS
+T-32,韻書,中華新韻派生 7216 全部有規則對應,0,0,PASS
+T-33,韻書,六套體系分立（system 數 ≥4）,True,True,PASS
+T-34,詞格,196 格 sentence_count 全 > 0,0,0,PASS
+T-35,詞格,196 格中譜行符號數與 total_characters 一致者,196,196,PASS
+T-36,詞格,13 條字數異常全部有五方數值,13,13,PASS
+T-37,詞格,33 條衝突全部有判定,33,33,PASS
+T-38,詞格,衝突判定無空值,0,0,PASS
+T-39,詞格,196 格韻式標籤層級皆 BRAND_LEVEL（本輪關鍵發現）,196,196,PASS
+T-40,詞格,例詞觀察欄已填 ≥150,True,True,PASS
+T-41,詞格,review_status 仍無一條 VERIFIED（不得自我升級）,0,0,PASS
+T-42,詞格,same_rhyme_group_verified 仍為 0,0,0,PASS
+T-43,原圖,樣本 60,60,60,PASS
+T-44,原圖,已核驗 26 + 34 = 60,60,60,PASS
+T-45,原圖,本輪核驗記錄 34 條,34,34,PASS
+T-46,原圖,本輪無 ANNOTATION_MISMATCH,0,0,PASS
+T-47,原圖,跨頁紀錄 10 條,10,10,PASS
+T-48,原圖,每條都有圖檔 SHA-256,34,34,PASS
+T-49,例詞,310 條例詞,310,310,PASS
+T-50,例詞,重判後關聯 310 條,310,310,PASS
+T-51,例詞,TITLE_ONLY 未升級為高級別（修正後 5）,5,5,PASS
+T-52,例詞,作者衝突單列（繁簡正規化後 6）,6,6,PASS
+T-53,例詞,完全相等 50 條,50,50,PASS
+T-54,例詞,未掛接保持 NO_MATCH（修正後 114）,114,114,PASS
+T-55,閱讀,907 條記錄,907,907,PASS
+T-56,閱讀,引文回查失敗 0,0,0,PASS
+T-57,閱讀,閱讀審查 120 條,120,120,PASS
+T-58,閱讀,審查 S1 條數 2,2,2,PASS
+T-59,閱讀,PDF 全 476 頁有分類,476,476,PASS
+T-60,閱讀,音標索引 688 條,688,688,PASS
+T-61,跨系統,多音字樣本 200,200,200,PASS
+T-62,跨系統,跨韻書案例 100,100,100,PASS
+T-63,跨系統,多音字至少跨 2 體系,200,200,PASS
+T-64,跨系統,未把不同體系合併為單一讀音（charx 可多行）,True,True,PASS
+T-65,文件,報告檔數 ≥ 20,True,True,PASS
+T-66,文件,集韻每頁記 HTML SHA-256（可追溯）,206,206,PASS
+T-66b,文件,集韻 revid 已記錄頁數（本輪發現為 0，缺口如實保留）,0,0,PASS
+T-67,文件,詞林正韻來源有 revid,True,True,PASS
+T-68,文件,中原音韻來源為維基文庫正文（有 revid 或已記版本）,True,True,PASS

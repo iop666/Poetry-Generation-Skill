@@ -1,0 +1,820 @@
+﻿source_id,source_name,collection,n_works,file_check,local_path,locator_type,locator_status
+CP-YUANQU,元曲,yuanqu,10685,JSON_LIKE,raw/poetry/yuanqu/yuanqu.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-08,全唐诗（第 8 片）,tang,1003,JSON_LIKE,raw/poetry/tang/poet.tang.7000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-20,全唐诗（第 20 片）,tang,1002,JSON_LIKE,raw/poetry/tang/poet.tang.19000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-21,全唐诗（第 21 片）,tang,1002,JSON_LIKE,raw/poetry/tang/poet.tang.20000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-26,全唐诗（第 26 片）,tang,1002,JSON_LIKE,raw/poetry/tang/poet.tang.25000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-052,全宋诗（第 52 片）,songshi,1001,JSON_LIKE,raw/poetry/songshi/poet.song.51000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-065,全宋诗（第 65 片）,songshi,1001,JSON_LIKE,raw/poetry/songshi/poet.song.64000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-124,全宋诗（第 124 片）,songshi,1001,JSON_LIKE,raw/poetry/songshi/poet.song.123000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-03,全唐诗（第 3 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.2000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-04,全唐诗（第 4 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.3000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-07,全唐诗（第 7 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.6000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-09,全唐诗（第 9 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.8000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-19,全唐诗（第 19 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.18000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-33,全唐诗（第 33 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.32000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-36,全唐诗（第 36 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.35000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-38,全唐诗（第 38 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.37000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-39,全唐诗（第 39 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.38000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-40,全唐诗（第 40 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.39000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-42,全唐诗（第 42 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.41000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-45,全唐诗（第 45 片）,tang,1001,JSON_LIKE,raw/poetry/tang/poet.tang.44000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-16,全宋词（第 16 片）,songci,1000,JSON_LIKE,raw/poetry/songci/ci.song.15000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-016,全宋诗（第 16 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.15000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-020,全宋诗（第 20 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.19000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-022,全宋诗（第 22 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.21000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-028,全宋诗（第 28 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.27000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-032,全宋诗（第 32 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.31000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-033,全宋诗（第 33 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.32000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-042,全宋诗（第 42 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.41000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-046,全宋诗（第 46 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.45000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-049,全宋诗（第 49 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.48000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-050,全宋诗（第 50 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.49000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-054,全宋诗（第 54 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.53000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-057,全宋诗（第 57 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.56000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-058,全宋诗（第 58 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.57000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-066,全宋诗（第 66 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.65000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-077,全宋诗（第 77 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.76000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-079,全宋诗（第 79 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.78000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-083,全宋诗（第 83 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.82000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-088,全宋诗（第 88 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.87000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-093,全宋诗（第 93 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.92000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-098,全宋诗（第 98 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.97000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-102,全宋诗（第 102 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.101000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-106,全宋诗（第 106 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.105000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-108,全宋诗（第 108 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.107000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-115,全宋诗（第 115 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.114000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-119,全宋诗（第 119 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.118000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-120,全宋诗（第 120 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.119000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-122,全宋诗（第 122 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.121000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-129,全宋诗（第 129 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.128000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-130,全宋诗（第 130 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.129000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-131,全宋诗（第 131 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.130000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-132,全宋诗（第 132 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.131000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-133,全宋诗（第 133 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.132000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-134,全宋诗（第 134 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.133000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-135,全宋诗（第 135 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.134000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-136,全宋诗（第 136 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.135000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-138,全宋诗（第 138 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.137000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-140,全宋诗（第 140 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.139000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-141,全宋诗（第 141 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.140000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-142,全宋诗（第 142 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.141000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-143,全宋诗（第 143 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.142000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-148,全宋诗（第 148 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.147000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-151,全宋诗（第 151 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.150000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-152,全宋诗（第 152 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.151000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-153,全宋诗（第 153 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.152000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-157,全宋诗（第 157 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.156000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-166,全宋诗（第 166 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.165000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-167,全宋诗（第 167 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.166000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-173,全宋诗（第 173 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.172000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-176,全宋诗（第 176 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.175000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-177,全宋诗（第 177 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.176000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-178,全宋诗（第 178 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.177000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-181,全宋诗（第 181 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.180000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-183,全宋诗（第 183 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.182000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-190,全宋诗（第 190 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.189000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-191,全宋诗（第 191 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.190000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-195,全宋诗（第 195 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.194000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-196,全宋诗（第 196 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.195000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-197,全宋诗（第 197 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.196000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-199,全宋诗（第 199 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.198000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-200,全宋诗（第 200 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.199000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-204,全宋诗（第 204 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.203000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-208,全宋诗（第 208 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.207000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-210,全宋诗（第 210 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.209000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-212,全宋诗（第 212 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.211000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-213,全宋诗（第 213 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.212000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-214,全宋诗（第 214 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.213000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-216,全宋诗（第 216 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.215000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-217,全宋诗（第 217 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.216000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-220,全宋诗（第 220 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.219000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-223,全宋诗（第 223 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.222000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-225,全宋诗（第 225 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.224000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-226,全宋诗（第 226 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.225000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-227,全宋诗（第 227 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.226000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-230,全宋诗（第 230 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.229000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-231,全宋诗（第 231 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.230000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-233,全宋诗（第 233 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.232000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-236,全宋诗（第 236 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.235000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-237,全宋诗（第 237 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.236000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-238,全宋诗（第 238 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.237000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-239,全宋诗（第 239 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.238000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-241,全宋诗（第 241 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.240000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-246,全宋诗（第 246 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.245000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-247,全宋诗（第 247 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.246000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-249,全宋诗（第 249 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.248000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-250,全宋诗（第 250 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.249000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-251,全宋诗（第 251 片）,songshi,1000,JSON_LIKE,raw/poetry/songshi/poet.song.250000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-02,全唐诗（第 2 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.1000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-05,全唐诗（第 5 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.4000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-06,全唐诗（第 6 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.5000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-10,全唐诗（第 10 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.9000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-11,全唐诗（第 11 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.10000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-12,全唐诗（第 12 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.11000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-13,全唐诗（第 13 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.12000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-14,全唐诗（第 14 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.13000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-16,全唐诗（第 16 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.15000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-17,全唐诗（第 17 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.16000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-18,全唐诗（第 18 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.17000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-22,全唐诗（第 22 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.21000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-23,全唐诗（第 23 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.22000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-24,全唐诗（第 24 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.23000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-27,全唐诗（第 27 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.26000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-28,全唐诗（第 28 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.27000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-30,全唐诗（第 30 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.29000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-31,全唐诗（第 31 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.30000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-32,全唐诗（第 32 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.31000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-35,全唐诗（第 35 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.34000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-37,全唐诗（第 37 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.36000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-41,全唐诗（第 41 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.40000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-43,全唐诗（第 43 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.42000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-46,全唐诗（第 46 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.45000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-47,全唐诗（第 47 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.46000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-50,全唐诗（第 50 片）,tang,1000,JSON_LIKE,raw/poetry/tang/poet.tang.49000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-05,全宋词（第 5 片）,songci,999,JSON_LIKE,raw/poetry/songci/ci.song.4000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-014,全宋诗（第 14 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.13000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-019,全宋诗（第 19 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.18000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-023,全宋诗（第 23 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.22000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-029,全宋诗（第 29 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.28000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-030,全宋诗（第 30 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.29000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-053,全宋诗（第 53 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.52000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-100,全宋诗（第 100 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.99000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-101,全宋诗（第 101 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.100000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-103,全宋诗（第 103 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.102000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-139,全宋诗（第 139 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.138000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-147,全宋诗（第 147 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.146000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-159,全宋诗（第 159 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.158000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-160,全宋诗（第 160 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.159000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-161,全宋诗（第 161 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.160000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-164,全宋诗（第 164 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.163000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-182,全宋诗（第 182 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.181000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-186,全宋诗（第 186 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.185000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-187,全宋诗（第 187 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.186000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-192,全宋诗（第 192 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.191000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-201,全宋诗（第 201 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.200000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-205,全宋诗（第 205 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.204000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-221,全宋诗（第 221 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.220000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-224,全宋诗（第 224 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.223000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-228,全宋诗（第 228 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.227000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-234,全宋诗（第 234 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.233000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-240,全宋诗（第 240 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.239000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-242,全宋诗（第 242 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.241000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-244,全宋诗（第 244 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.243000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-248,全宋诗（第 248 片）,songshi,999,JSON_LIKE,raw/poetry/songshi/poet.song.247000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-01,全唐诗（第 1 片）,tang,999,JSON_LIKE,raw/poetry/tang/poet.tang.0.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-25,全唐诗（第 25 片）,tang,999,JSON_LIKE,raw/poetry/tang/poet.tang.24000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-29,全唐诗（第 29 片）,tang,999,JSON_LIKE,raw/poetry/tang/poet.tang.28000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-34,全唐诗（第 34 片）,tang,999,JSON_LIKE,raw/poetry/tang/poet.tang.33000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-48,全唐诗（第 48 片）,tang,999,JSON_LIKE,raw/poetry/tang/poet.tang.47000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-06,全宋词（第 6 片）,songci,998,JSON_LIKE,raw/poetry/songci/ci.song.5000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-07,全宋词（第 7 片）,songci,998,JSON_LIKE,raw/poetry/songci/ci.song.6000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-10,全宋词（第 10 片）,songci,998,JSON_LIKE,raw/poetry/songci/ci.song.9000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-11,全宋词（第 11 片）,songci,998,JSON_LIKE,raw/poetry/songci/ci.song.10000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-14,全宋词（第 14 片）,songci,998,JSON_LIKE,raw/poetry/songci/ci.song.13000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-18,全宋词（第 18 片）,songci,998,JSON_LIKE,raw/poetry/songci/ci.song.17000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-015,全宋诗（第 15 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.14000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-056,全宋诗（第 56 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.55000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-063,全宋诗（第 63 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.62000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-069,全宋诗（第 69 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.68000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-078,全宋诗（第 78 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.77000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-084,全宋诗（第 84 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.83000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-089,全宋诗（第 89 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.88000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-090,全宋诗（第 90 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.89000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-096,全宋诗（第 96 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.95000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-105,全宋诗（第 105 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.104000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-110,全宋诗（第 110 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.109000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-137,全宋诗（第 137 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.136000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-156,全宋诗（第 156 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.155000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-158,全宋诗（第 158 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.157000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-168,全宋诗（第 168 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.167000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-198,全宋诗（第 198 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.197000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-202,全宋诗（第 202 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.201000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-203,全宋诗（第 203 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.202000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-207,全宋诗（第 207 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.206000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-215,全宋诗（第 215 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.214000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-218,全宋诗（第 218 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.217000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-219,全宋诗（第 219 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.218000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-222,全宋诗（第 222 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.221000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-232,全宋诗（第 232 片）,songshi,998,JSON_LIKE,raw/poetry/songshi/poet.song.231000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-44,全唐诗（第 44 片）,tang,998,JSON_LIKE,raw/poetry/tang/poet.tang.43000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-08,全宋词（第 8 片）,songci,997,JSON_LIKE,raw/poetry/songci/ci.song.7000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-15,全宋词（第 15 片）,songci,997,JSON_LIKE,raw/poetry/songci/ci.song.14000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-17,全宋词（第 17 片）,songci,997,JSON_LIKE,raw/poetry/songci/ci.song.16000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-018,全宋诗（第 18 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.17000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-035,全宋诗（第 35 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.34000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-060,全宋诗（第 60 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.59000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-071,全宋诗（第 71 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.70000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-087,全宋诗（第 87 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.86000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-109,全宋诗（第 109 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.108000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-114,全宋诗（第 114 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.113000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-117,全宋诗（第 117 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.116000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-128,全宋诗（第 128 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.127000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-145,全宋诗（第 145 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.144000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-150,全宋诗（第 150 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.149000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-155,全宋诗（第 155 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.154000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-165,全宋诗（第 165 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.164000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-188,全宋诗（第 188 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.187000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-189,全宋诗（第 189 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.188000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-194,全宋诗（第 194 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.193000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-229,全宋诗（第 229 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.228000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-243,全宋诗（第 243 片）,songshi,997,JSON_LIKE,raw/poetry/songshi/poet.song.242000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-03,全宋词（第 3 片）,songci,996,JSON_LIKE,raw/poetry/songci/ci.song.2000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-04,全宋词（第 4 片）,songci,996,JSON_LIKE,raw/poetry/songci/ci.song.3000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-002,全宋诗（第 2 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.1000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-043,全宋诗（第 43 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.42000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-044,全宋诗（第 44 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.43000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-062,全宋诗（第 62 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.61000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-064,全宋诗（第 64 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.63000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-070,全宋诗（第 70 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.69000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-099,全宋诗（第 99 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.98000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-116,全宋诗（第 116 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.115000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-125,全宋诗（第 125 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.124000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-144,全宋诗（第 144 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.143000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-146,全宋诗（第 146 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.145000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-180,全宋诗（第 180 片）,songshi,996,JSON_LIKE,raw/poetry/songshi/poet.song.179000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-09,全宋词（第 9 片）,songci,995,JSON_LIKE,raw/poetry/songci/ci.song.8000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-011,全宋诗（第 11 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.10000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-027,全宋诗（第 27 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.26000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-045,全宋诗（第 45 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.44000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-097,全宋诗（第 97 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.96000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-113,全宋诗（第 113 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.112000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-126,全宋诗（第 126 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.125000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-127,全宋诗（第 127 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.126000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-206,全宋诗（第 206 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.205000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-245,全宋诗（第 245 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.244000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-254,全宋诗（第 254 片）,songshi,995,JSON_LIKE,raw/poetry/songshi/poet.song.253000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-01,全宋词（第 1 片）,songci,994,JSON_LIKE,raw/poetry/songci/ci.song.0.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-017,全宋诗（第 17 片）,songshi,994,JSON_LIKE,raw/poetry/songshi/poet.song.16000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-036,全宋诗（第 36 片）,songshi,994,JSON_LIKE,raw/poetry/songshi/poet.song.35000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-038,全宋诗（第 38 片）,songshi,994,JSON_LIKE,raw/poetry/songshi/poet.song.37000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-055,全宋诗（第 55 片）,songshi,994,JSON_LIKE,raw/poetry/songshi/poet.song.54000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-111,全宋诗（第 111 片）,songshi,994,JSON_LIKE,raw/poetry/songshi/poet.song.110000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-185,全宋诗（第 185 片）,songshi,994,JSON_LIKE,raw/poetry/songshi/poet.song.184000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-211,全宋诗（第 211 片）,songshi,994,JSON_LIKE,raw/poetry/songshi/poet.song.210000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-012,全宋诗（第 12 片）,songshi,993,JSON_LIKE,raw/poetry/songshi/poet.song.11000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-026,全宋诗（第 26 片）,songshi,993,JSON_LIKE,raw/poetry/songshi/poet.song.25000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-041,全宋诗（第 41 片）,songshi,993,JSON_LIKE,raw/poetry/songshi/poet.song.40000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-051,全宋诗（第 51 片）,songshi,993,JSON_LIKE,raw/poetry/songshi/poet.song.50000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-072,全宋诗（第 72 片）,songshi,993,JSON_LIKE,raw/poetry/songshi/poet.song.71000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-082,全宋诗（第 82 片）,songshi,993,JSON_LIKE,raw/poetry/songshi/poet.song.81000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-149,全宋诗（第 149 片）,songshi,993,JSON_LIKE,raw/poetry/songshi/poet.song.148000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-175,全宋诗（第 175 片）,songshi,993,JSON_LIKE,raw/poetry/songshi/poet.song.174000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-009,全宋诗（第 9 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.8000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-025,全宋诗（第 25 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.24000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-039,全宋诗（第 39 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.38000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-073,全宋诗（第 73 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.72000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-094,全宋诗（第 94 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.93000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-095,全宋诗（第 95 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.94000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-112,全宋诗（第 112 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.111000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-123,全宋诗（第 123 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.122000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-235,全宋诗（第 235 片）,songshi,992,JSON_LIKE,raw/poetry/songshi/poet.song.234000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-19,全宋词（第 19 片）,songci,991,JSON_LIKE,raw/poetry/songci/ci.song.18000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-007,全宋诗（第 7 片）,songshi,991,JSON_LIKE,raw/poetry/songshi/poet.song.6000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-013,全宋诗（第 13 片）,songshi,991,JSON_LIKE,raw/poetry/songshi/poet.song.12000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-037,全宋诗（第 37 片）,songshi,991,JSON_LIKE,raw/poetry/songshi/poet.song.36000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-048,全宋诗（第 48 片）,songshi,991,JSON_LIKE,raw/poetry/songshi/poet.song.47000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-085,全宋诗（第 85 片）,songshi,991,JSON_LIKE,raw/poetry/songshi/poet.song.84000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-154,全宋诗（第 154 片）,songshi,991,JSON_LIKE,raw/poetry/songshi/poet.song.153000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-174,全宋诗（第 174 片）,songshi,991,JSON_LIKE,raw/poetry/songshi/poet.song.173000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-02,全宋词（第 2 片）,songci,990,JSON_LIKE,raw/poetry/songci/ci.song.1000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-075,全宋诗（第 75 片）,songshi,990,JSON_LIKE,raw/poetry/songshi/poet.song.74000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-091,全宋诗（第 91 片）,songshi,990,JSON_LIKE,raw/poetry/songshi/poet.song.90000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-163,全宋诗（第 163 片）,songshi,990,JSON_LIKE,raw/poetry/songshi/poet.song.162000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-172,全宋诗（第 172 片）,songshi,990,JSON_LIKE,raw/poetry/songshi/poet.song.171000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-008,全宋诗（第 8 片）,songshi,989,JSON_LIKE,raw/poetry/songshi/poet.song.7000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-034,全宋诗（第 34 片）,songshi,989,JSON_LIKE,raw/poetry/songshi/poet.song.33000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-040,全宋诗（第 40 片）,songshi,989,JSON_LIKE,raw/poetry/songshi/poet.song.39000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-162,全宋诗（第 162 片）,songshi,989,JSON_LIKE,raw/poetry/songshi/poet.song.161000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-171,全宋诗（第 171 片）,songshi,989,JSON_LIKE,raw/poetry/songshi/poet.song.170000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-253,全宋诗（第 253 片）,songshi,989,JSON_LIKE,raw/poetry/songshi/poet.song.252000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-21,全宋词（第 21 片）,songci,988,JSON_LIKE,raw/poetry/songci/ci.song.20000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-001,全宋诗（第 1 片）,songshi,988,JSON_LIKE,raw/poetry/songshi/poet.song.0.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-061,全宋诗（第 61 片）,songshi,988,JSON_LIKE,raw/poetry/songshi/poet.song.60000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-252,全宋诗（第 252 片）,songshi,988,JSON_LIKE,raw/poetry/songshi/poet.song.251000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-031,全宋诗（第 31 片）,songshi,987,JSON_LIKE,raw/poetry/songshi/poet.song.30000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-047,全宋诗（第 47 片）,songshi,987,JSON_LIKE,raw/poetry/songshi/poet.song.46000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-068,全宋诗（第 68 片）,songshi,987,JSON_LIKE,raw/poetry/songshi/poet.song.67000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-021,全宋诗（第 21 片）,songshi,986,JSON_LIKE,raw/poetry/songshi/poet.song.20000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-092,全宋诗（第 92 片）,songshi,986,JSON_LIKE,raw/poetry/songshi/poet.song.91000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-104,全宋诗（第 104 片）,songshi,986,JSON_LIKE,raw/poetry/songshi/poet.song.103000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-179,全宋诗（第 179 片）,songshi,986,JSON_LIKE,raw/poetry/songshi/poet.song.178000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-067,全宋诗（第 67 片）,songshi,985,JSON_LIKE,raw/poetry/songshi/poet.song.66000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-184,全宋诗（第 184 片）,songshi,985,JSON_LIKE,raw/poetry/songshi/poet.song.183000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-059,全宋诗（第 59 片）,songshi,984,JSON_LIKE,raw/poetry/songshi/poet.song.58000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-024,全宋诗（第 24 片）,songshi,983,JSON_LIKE,raw/poetry/songshi/poet.song.23000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-121,全宋诗（第 121 片）,songshi,983,JSON_LIKE,raw/poetry/songshi/poet.song.120000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-004,全宋诗（第 4 片）,songshi,982,JSON_LIKE,raw/poetry/songshi/poet.song.3000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-006,全宋诗（第 6 片）,songshi,982,JSON_LIKE,raw/poetry/songshi/poet.song.5000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-086,全宋诗（第 86 片）,songshi,982,JSON_LIKE,raw/poetry/songshi/poet.song.85000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-209,全宋诗（第 209 片）,songshi,981,JSON_LIKE,raw/poetry/songshi/poet.song.208000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-005,全宋诗（第 5 片）,songshi,980,JSON_LIKE,raw/poetry/songshi/poet.song.4000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-55,全唐诗（第 55 片）,tang,980,JSON_LIKE,raw/poetry/tang/poet.tang.54000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-076,全宋诗（第 76 片）,songshi,978,JSON_LIKE,raw/poetry/songshi/poet.song.75000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-081,全宋诗（第 81 片）,songshi,977,JSON_LIKE,raw/poetry/songshi/poet.song.80000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-53,全唐诗（第 53 片）,tang,975,JSON_LIKE,raw/poetry/tang/poet.tang.52000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-003,全宋诗（第 3 片）,songshi,974,JSON_LIKE,raw/poetry/songshi/poet.song.2000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-010,全宋诗（第 10 片）,songshi,969,JSON_LIKE,raw/poetry/songshi/poet.song.9000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-169,全宋诗（第 169 片）,songshi,969,JSON_LIKE,raw/poetry/songshi/poet.song.168000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-118,全宋诗（第 118 片）,songshi,966,JSON_LIKE,raw/poetry/songshi/poet.song.117000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-54,全唐诗（第 54 片）,tang,963,JSON_LIKE,raw/poetry/tang/poet.tang.53000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-51,全唐诗（第 51 片）,tang,961,JSON_LIKE,raw/poetry/tang/poet.tang.50000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-56,全唐诗（第 56 片）,tang,958,JSON_LIKE,raw/poetry/tang/poet.tang.55000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-080,全宋诗（第 80 片）,songshi,957,JSON_LIKE,raw/poetry/songshi/poet.song.79000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-193,全宋诗（第 193 片）,songshi,955,JSON_LIKE,raw/poetry/songshi/poet.song.192000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-074,全宋诗（第 74 片）,songshi,945,JSON_LIKE,raw/poetry/songshi/poet.song.73000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-170,全宋诗（第 170 片）,songshi,944,JSON_LIKE,raw/poetry/songshi/poet.song.169000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-52,全唐诗（第 52 片）,tang,941,JSON_LIKE,raw/poetry/tang/poet.tang.51000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-49,全唐诗（第 49 片）,tang,934,JSON_LIKE,raw/poetry/tang/poet.tang.48000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-107,全宋诗（第 107 片）,songshi,883,JSON_LIKE,raw/poetry/songshi/poet.song.106000.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-20,全宋词（第 20 片）,songci,821,JSON_LIKE,raw/poetry/songci/ci.song.19000.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG-58,全唐诗（第 58 片）,tang,582,JSON_LIKE,raw/poetry/tang/poet.tang.57000.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百八十六,晚晴簃詩匯·卷一百八十六,wanqing,393,JSON_LIKE,raw/poetry/wanqing/卷一百八十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百八十四,晚晴簃詩匯·卷一百八十四,wanqing,375,JSON_LIKE,raw/poetry/wanqing/卷一百八十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百八十八,晚晴簃詩匯·卷一百八十八,wanqing,325,JSON_LIKE,raw/poetry/wanqing/卷一百八十八.json,FILE_LOCATOR,FILE_USABLE
+CP-TANG300,唐诗三百首,tang300,320,JSON_LIKE,raw/poetry/tang300/tangshisanbaishou.json,FILE_LOCATOR,FILE_USABLE
+CP-SHIJING,诗经,shijing,305,JSON_LIKE,raw/poetry/shijing/shijing.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-04,中州集·卷04,zhongzhou,266,JSON_LIKE,raw/poetry/zhongzhou/卷04.json,FILE_LOCATOR,FILE_USABLE
+CP-NALAN,纳兰性德诗集,nalan,258,JSON_LIKE,raw/poetry/nalan/纳兰性德诗集.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-03,中州集·卷03,zhongzhou,255,JSON_LIKE,raw/poetry/zhongzhou/卷03.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-01,中州集·卷01,zhongzhou,240,JSON_LIKE,raw/poetry/zhongzhou/卷01.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百八十三,晚晴簃詩匯·卷一百八十三,wanqing,239,JSON_LIKE,raw/poetry/wanqing/卷一百八十三.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGSHI-255,全宋诗（第 255 片）,songshi,236,JSON_LIKE,raw/poetry/songshi/poet.song.254000.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-07,中州集·卷07,zhongzhou,224,JSON_LIKE,raw/poetry/zhongzhou/卷07.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十一,晚晴簃詩匯·卷一百九十一,wanqing,222,JSON_LIKE,raw/poetry/wanqing/卷一百九十一.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-05,中州集·卷05,zhongzhou,217,JSON_LIKE,raw/poetry/zhongzhou/卷05.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百八十七,晚晴簃詩匯·卷一百八十七,wanqing,192,JSON_LIKE,raw/poetry/wanqing/卷一百八十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十二,晚晴簃詩匯·卷一百九十二,wanqing,189,JSON_LIKE,raw/poetry/wanqing/卷一百九十二.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-02,中州集·卷02,zhongzhou,182,JSON_LIKE,raw/poetry/zhongzhou/卷02.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-10,中州集·卷10,zhongzhou,180,JSON_LIKE,raw/poetry/zhongzhou/卷10.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-06,中州集·卷06,zhongzhou,168,JSON_LIKE,raw/poetry/zhongzhou/卷06.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十七,晚晴簃詩匯·卷一百九十七,wanqing,166,JSON_LIKE,raw/poetry/wanqing/卷一百九十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十九,晚晴簃詩匯·卷一百九十九,wanqing,148,JSON_LIKE,raw/poetry/wanqing/卷一百九十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十八,晚晴簃詩匯·卷三十八,wanqing,146,JSON_LIKE,raw/poetry/wanqing/卷三十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百七,晚晴簃詩匯·卷一百七,wanqing,142,JSON_LIKE,raw/poetry/wanqing/卷一百七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十八,晚晴簃詩匯·卷一百五十八,wanqing,140,JSON_LIKE,raw/poetry/wanqing/卷一百五十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十八,晚晴簃詩匯·卷一百四十八,wanqing,137,JSON_LIKE,raw/poetry/wanqing/卷一百四十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十八,晚晴簃詩匯·卷七十八,wanqing,136,JSON_LIKE,raw/poetry/wanqing/卷七十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十,晚晴簃詩匯·卷五十,wanqing,135,JSON_LIKE,raw/poetry/wanqing/卷五十.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-014,明詩綜·卷014,mingshi,134,JSON_LIKE,raw/poetry/mingshi/卷014.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十七,晚晴簃詩匯·卷三十七,wanqing,133,JSON_LIKE,raw/poetry/wanqing/卷三十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十六,晚晴簃詩匯·卷三十六,wanqing,132,JSON_LIKE,raw/poetry/wanqing/卷三十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十八,晚晴簃詩匯·卷六十八,wanqing,132,JSON_LIKE,raw/poetry/wanqing/卷六十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十九,晚晴簃詩匯·卷五十九,wanqing,129,JSON_LIKE,raw/poetry/wanqing/卷五十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十八,晚晴簃詩匯·卷一百二十八,wanqing,128,JSON_LIKE,raw/poetry/wanqing/卷一百二十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十,晚晴簃詩匯·卷四十,wanqing,128,JSON_LIKE,raw/poetry/wanqing/卷四十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十三,晚晴簃詩匯·卷六十三,wanqing,127,JSON_LIKE,raw/poetry/wanqing/卷六十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十九,晚晴簃詩匯·卷四十九,wanqing,127,JSON_LIKE,raw/poetry/wanqing/卷四十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十二,晚晴簃詩匯·卷一百三十二,wanqing,126,JSON_LIKE,raw/poetry/wanqing/卷一百三十二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十,晚晴簃詩匯·卷一百五十,wanqing,126,JSON_LIKE,raw/poetry/wanqing/卷一百五十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十四,晚晴簃詩匯·卷二十四,wanqing,126,JSON_LIKE,raw/poetry/wanqing/卷二十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十九,晚晴簃詩匯·卷一百三十九,wanqing,125,JSON_LIKE,raw/poetry/wanqing/卷一百三十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十一,晚晴簃詩匯·卷一百二十一,wanqing,125,JSON_LIKE,raw/poetry/wanqing/卷一百二十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十七,晚晴簃詩匯·卷一百六十七,wanqing,125,JSON_LIKE,raw/poetry/wanqing/卷一百六十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十四,晚晴簃詩匯·卷一百十四,wanqing,124,JSON_LIKE,raw/poetry/wanqing/卷一百十四.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-附録,中州集·附録,zhongzhou,124,JSON_LIKE,raw/poetry/zhongzhou/附録.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十四,晚晴簃詩匯·卷一百六十四,wanqing,123,JSON_LIKE,raw/poetry/wanqing/卷一百六十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十四,晚晴簃詩匯·卷五十四,wanqing,123,JSON_LIKE,raw/poetry/wanqing/卷五十四.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-049,明詩綜·卷049,mingshi,122,JSON_LIKE,raw/poetry/mingshi/卷049.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十八,晚晴簃詩匯·卷一百三十八,wanqing,122,JSON_LIKE,raw/poetry/wanqing/卷一百三十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十五,晚晴簃詩匯·卷一百二十五,wanqing,122,JSON_LIKE,raw/poetry/wanqing/卷一百二十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五,晚晴簃詩匯·卷一百五,wanqing,122,JSON_LIKE,raw/poetry/wanqing/卷一百五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十二,晚晴簃詩匯·卷二十二,wanqing,122,JSON_LIKE,raw/poetry/wanqing/卷二十二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十,晚晴簃詩匯·卷一百九十,wanqing,121,JSON_LIKE,raw/poetry/wanqing/卷一百九十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十六,晚晴簃詩匯·卷一百十六,wanqing,121,JSON_LIKE,raw/poetry/wanqing/卷一百十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十六,晚晴簃詩匯·卷一百二十六,wanqing,120,JSON_LIKE,raw/poetry/wanqing/卷一百二十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百七十九,晚晴簃詩匯·卷一百七十九,wanqing,119,JSON_LIKE,raw/poetry/wanqing/卷一百七十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十四,晚晴簃詩匯·卷七十四,wanqing,119,JSON_LIKE,raw/poetry/wanqing/卷七十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十六,晚晴簃詩匯·卷一百九十六,wanqing,118,JSON_LIKE,raw/poetry/wanqing/卷一百九十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十,晚晴簃詩匯·卷一百四十,wanqing,118,JSON_LIKE,raw/poetry/wanqing/卷一百四十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十九,晚晴簃詩匯·卷三十九,wanqing,118,JSON_LIKE,raw/poetry/wanqing/卷三十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十八,晚晴簃詩匯·卷九十八,wanqing,118,JSON_LIKE,raw/poetry/wanqing/卷九十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十八,晚晴簃詩匯·卷五十八,wanqing,118,JSON_LIKE,raw/poetry/wanqing/卷五十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十四,晚晴簃詩匯·卷六十四,wanqing,118,JSON_LIKE,raw/poetry/wanqing/卷六十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十六,晚晴簃詩匯·卷十六,wanqing,118,JSON_LIKE,raw/poetry/wanqing/卷十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十一,晚晴簃詩匯·卷四十一,wanqing,118,JSON_LIKE,raw/poetry/wanqing/卷四十一.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-053,明詩綜·卷053,mingshi,117,JSON_LIKE,raw/poetry/mingshi/卷053.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-055,明詩綜·卷055,mingshi,117,JSON_LIKE,raw/poetry/mingshi/卷055.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百七十二,晚晴簃詩匯·卷一百七十二,wanqing,117,JSON_LIKE,raw/poetry/wanqing/卷一百七十二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十三,晚晴簃詩匯·卷二十三,wanqing,117,JSON_LIKE,raw/poetry/wanqing/卷二十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十九,晚晴簃詩匯·卷八十九,wanqing,117,JSON_LIKE,raw/poetry/wanqing/卷八十九.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-030,明詩綜·卷030,mingshi,116,JSON_LIKE,raw/poetry/mingshi/卷030.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十七,晚晴簃詩匯·卷一百三十七,wanqing,116,JSON_LIKE,raw/poetry/wanqing/卷一百三十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二,晚晴簃詩匯·卷一百二,wanqing,116,JSON_LIKE,raw/poetry/wanqing/卷一百二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十八,晚晴簃詩匯·卷一百六十八,wanqing,116,JSON_LIKE,raw/poetry/wanqing/卷一百六十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四,晚晴簃詩匯·卷一百四,wanqing,116,JSON_LIKE,raw/poetry/wanqing/卷一百四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十,晚晴簃詩匯·卷七十,wanqing,116,JSON_LIKE,raw/poetry/wanqing/卷七十.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-009,明詩綜·卷009,mingshi,115,JSON_LIKE,raw/poetry/mingshi/卷009.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十四,晚晴簃詩匯·卷一百五十四,wanqing,115,JSON_LIKE,raw/poetry/wanqing/卷一百五十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十三,晚晴簃詩匯·卷一百十三,wanqing,115,JSON_LIKE,raw/poetry/wanqing/卷一百十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十七,晚晴簃詩匯·卷七十七,wanqing,115,JSON_LIKE,raw/poetry/wanqing/卷七十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十四,晚晴簃詩匯·卷十四,wanqing,115,JSON_LIKE,raw/poetry/wanqing/卷十四.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-028,明詩綜·卷028,mingshi,114,JSON_LIKE,raw/poetry/mingshi/卷028.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百七十,晚晴簃詩匯·卷一百七十,wanqing,114,JSON_LIKE,raw/poetry/wanqing/卷一百七十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九,晚晴簃詩匯·卷一百九,wanqing,114,JSON_LIKE,raw/poetry/wanqing/卷一百九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十三,晚晴簃詩匯·卷三十三,wanqing,114,JSON_LIKE,raw/poetry/wanqing/卷三十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十二,晚晴簃詩匯·卷三十二,wanqing,114,JSON_LIKE,raw/poetry/wanqing/卷三十二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十七,晚晴簃詩匯·卷八十七,wanqing,114,JSON_LIKE,raw/poetry/wanqing/卷八十七.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-079,古詩紀·卷079,gushiji,113,JSON_LIKE,raw/poetry/gushiji/卷079.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-012,明詩綜·卷012,mingshi,113,JSON_LIKE,raw/poetry/mingshi/卷012.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-100,明詩綜·卷100,mingshi,113,JSON_LIKE,raw/poetry/mingshi/卷100.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十,晚晴簃詩匯·卷一百十,wanqing,113,JSON_LIKE,raw/poetry/wanqing/卷一百十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十四,晚晴簃詩匯·卷三十四,wanqing,113,JSON_LIKE,raw/poetry/wanqing/卷三十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十三,晚晴簃詩匯·卷九十三,wanqing,113,JSON_LIKE,raw/poetry/wanqing/卷九十三.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-019,明詩綜·卷019,mingshi,112,JSON_LIKE,raw/poetry/mingshi/卷019.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十六,晚晴簃詩匯·卷二十六,wanqing,112,JSON_LIKE,raw/poetry/wanqing/卷二十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十五,晚晴簃詩匯·卷五十五,wanqing,112,JSON_LIKE,raw/poetry/wanqing/卷五十五.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-048,明詩綜·卷048,mingshi,111,JSON_LIKE,raw/poetry/mingshi/卷048.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-061,明詩綜·卷061,mingshi,111,JSON_LIKE,raw/poetry/mingshi/卷061.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百七十八,晚晴簃詩匯·卷一百七十八,wanqing,111,JSON_LIKE,raw/poetry/wanqing/卷一百七十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十七,晚晴簃詩匯·卷一百十七,wanqing,111,JSON_LIKE,raw/poetry/wanqing/卷一百十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十三,晚晴簃詩匯·卷一百四十三,wanqing,111,JSON_LIKE,raw/poetry/wanqing/卷一百四十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二百,晚晴簃詩匯·卷二百,wanqing,111,JSON_LIKE,raw/poetry/wanqing/卷二百.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十七,晚晴簃詩匯·卷五十七,wanqing,111,JSON_LIKE,raw/poetry/wanqing/卷五十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十八,晚晴簃詩匯·卷四十八,wanqing,111,JSON_LIKE,raw/poetry/wanqing/卷四十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十六,晚晴簃詩匯·卷四十六,wanqing,111,JSON_LIKE,raw/poetry/wanqing/卷四十六.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-050,明詩綜·卷050,mingshi,110,JSON_LIKE,raw/poetry/mingshi/卷050.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-058,明詩綜·卷058,mingshi,110,JSON_LIKE,raw/poetry/mingshi/卷058.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三,晚晴簃詩匯·卷一百三,wanqing,110,JSON_LIKE,raw/poetry/wanqing/卷一百三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十二,晚晴簃詩匯·卷六十二,wanqing,110,JSON_LIKE,raw/poetry/wanqing/卷六十二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十三,晚晴簃詩匯·卷一百三十三,wanqing,109,JSON_LIKE,raw/poetry/wanqing/卷一百三十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十九,晚晴簃詩匯·卷一百二十九,wanqing,109,JSON_LIKE,raw/poetry/wanqing/卷一百二十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十二,晚晴簃詩匯·卷一百五十二,wanqing,109,JSON_LIKE,raw/poetry/wanqing/卷一百五十二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十七,晚晴簃詩匯·卷四十七,wanqing,109,JSON_LIKE,raw/poetry/wanqing/卷四十七.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-060,明詩綜·卷060,mingshi,108,JSON_LIKE,raw/poetry/mingshi/卷060.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十一,晚晴簃詩匯·卷一百十一,wanqing,108,JSON_LIKE,raw/poetry/wanqing/卷一百十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十九,晚晴簃詩匯·卷一百十九,wanqing,108,JSON_LIKE,raw/poetry/wanqing/卷一百十九.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-052,明詩綜·卷052,mingshi,107,JSON_LIKE,raw/poetry/mingshi/卷052.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十一,晚晴簃詩匯·卷一百五十一,wanqing,107,JSON_LIKE,raw/poetry/wanqing/卷一百五十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十五,晚晴簃詩匯·卷七十五,wanqing,107,JSON_LIKE,raw/poetry/wanqing/卷七十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十五,晚晴簃詩匯·卷二十五,wanqing,107,JSON_LIKE,raw/poetry/wanqing/卷二十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十五,晚晴簃詩匯·卷十五,wanqing,107,JSON_LIKE,raw/poetry/wanqing/卷十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十一,晚晴簃詩匯·卷一百四十一,wanqing,106,JSON_LIKE,raw/poetry/wanqing/卷一百四十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十二,晚晴簃詩匯·卷九十二,wanqing,106,JSON_LIKE,raw/poetry/wanqing/卷九十二.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-069,明詩綜·卷069,mingshi,105,JSON_LIKE,raw/poetry/mingshi/卷069.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十,晚晴簃詩匯·卷一百三十,wanqing,105,JSON_LIKE,raw/poetry/wanqing/卷一百三十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十,晚晴簃詩匯·卷九十,wanqing,105,JSON_LIKE,raw/poetry/wanqing/卷九十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十八,晚晴簃詩匯·卷一百九十八,wanqing,104,JSON_LIKE,raw/poetry/wanqing/卷一百九十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十九,晚晴簃詩匯·卷七十九,wanqing,104,JSON_LIKE,raw/poetry/wanqing/卷七十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十,晚晴簃詩匯·卷八十,wanqing,104,JSON_LIKE,raw/poetry/wanqing/卷八十.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-09,中州集·卷09,zhongzhou,104,JSON_LIKE,raw/poetry/zhongzhou/卷09.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-043,明詩綜·卷043,mingshi,103,JSON_LIKE,raw/poetry/mingshi/卷043.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十五,晚晴簃詩匯·卷三十五,wanqing,103,JSON_LIKE,raw/poetry/wanqing/卷三十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十六,晚晴簃詩匯·卷九十六,wanqing,103,JSON_LIKE,raw/poetry/wanqing/卷九十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十七,晚晴簃詩匯·卷十七,wanqing,103,JSON_LIKE,raw/poetry/wanqing/卷十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十二,晚晴簃詩匯·卷十二,wanqing,103,JSON_LIKE,raw/poetry/wanqing/卷十二.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-08,中州集·卷08,zhongzhou,103,JSON_LIKE,raw/poetry/zhongzhou/卷08.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-065,明詩綜·卷065,mingshi,102,JSON_LIKE,raw/poetry/mingshi/卷065.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十二,晚晴簃詩匯·卷一百二十二,wanqing,102,JSON_LIKE,raw/poetry/wanqing/卷一百二十二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十九,晚晴簃詩匯·卷一百五十九,wanqing,102,JSON_LIKE,raw/poetry/wanqing/卷一百五十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十九,晚晴簃詩匯·卷九十九,wanqing,102,JSON_LIKE,raw/poetry/wanqing/卷九十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十一,晚晴簃詩匯·卷二十一,wanqing,102,JSON_LIKE,raw/poetry/wanqing/卷二十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百一,晚晴簃詩匯·卷一百一,wanqing,101,JSON_LIKE,raw/poetry/wanqing/卷一百一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十一,晚晴簃詩匯·卷一百三十一,wanqing,101,JSON_LIKE,raw/poetry/wanqing/卷一百三十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十二,晚晴簃詩匯·卷五十二,wanqing,101,JSON_LIKE,raw/poetry/wanqing/卷五十二.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-047,明詩綜·卷047,mingshi,100,JSON_LIKE,raw/poetry/mingshi/卷047.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十九,晚晴簃詩匯·卷一百四十九,wanqing,100,JSON_LIKE,raw/poetry/wanqing/卷一百四十九.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-067,明詩綜·卷067,mingshi,99,JSON_LIKE,raw/poetry/mingshi/卷067.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十六,晚晴簃詩匯·卷一百三十六,wanqing,99,JSON_LIKE,raw/poetry/wanqing/卷一百三十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十二,晚晴簃詩匯·卷一百十二,wanqing,99,JSON_LIKE,raw/poetry/wanqing/卷一百十二.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十五,晚晴簃詩匯·卷九十五,wanqing,99,JSON_LIKE,raw/poetry/wanqing/卷九十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十八,晚晴簃詩匯·卷二十八,wanqing,99,JSON_LIKE,raw/poetry/wanqing/卷二十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十一,晚晴簃詩匯·卷五十一,wanqing,99,JSON_LIKE,raw/poetry/wanqing/卷五十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十五,晚晴簃詩匯·卷八十五,wanqing,99,JSON_LIKE,raw/poetry/wanqing/卷八十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十七,晚晴簃詩匯·卷六十七,wanqing,99,JSON_LIKE,raw/poetry/wanqing/卷六十七.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-090,古詩紀·卷090,gushiji,98,JSON_LIKE,raw/poetry/gushiji/卷090.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-046,明詩綜·卷046,mingshi,98,JSON_LIKE,raw/poetry/mingshi/卷046.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十一,晚晴簃詩匯·卷八十一,wanqing,98,JSON_LIKE,raw/poetry/wanqing/卷八十一.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-073,明詩綜·卷073,mingshi,97,JSON_LIKE,raw/poetry/mingshi/卷073.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百,晚晴簃詩匯·卷一百,wanqing,97,JSON_LIKE,raw/poetry/wanqing/卷一百.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十四,晚晴簃詩匯·卷一百三十四,wanqing,97,JSON_LIKE,raw/poetry/wanqing/卷一百三十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百十八,晚晴簃詩匯·卷一百十八,wanqing,97,JSON_LIKE,raw/poetry/wanqing/卷一百十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十六,晚晴簃詩匯·卷一百四十六,wanqing,97,JSON_LIKE,raw/poetry/wanqing/卷一百四十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十三,晚晴簃詩匯·卷五十三,wanqing,97,JSON_LIKE,raw/poetry/wanqing/卷五十三.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-011,明詩綜·卷011,mingshi,96,JSON_LIKE,raw/poetry/mingshi/卷011.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-041,明詩綜·卷041,mingshi,96,JSON_LIKE,raw/poetry/mingshi/卷041.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十七,晚晴簃詩匯·卷一百二十七,wanqing,96,JSON_LIKE,raw/poetry/wanqing/卷一百二十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十六,晚晴簃詩匯·卷八十六,wanqing,96,JSON_LIKE,raw/poetry/wanqing/卷八十六.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-024,明詩綜·卷024,mingshi,95,JSON_LIKE,raw/poetry/mingshi/卷024.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十一,晚晴簃詩匯·卷七十一,wanqing,95,JSON_LIKE,raw/poetry/wanqing/卷七十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十三,晚晴簃詩匯·卷七十三,wanqing,95,JSON_LIKE,raw/poetry/wanqing/卷七十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十三,晚晴簃詩匯·卷十三,wanqing,95,JSON_LIKE,raw/poetry/wanqing/卷十三.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-033,明詩綜·卷033,mingshi,94,JSON_LIKE,raw/poetry/mingshi/卷033.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-091,明詩綜·卷091,mingshi,94,JSON_LIKE,raw/poetry/mingshi/卷091.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十四,晚晴簃詩匯·卷一百二十四,wanqing,94,JSON_LIKE,raw/poetry/wanqing/卷一百二十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十,晚晴簃詩匯·卷一百六十,wanqing,94,JSON_LIKE,raw/poetry/wanqing/卷一百六十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十七,晚晴簃詩匯·卷九十七,wanqing,94,JSON_LIKE,raw/poetry/wanqing/卷九十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十九,晚晴簃詩匯·卷六十九,wanqing,93,JSON_LIKE,raw/poetry/wanqing/卷六十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十四,晚晴簃詩匯·卷一百九十四,wanqing,92,JSON_LIKE,raw/poetry/wanqing/卷一百九十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十七,晚晴簃詩匯·卷一百五十七,wanqing,92,JSON_LIKE,raw/poetry/wanqing/卷一百五十七.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百八十,晚晴簃詩匯·卷一百八十,wanqing,92,JSON_LIKE,raw/poetry/wanqing/卷一百八十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十四,晚晴簃詩匯·卷八十四,wanqing,92,JSON_LIKE,raw/poetry/wanqing/卷八十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十六,晚晴簃詩匯·卷六十六,wanqing,92,JSON_LIKE,raw/poetry/wanqing/卷六十六.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-013,明詩綜·卷013,mingshi,91,JSON_LIKE,raw/poetry/mingshi/卷013.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-054,明詩綜·卷054,mingshi,91,JSON_LIKE,raw/poetry/mingshi/卷054.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-068,明詩綜·卷068,mingshi,91,JSON_LIKE,raw/poetry/mingshi/卷068.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十,晚晴簃詩匯·卷二十,wanqing,91,JSON_LIKE,raw/poetry/wanqing/卷二十.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-070,明詩綜·卷070,mingshi,90,JSON_LIKE,raw/poetry/mingshi/卷070.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-094,明詩綜·卷094,mingshi,90,JSON_LIKE,raw/poetry/mingshi/卷094.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十八,晚晴簃詩匯·卷八十八,wanqing,90,JSON_LIKE,raw/poetry/wanqing/卷八十八.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十八,晚晴簃詩匯·卷十八,wanqing,90,JSON_LIKE,raw/poetry/wanqing/卷十八.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-044,明詩綜·卷044,mingshi,89,JSON_LIKE,raw/poetry/mingshi/卷044.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-022,明詩綜·卷022,mingshi,88,JSON_LIKE,raw/poetry/mingshi/卷022.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-025,明詩綜·卷025,mingshi,88,JSON_LIKE,raw/poetry/mingshi/卷025.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-045,明詩綜·卷045,mingshi,88,JSON_LIKE,raw/poetry/mingshi/卷045.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-079,明詩綜·卷079,mingshi,88,JSON_LIKE,raw/poetry/mingshi/卷079.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十九,晚晴簃詩匯·卷一百六十九,wanqing,88,JSON_LIKE,raw/poetry/wanqing/卷一百六十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五十六,晚晴簃詩匯·卷五十六,wanqing,88,JSON_LIKE,raw/poetry/wanqing/卷五十六.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-018,明詩綜·卷018,mingshi,87,JSON_LIKE,raw/poetry/mingshi/卷018.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-027,明詩綜·卷027,mingshi,87,JSON_LIKE,raw/poetry/mingshi/卷027.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-039,明詩綜·卷039,mingshi,87,JSON_LIKE,raw/poetry/mingshi/卷039.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-040,明詩綜·卷040,mingshi,87,JSON_LIKE,raw/poetry/mingshi/卷040.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-059,明詩綜·卷059,mingshi,87,JSON_LIKE,raw/poetry/mingshi/卷059.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十,晚晴簃詩匯·卷一百二十,wanqing,87,JSON_LIKE,raw/poetry/wanqing/卷一百二十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百八十一,晚晴簃詩匯·卷一百八十一,wanqing,87,JSON_LIKE,raw/poetry/wanqing/卷一百八十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百八十九,晚晴簃詩匯·卷一百八十九,wanqing,87,JSON_LIKE,raw/poetry/wanqing/卷一百八十九.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十一,晚晴簃詩匯·卷一百六十一,wanqing,87,JSON_LIKE,raw/poetry/wanqing/卷一百六十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九十一,晚晴簃詩匯·卷九十一,wanqing,87,JSON_LIKE,raw/poetry/wanqing/卷九十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十一,晚晴簃詩匯·卷六十一,wanqing,87,JSON_LIKE,raw/poetry/wanqing/卷六十一.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-010,明詩綜·卷010,mingshi,86,JSON_LIKE,raw/poetry/mingshi/卷010.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-037,明詩綜·卷037,mingshi,86,JSON_LIKE,raw/poetry/mingshi/卷037.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十五,晚晴簃詩匯·卷一百四十五,wanqing,86,JSON_LIKE,raw/poetry/wanqing/卷一百四十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十五,晚晴簃詩匯·卷六十五,wanqing,86,JSON_LIKE,raw/poetry/wanqing/卷六十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十二,晚晴簃詩匯·卷四十二,wanqing,86,JSON_LIKE,raw/poetry/wanqing/卷四十二.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-026,明詩綜·卷026,mingshi,85,JSON_LIKE,raw/poetry/mingshi/卷026.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-029,明詩綜·卷029,mingshi,85,JSON_LIKE,raw/poetry/mingshi/卷029.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-051,明詩綜·卷051,mingshi,85,JSON_LIKE,raw/poetry/mingshi/卷051.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-074,明詩綜·卷074,mingshi,85,JSON_LIKE,raw/poetry/mingshi/卷074.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-090,明詩綜·卷090,mingshi,85,JSON_LIKE,raw/poetry/mingshi/卷090.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十三,晚晴簃詩匯·卷一百五十三,wanqing,85,JSON_LIKE,raw/poetry/wanqing/卷一百五十三.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-015,明詩綜·卷015,mingshi,84,JSON_LIKE,raw/poetry/mingshi/卷015.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十三,晚晴簃詩匯·卷八十三,wanqing,84,JSON_LIKE,raw/poetry/wanqing/卷八十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十一,晚晴簃詩匯·卷十一,wanqing,84,JSON_LIKE,raw/poetry/wanqing/卷十一.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-057,明詩綜·卷057,mingshi,83,JSON_LIKE,raw/poetry/mingshi/卷057.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六十,晚晴簃詩匯·卷六十,wanqing,83,JSON_LIKE,raw/poetry/wanqing/卷六十.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十五,晚晴簃詩匯·卷四十五,wanqing,83,JSON_LIKE,raw/poetry/wanqing/卷四十五.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-084,古詩紀·卷084,gushiji,82,JSON_LIKE,raw/poetry/gushiji/卷084.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-056,明詩綜·卷056,mingshi,82,JSON_LIKE,raw/poetry/mingshi/卷056.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-062,明詩綜·卷062,mingshi,82,JSON_LIKE,raw/poetry/mingshi/卷062.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六,晚晴簃詩匯·卷一百六,wanqing,82,JSON_LIKE,raw/poetry/wanqing/卷一百六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十六,晚晴簃詩匯·卷一百六十六,wanqing,82,JSON_LIKE,raw/poetry/wanqing/卷一百六十六.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-036,明詩綜·卷036,mingshi,81,JSON_LIKE,raw/poetry/mingshi/卷036.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十四,晚晴簃詩匯·卷四十四,wanqing,81,JSON_LIKE,raw/poetry/wanqing/卷四十四.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-097,古詩紀·卷097,gushiji,80,JSON_LIKE,raw/poetry/gushiji/卷097.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百三十五,晚晴簃詩匯·卷一百三十五,wanqing,80,JSON_LIKE,raw/poetry/wanqing/卷一百三十五.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百九十三,晚晴簃詩匯·卷一百九十三,wanqing,80,JSON_LIKE,raw/poetry/wanqing/卷一百九十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十三,晚晴簃詩匯·卷一百六十三,wanqing,80,JSON_LIKE,raw/poetry/wanqing/卷一百六十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十二,晚晴簃詩匯·卷一百四十二,wanqing,80,JSON_LIKE,raw/poetry/wanqing/卷一百四十二.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-073,古詩紀·卷073,gushiji,79,JSON_LIKE,raw/poetry/gushiji/卷073.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-098,古詩紀·卷098,gushiji,78,JSON_LIKE,raw/poetry/gushiji/卷098.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-104,古詩紀·卷104,gushiji,78,JSON_LIKE,raw/poetry/gushiji/卷104.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百七十一,晚晴簃詩匯·卷一百七十一,wanqing,78,JSON_LIKE,raw/poetry/wanqing/卷一百七十一.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-六,晚晴簃詩匯·卷六,wanqing,78,JSON_LIKE,raw/poetry/wanqing/卷六.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-116,古詩紀·卷116,gushiji,77,JSON_LIKE,raw/poetry/gushiji/卷116.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-005,明詩綜·卷005,mingshi,76,JSON_LIKE,raw/poetry/mingshi/卷005.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-032,明詩綜·卷032,mingshi,76,JSON_LIKE,raw/poetry/mingshi/卷032.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-089,明詩綜·卷089,mingshi,76,JSON_LIKE,raw/poetry/mingshi/卷089.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-042,明詩綜·卷042,mingshi,75,JSON_LIKE,raw/poetry/mingshi/卷042.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百四十七,晚晴簃詩匯·卷一百四十七,wanqing,75,JSON_LIKE,raw/poetry/wanqing/卷一百四十七.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-077,古詩紀·卷077,gushiji,74,JSON_LIKE,raw/poetry/gushiji/卷077.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-004,明詩綜·卷004,mingshi,74,JSON_LIKE,raw/poetry/mingshi/卷004.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七十六,晚晴簃詩匯·卷七十六,wanqing,74,JSON_LIKE,raw/poetry/wanqing/卷七十六.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-032,古詩紀·卷032,gushiji,73,JSON_LIKE,raw/poetry/gushiji/卷032.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-121,古詩紀·卷121,gushiji,73,JSON_LIKE,raw/poetry/gushiji/卷121.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-072,明詩綜·卷072,mingshi,73,JSON_LIKE,raw/poetry/mingshi/卷072.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八十二,晚晴簃詩匯·卷八十二,wanqing,73,JSON_LIKE,raw/poetry/wanqing/卷八十二.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-103,古詩紀·卷103,gushiji,72,JSON_LIKE,raw/poetry/gushiji/卷103.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-120,古詩紀·卷120,gushiji,72,JSON_LIKE,raw/poetry/gushiji/卷120.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-065,古詩紀·卷065,gushiji,68,JSON_LIKE,raw/poetry/gushiji/卷065.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-038,明詩綜·卷038,mingshi,68,JSON_LIKE,raw/poetry/mingshi/卷038.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-064,明詩綜·卷064,mingshi,68,JSON_LIKE,raw/poetry/mingshi/卷064.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-063,明詩綜·卷063,mingshi,67,JSON_LIKE,raw/poetry/mingshi/卷063.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四十三,晚晴簃詩匯·卷四十三,wanqing,67,JSON_LIKE,raw/poetry/wanqing/卷四十三.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-021,明詩綜·卷021,mingshi,66,JSON_LIKE,raw/poetry/mingshi/卷021.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百五十六,晚晴簃詩匯·卷一百五十六,wanqing,66,JSON_LIKE,raw/poetry/wanqing/卷一百五十六.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三十,晚晴簃詩匯·卷三十,wanqing,66,JSON_LIKE,raw/poetry/wanqing/卷三十.json,FILE_LOCATOR,FILE_USABLE
+CP-CHUCI,楚辞,chuci,65,JSON_LIKE,raw/poetry/chuci/chuci.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-010,古詩紀·卷010,gushiji,65,JSON_LIKE,raw/poetry/gushiji/卷010.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-078,古詩紀·卷078,gushiji,65,JSON_LIKE,raw/poetry/gushiji/卷078.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-081,古詩紀·卷081,gushiji,65,JSON_LIKE,raw/poetry/gushiji/卷081.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-117,古詩紀·卷117,gushiji,65,JSON_LIKE,raw/poetry/gushiji/卷117.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-003,明詩綜·卷003,mingshi,65,JSON_LIKE,raw/poetry/mingshi/卷003.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-008,明詩綜·卷008,mingshi,65,JSON_LIKE,raw/poetry/mingshi/卷008.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-035,明詩綜·卷035,mingshi,65,JSON_LIKE,raw/poetry/mingshi/卷035.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-085,明詩綜·卷085,mingshi,65,JSON_LIKE,raw/poetry/mingshi/卷085.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-095,明詩綜·卷095,mingshi,65,JSON_LIKE,raw/poetry/mingshi/卷095.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百二十三,晚晴簃詩匯·卷一百二十三,wanqing,65,JSON_LIKE,raw/poetry/wanqing/卷一百二十三.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-151,古詩紀·卷151,gushiji,64,JSON_LIKE,raw/poetry/gushiji/卷151.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-017,明詩綜·卷017,mingshi,64,JSON_LIKE,raw/poetry/mingshi/卷017.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-031,明詩綜·卷031,mingshi,64,JSON_LIKE,raw/poetry/mingshi/卷031.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-020,明詩綜·卷020,mingshi,63,JSON_LIKE,raw/poetry/mingshi/卷020.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-067,古詩紀·卷067,gushiji,62,JSON_LIKE,raw/poetry/gushiji/卷067.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-002,明詩綜·卷002,mingshi,62,JSON_LIKE,raw/poetry/mingshi/卷002.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-016,明詩綜·卷016,mingshi,61,JSON_LIKE,raw/poetry/mingshi/卷016.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-034,明詩綜·卷034,mingshi,61,JSON_LIKE,raw/poetry/mingshi/卷034.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-115,古詩紀·卷115,gushiji,59,JSON_LIKE,raw/poetry/gushiji/卷115.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-153,古詩紀·卷153,gushiji,59,JSON_LIKE,raw/poetry/gushiji/卷153.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-096,明詩綜·卷096,mingshi,59,JSON_LIKE,raw/poetry/mingshi/卷096.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-049,古詩紀·卷049,gushiji,58,JSON_LIKE,raw/poetry/gushiji/卷049.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-080,古詩紀·卷080,gushiji,58,JSON_LIKE,raw/poetry/gushiji/卷080.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-136,古詩紀·卷136,gushiji,58,JSON_LIKE,raw/poetry/gushiji/卷136.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-006,明詩綜·卷006,mingshi,58,JSON_LIKE,raw/poetry/mingshi/卷006.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-071,明詩綜·卷071,mingshi,58,JSON_LIKE,raw/poetry/mingshi/卷071.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-076,明詩綜·卷076,mingshi,58,JSON_LIKE,raw/poetry/mingshi/卷076.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-九,晚晴簃詩匯·卷九,wanqing,58,JSON_LIKE,raw/poetry/wanqing/卷九.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-091,古詩紀·卷091,gushiji,57,JSON_LIKE,raw/poetry/gushiji/卷091.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-139,古詩紀·卷139,gushiji,57,JSON_LIKE,raw/poetry/gushiji/卷139.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-018,古詩紀·卷018,gushiji,56,JSON_LIKE,raw/poetry/gushiji/卷018.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-108,古詩紀·卷108,gushiji,56,JSON_LIKE,raw/poetry/gushiji/卷108.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-三,晚晴簃詩匯·卷三,wanqing,56,JSON_LIKE,raw/poetry/wanqing/卷三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-五,晚晴簃詩匯·卷五,wanqing,56,JSON_LIKE,raw/poetry/wanqing/卷五.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-088,古詩紀·卷088,gushiji,55,JSON_LIKE,raw/poetry/gushiji/卷088.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-007,明詩綜·卷007,mingshi,55,JSON_LIKE,raw/poetry/mingshi/卷007.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-099,古詩紀·卷099,gushiji,54,JSON_LIKE,raw/poetry/gushiji/卷099.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百七十三,晚晴簃詩匯·卷一百七十三,wanqing,54,JSON_LIKE,raw/poetry/wanqing/卷一百七十三.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-八,晚晴簃詩匯·卷八,wanqing,54,JSON_LIKE,raw/poetry/wanqing/卷八.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-094,古詩紀·卷094,gushiji,53,JSON_LIKE,raw/poetry/gushiji/卷094.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-066,明詩綜·卷066,mingshi,53,JSON_LIKE,raw/poetry/mingshi/卷066.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百六十二,晚晴簃詩匯·卷一百六十二,wanqing,53,JSON_LIKE,raw/poetry/wanqing/卷一百六十二.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-093,古詩紀·卷093,gushiji,52,JSON_LIKE,raw/poetry/gushiji/卷093.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-123,古詩紀·卷123,gushiji,52,JSON_LIKE,raw/poetry/gushiji/卷123.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-075,明詩綜·卷075,mingshi,52,JSON_LIKE,raw/poetry/mingshi/卷075.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-055,古詩紀·卷055,gushiji,51,JSON_LIKE,raw/poetry/gushiji/卷055.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-058,古詩紀·卷058,gushiji,51,JSON_LIKE,raw/poetry/gushiji/卷058.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-080,明詩綜·卷080,mingshi,51,JSON_LIKE,raw/poetry/mingshi/卷080.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-088,明詩綜·卷088,mingshi,51,JSON_LIKE,raw/poetry/mingshi/卷088.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-01,花间集 卷1,huajianji,50,JSON_LIKE,raw/poetry/huajianji/huajianji-1-juan.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-02,花间集 卷2,huajianji,50,JSON_LIKE,raw/poetry/huajianji/huajianji-2-juan.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-03,花间集 卷3,huajianji,50,JSON_LIKE,raw/poetry/huajianji/huajianji-3-juan.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-04,花间集 卷4,huajianji,50,JSON_LIKE,raw/poetry/huajianji/huajianji-4-juan.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-06,花间集 卷6,huajianji,50,JSON_LIKE,raw/poetry/huajianji/huajianji-6-juan.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-07,花间集 卷7,huajianji,50,JSON_LIKE,raw/poetry/huajianji/huajianji-7-juan.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-08,花间集 卷8,huajianji,50,JSON_LIKE,raw/poetry/huajianji/huajianji-8-juan.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-10,花间集 卷10,huajianji,50,JSON_LIKE,raw/poetry/huajianji/huajianji-x-juan.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-027,古詩紀·卷027,gushiji,50,JSON_LIKE,raw/poetry/gushiji/卷027.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-023,明詩綜·卷023,mingshi,50,JSON_LIKE,raw/poetry/mingshi/卷023.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-083,明詩綜·卷083,mingshi,50,JSON_LIKE,raw/poetry/mingshi/卷083.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-084,明詩綜·卷084,mingshi,50,JSON_LIKE,raw/poetry/mingshi/卷084.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-七,晚晴簃詩匯·卷七,wanqing,50,JSON_LIKE,raw/poetry/wanqing/卷七.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-30,昭明文選·卷30（詩類）,wenxuan,50,JSON_LIKE,raw/poetry/wenxuan/卷30.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-09,花间集 卷9,huajianji,49,JSON_LIKE,raw/poetry/huajianji/huajianji-9-juan.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-062,古詩紀·卷062,gushiji,49,JSON_LIKE,raw/poetry/gushiji/卷062.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-087,古詩紀·卷087,gushiji,49,JSON_LIKE,raw/poetry/gushiji/卷087.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-129,古詩紀·卷129,gushiji,49,JSON_LIKE,raw/poetry/gushiji/卷129.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-142,古詩紀·卷142,gushiji,49,JSON_LIKE,raw/poetry/gushiji/卷142.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十,晚晴簃詩匯·卷十,wanqing,49,JSON_LIKE,raw/poetry/wanqing/卷十.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-05,花间集 卷5,huajianji,48,JSON_LIKE,raw/poetry/huajianji/huajianji-5-juan.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-125,古詩紀·卷125,gushiji,48,JSON_LIKE,raw/poetry/gushiji/卷125.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-154,古詩紀·卷154,gushiji,48,JSON_LIKE,raw/poetry/gushiji/卷154.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-072,古詩紀·卷072,gushiji,47,JSON_LIKE,raw/poetry/gushiji/卷072.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-111,古詩紀·卷111,gushiji,47,JSON_LIKE,raw/poetry/gushiji/卷111.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-128,古詩紀·卷128,gushiji,47,JSON_LIKE,raw/poetry/gushiji/卷128.json,FILE_LOCATOR,FILE_USABLE
+WS-TAO-4,陶淵明集·卷四（詩）,tao,47,JSON_LIKE,raw/poetry/tao/卷四.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-035,古詩紀·卷035,gushiji,46,JSON_LIKE,raw/poetry/gushiji/卷035.json,FILE_LOCATOR,FILE_USABLE
+CP-NANTANG,南唐二主词,nantang,45,JSON_LIKE,raw/poetry/nantang/poetrys.json,FILE_LOCATOR,FILE_USABLE
+CP-SONGCI-22,全宋词（第 22 片）,songci,45,JSON_LIKE,raw/poetry/songci/ci.song.21000.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-022,古詩紀·卷022,gushiji,45,JSON_LIKE,raw/poetry/gushiji/卷022.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-083,古詩紀·卷083,gushiji,45,JSON_LIKE,raw/poetry/gushiji/卷083.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-102,古詩紀·卷102,gushiji,45,JSON_LIKE,raw/poetry/gushiji/卷102.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-156,古詩紀·卷156,gushiji,45,JSON_LIKE,raw/poetry/gushiji/卷156.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-050,古詩紀·卷050,gushiji,44,JSON_LIKE,raw/poetry/gushiji/卷050.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-082,古詩紀·卷082,gushiji,44,JSON_LIKE,raw/poetry/gushiji/卷082.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-040,古詩紀·卷040,gushiji,43,JSON_LIKE,raw/poetry/gushiji/卷040.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-042,古詩紀·卷042,gushiji,43,JSON_LIKE,raw/poetry/gushiji/卷042.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-056,古詩紀·卷056,gushiji,43,JSON_LIKE,raw/poetry/gushiji/卷056.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-063,古詩紀·卷063,gushiji,43,JSON_LIKE,raw/poetry/gushiji/卷063.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-096,古詩紀·卷096,gushiji,43,JSON_LIKE,raw/poetry/gushiji/卷096.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-101,古詩紀·卷101,gushiji,43,JSON_LIKE,raw/poetry/gushiji/卷101.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-060,古詩紀·卷060,gushiji,42,JSON_LIKE,raw/poetry/gushiji/卷060.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-092,古詩紀·卷092,gushiji,42,JSON_LIKE,raw/poetry/gushiji/卷092.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-113,古詩紀·卷113,gushiji,42,JSON_LIKE,raw/poetry/gushiji/卷113.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二,晚晴簃詩匯·卷二,wanqing,42,JSON_LIKE,raw/poetry/wanqing/卷二.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-005,古詩紀·卷005,gushiji,41,JSON_LIKE,raw/poetry/gushiji/卷005.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-057,古詩紀·卷057,gushiji,41,JSON_LIKE,raw/poetry/gushiji/卷057.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-064,古詩紀·卷064,gushiji,41,JSON_LIKE,raw/poetry/gushiji/卷064.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-086,古詩紀·卷086,gushiji,41,JSON_LIKE,raw/poetry/gushiji/卷086.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-112,古詩紀·卷112,gushiji,41,JSON_LIKE,raw/poetry/gushiji/卷112.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-130,古詩紀·卷130,gushiji,41,JSON_LIKE,raw/poetry/gushiji/卷130.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-133,古詩紀·卷133,gushiji,41,JSON_LIKE,raw/poetry/gushiji/卷133.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-155,古詩紀·卷155,gushiji,41,JSON_LIKE,raw/poetry/gushiji/卷155.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-29,昭明文選·卷29（詩類）,wenxuan,41,JSON_LIKE,raw/poetry/wenxuan/卷29.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-023,古詩紀·卷023,gushiji,40,JSON_LIKE,raw/poetry/gushiji/卷023.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-051,古詩紀·卷051,gushiji,40,JSON_LIKE,raw/poetry/gushiji/卷051.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-087,明詩綜·卷087,mingshi,40,JSON_LIKE,raw/poetry/mingshi/卷087.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-013,古詩紀·卷013,gushiji,39,JSON_LIKE,raw/poetry/gushiji/卷013.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-054,古詩紀·卷054,gushiji,39,JSON_LIKE,raw/poetry/gushiji/卷054.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-071,古詩紀·卷071,gushiji,39,JSON_LIKE,raw/poetry/gushiji/卷071.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-085,古詩紀·卷085,gushiji,39,JSON_LIKE,raw/poetry/gushiji/卷085.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-127,古詩紀·卷127,gushiji,39,JSON_LIKE,raw/poetry/gushiji/卷127.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-31,昭明文選·卷31（詩類）,wenxuan,39,JSON_LIKE,raw/poetry/wenxuan/卷31.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-034,古詩紀·卷034,gushiji,38,JSON_LIKE,raw/poetry/gushiji/卷034.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-095,古詩紀·卷095,gushiji,38,JSON_LIKE,raw/poetry/gushiji/卷095.json,FILE_LOCATOR,FILE_USABLE
+WS-TAO-3,陶淵明集·卷三（詩）,tao,38,JSON_LIKE,raw/poetry/tao/卷三.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-053,古詩紀·卷053,gushiji,37,JSON_LIKE,raw/poetry/gushiji/卷053.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-069,古詩紀·卷069,gushiji,37,JSON_LIKE,raw/poetry/gushiji/卷069.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-110,古詩紀·卷110,gushiji,37,JSON_LIKE,raw/poetry/gushiji/卷110.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-138,古詩紀·卷138,gushiji,37,JSON_LIKE,raw/poetry/gushiji/卷138.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-038,古詩紀·卷038,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷038.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-046,古詩紀·卷046,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷046.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-052,古詩紀·卷052,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷052.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-061,古詩紀·卷061,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷061.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-074,古詩紀·卷074,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷074.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-075,古詩紀·卷075,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷075.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-105,古詩紀·卷105,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷105.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-119,古詩紀·卷119,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷119.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-143,古詩紀·卷143,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷143.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-150,古詩紀·卷150,gushiji,36,JSON_LIKE,raw/poetry/gushiji/卷150.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-106,古詩紀·卷106,gushiji,35,JSON_LIKE,raw/poetry/gushiji/卷106.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-十九,晚晴簃詩匯·卷十九,wanqing,35,JSON_LIKE,raw/poetry/wanqing/卷十九.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-016,古詩紀·卷016,gushiji,34,JSON_LIKE,raw/poetry/gushiji/卷016.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-109,古詩紀·卷109,gushiji,34,JSON_LIKE,raw/poetry/gushiji/卷109.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-098,明詩綜·卷098,mingshi,34,JSON_LIKE,raw/poetry/mingshi/卷098.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-28,昭明文選·卷28（詩類）,wenxuan,34,JSON_LIKE,raw/poetry/wenxuan/卷28.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-015,古詩紀·卷015,gushiji,33,JSON_LIKE,raw/poetry/gushiji/卷015.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-141,古詩紀·卷141,gushiji,33,JSON_LIKE,raw/poetry/gushiji/卷141.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-078,明詩綜·卷078,mingshi,33,JSON_LIKE,raw/poetry/mingshi/卷078.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-002,古詩紀·卷002,gushiji,32,JSON_LIKE,raw/poetry/gushiji/卷002.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-134,古詩紀·卷134,gushiji,32,JSON_LIKE,raw/poetry/gushiji/卷134.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一,晚晴簃詩匯·卷一,wanqing,32,JSON_LIKE,raw/poetry/wanqing/卷一.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-024,古詩紀·卷024,gushiji,31,JSON_LIKE,raw/poetry/gushiji/卷024.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-059,古詩紀·卷059,gushiji,31,JSON_LIKE,raw/poetry/gushiji/卷059.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-089,古詩紀·卷089,gushiji,31,JSON_LIKE,raw/poetry/gushiji/卷089.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-137,古詩紀·卷137,gushiji,31,JSON_LIKE,raw/poetry/gushiji/卷137.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-26,昭明文選·卷26（詩類）,wenxuan,31,JSON_LIKE,raw/poetry/wenxuan/卷26.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-045,古詩紀·卷045,gushiji,30,JSON_LIKE,raw/poetry/gushiji/卷045.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-076,古詩紀·卷076,gushiji,30,JSON_LIKE,raw/poetry/gushiji/卷076.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-132,古詩紀·卷132,gushiji,30,JSON_LIKE,raw/poetry/gushiji/卷132.json,FILE_LOCATOR,FILE_USABLE
+WS-TAO-2,陶淵明集·卷二（詩）,tao,30,JSON_LIKE,raw/poetry/tao/卷二.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-009,古詩紀·卷009,gushiji,29,JSON_LIKE,raw/poetry/gushiji/卷009.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-100,古詩紀·卷100,gushiji,29,JSON_LIKE,raw/poetry/gushiji/卷100.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-001,古詩紀·卷001,gushiji,28,JSON_LIKE,raw/poetry/gushiji/卷001.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-033,古詩紀·卷033,gushiji,28,JSON_LIKE,raw/poetry/gushiji/卷033.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-044,古詩紀·卷044,gushiji,28,JSON_LIKE,raw/poetry/gushiji/卷044.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-135,古詩紀·卷135,gushiji,28,JSON_LIKE,raw/poetry/gushiji/卷135.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-27,昭明文選·卷27（詩類）,wenxuan,28,JSON_LIKE,raw/poetry/wenxuan/卷27.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-004,古詩紀·卷004,gushiji,27,JSON_LIKE,raw/poetry/gushiji/卷004.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-047,古詩紀·卷047,gushiji,27,JSON_LIKE,raw/poetry/gushiji/卷047.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-068,古詩紀·卷068,gushiji,27,JSON_LIKE,raw/poetry/gushiji/卷068.json,FILE_LOCATOR,FILE_USABLE
+CP-CAOCAO,曹操诗集,caocao,26,JSON_LIKE,raw/poetry/caocao/caocao.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-22,昭明文選·卷22（詩類）,wenxuan,26,JSON_LIKE,raw/poetry/wenxuan/卷22.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-114,古詩紀·卷114,gushiji,25,JSON_LIKE,raw/poetry/gushiji/卷114.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-118,古詩紀·卷118,gushiji,25,JSON_LIKE,raw/poetry/gushiji/卷118.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-四,晚晴簃詩匯·卷四,wanqing,25,JSON_LIKE,raw/poetry/wanqing/卷四.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-20,昭明文選·卷20（詩類）,wenxuan,25,JSON_LIKE,raw/poetry/wenxuan/卷20.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-006,古詩紀·卷006,gushiji,24,JSON_LIKE,raw/poetry/gushiji/卷006.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-107,古詩紀·卷107,gushiji,24,JSON_LIKE,raw/poetry/gushiji/卷107.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-126,古詩紀·卷126,gushiji,24,JSON_LIKE,raw/poetry/gushiji/卷126.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-001,明詩綜·卷001,mingshi,24,JSON_LIKE,raw/poetry/mingshi/卷001.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-一百七十四,晚晴簃詩匯·卷一百七十四,wanqing,24,JSON_LIKE,raw/poetry/wanqing/卷一百七十四.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-24,昭明文選·卷24（詩類）,wenxuan,24,JSON_LIKE,raw/poetry/wenxuan/卷24.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-028,古詩紀·卷028,gushiji,23,JSON_LIKE,raw/poetry/gushiji/卷028.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-031,古詩紀·卷031,gushiji,23,JSON_LIKE,raw/poetry/gushiji/卷031.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-149,古詩紀·卷149,gushiji,23,JSON_LIKE,raw/poetry/gushiji/卷149.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-012,古詩紀·卷012,gushiji,22,JSON_LIKE,raw/poetry/gushiji/卷012.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-030,古詩紀·卷030,gushiji,22,JSON_LIKE,raw/poetry/gushiji/卷030.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-131,古詩紀·卷131,gushiji,22,JSON_LIKE,raw/poetry/gushiji/卷131.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-099,明詩綜·卷099,mingshi,22,JSON_LIKE,raw/poetry/mingshi/卷099.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-039,古詩紀·卷039,gushiji,21,JSON_LIKE,raw/poetry/gushiji/卷039.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-041,古詩紀·卷041,gushiji,21,JSON_LIKE,raw/poetry/gushiji/卷041.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-070,古詩紀·卷070,gushiji,21,JSON_LIKE,raw/poetry/gushiji/卷070.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-097,明詩綜·卷097,mingshi,20,JSON_LIKE,raw/poetry/mingshi/卷097.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-043,古詩紀·卷043,gushiji,19,JSON_LIKE,raw/poetry/gushiji/卷043.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-029,古詩紀·卷029,gushiji,18,JSON_LIKE,raw/poetry/gushiji/卷029.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-122,古詩紀·卷122,gushiji,18,JSON_LIKE,raw/poetry/gushiji/卷122.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-147,古詩紀·卷147,gushiji,18,JSON_LIKE,raw/poetry/gushiji/卷147.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-148,古詩紀·卷148,gushiji,18,JSON_LIKE,raw/poetry/gushiji/卷148.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-077,明詩綜·卷077,mingshi,18,JSON_LIKE,raw/poetry/mingshi/卷077.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-23,昭明文選·卷23（詩類）,wenxuan,18,JSON_LIKE,raw/poetry/wenxuan/卷23.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-003,古詩紀·卷003,gushiji,17,JSON_LIKE,raw/poetry/gushiji/卷003.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-011,古詩紀·卷011,gushiji,17,JSON_LIKE,raw/poetry/gushiji/卷011.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-014,古詩紀·卷014,gushiji,17,JSON_LIKE,raw/poetry/gushiji/卷014.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-021,古詩紀·卷021,gushiji,17,JSON_LIKE,raw/poetry/gushiji/卷021.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-026,古詩紀·卷026,gushiji,17,JSON_LIKE,raw/poetry/gushiji/卷026.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-037,古詩紀·卷037,gushiji,17,JSON_LIKE,raw/poetry/gushiji/卷037.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-048,古詩紀·卷048,gushiji,17,JSON_LIKE,raw/poetry/gushiji/卷048.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-21,昭明文選·卷21（詩類）,wenxuan,17,JSON_LIKE,raw/poetry/wenxuan/卷21.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-017,古詩紀·卷017,gushiji,16,JSON_LIKE,raw/poetry/gushiji/卷017.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-020,古詩紀·卷020,gushiji,16,JSON_LIKE,raw/poetry/gushiji/卷020.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-140,古詩紀·卷140,gushiji,16,JSON_LIKE,raw/poetry/gushiji/卷140.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-144,古詩紀·卷144,gushiji,16,JSON_LIKE,raw/poetry/gushiji/卷144.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-25,昭明文選·卷25（詩類）,wenxuan,16,JSON_LIKE,raw/poetry/wenxuan/卷25.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-066,古詩紀·卷066,gushiji,15,JSON_LIKE,raw/poetry/gushiji/卷066.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-145,古詩紀·卷145,gushiji,15,JSON_LIKE,raw/poetry/gushiji/卷145.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-025,古詩紀·卷025,gushiji,14,JSON_LIKE,raw/poetry/gushiji/卷025.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-008,古詩紀·卷008,gushiji,13,JSON_LIKE,raw/poetry/gushiji/卷008.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-019,古詩紀·卷019,gushiji,13,JSON_LIKE,raw/poetry/gushiji/卷019.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-036,古詩紀·卷036,gushiji,12,JSON_LIKE,raw/poetry/gushiji/卷036.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-124,古詩紀·卷124,gushiji,12,JSON_LIKE,raw/poetry/gushiji/卷124.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-081,明詩綜·卷081,mingshi,11,JSON_LIKE,raw/poetry/mingshi/卷081.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-007,古詩紀·卷007,gushiji,9,JSON_LIKE,raw/poetry/gushiji/卷007.json,FILE_LOCATOR,FILE_USABLE
+WS-TAO-1,陶淵明集·卷一（詩）,tao,9,JSON_LIKE,raw/poetry/tao/卷一.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-086,明詩綜·卷086,mingshi,8,JSON_LIKE,raw/poetry/mingshi/卷086.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-093,明詩綜·卷093,mingshi,8,JSON_LIKE,raw/poetry/mingshi/卷093.json,FILE_LOCATOR,FILE_USABLE
+WS-WENXUAN-19,昭明文選·卷19（詩類）,wenxuan,8,JSON_LIKE,raw/poetry/wenxuan/卷19.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-082,明詩綜·卷082,mingshi,7,JSON_LIKE,raw/poetry/mingshi/卷082.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-146,古詩紀·卷146,gushiji,6,JSON_LIKE,raw/poetry/gushiji/卷146.json,FILE_LOCATOR,FILE_USABLE
+WS-MINGSHI-092,明詩綜·卷092,mingshi,5,JSON_LIKE,raw/poetry/mingshi/卷092.json,FILE_LOCATOR,FILE_USABLE
+WS-ZHONGZHOU-首,中州集·卷首,zhongzhou,3,JSON_LIKE,raw/poetry/zhongzhou/卷首.json,FILE_LOCATOR,FILE_USABLE
+CP-HUAJIAN-PRE,花间集 序,huajianji,1,JSON_LIKE,raw/poetry/huajianji/huajianji-0-preface.json,FILE_LOCATOR,FILE_USABLE
+WS-GUSHIJI-152,古詩紀·卷152,gushiji,1,JSON_LIKE,raw/poetry/gushiji/卷152.json,FILE_LOCATOR,FILE_USABLE
+WS-WANQING-二十九,晚晴簃詩匯·卷二十九,wanqing,1,JSON_LIKE,raw/poetry/wanqing/卷二十九.json,FILE_LOCATOR,FILE_USABLE

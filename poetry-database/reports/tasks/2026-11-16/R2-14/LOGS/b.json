@@ -1,0 +1,16 @@
+{
+ "trace": {
+  "SOURCE_NOT_INDEXABLE": 53,
+  "NOT_FOUND": 257,
+  "INDEX_VERIFIED": 29
+ },
+ "collation": {
+  "EXACT": 29
+ },
+ "n53": {
+  "UNRESOLVED": 33,
+  "ANNOTATION_BOUNDARY_UNKNOWN": 16,
+  "BRACKET_UNBALANCED": 2,
+  "BODY_VARIANT_AMBIGUOUS": 2
+ }
+}

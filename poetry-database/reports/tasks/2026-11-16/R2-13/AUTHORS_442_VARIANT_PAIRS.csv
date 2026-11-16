@@ -1,0 +1,477 @@
+﻿pair_id,simplified_name,traditional_name,n_works_simp,n_works_trad,dynasty_simp,dynasty_trad,canonical_values,text_overlap_evidence,verdict,evidence,note
+C1-0001,陆游,陸游,144,9269,宋(144),宋(9269),陆游(9413),前30字:4|全文:4|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 4 / 全文相同 4 / 同题 0,canonical 已统一
+C1-0002,刘克庄,劉克莊,269,4553,宋(269),宋(4553),刘克庄(4822),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0003,杨万里,楊萬里,8,4284,宋(8),宋(4284),杨万里(4292),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0004,无名氏,無名氏,3254,747,元(1875),唐(527),无名氏(4001),前30字:1|全文:1|同题:6,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 1 / 同题 6,canonical 已统一
+C1-0005,苏轼,蘇軾,356,2811,宋(356),宋(2811),苏轼(3167),前30字:3|全文:2|同题:1,SAME_PERSON_CONFIRMED,文本重合：前30字同 3 / 全文相同 2 / 同题 1,canonical 已统一
+C1-0006,梅尧臣,梅堯臣,2,2931,宋(2931),宋(2),梅尧臣(2933),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0007,韩淲,韓淲,197,2623,宋(2623),宋(197),韩淲(2820),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0008,黄庭坚,黄庭堅,191,2198,宋(191),宋(2198),黄庭坚(2389),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0009,张耒,張耒,9,2261,宋(9),宋(2261),张耒(2270),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0010,陈造,陳造,10,2039,宋(10),宋(2039),陈造(2049),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0011,苏辙,蘇轍,4,1854,宋(4),宋(1854),苏辙(1858),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0012,刘敞,劉敞,2,1727,宋(2),宋(1727),刘敞(1729),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0013,李纲,李綱,54,1608,宋(1608),宋(54),李纲(1662),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0014,曹勋,曹勛,183,1326,宋(183),宋(1326),曹勋(183);曹勛(1326),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0015,吕本中,呂本中,27,1342,宋(27),宋(1342),吕本中(1369),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0016,陈著,陳著,121,1248,宋(121),宋(1248),陈著(1369),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0017,司马光,司馬光,3,1257,宋(1257),宋(3),司马光(1260),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0018,楼钥,樓鑰,4,1243,宋(4),宋(1243),楼钥(1247),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0019,欧阳修,歐陽修,242,951,宋(242),宋(951),欧阳修(1193),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0020,韦骧,韋驤,11,1164,宋(1164),宋(11),韦骧(1175),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0021,吴芾,吳芾,1,1149,宋(1149),宋(1),吴芾(1150),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0022,張鎡,张鎡,1045,51,宋(51),宋(1045),张镃(1096),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0023,韩维,韓維,6,1018,宋(1018),宋(6),韩维(1024),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0024,戴复古,戴復古,46,953,宋(46),宋(953),戴复古(999),前30字:2|全文:2|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 2 / 全文相同 2 / 同题 0,canonical 已统一
+C1-0025,邹浩,鄒浩,2,979,宋(2),宋(979),邹浩(981),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0026,贺铸,賀鑄,281,602,宋(602),宋(281),贺铸(883),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0027,李之仪,李之儀,96,754,宋(96),宋(754),李之仪(850),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0028,晁补之,晁補之,167,650,宋(167),宋(650),晁补之(817),前30字:0|全文:0|同题:1,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0029,程公许,程公許,3,809,宋(809),宋(3),程公许(812),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0030,仇远,仇遠,120,659,宋(120),宋(659),仇远(779),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0031,李弥逊,李彌遜,82,693,宋(82),宋(693),李弥逊(775),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0032,陈师道,陳師道,54,709,宋(54),宋(709),陈师道(763),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0033,徐积,徐積,6,744,宋(6),宋(744),徐积(750),前30字:4|全文:4|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 4 / 全文相同 4 / 同题 0,canonical 已统一
+C1-0034,韩琦,韓琦,5,736,宋(736),宋(5),韩琦(741),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0035,孙觌,孫覿,1,722,宋(1),宋(722),孙觌(723),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0036,葛胜仲,葛勝仲,82,641,宋(641),宋(82),葛胜仲(723),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0037,韩元吉,韓元吉,82,606,宋(606),宋(82),韩元吉(688),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0038,郑刚中,鄭剛中,1,679,宋(1),宋(679),郑刚中(680),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0039,劉子翬,刘子翬,670,4,宋(4),宋(670),刘子翚(674),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0040,陈与义,陳與義,18,643,宋(18),宋(643),陈与义(661),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0041,李流谦,李流謙,25,633,宋(633),宋(25),李流谦(658),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0042,张孝祥,張孝祥,224,423,宋(224),宋(423),张孝祥(647),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0043,刘辰翁,劉辰翁,354,214,宋(354),宋(214),刘辰翁(568),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0044,秦观,秦觀,89,467,宋(467),宋(89),秦观(556),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0045,何梦桂,何夢桂,47,482,宋(482),宋(47),何梦桂(529),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0046,吴潜,吳潛,256,268,宋(268),宋(256),吴潜(524),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0047,王质,王質,74,436,宋(435),宋(74),王质(510),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0048,杨亿,楊億,1,506,宋(1),宋(506),杨亿(507),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0049,温庭筠,溫庭筠,66,434,五代(66),唐(434),温庭筠(500),前30字:20|全文:13|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 20 / 全文相同 13 / 同题 0,canonical 已统一
+C1-0050,王迈,王邁,19,475,宋(19),宋(475),王迈(494),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0051,曾巩,曾鞏,1,453,宋(1),宋(453),曾巩(454),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0052,文彦博,文彥博,1,451,宋(451),宋(1),文彦博(452),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0053,刘弇,劉弇,8,439,宋(8),宋(439),刘弇(447),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0054,韩愈,韓愈,1,442,唐(442),唐(1),韩愈(443),前30字:1|全文:0|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 0 / 同题 0,canonical 已统一
+C1-0055,郑獬,鄭獬,3,437,宋(3),宋(437),郑獬(440),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0056,张元干,張元幹,185,252,宋(185),宋(252),张元干(437),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0057,韦庄,韋莊,49,380,唐(380),五代(48),韦庄(429),前30字:22|全文:16|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 22 / 全文相同 16 / 同题 0,canonical 已统一
+C1-0058,韩驹,韓駒,2,421,宋(421),宋(2),韩驹(423),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0059,张侃,張侃,4,414,宋(4),宋(414),张侃(418),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0060,华岳,華岳,18,391,宋(18),宋(391),华岳(409),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0061,陈渊,陳淵,58,351,宋(58),宋(351),陈渊(409),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0062,卫宗武,衛宗武,11,394,宋(11),宋(394),卫宗武(405),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0063,范纯仁,范純仁,1,398,宋(398),宋(1),范纯仁(399),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0064,叶适,葉適,1,395,宋(1),宋(395),叶适(396),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0065,權德輿,權德舆,352,44,唐(44),唐(352),权德舆(396),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0066,刘一止,劉一止,42,322,宋(42),宋(322),刘一止(364),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0067,吕南公,呂南公,2,359,宋(2),宋(359),吕南公(361),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0068,陈允平,陳允平,209,149,宋(209),宋(149),陈允平(358),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0069,郑清之,鄭清之,1,356,宋(1),宋(356),郑清之(357),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0070,吴则礼,吳則禮,39,317,宋(317),宋(39),吴则礼(356),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0071,赵鼎,趙鼎,45,298,宋(45),宋(298),赵鼎(343),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0072,吕岩,呂巖,15,327,宋(15),唐(327),吕岩(342),前30字:4|全文:1|同题:7,SAME_PERSON_CONFIRMED,文本重合：前30字同 4 / 全文相同 1 / 同题 7,canonical 已统一
+C1-0073,吴泳,吳泳,37,289,宋(289),宋(37),吴泳(326),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0074,沈与求,沈與求,4,315,宋(4),宋(315),沈与求(319),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0075,谢逸,謝逸,62,257,宋(257),宋(62),谢逸(319),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0076,张舜民,張舜民,4,307,宋(4),宋(307),张舜民(311),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0077,赵鼎臣,趙鼎臣,2,305,宋(2),宋(305),赵鼎臣(307),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0078,冯时行,馮時行,13,292,宋(13),宋(292),冯时行(305),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0079,苏过,蘇過,1,304,宋(1),宋(304),苏过(305),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0080,寇准,寇準,7,297,宋(7),宋(297),寇准(304),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0081,张炎,張炎,302,1,宋(302),宋(1),张炎(303),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0082,邓肃,鄧肅,46,254,宋(46),宋(254),邓肃(300),前30字:1|全文:1|同题:1,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 1 / 同题 1,canonical 已统一
+C1-0083,谢薖,謝薖,17,278,宋(278),宋(17),谢薖(295),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0084,蒲寿宬,蒲壽宬,18,265,宋(265),宋(18),蒲寿宬(283),前30字:5|全文:5|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 5 / 全文相同 5 / 同题 0,canonical 已统一
+C1-0085,张纲,張綱,35,246,宋(35),宋(246),张纲(281),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0086,顧況,顧况,269,1,唐(1),唐(269),顾况(270),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0087,晏几道,晏幾道,260,8,宋(260),宋(8),晏几道(268),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0088,刘学箕,劉學箕,38,226,宋(38),宋(226),刘学箕(264),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0089,张扩,張擴,2,261,宋(2),宋(261),张扩(263),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0090,辛弃疾,辛棄疾,106,151,宋(106),宋(151),辛弃疾(257),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0091,李吕,李呂,18,227,宋(18),宋(227),李吕(245),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0092,叶梦得,葉夢得,103,141,宋(103),宋(141),叶梦得(244),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0093,苏舜钦,蘇舜欽,1,236,宋(1),宋(236),苏舜钦(237),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0094,周邦彦,周邦彥,186,50,宋(50),宋(186),周邦彦(236),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0095,马廷鸾,馬廷鸞,5,227,宋(227),宋(5),马廷鸾(232),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0096,阳枋,陽枋,2,226,宋(2),宋(226),阳枋(228),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0097,曾协,曾協,14,209,宋(14),宋(209),曾协(223),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0098,张继先,張繼先,56,157,宋(56),宋(157),张继先(213),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0099,许棐,許棐,20,193,宋(193),宋(20),许棐(213),前30字:1|全文:1|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 1 / 同题 0,canonical 已统一
+C1-0100,欧阳澈,歐陽澈,7,203,宋(7),宋(203),欧阳澈(210),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0101,赵文,趙文,31,172,宋(31),宋(172),赵文(203),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0102,赵彦端,趙彥端,158,37,宋(158),宋(37),赵彦端(195),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0103,张先,張先,165,29,宋(165),宋(29),张先(194),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0104,施枢,施樞,3,187,宋(3),宋(187),施枢(190),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0105,高似孙,高似孫,3,186,宋(3),宋(186),高似孙(189),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0106,晁冲之,晁沖之,16,171,宋(16),宋(171),晁冲之(16);晁沖之(171),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0107,王义山,王義山,30,157,宋(30),宋(157),王义山(187),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0108,吳龍翰,吴龍翰,145,28,宋(145),宋(28),吴龙翰(173),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0109,吴龙翰,吳龍翰,1,145,宋(145),宋(1),吴龙翰(146),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0110,廖刚,廖剛,7,164,宋(7),宋(164),廖刚(171),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0111,孙光宪,孫光憲,61,107,五代(61),唐(96),孙光宪(168),前30字:21|全文:14|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 21 / 全文相同 14 / 同题 0,canonical 已统一
+C1-0112,丁谓,丁謂,2,151,宋(151),宋(2),丁谓(153),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0113,严羽,嚴羽,2,146,宋(2),宋(146),严羽(148),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0114,赵汝腾,趙汝騰,1,147,宋(1),宋(147),赵汝腾(148),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0115,张伯端,張伯端,27,112,宋(27),宋(112),张伯端(139),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0116,张商英,張商英,2,137,宋(2),宋(137),张商英(139),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0117,张埴,張埴,3,133,清(2),宋(133),张埴(136),前30字:0|全文:0|同题:0,DISTINCT_PERSON,朝代互斥且相隔较远（清 vs 宋），无文本重合，判为同名异人,canonical 已统一
+C1-0118,吕渭老,呂渭老,134,1,宋(134),宋(1),吕渭老(135),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0119,汪梦斗,汪夢斗,6,128,宋(128),宋(6),汪梦斗(134),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0120,陈深,陳深,8,124,宋(7),宋(124),陈深(132),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0121,阮阅,阮閱,6,125,宋(125),宋(6),阮阅(131),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0122,陈克,陳克,55,75,宋(55),宋(75),陈克(130),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0123,洪迈,洪邁,6,118,宋(6),宋(118),洪迈(124),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0124,張榘,张榘,59,50,宋(59),宋(50),张榘(109),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0125,张矩,張榘,12,59,宋(59),宋(12),张榘(59);张矩(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0126,薛师石,薛師石,7,114,宋(7),宋(114),薛师石(121),前30字:3|全文:3|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 3 / 全文相同 3 / 同题 0,canonical 已统一
+C1-0127,赵孟坚,趙孟堅,11,106,宋(11),宋(106),赵孟坚(117),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0128,陈楠,陳楠,11,106,宋(11),宋(106),陈楠(117),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0129,胡铨,胡銓,16,100,宋(100),宋(16),胡铨(116),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0130,史达祖,史達祖,112,2,宋(112),宋(2),史达祖(114),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0131,家铉翁,家鉉翁,3,110,宋(110),宋(3),家铉翁(113),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0132,顾敻,顧敻,54,56,唐(56),五代(54),顾敻(110),前30字:13|全文:7|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 13 / 全文相同 7 / 同题 0,canonical 已统一
+C1-0133,卢祖皋,盧祖皋,96,13,宋(96),宋(13),卢祖皋(109),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0134,赵崇嶓,趙崇嶓,20,88,宋(20),宋(88),赵崇嶓(108),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0135,钱惟演,錢惟演,2,106,宋(106),宋(2),钱惟演(108),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0136,曾觌,曾覿,104,2,宋(2),宋(104),曾觌(106),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0137,谢枋得,謝枋得,1,103,宋(103),宋(1),谢枋得(104),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0138,陈郁,陳郁,4,100,宋(4),宋(100),陈郁(104),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0139,潘阆,潘閬,11,88,宋(88),宋(11),潘阆(99),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0140,蒋捷,蔣捷,97,2,宋(97),宋(2),蒋捷(99),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0141,吴儆,吳儆,29,65,宋(65),宋(29),吴儆(94),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0142,陈瓘,陳瓘,24,70,宋(24),宋(70),陈瓘(94),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0143,徐经孙,徐經孫,5,88,宋(88),宋(5),徐经孙(93),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0144,崔敦礼,崔敦禮,7,82,宋(7),宋(82),崔敦礼(89),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0145,吕颐浩,呂頤浩,1,85,宋(1),宋(85),吕颐浩(86),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0146,王谌,王諶,7,75,宋(75),宋(7),王谌(82),前30字:2|全文:2|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 2 / 全文相同 2 / 同题 0,canonical 已统一
+C1-0147,刘子寰,劉子寰,19,60,宋(19),宋(60),刘子寰(79),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0148,史铸,史鑄,1,77,宋(77),宋(1),史铸(78),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0149,张泌,張泌,27,49,五代(27),唐(49),张泌(76),前30字:10|全文:8|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 10 / 全文相同 8 / 同题 0,canonical 已统一
+C1-0150,歐陽炯,欧陽炯,57,17,五代(17),唐(57),欧阳炯(74),前30字:8|全文:7|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 8 / 全文相同 7 / 同题 0,canonical 已统一
+C1-0151,牛峤,牛嶠,32,40,五代(32),唐(40),牛峤(72),前30字:13|全文:10|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 13 / 全文相同 10 / 同题 0,canonical 已统一
+C1-0152,张明中,張明中,1,70,宋(1),宋(70),张明中(71),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0153,王沂孙,王沂孫,67,2,宋(67),宋(2),王沂孙(69),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0154,赵以夫,趙以夫,68,1,宋(68),宋(1),赵以夫(69),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0155,苏庠,蘇庠,23,43,宋(23),宋(43),苏庠(66),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0156,王安国,王安國,4,58,宋(3),宋(58),王安国(62),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0157,毛文锡,毛文錫,29,32,唐(32),五代(29),毛文锡(61),前30字:10|全文:7|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 10 / 全文相同 7 / 同题 0,canonical 已统一
+C1-0158,陈尧佐,陳堯佐,1,59,宋(1),宋(59),陈尧佐(60),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0159,李刘,李劉,11,47,宋(11),宋(47),李刘(58),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0160,康与之,康與之,43,13,宋(43),宋(13),康与之(56),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0161,姚镛,姚鏞,1,54,宋(54),宋(1),姚镛(55),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0162,蒋堂,蔣堂,42,11,宋(42),宋(11),蒋堂(53),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0163,李处全,李處全,47,5,宋(47),宋(5),李处全(52),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0164,赵令畤,趙令畤,38,14,宋(38),宋(14),赵令畤(52),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0165,沈端节,沈端節,45,5,宋(5),宋(45),沈端节(50),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0166,元绛,元絳,2,47,宋(47),宋(2),元绛(49),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0167,李师中,李師中,3,46,清(2),宋(46),李师中(49),前30字:0|全文:0|同题:0,DISTINCT_PERSON,朝代互斥且相隔较远（清 vs 宋），无文本重合，判为同名异人,canonical 已统一
+C1-0168,黄人杰,黄人傑,39,10,宋(10),宋(39),黄人杰(49),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0169,罗椅,羅椅,4,44,宋(4),宋(44),罗椅(48),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0170,赵葵,趙葵,1,47,宋(1),宋(47),赵葵(48),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0171,赵希迈,趙希邁,2,45,宋(2),宋(45),赵希迈(47),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0172,京镗,京鏜,43,3,宋(3),宋(43),京镗(46),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0173,张辑,張輯,44,2,宋(44),宋(2),张辑(46),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0174,王安礼,王安禮,3,43,宋(3),宋(43),王安礼(46),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0175,陈耆卿,陳耆卿,2,44,宋(2),宋(44),陈耆卿(46),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0176,刘埙,劉壎,30,15,宋(30),宋(15),刘埙(45),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0177,曹组,曹組,36,9,宋(9),宋(36),曹组(45),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0178,张良臣,張良臣,2,42,宋(2),宋(42),张良臣(44),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0179,德诚,德誠,1,40,唐(40),清(1),德诚(41),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（唐 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0180,黄升,黄昇,39,2,宋(39),宋(2),黄升(39);黄昇(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0181,姚宽,姚寬,5,35,宋(5),宋(35),姚宽(40),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0182,罗愿,羅願,2,38,宋(2),宋(38),罗愿(40),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0183,黄公绍,黄公紹,30,10,宋(10),宋(30),黄公绍(40),前30字:3|全文:3|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 3 / 全文相同 3 / 同题 0,canonical 已统一
+C1-0184,薛昭蕴,薛昭藴,19,19,五代(19),唐(19),薛昭蕴(19);薛昭藴(19),前30字:6|全文:2|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 6 / 全文相同 2 / 同题 0,canonical 未统一
+C1-0185,王观,王觀,28,9,宋(8),宋(28),王观(37),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0186,张景修,張景脩,2,34,宋(2),宋(34),张景修(2);张景脩(34),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0187,邓剡,鄧剡,13,23,宋(13),宋(23),邓剡(36),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0188,陈东,陳東,4,32,宋(4),宋(32),陈东(36),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0189,刘鉴,劉鑑,2,33,宋(2),宋(33),刘鉴(35),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0190,王以宁,王以寧,32,3,宋(32),宋(3),王以宁(35),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0191,严仁,嚴仁,30,4,宋(30),宋(4),严仁(34),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0192,宋自逊,宋自遜,7,27,宋(7),宋(27),宋自逊(34),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0193,潘良贵,潘良貴,1,33,宋(33),宋(1),潘良贵(34),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0194,孙锐,孫銳,2,31,宋(2),宋(31),孙锐(33),前30字:1|全文:1|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 1 / 同题 0,canonical 已统一
+C1-0195,梁栋,梁棟,3,30,宋(3),宋(30),梁栋(33),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0196,陈纪,陳紀,6,26,宋(6),宋(26),陈纪(32),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0197,吴栻,吳栻,4,27,宋(27),清(4),吴栻(31),前30字:0|全文:0|同题:0,DISTINCT_PERSON,朝代互斥且相隔较远（宋 vs 清），无文本重合，判为同名异人,canonical 已统一
+C1-0198,陈景沂,陳景沂,3,28,宋(3),宋(28),陈景沂(31),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0199,储泳,儲泳,2,28,宋(2),宋(28),储泳(30),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0200,刘望之,劉望之,3,26,宋(3),宋(26),刘望之(29),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0201,王采,王寀,12,16,宋(16),宋(12),王寀(16);王采(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0202,董颖,董穎,12,16,宋(16),宋(12),董颖(28),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0203,万俟绍之,万俟紹之,4,23,宋(23),宋(4),万俟绍之(27),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0204,吴渊,吳淵,6,21,宋(21),宋(6),吴渊(27),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0205,冯取洽,馮取洽,24,2,宋(24),宋(2),冯取洽(26),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0206,牛希济,牛希濟,11,13,五代(11),唐(13),牛希济(24),前30字:5|全文:0|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 5 / 全文相同 0 / 同题 0,canonical 已统一
+C1-0207,蔡确,蔡確,1,23,宋(1),宋(23),蔡确(24),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0208,赵企,趙企,2,22,宋(2),宋(22),赵企(24),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0209,刘泾,劉涇,2,21,宋(2),宋(21),刘泾(23),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0210,张枢,張樞,11,12,宋(11),宋(12),张枢(23),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0211,王梦应,王夢應,5,18,宋(18),宋(5),王梦应(23),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0212,王诜,王詵,17,6,宋(6),宋(17),王诜(23),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0213,许将,許將,2,21,宋(21),宋(2),许将(23),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0214,邵伯温,邵伯溫,2,21,宋(2),宋(21),邵伯温(23),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0215,釋元淨,釋元凈,18,5,宋(5),宋(18),释元净(18);释元凈(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 1 个,canonical 未统一
+C1-0216,陈亚,陳亞,4,19,宋(4),宋(19),陈亚(23),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0217,张氏,張氏,14,8,元(8),宋(6),张氏(22),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（元 → 宋），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0218,王易简,王易簡,7,15,宋(7),宋(14),王易简(22),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0219,翁元龙,翁元龍,20,2,宋(2),宋(20),翁元龙(22),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0220,萧元之,蕭元之,3,19,宋(3),宋(19),萧元之(22),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0221,郑域,鄭域,11,11,宋(11),宋(11),郑域(22),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0222,史鉴,史鑑,1,20,清(1),明(20),史鉴(21),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0223,吕希纯,呂希純,1,20,宋(1),宋(20),吕希纯(21),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0224,孙惟信,孫惟信,11,10,宋(11),宋(10),孙惟信(21),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0225,张穆,張穆,18,3,清(18),明(3),张穆(21),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0226,张绍文,張紹文,4,17,宋(4),宋(17),张绍文(21),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0227,曾纡,曾紆,9,12,宋(12),宋(9),曾纡(21),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0228,杜仁杰,杜仁傑,20,1,唐(1),元(20),杜仁杰(21),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（唐 vs 元）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0229,楊凌,楊淩,20,1,唐(20),唐(1),杨凌(20);杨淩(1),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 未统一
+C1-0230,黄叔达,黄叔達,1,20,宋(1),宋(20),黄叔达(21),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0231,吴势卿,吳勢卿,1,19,宋(19),宋(1),吴势卿(20),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0232,张表臣,張表臣,2,18,宋(2),宋(18),张表臣(20),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0233,李适,李適,1,18,唐(1),唐(18),李适(19),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0234,罗志仁,羅志仁,7,12,宋(7),宋(12),罗志仁(19),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0235,陈晔,陳曄,4,15,宋(4),宋(15),陈晔(19),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0236,刘焘,劉燾,11,7,宋(11),宋(7),刘焘(18),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0237,吴山,吳山,15,3,宋(3),清(15),吴山(18),前30字:0|全文:0|同题:0,DISTINCT_PERSON,朝代互斥且相隔较远（宋 vs 清），无文本重合，判为同名异人,canonical 已统一
+C1-0238,徐宝之,徐寶之,4,14,宋(4),宋(14),徐宝之(18),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0239,方维仪,方維儀,12,6,明(6),清(12),方维仪(18),前30字:3|全文:1|同题:4,SAME_PERSON_CONFIRMED,文本重合：前30字同 3 / 全文相同 1 / 同题 4,canonical 已统一
+C1-0240,谢直,謝直,1,17,宋(17),宋(1),谢直(18),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0241,阎选,閻選,8,10,唐(10),五代(8),阎选(18),前30字:5|全文:4|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 5 / 全文相同 4 / 同题 0,canonical 已统一
+C1-0242,张翰,張翰,1,16,清(1),魏晋南北朝(16),张翰(17),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 魏晋南北朝）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0243,王涣,王渙,1,16,宋(1),唐(14),王涣(17),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0244,章谦亨,章謙亨,9,8,宋(8),宋(9),章谦亨(17),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0245,谢绛,謝絳,3,14,宋(14),宋(3),谢绛(17),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0246,陈知柔,陳知柔,1,16,宋(1),宋(16),陈知柔(17),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0247,黄载,黄載,5,12,宋(12),宋(5),黄载(17),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0248,俞国宝,俞國寶,14,2,宋(14),宋(2),俞国宝(16),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0249,冯去非,馮去非,3,13,宋(3),宋(13),冯去非(16),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0250,吕同老,呂同老,4,12,宋(4),宋(12),吕同老(16),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0251,岳飞,岳飛,3,13,宋(13),宋(3),岳飞(16),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0252,张宣,張宣,4,12,清(4),明(12),张宣(16),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0253,朱晞颜,朱晞顔,1,15,宋(15),宋(1),朱晞顔(15);朱晞颜(1),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0254,杨绘,楊繪,1,15,宋(1),宋(15),杨绘(16),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0255,江万里,江萬里,1,15,宋(1),宋(15),江万里(16),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0256,纪映钟,紀映鍾,9,7,明(7),清(9),纪映钟(16),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（明 → 清），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0257,孫升,孫陞,13,2,宋(13),明(2),孙升(13);孙陞(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 明）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 未统一
+C1-0258,赵福元,趙福元,5,10,宋(5),宋(10),赵福元(15),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0259,赵闻礼,趙聞禮,14,1,宋(14),宋(1),赵闻礼(15),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0260,吴师孟,吳師孟,1,13,宋(13),宋(1),吴师孟(14),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0261,王铎,王鐸,8,6,唐(5),清(8),王铎(14),前30字:0|全文:0|同题:0,DISTINCT_PERSON,朝代互斥且相隔较远（唐 vs 清），无文本重合，判为同名异人,canonical 已统一
+C1-0262,莫将,莫將,13,1,宋(13),宋(1),莫将(14),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0263,韩绛,韓絳,1,13,宋(13),宋(1),韩绛(14),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0264,黄云,黄雲,5,9,清(5),明(9),黄云(14),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0265,黄铢,黄銖,3,11,宋(11),宋(3),黄铢(14),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0266,龚大明,龔大明,6,8,宋(8),宋(6),龚大明(14),前30字:1|全文:1|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 1 / 同题 0,canonical 已统一
+C1-0267,厉寺正,厲寺正,1,12,宋(1),宋(12),厉寺正(13),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0268,叶清臣,葉清臣,2,11,宋(2),宋(11),叶清臣(13),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0269,常衮,常袞,10,3,唐(10),唐(3),常衮(13),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0270,徐冲渊,徐沖淵,1,12,宋(1),宋(12),徐冲渊(1);徐沖渊(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0271,徐坚,徐堅,2,11,清(2),唐(11),徐坚(13),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 唐）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0272,李朴,李樸,12,1,宋(12),宋(1),李朴(13),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0273,釋鑒,釋鑑,12,1,宋(1),宋(12),释鉴(1);释鑒(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 1 个,canonical 未统一
+C1-0274,黄大临,黄大臨,3,10,宋(3),宋(10),黄大临(13),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0275,庞籍,龐籍,1,11,宋(1),宋(11),庞籍(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0276,张浚,張浚,1,11,宋(1),宋(11),张浚(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0277,朱涣,朱渙,2,10,宋(2),宋(10),朱涣(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0278,滕宗谅,滕宗諒,1,11,宋(11),宋(1),滕宗谅(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0279,甄龙友,甄龍友,4,8,宋(8),宋(4),甄龙友(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0280,苏易简,蘇易簡,1,11,宋(1),宋(11),苏易简(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0281,赵某,趙某,1,11,宋(1),宋(11),赵某(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0282,陈诜,陳詵,1,11,宋(1),宋(11),陈诜(12),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0283,杨景,楊景,1,10,宋(1),宋(10),杨景(11),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0284,翁溪园,翁溪園,5,6,宋(5),宋(6),翁溪园(11),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0285,范致虚,范致虛,1,10,宋(1),宋(10),范致虚(11),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0286,萧泰来,蕭泰來,2,9,宋(2),宋(9),萧泰来(11),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0287,黄简,黄簡,3,8,宋(3),宋(8),黄简(11),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0288,孙道绚,孫道絢,8,2,宋(8),宋(2),孙道绚(10),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0289,徐延寿,徐延壽,7,3,唐(3),清(7),徐延寿(10),前30字:0|全文:0|同题:0,DISTINCT_PERSON,朝代互斥且相隔较远（唐 vs 清），无文本重合，判为同名异人,canonical 已统一
+C1-0290,歐陽衮,歐陽袞,9,1,唐(9),唐(1),欧阳衮(10),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0291,熊以宁,熊以寧,3,7,宋(3),宋(7),熊以宁(10),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0292,谢应芳,謝應芳,1,9,明(9),元(1),谢应芳(10),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（明 → 元），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0293,陈居仁,陳居仁,1,9,宋(1),宋(9),陈居仁(10),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0294,关注,關注,3,6,宋(3),宋(6),关注(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0295,宝月,寶月,8,1,宋(8),唐(1),宝月(9),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0296,左誉,左譽,3,6,宋(3),宋(6),左誉(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0297,张洵,張洵,8,1,清(8),宋(1),张洵(9),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0298,张琦,張琦,2,7,清(2),明(7),张琦(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0299,张谦,張謙,8,1,清(8),明(1),张谦(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0300,杨鸾,楊鸞,8,1,清(8),唐(1),杨鸾(9),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0301,王齐愈,王齊愈,8,1,宋(1),宋(8),王齐愈(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0302,邓有功,鄧有功,2,7,宋(2),宋(7),邓有功(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0303,韩缜,韓縝,1,8,宋(8),宋(1),韩缜(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0304,颜博文,顔博文,2,7,宋(7),宋(2),顔博文(7);颜博文(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0305,顾若璞,顧若璞,8,1,明(1),清(8),顾若璞(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（明 → 清），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0306,马光祖,馬光祖,1,8,宋(8),宋(1),马光祖(9),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0307,东方朔,東方朔,7,1,先秦(7),汉魏(1),东方朔(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（先秦 → 汉魏），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0308,刘克逊,劉克遜,1,7,宋(1),宋(7),刘克逊(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0309,刘清之,劉清之,2,6,宋(2),宋(6),刘清之(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0310,刘褒,劉褒,5,3,宋(5),宋(3),刘褒(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0311,刘述,劉述,1,7,宋(1),宋(7),刘述(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0312,叶巽斋,葉巽齋,1,7,宋(1),宋(7),叶巽斋(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0313,吴大有,吳大有,1,7,宋(7),宋(1),吴大有(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0314,张元,張元,4,4,清(4),宋(4),张元(8),前30字:0|全文:0|同题:0,DISTINCT_PERSON,朝代互斥且相隔较远（清 vs 宋），无文本重合，判为同名异人,canonical 已统一
+C1-0315,東方虬,東方虯,5,3,唐(5),唐(3),东方虬(8),前30字:1|全文:1|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 1 / 同题 0,canonical 已统一
+C1-0316,王锡,王錫,6,2,魏晋南北朝(2),清(6),王锡(8),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（魏晋南北朝 vs 清）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0317,留元刚,留元剛,1,7,宋(1),宋(7),留元刚(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0318,芮烨,芮燁,1,7,宋(1),宋(7),芮烨(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0319,邹应龙,鄒應龍,6,2,宋(6),宋(2),邹应龙(8),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0320,陈景元,陳景元,7,1,清(7),宋(1),陈景元(8),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0321,刘氏,劉氏,2,5,宋(1),宋(5),刘氏(7),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0322,刘澜,劉瀾,4,3,宋(4),宋(3),刘澜(7),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0323,刘藻,劉藻,6,1,清(6),宋(1),刘藻(7),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0324,叶秀发,葉秀發,1,6,宋(1),宋(6),叶秀发(7),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0325,张时,張時,1,6,宋(1),明(6),张时(7),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 明）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0326,张深,張深,6,1,清(6),宋(1),张深(7),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0327,徐介轩,徐介軒,1,6,宋(6),宋(1),徐介轩(7),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0328,王复,王復,6,1,清(6),宋(1),王复(7),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0329,王讚,王贊,5,2,魏晋南北朝(5),宋(2),王讚(5);王赞(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（魏晋南北朝 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 未统一
+C1-0330,苏氏,蘇氏,6,1,宋(6),宋(1),苏氏(7),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0331,陆淞,陸淞,2,5,宋(2),宋(5),陆淞(7),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0332,陈善,陳善,1,6,宋(1),宋(6),陈善(7),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0333,严参,嚴參,2,4,宋(2),宋(4),严参(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0334,刘几,劉几,4,2,宋(4),宋(2),刘几(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0335,刘沆,劉沆,1,5,宋(1),宋(5),刘沆(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0336,刘浚,劉浚,1,5,宋(1),宋(5),刘浚(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0337,劉皂,劉皁,5,1,唐(1),唐(5),刘皂(6),前30字:1|全文:1|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 1 / 同题 0,canonical 已统一
+C1-0338,咏怀,詠懷,2,4,清(2),明(4),咏怀(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0339,孙谔,孫諤,1,5,清(1),宋(5),孙谔(6),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0340,张震,張震,5,1,宋(5),唐(1),张震(6),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0341,李坚,李堅,1,5,清(1),宋(5),李坚(6),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0342,李简,李簡,1,5,清(1),宋(5),李简(6),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0343,李邦献,李邦獻,1,5,宋(1),宋(5),李邦献(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0344,虞刚简,虞剛簡,1,5,宋(1),宋(5),虞刚简(6),前30字:1|全文:0|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 0 / 同题 0,canonical 已统一
+C1-0345,赵汝迕,趙汝迕,1,5,宋(1),宋(5),赵汝迕(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0346,阎苍舒,閻蒼舒,1,5,宋(5),宋(1),阎苍舒(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0347,陈,陳,4,2,宋(4),明(2),陈(6),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 明）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0348,陈从古,陳從古,1,5,宋(1),宋(5),陈从古(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0349,陈康伯,陳康伯,2,4,宋(2),宋(4),陈康伯(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0350,韩信同,韓信同,1,5,宋(5),宋(1),韩信同(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0351,黄师参,黄師參,1,5,宋(1),宋(5),黄师参(6),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0352,倪涛,倪濤,1,4,清(1),宋(4),倪涛(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0353,吴璜,吳璜,3,2,明(2),清(3),吴璜(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（明 → 清），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0354,张焘,張燾,2,3,宋(2),宋(2),张焘(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0355,张端义,張端義,1,4,宋(1),宋(4),张端义(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0356,徐俨夫,徐儼夫,1,4,宋(1),宋(4),徐俨夫(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0357,徐谦,徐謙,3,2,唐(2),清(3),徐谦(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（唐 vs 清）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0358,曹希蕴,曹希藴,2,3,宋(2),宋(3),曹希蕴(2);曹希藴(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0359,李义山,李義山,1,4,宋(1),宋(4),李义山(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0360,杨晨,楊晨,4,1,清(4),宋(1),杨晨(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0361,杨氏,楊氏,1,4,宋(1),宋(3),杨氏(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0362,杨浚,楊浚,2,3,清(2),唐(3),杨浚(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 唐）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0363,杨炳,楊炳,4,1,清(4),宋(1),杨炳(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0364,王九龄,王九齡,3,2,宋(2),清(3),王九龄(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 清）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0365,羅衮,羅袞,3,2,唐(3),唐(2),罗衮(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0366,胡世将,胡世將,1,4,宋(1),宋(4),胡世将(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0367,蒋璨,蔣璨,1,4,宋(1),宋(4),蒋璨(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0368,陈以庄,陳以莊,3,2,宋(3),宋(2),陈以庄(5),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0369,陈均,陳均,1,4,清(1),宋(4),陈均(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0370,陈毅,陳毅,3,2,清(3),宋(2),陈毅(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0371,陈氏,陳氏,1,4,清(1),宋(4),陈氏(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0372,陈玨,陳玨,2,3,清(2),宋(3),陈玨(5),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0373,陳塤,陳壎,4,1,宋(4),宋(1),陈埙(1);陈塤(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 1 个,canonical 未统一
+C1-0374,刘侃,劉侃,3,1,清(3),明(1),刘侃(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0375,卢氏,盧氏,1,3,宋(1),宋(3),卢氏(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0376,叶李,葉李,1,3,宋(1),宋(3),叶李(4),前30字:1|全文:1|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 1 / 同题 0,canonical 已统一
+C1-0377,吴亿,吳億,2,2,宋(2),宋(2),吴亿(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0378,吴某,吳某,1,3,宋(3),宋(1),吴某(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0379,吴炯,吳炯,1,3,宋(3),清(1),吴炯(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0380,张复,張復,1,3,清(1),宋(2),张复(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0381,张幼谦,張幼謙,3,1,宋(3),宋(1),张幼谦(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0382,张璨,張璨,1,3,清(1),明(3),张璨(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0383,张瓒,張瓚,2,2,清(2),宋(1),张瓒(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0384,张铸,張鑄,2,2,清(2),宋(2),张铸(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0385,智圆,智圓,3,1,清(3),明(1),智圆(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0386,李亿,李億,3,1,宋(3),宋(1),李亿(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0387,杜东,杜東,1,3,宋(1),宋(3),杜东(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0388,沈长卿,沈長卿,1,3,宋(3),宋(1),沈长卿(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0389,漫兴,漫興,1,3,清(1),明(3),漫兴(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0390,王无咎,王無咎,1,3,清(1),宋(3),王无咎(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0391,王鑒,王鑑,3,1,唐(1),魏晋南北朝(3),王鉴(1);王鑒(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（唐 vs 魏晋南北朝）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 未统一
+C1-0392,纪映淮,紀映淮,2,2,明(2),清(2),纪映淮(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（明 → 清），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0393,罗泰,羅泰,3,1,清(3),唐(1),罗泰(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0394,苏琼,蘇瓊,1,3,宋(1),明(3),苏琼(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 明）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0395,贾昌朝,賈昌朝,1,3,宋(3),宋(1),贾昌朝(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0396,赵溍,趙溍,2,2,宋(2),宋(2),赵溍(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0397,郑炎,鄭炎,3,1,清(3),宋(1),郑炎(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0398,陈垲,陳塏,1,3,宋(1),宋(3),陈垲(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0399,陈睦,陳睦,2,2,宋(2),宋(2),陈睦(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0400,陈邦彦,陳邦彦,1,3,清(1),明(3),陈邦彦(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0401,韦居安,韋居安,1,3,宋(3),宋(1),韦居安(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0402,韩世忠,韓世忠,2,2,宋(2),宋(2),韩世忠(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0403,顧祿,顧禄,2,2,宋(2),明(2),顾禄(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 明）但少数侧仅 2 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0404,黄夷簡,黃夷簡,3,1,唐(1),宋(3),黄夷简(4),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（唐 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0405,龚贤,龔賢,3,1,明(1),清(3),龚贤(4),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（明 → 清），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0406,关咏,關詠,1,2,宋(1),宋(2),关咏(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0407,刘子实,劉子實,2,1,宋(2),宋(1),刘子实(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0408,刘季裴,劉季裴,1,2,宋(1),宋(2),刘季裴(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0409,刘应李,劉應李,1,2,宋(1),宋(2),刘应李(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0410,刘彤,劉彤,1,2,宋(1),宋(2),刘彤(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0411,刘珙,劉珙,1,2,宋(1),宋(2),刘珙(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0412,刘锡,劉錫,1,2,清(1),宋(2),刘锡(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0413,双渐,雙漸,1,2,宋(1),宋(2),双渐(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0414,孙吴会,孫吳會,1,2,宋(1),宋(2),孙吴会(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0415,张嗣初,張嗣初,1,2,宋(1),唐(2),张嗣初(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0416,张宰,張宰,1,2,宋(1),宋(2),张宰(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0417,张度,張度,2,1,清(2),宋(1),张度(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0418,张林,張林,2,1,宋(2),唐(1),张林(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0419,张灿,張燦,2,1,清(2),唐(1),张灿(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0420,方维则,方維則,1,2,明(2),清(1),方维则(3),前30字:1|全文:0|同题:1,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 0 / 同题 1,canonical 已统一
+C1-0421,曹修古,曹脩古,2,1,宋(2),唐(1),曹修古(2);曹脩古(1),前30字:0|全文:0|同题:1,UNRESOLVED,朝代互斥（宋 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 未统一
+C1-0422,曾晞颜,曾晞顔,1,2,宋(2),宋(1),曾晞顔(2);曾晞颜(1),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 未统一
+C1-0423,李浃,李浹,2,1,清(2),宋(1),李浃(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0424,李颙,李顒,1,2,宋(2),清(1),李颙(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0425,汤思退,湯思退,1,2,宋(1),宋(2),汤思退(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0426,王孝严,王孝嚴,1,2,宋(1),宋(2),王孝严(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0427,王恽,王惲,2,1,元(2),宋(1),王恽(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（元 → 宋），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0428,王绹,王綯,2,1,宋(1),宋(2),王绹(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0429,程准,程準,1,2,宋(1),宋(2),程准(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0430,闻人武子,聞人武子,1,2,宋(2),宋(1),闻人武子(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0431,范智闻,范智聞,1,2,宋(2),宋(1),范智闻(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0432,许氏,許氏,1,2,宋(2),清(1),许氏(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0433,赵居貞,趙居貞,2,1,唐(2),唐(1),赵居贞(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0434,郭远,郭遠,2,1,清(2),宋(1),郭远(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0435,钱敬淑,錢敬淑,1,2,明(2),清(1),钱敬淑(3),前30字:0|全文:0|同题:1,SAME_PERSON_SUPPORTED,朝代相邻（明 → 清），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0436,阮秀实,阮秀實,1,2,宋(1),宋(2),阮秀实(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0437,陈汝羲,陳汝羲,1,2,宋(1),宋(2),陈汝羲(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0438,陈范,陳範,1,2,清(1),宋(2),陈范(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0439,陈逢辰,陳逢辰,2,1,宋(2),宋(1),陈逢辰(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0440,韩氏,韓氏,1,2,唐(2),清(1),韩氏(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（唐 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0441,黄大舆,黄大輿,2,1,宋(2),宋(1),黄大舆(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0442,黄铸,黄鑄,2,1,宋(1),宋(2),黄铸(3),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0443,龚炳,龔炳,2,1,宋(1),清(2),龚炳(3),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0444,万某,萬某,1,1,宋(1),宋(1),万某(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0445,刘,劉,1,1,宋(1),明(1),刘(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 明）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0446,刘震孙,劉震孫,1,1,宋(1),宋(1),刘震孙(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0447,劉义,劉義,1,1,唐(1),唐(1),刘义(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 已统一
+C1-0448,史弥巩,史彌鞏,1,1,宋(1),宋(1),史弥巩(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0449,叶祖义,葉祖義,1,1,宋(1),宋(1),叶祖义(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0450,叶隆礼,葉隆禮,1,1,宋(1),宋(1),叶隆礼(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0451,吴感,吳感,1,1,宋(1),宋(1),吴感(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0452,吴浩,吳浩,1,1,宋(1),清(1),吴浩(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 清）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0453,吴申,吳申,1,1,宋(1),宋(1),吴申(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0454,张珍奴,張珍奴,1,1,宋(1),宋(1),张珍奴(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0455,张绍,張紹,1,1,清(1),唐(1),张绍(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0456,張修之,張脩之,1,1,唐(1),唐(1),张修之(1);张脩之(1),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（唐），无文本重合；共享 collection 1 个,canonical 未统一
+C1-0457,时彦,時彥,1,1,宋(1),宋(1),时彦(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0458,杨元亨,楊元亨,1,1,宋(1),宋(1),杨元亨(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0459,杨舜举,楊舜舉,1,1,宋(1),宋(1),杨舜举(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0460,江汉,江漢,1,1,宋(1),明(1),江汉(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（宋 vs 明）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0461,江纬,江緯,1,1,宋(1),宋(1),江纬(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0462,灵照,靈照,1,1,清(1),唐(1),灵照(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0463,王元复,王元復,1,1,清(1),宋(1),王元复(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0464,范宽之,范寬之,1,1,宋(1),宋(1),范宽之(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0465,行刚,行剛,1,1,清(1),明(1),行刚(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代相邻（清 → 明），属跨代/遗民；无文本重合,跨代，非互斥;canonical 已统一
+C1-0466,邵缉,邵緝,1,1,宋(1),宋(1),邵缉(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0467,郑斗焕,鄭斗煥,1,1,宋(1),宋(1),郑斗焕(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0468,陈合,陳合,1,1,宋(1),宋(1),陈合(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0469,陈成之,陳成之,1,1,宋(1),宋(1),陈成之(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0470,陈良翰,陳良翰,1,1,清(1),宋(1),陈良翰(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0471,隐者,隱者,1,1,清(1),唐(1),隐者(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（清 vs 唐）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0472,韩准,韓準,1,1,宋(1),宋(1),韩准(2),前30字:0|全文:0|同题:0,SAME_PERSON_SUPPORTED,朝代一致（宋），无文本重合；共享 collection 0 个,canonical 已统一
+C1-0473,黄台,黃台,1,1,唐(1),宋(1),黄台(2),前30字:1|全文:0|同题:0,SAME_PERSON_CONFIRMED,文本重合：前30字同 1 / 全文相同 0 / 同题 0,canonical 已统一
+C1-0474,黃子稜,黄子稜,1,1,唐(1),宋(1),黄子稜(2),前30字:0|全文:0|同题:1,UNRESOLVED,朝代互斥（唐 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0475,黄璞,黃璞,1,1,唐(1),宋(1),黄璞(2),前30字:0|全文:0|同题:1,UNRESOLVED,朝代互斥（唐 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一
+C1-0476,黄麟,黃麟,1,1,唐(1),宋(1),黄麟(2),前30字:0|全文:0|同题:0,UNRESOLVED,朝代互斥（唐 vs 宋）但少数侧仅 1 条，无法区分同名异人与朝代误标,需人工核少数侧朝代;canonical 已统一

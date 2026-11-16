@@ -1,0 +1,82 @@
+﻿work_id,title,n_labels,labels
+shijing:054adf2a3949,柏舟,1,TITLE_REPEAT
+gushiji:1127fa3108dc,巴謠歌,1,TITLE_REPEAT
+gushiji:5c4c16901962,聮句詩,1,BODY_PARTIAL
+gushiji:71be04795f54,城上烏,1,TITLE_REPEAT
+shijing:9732ab6fa238,时迈,1,TITLE_REPEAT
+gushiji:004aa9a3efa7,偕隱歌,1,BODY_PARTIAL
+gushiji:b6c5ab002807,天地,1,TITLE_REPEAT
+gushiji:ca4454af3709,石城樂,1,TITLE_REPEAT
+shijing:489e31997b9d,闵予小子,1,TITLE_REPEAT
+gushiji:2c335884377c,鼓吹曲辭,1,BODY_PARTIAL
+gushiji:07ac5b74ce58,生相憐死相捐,1,BODY_PARTIAL
+gushiji:eb885e67a24b,秋夜,1,TITLE_REPEAT
+shijing:b020ca82814e,黍离,1,TITLE_REPEAT
+chuci:2bfe88a5ac5a,惜往日,1,TITLE_REPEAT
+tao:b4a07e4bacc6,移居·其一,1,DUPLICATE_SUSPECTED
+wenxuan:ed799ddfcad7,雜詩十首,1,DUPLICATE_SUSPECTED
+wenxuan:439931c5f2e2,青青河畔草,1,TITLE_REPEAT
+tao:93084865e2d7,時運,1,TITLE_REPEAT
+tao:808893410fce,歸園田居·其一,1,DUPLICATE_SUSPECTED
+wenxuan:ea7c0f54fcd7,生年不滿百,1,TITLE_REPEAT
+tang:dd3bdb604cae,將發循州社日于所居館宴送,1,DUPLICATE_SUSPECTED
+tang:3d3062a86571,長安道中早行,1,DUPLICATE_SUSPECTED
+tang:e45ce0b2cdfe,秋夕書懷呈戎州郎中 二,1,DUPLICATE_SUSPECTED
+tang:a7ed24814de4,相和歌辭 陽春曲,1,DUPLICATE_SUSPECTED
+tang:8221d7f57ef5,琴曲歌辭  秋思二首 一,1,DUPLICATE_SUSPECTED
+tang:389a89605db8,遊棲霞寺,1,DUPLICATE_SUSPECTED
+tang:a1b3c3e6870f,夜泊牛渚懷古,1,DUPLICATE_SUSPECTED
+tang:d6d5bdfba46d,小舫,1,TITLE_REPEAT
+tang:b649a67254f5,冬日登江樓,1,DUPLICATE_SUSPECTED
+tang:7fbea83fa47a,武肅王有旨石橋設齋會進一詩 二,1,DUPLICATE_SUSPECTED
+tang:9e6ee7bc1ea3,宮詞 一四六,1,DUPLICATE_SUSPECTED
+tang:de5a4a910f51,郊廟歌辭 享龍池樂章 第八章,1,DUPLICATE_SUSPECTED
+tang:21fc345d5c53,對月二首 一,1,DUPLICATE_SUSPECTED
+tang:7ab338b1591b,代鍾答,1,DUPLICATE_SUSPECTED
+tang:8a8090925fc4,贈商山僧,1,DUPLICATE_SUSPECTED
+tang:7d1d2cbd5608,薦冰,1,TITLE_REPEAT
+tang:e43fc5365316,五月水邊柳,1,DUPLICATE_SUSPECTED
+tang:c8addeb3e877,皇陂,1,TITLE_REPEAT
+tang:5c83a11c238e,相和歌辭  北上行,1,DUPLICATE_SUSPECTED
+songshi:4b16cea55098,里門高,1,TITLE_REPEAT
+songshi:d8adf5746fc0,桃花,1,TITLE_REPEAT
+songshi:2cd69f2c846b,躬耕,1,TITLE_REPEAT
+songshi:db466bf81b43,索馬,1,TITLE_REPEAT
+songshi:d183721cc095,贈日本僧,1,DUPLICATE_SUSPECTED
+songci:d26303ee9b09,玉女摇仙佩,1,DUPLICATE_SUSPECTED
+songci:89eea7bddb5d,鹧鸪天,1,DUPLICATE_SUSPECTED
+songci:075b251d7352,诉衷情,1,DUPLICATE_SUSPECTED
+songci:384a320eaa85,浪淘沙,1,DUPLICATE_SUSPECTED
+yuanqu:0c255388ba33,天仙子・从今后，识破野狐涎。红粉无情，灾星不现。村酒酽野花浓,1,DUPLICATE_SUSPECTED
+yuanqu:f0f52cbc2439,一封书,1,DUPLICATE_SUSPECTED
+yuanqu:25b9d58252de,诸葛亮博望烧屯・醉春风,1,ANNOTATION_MIXED
+mingshi:f2b59c0f174a,銅雀謠,1,BODY_PARTIAL
+wanqing:aafd4090e2c0,南亭,1,TITLE_REPEAT
+mingshi:911459fa2221,燕,1,TITLE_REPEAT
+wanqing:4240a29d93f8,归梦,1,TITLE_REPEAT
+mingshi:412dc68d30d0,五里塘,1,TITLE_REPEAT
+mingshi:07a908e0b623,雨中同孟原僉憲登嘉魚亭,1,ANNOTATION_MIXED
+tang:f8a053479596,一鉢歌,1,BODY_DELETED
+songshi:b0dedc13c731,木芙蓉  其二,1,ANNOTATION_MIXED
+tang300:044721b35875,將進酒,2,BODY_DELETED|DUPLICATE_SUSPECTED
+songshi:f959e7297aa4,次韻鄭固道侍郎見寄長句二首  其一,1,ANNOTATION_MIXED
+tang:f45a8a72dec2,送賈山人南遊歌（幷序）,1,BODY_DELETED
+wanqing:3fedb524017f,鸡鸣歌,1,BODY_DELETED
+songshi:5a86d9610a5e,緣識  其五○,1,DUPLICATE_SUSPECTED
+songshi:3fb62dd8d0cd,到房交代招飲四首  其三,1,DUPLICATE_SUSPECTED
+songshi:a9a98d24ef5c,頌古七十六首  其四五,1,DUPLICATE_SUSPECTED
+songshi:a44775d56c8e,老境,1,TITLE_REPEAT
+songshi:5eddb3c7831e,壽先生  其二,1,DUPLICATE_SUSPECTED
+songshi:2fac3c59ad2f,偈二首  其二,1,DUPLICATE_SUSPECTED
+wenxuan:de9f1620cf59,登徒子好色賦,1,AUTHOR_IN_BODY
+wenxuan:ee2671024ef6,富春渚,1,DUPLICATE_SUSPECTED
+wenxuan:6ee4d0e36224,神女賦,1,AUTHOR_IN_BODY
+wenxuan:794df9ac5faf,青青陵上柏,1,TITLE_REPEAT
+wenxuan:39cd4fca9163,觀朝雨,1,DUPLICATE_SUSPECTED
+wenxuan:d3726987e410,驅車上東門,1,TITLE_REPEAT
+wenxuan:e8dc2a2887d3,雜詩,1,DUPLICATE_SUSPECTED
+wenxuan:08c3f28fe640,今日良宴會,1,TITLE_REPEAT
+wenxuan:d7c6d12137a1,東城高且長,1,TITLE_REPEAT
+wenxuan:b480ebc65c53,君子有所思行,1,DUPLICATE_SUSPECTED
+tao:3955de437de6,停雲,2,DUPLICATE_SUSPECTED|TITLE_REPEAT
+tao:b14322c30a7b-374966,示周續之祖企謝景夷三郎,1,DUPLICATE_SUSPECTED

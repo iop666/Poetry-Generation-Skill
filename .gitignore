@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+# 以下内容按项目规则永不上传：
+# poetry-database/database/  (732 MB SQLite，含本机绝对路径)
+# poetry-database/normalized/ (395 MB 语料，超 GitHub 单文件上限)
+# books/, poetry-database/raw/books* (现代版权书全文与 OCR)
+# poetry-database/raw/*/images/, */facsimile/ (书页图像)
+# .workbuddy/ (本机记忆与临时数据)

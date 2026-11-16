@@ -1,0 +1,7 @@
+﻿set_name,definition_sql,n_records,work_id_file,intersection_with_prev,diff_with_prev,generated_at
+R2_12_2447,SELECT work_id FROM works WHERE genre='曲' AND text_raw LIKE '%(%唱)%',2447,LOGS/yq_set_2447.txt,,,2026-11-16T19:11:40
+R2_13_2740,"SELECT work_id, text_raw FROM works WHERE genre='曲' -- 再以正则 re.search(r'[（(][^）)]*唱[）)]', text_raw) 过滤",2740,LOGS/yq_set_2740.txt,2447,293 (prev⊄cur=0),2026-11-16T19:11:40
+R2_13_4510,"A: 正则 [（(][^）)]*唱[）)] 命中
+B: title_raw 含句读[，。；？！、：] 且 length(title_raw)>=17
+C: 去掉[（(][^）)]*[）)]后汉字数<12
+SET = A ∪ B ∪ C",4510,LOGS/yq_set_4510.txt,2740,1770,2026-11-16T19:11:40

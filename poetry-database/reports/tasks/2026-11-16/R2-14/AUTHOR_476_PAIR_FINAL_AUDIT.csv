@@ -1,0 +1,477 @@
+﻿pair_id,name_a,name_b,n_works_a,n_works_b,collections_a,collections_b,dynasty_a,dynasty_b,text_overlap_n,overlap_is_same_poem,independent_evidence,revised_verdict,reason
+C1-0001,陆游,陸游,144,9269,songci(144),songshi(9269),宋(144),宋(9269),4,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（4 组，全文相同 4 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0002,刘克庄,劉克莊,269,4553,songci(269),songshi(4553),宋(269),宋(4553),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0003,杨万里,楊萬里,8,4284,songci(8),songshi(4284),宋(8),宋(4284),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0004,无名氏,無名氏,3254,747,yuanqu(1875);songci(1379),tang(527);songshi(190);gushiji(29),元(1875);宋(1379),唐(527);宋(190);汉魏(29),1,SAME_POEM_IDENTICAL_TEXT,NONE,UNRESOLVED,两侧或一侧为佚名占位符（非人物实体），不能构成人物身份合并；应转 NOT_A_PERSON 分支
+C1-0005,苏轼,蘇軾,356,2811,songci(356),songshi(2811),宋(356),宋(2811),3,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（3 组，全文相同 2 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0006,梅尧臣,梅堯臣,2,2931,songci(2),songshi(2931),宋(2),宋(2931),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0007,韩淲,韓淲,197,2623,songci(197),songshi(2623),宋(197),宋(2623),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0008,黄庭坚,黄庭堅,191,2198,songci(191),songshi(2198),宋(191),宋(2198),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0009,张耒,張耒,9,2261,songci(9),songshi(2261),宋(9),宋(2261),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0010,陈造,陳造,10,2039,songci(10),songshi(2039),宋(10),宋(2039),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0011,苏辙,蘇轍,4,1854,songci(4),songshi(1854),宋(4),宋(1854),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0012,刘敞,劉敞,2,1727,songci(2),songshi(1727),宋(2),宋(1727),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0013,李纲,李綱,54,1608,songci(54),songshi(1608),宋(54),宋(1608),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0014,曹勋,曹勛,183,1326,songci(183),songshi(1326),宋(183),宋(1326),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0015,吕本中,呂本中,27,1342,songci(27),songshi(1342),宋(27),宋(1342),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0016,陈著,陳著,121,1248,songci(121),songshi(1248),宋(121),宋(1248),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0017,司马光,司馬光,3,1257,songci(3),songshi(1257),宋(3),宋(1257),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0018,楼钥,樓鑰,4,1243,songci(4),songshi(1243),宋(4),宋(1243),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0019,欧阳修,歐陽修,242,951,songci(242),songshi(951),宋(242),宋(951),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0020,韦骧,韋驤,11,1164,songci(11),songshi(1164),宋(11),宋(1164),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0021,吴芾,吳芾,1,1149,songci(1),songshi(1149),宋(1),宋(1149),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0022,張鎡,张鎡,1045,51,songshi(1045),songci(51),宋(1045),宋(51),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0023,韩维,韓維,6,1018,songci(6),songshi(1018),宋(6),宋(1018),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0024,戴复古,戴復古,46,953,songci(46),songshi(953),宋(46),宋(953),2,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（2 组，全文相同 2 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0025,邹浩,鄒浩,2,979,songci(2),songshi(979),宋(2),宋(979),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0026,贺铸,賀鑄,281,602,songci(281),songshi(602),宋(281),宋(602),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0027,李之仪,李之儀,96,754,songci(96),songshi(754),宋(96),宋(754),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0028,晁补之,晁補之,167,650,songci(167),songshi(650),宋(167),宋(650),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0029,程公许,程公許,3,809,songci(3),songshi(809),宋(3),宋(809),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0030,仇远,仇遠,120,659,songci(120),songshi(659),宋(120),宋(659),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0031,李弥逊,李彌遜,82,693,songci(82),songshi(693),宋(82),宋(693),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0032,陈师道,陳師道,54,709,songci(54),songshi(709),宋(54),宋(709),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0033,徐积,徐積,6,744,songci(6),songshi(744),宋(6),宋(744),4,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（4 组，全文相同 4 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0034,韩琦,韓琦,5,736,songci(5),songshi(736),宋(5),宋(736),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0035,孙觌,孫覿,1,722,songci(1),songshi(722),宋(1),宋(722),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0036,葛胜仲,葛勝仲,82,641,songci(82),songshi(641),宋(82),宋(641),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0037,韩元吉,韓元吉,82,606,songci(82),songshi(606),宋(82),宋(606),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0038,郑刚中,鄭剛中,1,679,songci(1),songshi(679),宋(1),宋(679),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0039,劉子翬,刘子翬,670,4,songshi(670),songci(4),宋(670),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0040,陈与义,陳與義,18,643,songci(18),songshi(643),宋(18),宋(643),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0041,李流谦,李流謙,25,633,songci(25),songshi(633),宋(25),宋(633),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0042,张孝祥,張孝祥,224,423,songci(224),songshi(423),宋(224),宋(423),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0043,刘辰翁,劉辰翁,354,214,songci(354),songshi(214),宋(354),宋(214),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0044,秦观,秦觀,89,467,songci(89),songshi(467),宋(89),宋(467),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0045,何梦桂,何夢桂,47,482,songci(47),songshi(482),宋(47),宋(482),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0046,吴潜,吳潛,256,268,songci(256),songshi(268),宋(256),宋(268),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0047,王质,王質,74,436,songci(74),songshi(435);tang(1),宋(74),宋(435);唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0048,杨亿,楊億,1,506,songci(1),songshi(506),宋(1),宋(506),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0049,温庭筠,溫庭筠,66,434,huajianji(66),tang(430);tang300(4),五代(66),唐(434),20,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（20 组，全文相同 13 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0050,王迈,王邁,19,475,songci(19),songshi(475),宋(19),宋(475),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0051,曾巩,曾鞏,1,453,songci(1),songshi(453),宋(1),宋(453),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0052,文彦博,文彥博,1,451,songci(1),songshi(451),宋(1),宋(451),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0053,刘弇,劉弇,8,439,songci(8),songshi(439),宋(8),宋(439),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0054,韩愈,韓愈,1,442,tang(1),tang(438);tang300(4),唐(1),唐(442),1,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一总集内部两个编排位置使用两种写法（1 组，全文相同 0 组），属总集内重复收录；非独立证据
+C1-0055,郑獬,鄭獬,3,437,songci(3),songshi(437),宋(3),宋(437),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0056,张元干,張元幹,185,252,songci(185),songshi(252),宋(185),宋(252),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0057,韦庄,韋莊,49,380,huajianji(48);songci(1),tang(378);tang300(2),五代(48);宋(1),唐(380),22,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（22 组，全文相同 16 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0058,韩驹,韓駒,2,421,songci(2),songshi(421),宋(2),宋(421),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0059,张侃,張侃,4,414,songci(4),songshi(414),宋(4),宋(414),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0060,华岳,華岳,18,391,songci(18),songshi(391),宋(18),宋(391),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0061,陈渊,陳淵,58,351,songshi(58),songshi(351),宋(58),宋(351),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0062,卫宗武,衛宗武,11,394,songci(11),songshi(394),宋(11),宋(394),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0063,范纯仁,范純仁,1,398,songci(1),songshi(398),宋(1),宋(398),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0064,叶适,葉適,1,395,songci(1),songshi(395),宋(1),宋(395),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0065,權德輿,權德舆,352,44,tang(351);tang300(1),tang(44),唐(352),唐(44),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0066,刘一止,劉一止,42,322,songci(42),songshi(322),宋(42),宋(322),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0067,吕南公,呂南公,2,359,songci(2),songshi(359),宋(2),宋(359),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0068,陈允平,陳允平,209,149,songci(209),songshi(149),宋(209),宋(149),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0069,郑清之,鄭清之,1,356,songci(1),songshi(356),宋(1),宋(356),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0070,吴则礼,吳則禮,39,317,songci(39),songshi(317),宋(39),宋(317),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0071,赵鼎,趙鼎,45,298,songci(45),songshi(298),宋(45),宋(298),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0072,吕岩,呂巖,15,327,songci(15),tang(327),宋(15),唐(327),4,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（4 组，全文相同 1 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0073,吴泳,吳泳,37,289,songci(37),songshi(289),宋(37),宋(289),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0074,沈与求,沈與求,4,315,songci(4),songshi(315),宋(4),宋(315),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0075,谢逸,謝逸,62,257,songci(62),songshi(257),宋(62),宋(257),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0076,张舜民,張舜民,4,307,songci(4),songshi(307),宋(4),宋(307),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0077,赵鼎臣,趙鼎臣,2,305,songci(2),songshi(305),宋(2),宋(305),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0078,冯时行,馮時行,13,292,songci(13),songshi(292),宋(13),宋(292),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0079,苏过,蘇過,1,304,songci(1),songshi(304),宋(1),宋(304),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0080,寇准,寇準,7,297,songci(7),songshi(297),宋(7),宋(297),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0081,张炎,張炎,302,1,songci(302),songshi(1),宋(302),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0082,邓肃,鄧肅,46,254,songci(46),songshi(254),宋(46),宋(254),1,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（1 组，全文相同 1 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0083,谢薖,謝薖,17,278,songci(17),songshi(278),宋(17),宋(278),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0084,蒲寿宬,蒲壽宬,18,265,songci(18),songshi(265),宋(18),宋(265),5,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（5 组，全文相同 5 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0085,张纲,張綱,35,246,songci(35),songshi(246),宋(35),宋(246),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0086,顧況,顧况,269,1,tang(268);tang300(1),tang(1),唐(269),唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0087,晏几道,晏幾道,260,8,songci(260),songshi(8),宋(260),宋(8),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0088,刘学箕,劉學箕,38,226,songci(38),songshi(226),宋(38),宋(226),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0089,张扩,張擴,2,261,songci(2),songshi(261),宋(2),宋(261),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0090,辛弃疾,辛棄疾,106,151,songci(106),songshi(151),宋(106),宋(151),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0091,李吕,李呂,18,227,songci(18),songshi(227),宋(18),宋(227),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0092,叶梦得,葉夢得,103,141,songci(103),songshi(141),宋(103),宋(141),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0093,苏舜钦,蘇舜欽,1,236,songci(1),songshi(236),宋(1),宋(236),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0094,周邦彦,周邦彥,186,50,songci(186),songshi(50),宋(186),宋(50),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0095,马廷鸾,馬廷鸞,5,227,songci(5),songshi(227),宋(5),宋(227),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0096,阳枋,陽枋,2,226,songci(2),songshi(226),宋(2),宋(226),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0097,曾协,曾協,14,209,songci(14),songshi(209),宋(14),宋(209),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0098,张继先,張繼先,56,157,songci(56),songshi(157),宋(56),宋(157),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0099,许棐,許棐,20,193,songci(20),songshi(193),宋(20),宋(193),1,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（1 组，全文相同 1 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0100,欧阳澈,歐陽澈,7,203,songci(7),songshi(203),宋(7),宋(203),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0101,赵文,趙文,31,172,songci(31),songshi(172),宋(31),宋(172),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0102,赵彦端,趙彥端,158,37,songci(158),songshi(37),宋(158),宋(37),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0103,张先,張先,165,29,songci(165),songshi(29),宋(165),宋(29),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0104,施枢,施樞,3,187,songci(3),songshi(187),宋(3),宋(187),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0105,高似孙,高似孫,3,186,songci(3),songshi(186),宋(3),宋(186),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0106,晁冲之,晁沖之,16,171,songci(16),songshi(171),宋(16),宋(171),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0107,王义山,王義山,30,157,songci(30),songshi(157),宋(30),宋(157),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0108,吳龍翰,吴龍翰,145,28,songshi(145),songshi(28),宋(145),宋(28),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0109,吴龙翰,吳龍翰,1,145,songci(1),songshi(145),宋(1),宋(145),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0110,廖刚,廖剛,7,164,songci(7),songshi(164),宋(7),宋(164),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0111,孙光宪,孫光憲,61,107,huajianji(61),tang(96);songshi(11),五代(61),唐(96);宋(11),21,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（21 组，全文相同 14 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0112,丁谓,丁謂,2,151,songci(2),songshi(151),宋(2),宋(151),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0113,严羽,嚴羽,2,146,songci(2),songshi(146),宋(2),宋(146),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0114,赵汝腾,趙汝騰,1,147,songci(1),songshi(147),宋(1),宋(147),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0115,张伯端,張伯端,27,112,songci(27),songshi(112),宋(27),宋(112),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0116,张商英,張商英,2,137,songci(2),songshi(137),宋(2),宋(137),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0117,张埴,張埴,3,133,wanqing(2);songci(1),songshi(133),清(2);宋(1),宋(133),0,NONE,NONE,UNRESOLVED,小样本侧（张埴）内部含 2 个朝代且与对侧主导朝代重叠，说明该 author_name 已混合多人，无法判定
+C1-0118,吕渭老,呂渭老,134,1,songci(134),songshi(1),宋(134),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0119,汪梦斗,汪夢斗,6,128,songci(6),songshi(128),宋(6),宋(128),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0120,陈深,陳深,8,124,songci(7);wanqing(1),songshi(124),宋(7);清(1),宋(124),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0121,阮阅,阮閱,6,125,songci(6),songshi(125),宋(6),宋(125),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0122,陈克,陳克,55,75,songci(55),songshi(75),宋(55),宋(75),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0123,洪迈,洪邁,6,118,songci(6),songshi(118),宋(6),宋(118),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0124,張榘,张榘,59,50,songshi(59),songci(50),宋(59),宋(50),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0125,张矩,張榘,12,59,songci(12),songshi(59),宋(12),宋(59),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0126,薛师石,薛師石,7,114,songci(7),songshi(114),宋(7),宋(114),3,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（3 组，全文相同 3 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0127,赵孟坚,趙孟堅,11,106,songci(11),songshi(106),宋(11),宋(106),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0128,陈楠,陳楠,11,106,songci(11),songshi(106),宋(11),宋(106),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0129,胡铨,胡銓,16,100,songci(16),songshi(100),宋(16),宋(100),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0130,史达祖,史達祖,112,2,songci(112),songshi(2),宋(112),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0131,家铉翁,家鉉翁,3,110,songci(3),songshi(110),宋(3),宋(110),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0132,顾敻,顧敻,54,56,huajianji(54),tang(56),五代(54),唐(56),13,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（13 组，全文相同 7 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0133,卢祖皋,盧祖皋,96,13,songci(96),songshi(13),宋(96),宋(13),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0134,赵崇嶓,趙崇嶓,20,88,songci(20),songshi(88),宋(20),宋(88),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0135,钱惟演,錢惟演,2,106,songci(2),songshi(106),宋(2),宋(106),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0136,曾觌,曾覿,104,2,songci(104),songshi(2),宋(104),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0137,谢枋得,謝枋得,1,103,songci(1),songshi(103),宋(1),宋(103),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0138,陈郁,陳郁,4,100,songci(4),songshi(100),宋(4),宋(100),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0139,潘阆,潘閬,11,88,songci(11),songshi(88),宋(11),宋(88),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0140,蒋捷,蔣捷,97,2,songci(97),songshi(2),宋(97),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0141,吴儆,吳儆,29,65,songci(29),songshi(65),宋(29),宋(65),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0142,陈瓘,陳瓘,24,70,songci(24),songshi(70),宋(24),宋(70),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0143,徐经孙,徐經孫,5,88,songci(5),songshi(88),宋(5),宋(88),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0144,崔敦礼,崔敦禮,7,82,songci(7),songshi(82),宋(7),宋(82),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0145,吕颐浩,呂頤浩,1,85,songci(1),songshi(85),宋(1),宋(85),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0146,王谌,王諶,7,75,songci(7),songshi(75),宋(7),宋(75),2,SAME_POEM_IDENTICAL_TEXT,NONE,NAME_VARIANT_ONLY,文本重合 2 组中有 2 组同时出现在第三位作者名下（归属有争议），重合不能独立指向本对；仅余字形对应
+C1-0147,刘子寰,劉子寰,19,60,songci(19),songshi(60),宋(19),宋(60),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0148,史铸,史鑄,1,77,songci(1),songshi(77),宋(1),宋(77),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0149,张泌,張泌,27,49,huajianji(27),tang(48);tang300(1),五代(27),唐(49),10,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（10 组，全文相同 8 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0150,歐陽炯,欧陽炯,57,17,tang(57),huajianji(17),唐(57),五代(17),8,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（8 组，全文相同 7 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0151,牛峤,牛嶠,32,40,huajianji(32),tang(40),五代(32),唐(40),13,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（13 组，全文相同 10 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0152,张明中,張明中,1,70,songci(1),songshi(70),宋(1),宋(70),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0153,王沂孙,王沂孫,67,2,songci(67),songshi(2),宋(67),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0154,赵以夫,趙以夫,68,1,songci(68),songshi(1),宋(68),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0155,苏庠,蘇庠,23,43,songci(23),songshi(43),宋(23),宋(43),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0156,王安国,王安國,4,58,songci(3);wanqing(1),songshi(58),宋(3);清(1),宋(58),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0157,毛文锡,毛文錫,29,32,huajianji(29),tang(32),五代(29),唐(32),10,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（10 组，全文相同 7 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0158,陈尧佐,陳堯佐,1,59,songci(1),songshi(59),宋(1),宋(59),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0159,李刘,李劉,11,47,songci(11),songshi(47),宋(11),宋(47),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0160,康与之,康與之,43,13,songci(43),songshi(13),宋(43),宋(13),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0161,姚镛,姚鏞,1,54,songci(1),songshi(54),宋(1),宋(54),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0162,蒋堂,蔣堂,42,11,songshi(42),songshi(11),宋(42),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0163,李处全,李處全,47,5,songci(47),songshi(5),宋(47),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0164,赵令畤,趙令畤,38,14,songci(38),songshi(14),宋(38),宋(14),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0165,沈端节,沈端節,45,5,songci(45),songshi(5),宋(45),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0166,元绛,元絳,2,47,songci(2),songshi(47),宋(2),宋(47),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0167,李师中,李師中,3,46,wanqing(2);songci(1),songshi(46),清(2);宋(1),宋(46),0,NONE,NONE,UNRESOLVED,小样本侧（李师中）内部含 2 个朝代且与对侧主导朝代重叠，说明该 author_name 已混合多人，无法判定
+C1-0168,黄人杰,黄人傑,39,10,songci(39),songshi(10),宋(39),宋(10),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0169,罗椅,羅椅,4,44,songci(4),songshi(44),宋(4),宋(44),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0170,赵葵,趙葵,1,47,songci(1),songshi(47),宋(1),宋(47),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0171,赵希迈,趙希邁,2,45,songci(2),songshi(45),宋(2),宋(45),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0172,京镗,京鏜,43,3,songci(43),songshi(3),宋(43),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0173,张辑,張輯,44,2,songci(44),songshi(2),宋(44),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0174,王安礼,王安禮,3,43,songci(3),songshi(43),宋(3),宋(43),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0175,陈耆卿,陳耆卿,2,44,songci(2),songshi(44),宋(2),宋(44),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0176,刘埙,劉壎,30,15,songci(30),songshi(15),宋(30),宋(15),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0177,曹组,曹組,36,9,songci(36),songshi(9),宋(36),宋(9),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0178,张良臣,張良臣,2,42,songci(2),songshi(42),宋(2),宋(42),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0179,德诚,德誠,1,40,wanqing(1),tang(40),清(1),唐(40),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0180,黄升,黄昇,39,2,songci(39),songshi(2),宋(39),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0181,姚宽,姚寬,5,35,songci(5),songshi(35),宋(5),宋(35),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0182,罗愿,羅願,2,38,songci(2),songshi(38),宋(2),宋(38),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0183,黄公绍,黄公紹,30,10,songci(30),songshi(10),宋(30),宋(10),3,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（3 组，全文相同 3 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0184,薛昭蕴,薛昭藴,19,19,huajianji(19),tang(19),五代(19),唐(19),6,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（6 组，全文相同 2 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0185,王观,王觀,28,9,songci(28),songshi(8);tang(1),宋(28),宋(8);唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0186,张景修,張景脩,2,34,songci(2),songshi(34),宋(2),宋(34),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0187,邓剡,鄧剡,13,23,songci(13),songshi(23),宋(13),宋(23),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0188,陈东,陳東,4,32,songci(4),songshi(32),宋(4),宋(32),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0189,刘鉴,劉鑑,2,33,songci(2),songshi(33),宋(2),宋(33),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0190,王以宁,王以寧,32,3,songci(32),songshi(3),宋(32),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0191,严仁,嚴仁,30,4,songci(30),songshi(4),宋(30),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0192,宋自逊,宋自遜,7,27,songci(7),songshi(27),宋(7),宋(27),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0193,潘良贵,潘良貴,1,33,songci(1),songshi(33),宋(1),宋(33),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0194,孙锐,孫銳,2,31,songci(2),songshi(31),宋(2),宋(31),1,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（1 组，全文相同 1 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0195,梁栋,梁棟,3,30,songci(3),songshi(30),宋(3),宋(30),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0196,陈纪,陳紀,6,26,songci(6),songshi(26),宋(6),宋(26),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0197,吴栻,吳栻,4,27,wanqing(4),songshi(27),清(4),宋(27),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 宋）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0198,陈景沂,陳景沂,3,28,songci(3),songshi(28),宋(3),宋(28),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0199,储泳,儲泳,2,28,songci(2),songshi(28),宋(2),宋(28),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0200,刘望之,劉望之,3,26,songci(3),songshi(26),宋(3),宋(26),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0201,王采,王寀,12,16,songci(12),songshi(16),宋(12),宋(16),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0202,董颖,董穎,12,16,songci(12),songshi(16),宋(12),宋(16),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0203,万俟绍之,万俟紹之,4,23,songci(4),songshi(23),宋(4),宋(23),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0204,吴渊,吳淵,6,21,songci(6),songshi(21),宋(6),宋(21),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0205,冯取洽,馮取洽,24,2,songci(24),songshi(2),宋(24),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0206,牛希济,牛希濟,11,13,huajianji(11),tang(13),五代(11),唐(13),5,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（5 组，全文相同 0 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0207,蔡确,蔡確,1,23,songci(1),songshi(23),宋(1),宋(23),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0208,赵企,趙企,2,22,songci(2),songshi(22),宋(2),宋(22),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0209,刘泾,劉涇,2,21,songci(2),songshi(21),宋(2),宋(21),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0210,张枢,張樞,11,12,songci(11),songshi(12),宋(11),宋(12),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0211,王梦应,王夢應,5,18,songci(5),songshi(18),宋(5),宋(18),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0212,王诜,王詵,17,6,songci(17),songshi(6),宋(17),宋(6),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0213,许将,許將,2,21,songci(2),songshi(21),宋(2),宋(21),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0214,邵伯温,邵伯溫,2,21,songci(2),songshi(21),宋(2),宋(21),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0215,釋元淨,釋元凈,18,5,songshi(18),songshi(5),宋(18),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0216,陈亚,陳亞,4,19,songci(4),songshi(19),宋(4),宋(19),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0217,张氏,張氏,14,8,yuanqu(8);wanqing(6),songshi(6);tang(2),元(8);清(6),宋(6);唐(2),0,NONE,NONE,UNRESOLVED,署名以“姓氏+氏”形式出现（家族/女性通称），同名者不止一人，不能作为单一人物身份
+C1-0218,王易简,王易簡,7,15,songci(7),songshi(14);tang(1),宋(7),宋(14);唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0219,翁元龙,翁元龍,20,2,songci(20),songshi(2),宋(20),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0220,萧元之,蕭元之,3,19,songci(3),songshi(19),宋(3),宋(19),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0221,郑域,鄭域,11,11,songci(11),songshi(11),宋(11),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0222,史鉴,史鑑,1,20,wanqing(1),mingshi(20),清(1),明(20),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0223,吕希纯,呂希純,1,20,songci(1),songshi(20),宋(1),宋(20),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0224,孙惟信,孫惟信,11,10,songci(11),songshi(10),宋(11),宋(10),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0225,张穆,張穆,18,3,wanqing(18),mingshi(3),清(18),明(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0226,张绍文,張紹文,4,17,songci(4),songshi(17),宋(4),宋(17),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0227,曾纡,曾紆,9,12,songci(9),songshi(12),宋(9),宋(12),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0228,杜仁杰,杜仁傑,20,1,yuanqu(20),tang(1),元(20),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（元 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0229,楊凌,楊淩,20,1,tang(20),tang(1),唐(20),唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0230,黄叔达,黄叔達,1,20,songci(1),songshi(20),宋(1),宋(20),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0231,吴势卿,吳勢卿,1,19,songci(1),songshi(19),宋(1),宋(19),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0232,张表臣,張表臣,2,18,songci(2),songshi(18),宋(2),宋(18),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0233,李适,李適,1,18,tang(1),tang(18),唐(1),唐(18),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0234,罗志仁,羅志仁,7,12,songci(7),songshi(12),宋(7),宋(12),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0235,陈晔,陳曄,4,15,songci(4),songshi(15),宋(4),宋(15),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0236,刘焘,劉燾,11,7,songci(11),songshi(7),宋(11),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0237,吴山,吳山,15,3,wanqing(15),songshi(3),清(15),宋(3),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 宋）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0238,徐宝之,徐寶之,4,14,songci(4),songshi(14),宋(4),宋(14),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0239,方维仪,方維儀,12,6,wanqing(12),mingshi(6),清(12),明(6),3,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（3 组，全文相同 1 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0240,谢直,謝直,1,17,songci(1),songshi(17),宋(1),宋(17),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0241,阎选,閻選,8,10,huajianji(8),tang(10),五代(8),唐(10),5,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（5 组，全文相同 4 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0242,张翰,張翰,1,16,wanqing(1),gushiji(16),清(1),魏晋南北朝(16),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 魏晋南北朝）但少数侧<3 条，无法区分同名异人与误标
+C1-0243,王涣,王渙,1,16,songci(1),tang(14);songshi(2),宋(1),唐(14);宋(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0244,章谦亨,章謙亨,9,8,songci(9),songshi(8),宋(9),宋(8),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0245,谢绛,謝絳,3,14,songci(3),songshi(14),宋(3),宋(14),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0246,陈知柔,陳知柔,1,16,songci(1),songshi(16),宋(1),宋(16),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0247,黄载,黄載,5,12,songci(5),songshi(12),宋(5),宋(12),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0248,俞国宝,俞國寶,14,2,songci(14),songshi(2),宋(14),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0249,冯去非,馮去非,3,13,songci(3),songshi(13),宋(3),宋(13),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0250,吕同老,呂同老,4,12,songci(4),songshi(12),宋(4),宋(12),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0251,岳飞,岳飛,3,13,songci(3),songshi(13),宋(3),宋(13),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0252,张宣,張宣,4,12,wanqing(4),mingshi(12),清(4),明(12),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0253,朱晞颜,朱晞顔,1,15,songci(1),songshi(15),宋(1),宋(15),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0254,杨绘,楊繪,1,15,songci(1),songshi(15),宋(1),宋(15),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0255,江万里,江萬里,1,15,songci(1),songshi(15),宋(1),宋(15),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0256,纪映钟,紀映鍾,9,7,wanqing(9),mingshi(7),清(9),明(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0257,孫升,孫陞,13,2,songshi(13),mingshi(2),宋(13),明(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 明）但少数侧<3 条，无法区分同名异人与误标
+C1-0258,赵福元,趙福元,5,10,songci(5),songshi(10),宋(5),宋(10),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0259,赵闻礼,趙聞禮,14,1,songci(14),songshi(1),宋(14),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0260,吴师孟,吳師孟,1,13,songci(1),songshi(13),宋(1),宋(13),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0261,王铎,王鐸,8,6,wanqing(8),tang(5);songshi(1),清(8),唐(5);宋(1),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 唐）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0262,莫将,莫將,13,1,songci(13),songshi(1),宋(13),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0263,韩绛,韓絳,1,13,songci(1),songshi(13),宋(1),宋(13),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0264,黄云,黄雲,5,9,wanqing(5),mingshi(9),清(5),明(9),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0265,黄铢,黄銖,3,11,songci(3),songshi(11),宋(3),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0266,龚大明,龔大明,6,8,songci(6),songshi(8),宋(6),宋(8),1,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（1 组，全文相同 1 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0267,厉寺正,厲寺正,1,12,songci(1),songshi(12),宋(1),宋(12),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0268,叶清臣,葉清臣,2,11,songci(2),songshi(11),宋(2),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0269,常衮,常袞,10,3,tang(10),tang(3),唐(10),唐(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0270,徐冲渊,徐沖淵,1,12,songci(1),songshi(12),宋(1),宋(12),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0271,徐坚,徐堅,2,11,wanqing(2),tang(11),清(2),唐(11),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0272,李朴,李樸,12,1,songshi(11);songci(1),songshi(1),宋(12),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0273,釋鑒,釋鑑,12,1,songshi(12),songshi(1),宋(12),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0274,黄大临,黄大臨,3,10,songci(3),songshi(10),宋(3),宋(10),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0275,庞籍,龐籍,1,11,songci(1),songshi(11),宋(1),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0276,张浚,張浚,1,11,songci(1),songshi(11),宋(1),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0277,朱涣,朱渙,2,10,songci(2),songshi(10),宋(2),宋(10),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0278,滕宗谅,滕宗諒,1,11,songci(1),songshi(11),宋(1),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0279,甄龙友,甄龍友,4,8,songci(4),songshi(8),宋(4),宋(8),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0280,苏易简,蘇易簡,1,11,songci(1),songshi(11),宋(1),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0281,赵某,趙某,1,11,songci(1),songshi(11),宋(1),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0282,陈诜,陳詵,1,11,songci(1),songshi(11),宋(1),宋(11),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0283,杨景,楊景,1,10,songci(1),songshi(10),宋(1),宋(10),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0284,翁溪园,翁溪園,5,6,songci(5),songshi(6),宋(5),宋(6),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0285,范致虚,范致虛,1,10,songci(1),songshi(10),宋(1),宋(10),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0286,萧泰来,蕭泰來,2,9,songci(2),songshi(9),宋(2),宋(9),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0287,黄简,黄簡,3,8,songci(3),songshi(8),宋(3),宋(8),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0288,孙道绚,孫道絢,8,2,songci(8),songshi(2),宋(8),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0289,徐延寿,徐延壽,7,3,wanqing(7),tang(3),清(7),唐(3),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 唐）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0290,歐陽衮,歐陽袞,9,1,tang(9),tang(1),唐(9),唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0291,熊以宁,熊以寧,3,7,songci(3),songshi(7),宋(3),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0292,谢应芳,謝應芳,1,9,yuanqu(1),mingshi(9),元(1),明(9),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0293,陈居仁,陳居仁,1,9,songci(1),songshi(9),宋(1),宋(9),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0294,关注,關注,3,6,songci(3),songshi(6),宋(3),宋(6),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0295,宝月,寶月,8,1,songci(8),tang(1),宋(8),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0296,左誉,左譽,3,6,songci(3),songshi(6),宋(3),宋(6),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0297,张洵,張洵,8,1,wanqing(8),songshi(1),清(8),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0298,张琦,張琦,2,7,wanqing(2),mingshi(7),清(2),明(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0299,张谦,張謙,8,1,wanqing(8),mingshi(1),清(8),明(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0300,杨鸾,楊鸞,8,1,wanqing(8),tang(1),清(8),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0301,王齐愈,王齊愈,8,1,songci(8),songshi(1),宋(8),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0302,邓有功,鄧有功,2,7,songci(2),songshi(7),宋(2),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0303,韩缜,韓縝,1,8,songci(1),songshi(8),宋(1),宋(8),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0304,颜博文,顔博文,2,7,songci(2),songshi(7),宋(2),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0305,顾若璞,顧若璞,8,1,wanqing(8),mingshi(1),清(8),明(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0306,马光祖,馬光祖,1,8,songci(1),songshi(8),宋(1),宋(8),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0307,东方朔,東方朔,7,1,chuci(7),gushiji(1),先秦(7),汉魏(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0308,刘克逊,劉克遜,1,7,songci(1),songshi(7),宋(1),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0309,刘清之,劉清之,2,6,songci(2),songshi(6),宋(2),宋(6),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0310,刘褒,劉褒,5,3,songci(5),songshi(3),宋(5),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0311,刘述,劉述,1,7,songci(1),songshi(7),宋(1),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0312,叶巽斋,葉巽齋,1,7,songci(1),songshi(7),宋(1),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0313,吴大有,吳大有,1,7,songci(1),songshi(7),宋(1),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0314,张元,張元,4,4,wanqing(4),songshi(4),清(4),宋(4),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 宋）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0315,東方虬,東方虯,5,3,tang(5),tang(3),唐(5),唐(3),1,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一总集内部两个编排位置使用两种写法（1 组，全文相同 1 组），属总集内重复收录；非独立证据
+C1-0316,王锡,王錫,6,2,wanqing(6),gushiji(2),清(6),魏晋南北朝(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 魏晋南北朝）但少数侧<3 条，无法区分同名异人与误标
+C1-0317,留元刚,留元剛,1,7,songci(1),songshi(7),宋(1),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0318,芮烨,芮燁,1,7,songci(1),songshi(7),宋(1),宋(7),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0319,邹应龙,鄒應龍,6,2,songci(6),songshi(2),宋(6),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0320,陈景元,陳景元,7,1,wanqing(7),songshi(1),清(7),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0321,刘氏,劉氏,2,5,songci(1);wanqing(1),songshi(5),宋(1);清(1),宋(5),0,NONE,NONE,UNRESOLVED,署名以“姓氏+氏”形式出现（家族/女性通称），同名者不止一人，不能作为单一人物身份
+C1-0322,刘澜,劉瀾,4,3,songci(4),songshi(3),宋(4),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0323,刘藻,劉藻,6,1,wanqing(6),songshi(1),清(6),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0324,叶秀发,葉秀發,1,6,songci(1),songshi(6),宋(1),宋(6),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0325,张时,張時,1,6,songci(1),mingshi(6),宋(1),明(6),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 明）但少数侧<3 条，无法区分同名异人与误标
+C1-0326,张深,張深,6,1,wanqing(6),songshi(1),清(6),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0327,徐介轩,徐介軒,1,6,songci(1),songshi(6),宋(1),宋(6),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0328,王复,王復,6,1,wanqing(6),songshi(1),清(6),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0329,王讚,王贊,5,2,gushiji(4);wenxuan(1),songshi(2),魏晋南北朝(5),宋(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（魏晋南北朝 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0330,苏氏,蘇氏,6,1,songci(6),songshi(1),宋(6),宋(1),0,NONE,NONE,UNRESOLVED,署名以“姓氏+氏”形式出现（家族/女性通称），同名者不止一人，不能作为单一人物身份
+C1-0331,陆淞,陸淞,2,5,songci(2),songshi(5),宋(2),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0332,陈善,陳善,1,6,songci(1),songshi(6),宋(1),宋(6),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0333,严参,嚴參,2,4,songci(2),songshi(4),宋(2),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0334,刘几,劉几,4,2,songci(4),songshi(2),宋(4),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0335,刘沆,劉沆,1,5,songci(1),songshi(5),宋(1),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0336,刘浚,劉浚,1,5,songci(1),songshi(5),宋(1),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0337,劉皂,劉皁,5,1,tang(5),tang(1),唐(5),唐(1),1,SAME_POEM_IDENTICAL_TEXT,NONE,NAME_VARIANT_ONLY,文本重合 1 组中有 1 组同时出现在第三位作者名下（归属有争议），重合不能独立指向本对；仅余字形对应
+C1-0338,咏怀,詠懷,2,4,wanqing(2),mingshi(4),清(2),明(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0339,孙谔,孫諤,1,5,wanqing(1),songshi(5),清(1),宋(5),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0340,张震,張震,5,1,songci(5),tang(1),宋(5),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0341,李坚,李堅,1,5,wanqing(1),songshi(5),清(1),宋(5),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0342,李简,李簡,1,5,wanqing(1),songshi(5),清(1),宋(5),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0343,李邦献,李邦獻,1,5,songci(1),songshi(5),宋(1),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0344,虞刚简,虞剛簡,1,5,songci(1),songshi(5),宋(1),宋(5),1,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（1 组，全文相同 0 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0345,赵汝迕,趙汝迕,1,5,songci(1),songshi(5),宋(1),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0346,阎苍舒,閻蒼舒,1,5,songci(1),songshi(5),宋(1),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0347,陈,陳,4,2,songci(4),mingshi(2),宋(4),明(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 明）但少数侧<3 条，无法区分同名异人与误标
+C1-0348,陈从古,陳從古,1,5,songci(1),songshi(5),宋(1),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0349,陈康伯,陳康伯,2,4,songci(2),songshi(4),宋(2),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0350,韩信同,韓信同,1,5,songci(1),songshi(5),宋(1),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0351,黄师参,黄師參,1,5,songci(1),songshi(5),宋(1),宋(5),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0352,倪涛,倪濤,1,4,wanqing(1),songshi(4),清(1),宋(4),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0353,吴璜,吳璜,3,2,wanqing(3),mingshi(2),清(3),明(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0354,张焘,張燾,2,3,songci(2),songshi(2);mingshi(1),宋(2),宋(2);明(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0355,张端义,張端義,1,4,songci(1),songshi(4),宋(1),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0356,徐俨夫,徐儼夫,1,4,songci(1),songshi(4),宋(1),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0357,徐谦,徐謙,3,2,wanqing(3),tang(2),清(3),唐(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0358,曹希蕴,曹希藴,2,3,songci(2),songshi(3),宋(2),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0359,李义山,李義山,1,4,songci(1),songshi(4),宋(1),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0360,杨晨,楊晨,4,1,wanqing(4),songshi(1),清(4),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0361,杨氏,楊氏,1,4,songci(1),songshi(3);tang(1),宋(1),宋(3);唐(1),0,NONE,NONE,UNRESOLVED,署名以“姓氏+氏”形式出现（家族/女性通称），同名者不止一人，不能作为单一人物身份
+C1-0362,杨浚,楊浚,2,3,wanqing(2),tang(3),清(2),唐(3),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0363,杨炳,楊炳,4,1,wanqing(4),songshi(1),清(4),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0364,王九龄,王九齡,3,2,wanqing(3),songshi(2),清(3),宋(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0365,羅衮,羅袞,3,2,tang(3),tang(2),唐(3),唐(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0366,胡世将,胡世將,1,4,songci(1),songshi(4),宋(1),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0367,蒋璨,蔣璨,1,4,songci(1),songshi(4),宋(1),宋(4),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0368,陈以庄,陳以莊,3,2,songci(3),songshi(2),宋(3),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0369,陈均,陳均,1,4,wanqing(1),songshi(4),清(1),宋(4),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0370,陈毅,陳毅,3,2,wanqing(3),songshi(2),清(3),宋(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0371,陈氏,陳氏,1,4,wanqing(1),songshi(4),清(1),宋(4),0,NONE,NONE,UNRESOLVED,署名以“姓氏+氏”形式出现（家族/女性通称），同名者不止一人，不能作为单一人物身份
+C1-0372,陈玨,陳玨,2,3,wanqing(2),songshi(3),清(2),宋(3),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0373,陳塤,陳壎,4,1,songshi(4),songshi(1),宋(4),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0374,刘侃,劉侃,3,1,wanqing(3),mingshi(1),清(3),明(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0375,卢氏,盧氏,1,3,songci(1),songshi(3),宋(1),宋(3),0,NONE,NONE,UNRESOLVED,署名以“姓氏+氏”形式出现（家族/女性通称），同名者不止一人，不能作为单一人物身份
+C1-0376,叶李,葉李,1,3,songci(1),songshi(3),宋(1),宋(3),1,SAME_POEM_IDENTICAL_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（1 组，全文相同 1 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0377,吴亿,吳億,2,2,songci(2),songshi(2),宋(2),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0378,吴某,吳某,1,3,songci(1),songshi(3),宋(1),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0379,吴炯,吳炯,1,3,wanqing(1),songshi(3),清(1),宋(3),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0380,张复,張復,1,3,wanqing(1),songshi(2);tang(1),清(1),宋(2);唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0381,张幼谦,張幼謙,3,1,songci(3),songshi(1),宋(3),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0382,张璨,張璨,1,3,wanqing(1),mingshi(3),清(1),明(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0383,张瓒,張瓚,2,2,wanqing(2),songshi(1);zhongzhou(1),清(2),宋(1);金(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0384,张铸,張鑄,2,2,wanqing(2),songshi(2),清(2),宋(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0385,智圆,智圓,3,1,wanqing(3),mingshi(1),清(3),明(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0386,李亿,李億,3,1,songci(3),songshi(1),宋(3),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0387,杜东,杜東,1,3,songci(1),songshi(3),宋(1),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0388,沈长卿,沈長卿,1,3,songci(1),songshi(3),宋(1),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0389,漫兴,漫興,1,3,wanqing(1),mingshi(3),清(1),明(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0390,王无咎,王無咎,1,3,wanqing(1),songshi(3),清(1),宋(3),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0391,王鑒,王鑑,3,1,gushiji(3),tang(1),魏晋南北朝(3),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（魏晋南北朝 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0392,纪映淮,紀映淮,2,2,wanqing(2),mingshi(2),清(2),明(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0393,罗泰,羅泰,3,1,wanqing(3),tang(1),清(3),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0394,苏琼,蘇瓊,1,3,songci(1),mingshi(3),宋(1),明(3),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 明）但少数侧<3 条，无法区分同名异人与误标
+C1-0395,贾昌朝,賈昌朝,1,3,songci(1),songshi(3),宋(1),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0396,赵溍,趙溍,2,2,songci(2),songshi(2),宋(2),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0397,郑炎,鄭炎,3,1,wanqing(3),songshi(1),清(3),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0398,陈垲,陳塏,1,3,songci(1),songshi(3),宋(1),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0399,陈睦,陳睦,2,2,songci(2),songshi(2),宋(2),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0400,陈邦彦,陳邦彦,1,3,wanqing(1),mingshi(3),清(1),明(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0401,韦居安,韋居安,1,3,songci(1),songshi(3),宋(1),宋(3),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0402,韩世忠,韓世忠,2,2,songci(2),songshi(2),宋(2),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0403,顧祿,顧禄,2,2,songshi(2),mingshi(2),宋(2),明(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 明）但少数侧<3 条，无法区分同名异人与误标
+C1-0404,黄夷簡,黃夷簡,3,1,songshi(3),tang(1),宋(3),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0405,龚贤,龔賢,3,1,wanqing(3),mingshi(1),清(3),明(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0406,关咏,關詠,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0407,刘子实,劉子實,2,1,songci(2),songshi(1),宋(2),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0408,刘季裴,劉季裴,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0409,刘应李,劉應李,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0410,刘彤,劉彤,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0411,刘珙,劉珙,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0412,刘锡,劉錫,1,2,wanqing(1),songshi(2),清(1),宋(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0413,双渐,雙漸,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0414,孙吴会,孫吳會,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0415,张嗣初,張嗣初,1,2,songci(1),tang(2),宋(1),唐(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0416,张宰,張宰,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0417,张度,張度,2,1,wanqing(2),songshi(1),清(2),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0418,张林,張林,2,1,songci(2),tang(1),宋(2),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0419,张灿,張燦,2,1,wanqing(2),tang(1),清(2),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0420,方维则,方維則,1,2,wanqing(1),mingshi(2),清(1),明(2),1,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（1 组，全文相同 0 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0421,曹修古,曹脩古,2,1,songshi(2),tang(1),宋(2),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0422,曾晞颜,曾晞顔,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0423,李浃,李浹,2,1,wanqing(2),songshi(1),清(2),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0424,李颙,李顒,1,2,wanqing(1),songshi(2),清(1),宋(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0425,汤思退,湯思退,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0426,王孝严,王孝嚴,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0427,王恽,王惲,2,1,yuanqu(2),songshi(1),元(2),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（元 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0428,王绹,王綯,2,1,songshi(2),songshi(1),宋(2),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0429,程准,程準,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0430,闻人武子,聞人武子,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0431,范智闻,范智聞,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0432,许氏,許氏,1,2,wanqing(1),songshi(2),清(1),宋(2),0,NONE,NONE,UNRESOLVED,署名以“姓氏+氏”形式出现（家族/女性通称），同名者不止一人，不能作为单一人物身份
+C1-0433,赵居貞,趙居貞,2,1,tang(2),tang(1),唐(2),唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0434,郭远,郭遠,2,1,wanqing(2),songshi(1),清(2),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0435,钱敬淑,錢敬淑,1,2,wanqing(1),mingshi(2),清(1),明(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0436,阮秀实,阮秀實,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0437,陈汝羲,陳汝羲,1,2,songci(1),songshi(2),宋(1),宋(2),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0438,陈范,陳範,1,2,wanqing(1),songshi(2),清(1),宋(2),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0439,陈逢辰,陳逢辰,2,1,songci(2),songshi(1),宋(2),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0440,韩氏,韓氏,1,2,wanqing(1),tang(2),清(1),唐(2),0,NONE,NONE,UNRESOLVED,署名以“姓氏+氏”形式出现（家族/女性通称），同名者不止一人，不能作为单一人物身份
+C1-0441,黄大舆,黄大輿,2,1,songci(2),songshi(1),宋(2),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0442,黄铸,黄鑄,2,1,songci(2),songshi(1),宋(2),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0443,龚炳,龔炳,2,1,wanqing(2),songshi(1),清(2),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0444,万某,萬某,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0445,刘,劉,1,1,songci(1),mingshi(1),宋(1),明(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 明）但少数侧<3 条，无法区分同名异人与误标
+C1-0446,刘震孙,劉震孫,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0447,劉义,劉義,1,1,tang(1),tang(1),唐(1),唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0448,史弥巩,史彌鞏,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0449,叶祖义,葉祖義,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0450,叶隆礼,葉隆禮,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0451,吴感,吳感,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0452,吴浩,吳浩,1,1,wanqing(1),songshi(1),清(1),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0453,吴申,吳申,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0454,张珍奴,張珍奴,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0455,张绍,張紹,1,1,wanqing(1),tang(1),清(1),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0456,張修之,張脩之,1,1,tang(1),tang(1),唐(1),唐(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0457,时彦,時彥,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0458,杨元亨,楊元亨,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0459,杨舜举,楊舜舉,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0460,江汉,江漢,1,1,songci(1),mingshi(1),宋(1),明(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 明）但少数侧<3 条，无法区分同名异人与误标
+C1-0461,江纬,江緯,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0462,灵照,靈照,1,1,wanqing(1),tang(1),清(1),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0463,王元复,王元復,1,1,wanqing(1),songshi(1),清(1),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0464,范宽之,范寬之,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0465,行刚,行剛,1,1,wanqing(1),mingshi(1),清(1),明(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0466,邵缉,邵緝,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0467,郑斗焕,鄭斗煥,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0468,陈合,陳合,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0469,陈成之,陳成之,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0470,陈良翰,陳良翰,1,1,wanqing(1),songshi(1),清(1),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0471,隐者,隱者,1,1,wanqing(1),tang(1),清(1),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（清 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0472,韩准,韓準,1,1,songci(1),songshi(1),宋(1),宋(1),0,NONE,NONE,NAME_VARIANT_ONLY,无文本重合；朝代由 collection 先验推导（authors.note 已声明未与史传核对），不计为身份证据；仅余字形对应，只能登记为候选
+C1-0473,黄台,黃台,1,1,songshi(1),tang(1),宋(1),唐(1),1,SAME_POEM_VARIANT_TEXT,NONE,SAME_PERSON_SUPPORTED,同一作品在 2 个不同总集分别署两种写法（1 组，全文相同 0 组），属跨总集重复收录；无史传/别集/字号/编者注佐证，故只到 SUPPORTED
+C1-0474,黃子稜,黄子稜,1,1,tang(1),songshi(1),唐(1),宋(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（唐 vs 宋）但少数侧<3 条，无法区分同名异人与误标
+C1-0475,黄璞,黃璞,1,1,songshi(1),tang(1),宋(1),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标
+C1-0476,黄麟,黃麟,1,1,songshi(1),tang(1),宋(1),唐(1),0,NONE,NONE,UNRESOLVED,两侧时代互斥（宋 vs 唐）但少数侧<3 条，无法区分同名异人与误标

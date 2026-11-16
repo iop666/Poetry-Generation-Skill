@@ -1,0 +1,12 @@
+{
+ "sample200": 200,
+ "sample_status": {
+  "SOURCE_UNAVAILABLE": 20,
+  "RECOVERABLE_TITLE_CARRIES_LYRIC": 100,
+  "SOURCE_TEXT_COMPLETE": 80
+ },
+ "recovery_candidates": 100,
+ "confidence": {
+  "HIGH": 100
+ }
+}

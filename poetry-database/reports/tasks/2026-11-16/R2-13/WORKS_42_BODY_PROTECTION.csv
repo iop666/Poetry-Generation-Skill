@@ -1,0 +1,43 @@
+﻿work_id,title,author,class_r2_12,normalization_impact,raw_han_len,norm_han_len,body_han_len,n_variants,n_annotations,n_editorial,n_no_bracket_fixed,n_unresolved,nested_brackets,segment_status,body_head
+tang:256516182ce3,故都,羅隱,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,28,24,28,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,江南江北兩風流，一作迷津一拜侯。 至竟不如隋煬帝，破家猶得到揚州。
+tang:28a269570008,西明寺牡丹花時憶元九,白居易,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,50,46,50,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,前年題名處，今日看花來。 一作芸香吏，三見牡丹開。 豈獨花堪惜，方知老闇催。 何況尋花伴，東都去未迴。 詎知紅芳側，春盡
+tang:4eb85ca81970,春日書懷寄朐山孫明府,李中,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,40,40,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作邊城客，閑門兩度春。 鶯花深院雨，書劒滿牀塵。 紫閣期終負，青雲道未伸。 猶憐陶靖節，詩酒每相親。
+tang:58b1b5953427,戲題春意,張九齡,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,40,40,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作江南守，江林三四春。 相鳴不及鳥，相樂喜關人。 日守朱絲直，年催華髮新。 淮陽秪有臥，持此度芳辰。
+tang:59ff2e94e4dd,重寄虬上人,儲光羲,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,40,40,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作雲峰別，三看花柳朝。 青山隔遠路，明月空長霄。 鵲浴西江雨，雞鳴東海潮。 此情勞夢寐，況道雙林遙。
+tang:83d0d782f83b,《灌畦暇語》引常言,佚名,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,12,12,8,0,1,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作一止，知人表裏。 。
+tang:cb582f199cd4,和元帥書記蕭郎中觀習水師,徐鉉,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,56,52,56,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,元帥樓船出治兵，落星山外火旗明。 千帆日助江陵勢，萬里風馳下瀨聲。 殺氣曉嚴波上鷁，凱歌遙駭海邊鯨。 仲宣一作從軍詠，迴
+tang:de7dcc17d6fa,夜泊湘江,于武陵,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,40,36,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,北風吹楚樹，此地獨先秋。 何事屈原恨，不隨湘水流。 涼天生片月，竟夕伴孤舟。 一作南行客，無成空白頭。
+songshi:00d08b2f940d,交游,郭祥正,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,40,40,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作閩南客，幽憂忽過春。 交游半卿相，蹤跡自埃塵。 未附垂天翼，空成涸轍鱗。 吾廬松菊在，悵望熟溪濱。
+songshi:04232b0c20e0,雲臺寺梅坡  其一,陳宓,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,28,24,28,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,不是騷人親手栽，如何一一作詩謀。 世間那用香如許，應有仙真夜往來。
+songshi:089ff9239410,盤沙行,任希夷,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,143,139,143,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,錢塘江狹沙成路，潮水來時人欲渡。 沙隨浪沒未容知，人恐潮迴且爭去。 倉皇競同蜂螘奔，只尺直恐蛟鼉怒。 狂風一作浪如屋，可
+songshi:0a6f92f05cdf,與元輿論詩而風雨驟至,郭祥正,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,40,40,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作城頭飲，重論别後詩。 倐然雲雨至，應有鬼神悲。 敘事公偏富，求聲我最知。 賡酬三百首，餘韻付咸池。
+songshi:0da6b86516a7,墨牛圖  其一,許景衡,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,28,24,28,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一牛動是萬錢值，墨指一作何紛綸。 安得田家真有此，坐令四海無饑民。
+songshi:2dff131bdf1b,思蜀四首  其二,陸游,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,40,40,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作劍關客，閑逰將十年。 不嫌狂駭俗，自許醉知天。 瑞草溪橋路，青衣野廟壖。 霜天獵歸處，萬里入横鞭。
+songshi:350defe63674,感懷贈鄂守李公擇,郭祥正,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,370,366,350,0,0,2,0,1,NO,NEEDS_REVIEW,君顔削寒冰，君心抱堅玉。 自甘正諫黜，不受公議辱。 請言會面初，遭艱守窮屋。 屋臨修水陽，蓬門入深竹。 伯季止三人，羣書
+songshi:3db1b0bd5b5a,賑荒到天台有作二首  其一,李琪,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,55,51,55,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,我亦田夫偶得官，深知茅屋有饑寒。 紛然遮道呻吟狀，一作同胞疾痛觀。 水際山陬多隠瘼，風餐雨宿敢圖安。 破襦裹米皆王□，粒
+songshi:642a70e6e494,送王覃,王安石,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,56,52,56,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,分走人間十五年，塵沙吹鬢各蒼然。 山林渺渺長回首，兒女紛紛忽滿前。 知子有才思奮發，嗟余無地與迴旋。 相看一作秦吳別，身
+songshi:69d57c321b87,孫傳師密學挽辭  其四,釋道潜,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,40,36,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,伯仲持哀日，余方傾蓋初。 炷香翻貝葉，酌茗飯園蔬。 一作邗溝別，空傳桂嶺書。 升堂揖遺像，回首意何如。
+songshi:7d904605b607,採藤曲效王建體,唐庚,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,98,94,98,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,魯人酒薄邯鄲圍，西河渡橋南越悲。 歲調紅藤百萬計，此古一作無窮時。 去年採藤藤已乏，今年採藤藤轉竭。 入山十日脱身歸，新
+songshi:80e17d05fd7b,枕上有感呈呂子約,袁燮,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,100,96,100,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,俗學淺無源，澗谷纔咫尺。 志士務廣深，滄溟渺難測。 俗子一作吏，書几塵土積。 志士雖涖官，羣書玩無斁。 廢書固俗子，既俗
+songshi:90ef2dd4860a,臘八日書齋早起南鄰方智善送粥方雪寒欣然盡之因成小詩,王洋,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,98,94,98,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,臘月八日梁宋俗，家家相傳侑僧粥。 栗桃棗柿雜甘香，蓤椇芝栭俱不錄。 金僊託言成道時，不認饕饞借稱目。 誰謂毗耶清淨身，何
+songshi:912f4f03b0bd,秋雲,歐陽澈,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,56,52,56,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,數片悠揚出遠山，擬爲霖雨霈塵寰。 未乘風雨吹嘘便，驀被曦輪照爍還。 心在蒼生常欲起，蹤歸深岫暫投閒。 油然一作施膏澤，始
+songshi:966b33472465,往在都下時與鄒德章兵部同居百官宅無日不相從僕來佐豫章而德章亦謫高安感事述懷作歌奉,陸游,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,168,164,154,0,0,1,0,1,NO,NEEDS_REVIEW,巷南巷北秋月明，東家西家讀書聲。 官閑出局各無事，冷落往往思同盟。 黄中掀髯語激烈，韶美堅坐書縱横。 子充清言喜置酒，赤
+songshi:9d56506aa8d3,上致用院李同知論海舶,熊禾,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,520,516,520,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,易經致民用，肇自羲農先。 耒耜既生聚，市易還懋遷。 公私不交病，本末無倒懸。 古人致主術，稱物靡有偏。 厥初禹作貢，不但
+songshi:ab78f7a85438,都下無憂館小樓春盡旅懷二首  其二,楊萬里,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,28,24,28,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,不關老去願春遲，只恨春歸我未歸。 最是楊花欺客子，向人一一作西飛。
+songshi:aca6afb8f337,登烏龍山寺閣,張伯玉,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,120,116,120,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,桐川本無塵，況此幽閣逈。 萬木含秋聲，一軒與天浄。 前峯翠分滴，後谷語相應。 檻下江雲歸，檐前古雪凝。 巖僧對游客，湛若
+songshi:ad8c1f48c6fd,贈穎師,王洋,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,160,156,160,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,昔有二大士，比跡相差池。 一隱盧老堂，一作貧舍兒。 任緣本無意，音韻偶追隨。 髙唱既絕詣，豹隱那得窺。 穎公實靜者，妙賞
+songshi:b0dedc13c731,木芙蓉  其二,宋祁,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,20,20,20,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作淮南守，再逢霜艷新。 花前今日酒，却是去年人。
+songshi:b689448408a2,偈頌一百零三首  其五二,釋月磵,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,39,35,39,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,識得一，萬事畢，畢竟一作麽生識。 不用天涯海角尋，日用當機明歷歷。 諸人若更遲疑，分明爲汝指出。
+songshi:bb0cca861123,溪流,廖行之,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,56,52,56,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,溪流一作神仙遇，歲歲桃花落復開。 誰控空巖守奇鬼，豈唯塵俗到雲來。 彭澤昌黎一是非，悠悠千古謾傳疑。 蒼崖何物扃巖竇，獨
+songshi:be01c815da8f,和元帥書記蕭郎中觀習水師,徐鉉,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,56,52,56,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,元帥樓船出治兵，落星山外火旗明。 千帆日助江陵勢，萬里風馳下瀨聲。 殺氣曉嚴波上鷁，凱歌遥駭海邊鯨。 仲宣一作從軍詠，迴
+songshi:cb658dabbd5d,書合論後,鄒浩,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,100,96,100,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,華嚴佛菩薩，悲智咸徧周。 廣開方便門，主伴互酬請。 於無言說中，說法無數量。 我讀誦思惟，獲從信根入。 闇逢照世燈，病遇
+songshi:d934ac96f58a,使遼作十四首  其九,劉跂,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,40,40,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作重山去，頻看破鏡飛。 長悲青塚怨，莫忘白登圍。 禮覺周旋異，心知笑語非。 南飛何處鳥，安得與俱歸。
+songshi:dfb02508e55f,徐招幹請喫鱖魚桐皮,趙萬年,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,28,24,28,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,簷外桃花片片飛，垂涎漢水鱖魚肥。 桐皮一作饑腸飽，似得精兵解虜圍。
+songshi:e0c693072a11,題錢少愚四畫 釣雪,周紫芝,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,20,20,20,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作東吳去，回頭又十年。 可憐江上雪，空落釣魚船。
+songshi:f4d04e5fe6de,望夫山,梅堯臣,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,40,36,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,亭亭千古質，曾是念征夫。 一作山頭石，畏看天際途。 猶如託蘿蔓，不似采蘼蕪。 時有江雲近，僊衣挂六銖。
+songshi:f959e7297aa4,次韻鄭固道侍郎見寄長句二首  其一,汪藻,POEM_BODY,BODY_PRESERVED|NOTE_RETAINED,40,40,40,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,一作班荆别，秋風幾度涼。 論文隔尊俎，得句夢池塘。 歲晚思傾蓋，情親比陟岡。 若爲生羽翼，千里到君旁。
+wanqing:3fedb524017f,鸡鸣歌,潘德舆,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,76,72,76,0,0,0,0,0,NO,TEXT_STRUCTURE_CONFIRMED,万物冥冥，雄鸡一声。鸡声一作，天地清廓。天地清兮日当中，雄鸡声声声满空。空中百鸟聋瞆浪言语，天以鸡为晨昏之钟鼓。大声中宫
+wanqing:d0a5e2a10f10,除夕祭诗侑以三百六十字,江湜,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,360,356,360,0,0,0,0,0,NO,TEXT_STRUCTURE_CONFIRMED,昔人创祭诗，岁暮例一作。我诗虽不工，颇亦出心腹。闲庭少尘事，清供役童仆。微闻古梅香，发此春筍束。悲欢纪踪迹，聊可岁华读。
+wanqing:e193c564b8e4,新秋集句,绵愉,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,59,55,59,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,鸟临窗语报天晴，冰簟银床梦不成。万物尽一作并。遭风鼓动，一生长共月亏盈。时沽村酒当轩酌，自与烟萝结野情。试上层楼情入骨，
+wanqing:f80067444b0d,松林庵古柏歌,周馥,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,301,297,301,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,忆我六月浮海吴陵来，吴陵园社生荒苔。忽见招提古柏势天矫，疑是苍龙堕地迟风雷。铜柯铁幹老无匹，参差何祇百年物。胡不腰腹磐磐
+wanqing:fd2ee4262cb2,示子艾十弟,方濬师,POEM_BODY,NO_BRACKET_NOTE_STRUCTURE|VARIANT_LOST,270,266,270,0,0,0,0,1,NO,TEXT_STRUCTURE_CONFIRMED,刘家好兄弟，并世琨与舆。奕奕隽朗才，列在西晋书。美玉生蓝田，斯语洵不虚。为学务精一，筑堂题童初。汝当少小日，避乱辞乡闾。

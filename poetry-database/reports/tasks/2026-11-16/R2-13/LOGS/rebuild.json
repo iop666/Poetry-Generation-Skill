@@ -1,0 +1,16 @@
+{
+ "n_total": 339,
+ "status": {
+  "SUPPORTED_RECONSTRUCTION": 243,
+  "NEEDS_REVIEW": 53,
+  "TEXT_STRUCTURE_CONFIRMED": 43
+ },
+ "body_deleted": 198,
+ "body_expanded": 74,
+ "poem_body": 42,
+ "mixed": 141,
+ "with_variants": 243,
+ "with_editorial": 7,
+ "nested": 51,
+ "needs_review": 53
+}

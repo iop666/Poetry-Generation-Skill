@@ -1,0 +1,21 @@
+﻿group,form_id,cipai,pdf_page,stored_sentences,stored_ann_types,image_check_level,verdict,note
+1,F07-0182,醉翁操,232,20,句/叶仄/叶平/平韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+1,F07-0185,哨遍,237,39,仄韵/句/叶仄/叶平/平韵/豆,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+1,F07-0187,荷叶杯,242,6,仄韵/叶仄/叶平/平韵/换仄韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+1,F07-0190,定西番,244,8,仄韵/句/叶仄/叶平/平韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+2,F07-0192,上行杯,246,10,仄韵/句/叶仄/叶平/平韵/换仄韵/豆,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+2,F07-0164,南乡子,213,5,叶仄/叶平/平韵/换仄韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+2,F07-0169,调笑令,217,7,仄韵/叶仄,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+2,F07-0174,清平乐,223,8,仄韵/句/叶仄/叶平/换平韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+3,F07-0014,醉太平,28,8,韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+3,F07-0035,临江仙,47,10,句/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+3,F07-0057,锦堂春慢,76,21,句/豆/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+3,F07-0085,忆秦娥,109,10,叠/句/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+4,F07-0081,卜算子,104,20,句/豆/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+4,F07-0148,永遇乐,187,24,句/豆/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+4,F07-0062,沁园春,83,25,句/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+4,F07-0091,木兰花,114,9,句/换韵/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+5,F07-0131,念奴娇,163,20,句/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+5,F07-0018,浣溪沙,33,8,句/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+5,F07-0037,临江仙,48,10,句/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读
+5,F07-0071,天仙子,96,12,句/韵,IMAGE_ANNOTATION_TYPE_LEVEL,IMAGE_CONSISTENT_AT_TYPE_LEVEL,600dpi 拼版图可见谱行与括号注；仅核对注类集合与句段轮廓，未做逐符号第二人盲读

@@ -1,0 +1,121 @@
+﻿object_id,category,source_locator,claim_checked,independent_finding,method,verdict,evidence,note
+GY-01,广韵,卷2#43501,CONFIRMED_XIAOYUN_HEAD（䒦）,有标记＋反切起首,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=芝切〉䒦  　　〈敷凡切〉              　　原,按该条在原文的标记与切语位置复算
+GY-02,广韵,卷3#895,CONFIRMED_XIAOYUN_HEAD（隴）,有标记＋反切起首,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=埫塎不安〉　　隴〈力踵切説文天水大坂亦州漢汧縣後魏置東秦州又,按该条在原文的标记与切语位置复算
+GY-03,广韵,卷5#14668,CONFIRMED_XIAOYUN_HEAD（迄）,有标记＋反切起首,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=獨用〉  　　迄〈許訖切爾雅云至也九〉仡〈壯勇皃又魚訖切〉釳,按该条在原文的标记与切语位置复算
+GY-04,广韵,卷4#4803,CONFIRMED_XIAOYUN_HEAD（嗜）,有标记＋反切起首,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=也又音銑〉　　嗜〈常利切嗜慾六〉□〈上同〉□〈亦同〉視〈㸔視,按该条在原文的标记与切语位置复算
+GY-05,广韵,卷3#36631,CONFIRMED_XIAOYUN_HEAD（永）,有标记＋反切起首,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=今為省字〉　　永〈于憬切長也引也逺也遐也亦姓二〉栐〈木可為笏,按该条在原文的标记与切语位置复算
+GY-06,广韵,卷4#32535,CONFIRMED_XIAOYUN_HEAD（俔）,有标记＋反切起首,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=㲽〈水名〉　　俔〈苦甸切罄也譬也八〉㯠〈横㯠木〉涀〈水名〉牽,按该条在原文的标记与切语位置复算
+GY-07,广韵,卷5#19271,CONFIRMED_XIAOYUN_HEAD（枂）,有标记＋反切起首,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=袜〈袜肚〉　　枂〈五活切去樹皮又拙枂柱頭木一〉　　柮〈藏活切,按该条在原文的标记与切语位置复算
+GY-08,广韵,卷3#33000,CONFIRMED_XIAOYUN_HEAD（且）,有标记＋反切起首,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=切蕃姓一〉　　且〈七也切語辭又子余切一〉　　㗿〈許下切大笑三,按该条在原文的标记与切语位置复算
+GY-09,广韵,卷4#676,SUPPORTED_HEAD_NO_MARKER（焪）,无标记但反切起首,MARKER+FANQIE_POSITION,DISAGREE,marked=True;fq_first=True;blk=風〈上同見詩〉焪〈去仲切火乾物也三〉䠻〈使役亦作㑋〉䛪〈多言,按该条在原文的标记与切语位置复算
+GY-10,广韵,卷1#6854,SUPPORTED_HEAD_NO_MARKER（腔）,无标记但反切起首,MARKER+FANQIE_POSITION,DISAGREE,marked=True;fq_first=True;blk=舡〈舽舡船皃〉腔〈苦江切羊腔也十二〉□〈上同〉羫〈古文〉跫〈,按该条在原文的标记与切语位置复算
+GY-11,广韵,卷3#37380,SUPPORTED_HEAD_NO_MARKER（餅）,无标记但反切起首,MARKER+FANQIE_POSITION,AGREE,marked=False;fq_first=True;blk=棗似柿而小〉　餅〈必郢切五〉屏〈蔽也爾雅曰屏謂之樹又廣雅曰罘,按该条在原文的标记与切语位置复算
+GY-12,广韵,卷2#318,SUPPORTED_HEAD_NO_MARKER（天）,无标记但反切起首,MARKER+FANQIE_POSITION,AGREE,marked=False;fq_first=True;blk=〉𣝕〈香木〉　天〈他前切上𤣥也説文顛也至髙無上從一大六〉𠀘〈,按该条在原文的标记与切语位置复算
+GY-13,广韵,卷4#32897,SUPPORTED_HEAD_NO_MARKER（麪）,无标记但反切起首,MARKER+FANQIE_POSITION,DISAGREE,marked=True;fq_first=True;blk=二〉𧲛〈畜食〉麪〈莫甸切東晳麪賦云重羅之麪塵飛雪白八〉麵〈上,按该条在原文的标记与切语位置复算
+GY-14,广韵,卷1#8226,HEAD_WITH_DISPLACED_FANQIE（吹）,有标记但切语错位,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=□〈切瘦〉　　吹〈也二膝病昌垂切吹嘘〉炊〈又尺〉䶴〈偽切三炊,按该条在原文的标记与切语位置复算
+GY-15,广韵,卷4#19729,HEAD_WITH_DISPLACED_FANQIE（眛）,有标记但切语错位,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=又音唾送〉　　眛〈死衣也莫貝切□眜目〉沫〈不明〉枺〈也三〉 ,按该条在原文的标记与切语位置复算
+GY-16,广韵,卷4#5224,HEAD_WITH_DISPLACED_FANQIE（寐）,有标记但切语错位,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=也上〉  　　寐〈同當也對也彌二切寢〉媢〈也臥也息也二〉　　,按该条在原文的标记与切语位置复算
+GY-17,广韵,卷4#48975,HEAD_WITH_DISPLACED_FANQIE（吼）,有标记但切语错位,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=上同〉  　　吼〈聲也又呼後切〉㰯〈數㰯〉㖃〈恥辱〉佝〈僂佝,按该条在原文的标记与切语位置复算
+GY-18,广韵,卷4#34106,HEAD_WITH_DISPLACED_FANQIE（猭）,有标记但切语错位,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=〈姓也順〉　　猭〈也又音亂丑戀切〉鶨〈獸走草二鳥〉　　變〈名,按该条在原文的标记与切语位置复算
+GY-19,广韵,卷3#20851,POSSIBLE_XIAOYUN_HEAD（䔿）,有标记无切语,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=也六〉䔿  　　〈草叢生皃〉噂〈噂𠴲〉譐〈上同〉僔〈衆也〉撙,按该条在原文的标记与切语位置复算
+GY-20,广韵,卷4#24817,POSSIBLE_XIAOYUN_HEAD（燐）,有标记无切语,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=及牛〉燐  　　〈馬血〉撛〈爲之上同扶也〉閵〈又力盡切閵鶻鳥,按该条在原文的标记与切语位置复算
+GY-21,广韵,卷2#33621,POSSIBLE_XIAOYUN_HEAD（鮂）,有标记无切语,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=音由〉鮂  　　〈白鯈〉泅〈人浮水上〉汓〈古文〉　　儔〈直由,按该条在原文的标记与切语位置复算
+GY-22,广韵,卷4#48726,POSSIBLE_XIAOYUN_HEAD（輳）,有标记无切语,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=False;blk=□〈舉火〉　　輳〈也數也説文云乳也〉腠〈一曰〉湊〈□瞀也緜□,按该条在原文的标记与切语位置复算
+GY-23,广韵,卷4#43942,HEAD_LOST_FANQIE（[字缺]）,标记在但代表字丢失,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=失道又〉  　　〈丑良切五〉趟〈䞴趟行皃〉偵〈廉視〉㡧〈開張,按该条在原文的标记与切语位置复算
+GY-24,广韵,卷4#34638,HEAD_LOST_FANQIE（[字缺]）,标记在但代表字丢失,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=〈專小謹也〉　　〈于線切水也溢也豐也又以淺切八〉  　　莚〈,按该条在原文的标记与切语位置复算
+GY-25,广韵,卷5#26149,HEAD_LOST_FANQIE（[字缺]）,标记在但代表字丢失,MARKER+FANQIE_POSITION,AGREE,marked=True;fq_first=True;blk=去也又〉  　　〈去謁切五〉揭〈高舉也又擔也〉藒〈藒車香草〉,按该条在原文的标记与切语位置复算
+JY-01,集韵,集韻 (四庫全書本)/卷07/隊第十八,隊第十八·磑,该页有效，首字 磑，反切 五對切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-02,集韵,集韻 (四庫全書本)/卷06/耿第三十九,耿第三十九·皏,该页有效，首字 皏，反切 普幸切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-03,集韵,集韻 (四庫全書本)/卷02/元第二十二,元第二十二·煖,该页有效，首字 煖，反切 許元切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-04,集韵,集韻 (四庫全書本)/卷06/厚第四十五,厚第四十五·毆,该页有效，首字 毆，反切 於口切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-05,集韵,集韻 (四庫全書本)/卷09/曷第十二,曷第十二·捺,该页有效，首字 捺，反切 乃曷切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-06,集韵,集韻 (四庫全書本)/卷08/箇第三十八,箇第三十八·柰,该页有效，首字 柰，反切 乃箇切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-07,集韵,集韻 (四庫全書本)/卷09/覺第四,覺第四·逴,该页有效，首字 逴，反切 勑角切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-08,集韵,集韻 (四庫全書本)/卷04/凡第二十九,凡第二十九·𤥙,该页有效，首字 𤥙，反切 亡凡切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-09,集韵,集韻 (四庫全書本)/卷09/𭶑第十四,𭶑第十四·婠,该页有效，首字 婠，反切 烏八切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-10,集韵,集韻 (四庫全書本)/卷05/蕫第一,蕫第一·湡,该页有效，首字 湡，反切 吾蓊切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-11,集韵,集韻 (四庫全書本)/卷05/準第十七,準第十七·濜,该页有效，首字 濜，反切 鉏引切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-12,集韵,集韻 (四庫全書本)/卷06/寑第四十七,寑第四十七·瀋,该页有效，首字 瀋，反切 昌枕切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-13,集韵,集韻 (四庫全書本)/卷01/微第八,微第八·巍,该页有效，首字 巍，反切 語韋切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-14,集韵,集韻 (四庫全書本)/卷01/支第五,支第五·支,该页有效，首字 支，反切 章移切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-15,集韵,集韻 (四庫全書本)/卷05/語第八,語第八·吕,该页有效，首字 吕，反切 兩舉切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-16,集韵,集韻 (四庫全書本)/卷08/禡第四十,禡第四十·柘,该页有效，首字 柘，反切 之夜切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-17,集韵,集韻 (四庫全書本)/卷10/緝第二十六,緝第二十六·邑,该页有效，首字 邑，反切 乙及切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-18,集韵,集韻 (四庫全書本)/卷04/鹽第二十四,鹽第二十四·籤,该页有效，首字 籤，反切 千廉切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-19,集韵,集韻 (四庫全書本)/卷05/紙第四,紙第四·𩪦,该页有效，首字 𩪦，反切 選委切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-20,集韵,集韻 (四庫全書本)/卷04/清第十四,清第十四·營,该页有效，首字 營，反切 維傾切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-21,集韵,集韻 (四庫全書本)/卷06/梗第三十八,梗第三十八·永,该页有效，首字 永，反切 于憬切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-22,集韵,集韻 (四庫全書本)/卷06/感第四十八,感第四十八·頷,该页有效，首字 頷，反切 ,PAGE_TEXT_CONTAINS,UNDECIDABLE,HEAD_ONLY,页文本包含判定
+JY-23,集韵,集韻 (四庫全書本)/卷08/漾第四十一,漾第四十一·帳,该页有效，首字 帳，反切 知亮切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-24,集韵,集韻 (四庫全書本)/卷03/麻第九,麻第九·誇,该页有效，首字 誇，反切 枯𤓰切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+JY-25,集韵,集韻 (四庫全書本)/卷05/吻第十八,吻第十八·憤,该页有效，首字 憤，反切 父吻切,PAGE_TEXT_CONTAINS,AGREE,BOTH_PRESENT_NOT_ADJACENT,页文本包含判定
+XY-01,中华新韵,HTML#十三支,撕（十三支·阴平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-02,中华新韵,HTML#十三支,磁（十三支·阳平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-03,中华新韵,HTML#十三支,识（十三支·去声）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-04,中华新韵,HTML#十三支,糍（十三支·阳平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-05,中华新韵,HTML#十三支,渍（十三支·去声）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-06,中华新韵,HTML#十一庚,翁（十一庚·阴平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-07,中华新韵,HTML#一麻,珈（一麻·阴平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-08,中华新韵,HTML#八寒,檐（八寒·阳平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-09,中华新韵,HTML#十四姑,初（十四姑·阴平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-10,中华新韵,HTML#二波,坼（二波·去声）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-11,中华新韵,HTML#五微,碑（五微·阴平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-12,中华新韵,HTML#十一庚,狚（十一庚·阴平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-13,中华新韵,HTML#十一庚,鲸（十一庚·阴平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-14,中华新韵,HTML#七尤,阄（七尤·阴平）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+XY-15,中华新韵,HTML#六豪,黊（六豪·上声）,该字属该韵该调,CHAR_IN_HTML,AGREE,in_html=True（未做韵段内定位，仅全文包含）,简表为简体；韵段内定位需逐段锚定，本轮未做
+CP-01,词谱,PDF p230,西江月（库内 8 句）,库内句数 8,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-02,词谱,PDF p232,醉翁操（库内 20 句）,库内句数 20,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-03,词谱,PDF p233,渡江云（库内 24 句）,库内句数 24,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-04,词谱,PDF p235,曲玉管（库内 23 句）,库内句数 23,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-05,词谱,PDF p237,哨遍（库内 39 句）,库内句数 39,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-06,词谱,PDF p239,戚氏（库内 47 句）,库内句数 47,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-07,词谱,PDF p242,荷叶杯（库内 6 句）,库内句数 6,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-08,词谱,PDF p243,诉衷情（库内 11 句）,库内句数 11,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-09,词谱,PDF p244,定西番（库内 8 句）,库内句数 8,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-10,词谱,PDF p245,相见欢（库内 7 句）,库内句数 7,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-11,词谱,PDF p246,上行杯（库内 10 句）,库内句数 10,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-12,词谱,PDF p247,酒泉子（库内 10 句）,库内句数 10,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-13,词谱,PDF p213,南乡子（库内 5 句）,库内句数 5,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-14,词谱,PDF p215,蕃女怨（库内 7 句）,库内句数 7,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-15,词谱,PDF p217,调笑令（库内 7 句）,库内句数 7,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-16,词谱,PDF p219,菩萨蛮（库内 8 句）,库内句数 8,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-17,词谱,PDF p223,清平乐（库内 8 句）,库内句数 8,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-18,词谱,PDF p224,忆馀杭（库内 8 句）,库内句数 8,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-19,词谱,PDF p16,十六字令（库内 4 句）,库内句数 4,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+CP-20,词谱,PDF p28,醉太平（库内 8 句）,库内句数 8,NOT_AVAILABLE,UNDECIDABLE,盲读结果未落地,
+RD-01,阅读记录,wangli_shicilv#p41,引文「犯孤平指的是平脚的句子；仄脚的句子即使只…」,该页含此引文,NOT_AVAILABLE,UNDECIDABLE,缺该页文本对照通道（book_id 与 pages.jsonl 未对齐）,
+RD-02,阅读记录,wangli_shicilv#p47,引文「「一三五不论」的话是不对的。…」,该页含此引文,NOT_AVAILABLE,UNDECIDABLE,缺该页文本对照通道（book_id 与 pages.jsonl 未对齐）,
+RD-03,阅读记录,wangli_shicilv#p56,引文「出句与对句完全同义（或基本上同义），叫做…」,该页含此引文,NOT_AVAILABLE,UNDECIDABLE,缺该页文本对照通道（book_id 与 pages.jsonl 未对齐）,
+RD-04,阅读记录,long_yushsheng_cilv#p6,引文「本编依韵脚分类，计分平韵、仄韵、平仄韵转…」,该页含此引文,NOT_AVAILABLE,UNDECIDABLE,缺该页文本对照通道（book_id 与 pages.jsonl 未对齐）,
+RD-05,阅读记录,long_yushsheng_cilv#p16,引文「二十七字，四平韵。中间三言两句，例用对偶…」,该页含此引文,NOT_AVAILABLE,UNDECIDABLE,缺该页文本对照通道（book_id 与 pages.jsonl 未对齐）,
+RD-06,阅读记录,long_cixue_shijiang#pNone,引文「词不称「作」而称「填」，因为它要受声律的…」,该页含此引文,NOT_AVAILABLE,UNDECIDABLE,缺该页文本对照通道（book_id 与 pages.jsonl 未对齐）,
+RD-07,阅读记录,long_cixue_shijiang#pNone,引文「哀声而歌乐词，乐声而歌怨词，故语虽切而不…」,该页含此引文,NOT_AVAILABLE,UNDECIDABLE,缺该页文本对照通道（book_id 与 pages.jsonl 未对齐）,
+RD-08,阅读记录,long_cixue_shijiang#pNone,引文「每一歌词的句式安排，在音节上总不出和谐与…」,该页含此引文,NOT_AVAILABLE,UNDECIDABLE,缺该页文本对照通道（book_id 与 pages.jsonl 未对齐）,
+EX-01,作品文本,works#tang300:005eb6c16c21,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-02,作品文本,works#tang300:044721b35875,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-03,作品文本,works#tang300:059baebd3d3d,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-04,作品文本,works#tang300:0a1eb4178c6f,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-05,作品文本,works#tang300:0f13355ec7f8,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-06,作品文本,works#tang300:144ea0e34137,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-07,作品文本,works#tang300:1a5d42d6e001,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-08,作品文本,works#tang300:1a9ba7f6ff4f,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=MEDIUM,由另一会话执行者逐条分类，主 Agent 未改判
+EX-09,作品文本,works#tang300:1e70e69295e3,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-10,作品文本,works#tang300:2073737eae1f,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-11,作品文本,works#tang300:21272f204eac,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-12,作品文本,works#tang300:23cd7d7aaca6,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-13,作品文本,works#tang300:3587d3f5efb9,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-14,作品文本,works#tang300:37c18b8e89ce,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-15,作品文本,works#tang300:48cbd02256fd,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=MEDIUM,由另一会话执行者逐条分类，主 Agent 未改判
+EX-16,作品文本,works#tang300:4e2d72b2b750,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-17,作品文本,works#tang300:54a14d2d4ec1,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-18,作品文本,works#tang300:58e5ae58a1f4,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-19,作品文本,works#tang300:5e6bf1772579,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-20,作品文本,works#tang300:5f11f7e16934,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-21,作品文本,works#tang300:68e4b23d563c,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-22,作品文本,works#tang300:7ba06a3fa6ce,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=MEDIUM,由另一会话执行者逐条分类，主 Agent 未改判
+EX-23,作品文本,works#tang300:7cc2bbd66338,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=MEDIUM,由另一会话执行者逐条分类，主 Agent 未改判
+EX-24,作品文本,works#tang300:83cfe15040a5,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-25,作品文本,works#tang300:89b0503bf86e,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=MEDIUM,由另一会话执行者逐条分类，主 Agent 未改判
+EX-26,作品文本,works#tang300:8ae513067d44,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判
+EX-27,作品文本,works#tang300:8b81d36f4040,MIXED_BODY_AND_NOTE,该条属该污染类型,SECOND_SESSION_AUDIT,AGREE,置信=HIGH,由另一会话执行者逐条分类，主 Agent 未改判

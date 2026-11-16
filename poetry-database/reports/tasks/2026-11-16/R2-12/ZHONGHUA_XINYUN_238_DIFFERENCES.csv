@@ -1,0 +1,239 @@
+﻿id,character,source_rhyme,source_tone,tone_class,note,pinyin,computed_rhyme_first_reading,difference_type,per_reading_rhyme,reason
+253,城,一麻,上声,NORMAL,,cheng2,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 cheng2 归 十一庚，原表归 一麻
+277,磕,一麻,上声,RUSHENG_PAI,,ke1/ke3,二波,RHYME_MAPPING_ERROR,二波|二波,读音 ke1 归 二波，原表归 一麻
+433,挞,二波,阴平,NORMAL,,ta4,一麻,RHYME_MAPPING_ERROR,一麻,读音 ta4 归 一麻，原表归 二波
+472,鱿,二波,阴平,RUSHENG_PAI,,you2,七尤,RHYME_MAPPING_ERROR,七尤,读音 you2 归 七尤，原表归 二波
+501,侘,二波,阴平,RUSHENG_PAI,,cha4,一麻,RHYME_MAPPING_ERROR,一麻,读音 cha4 归 一麻，原表归 二波
+567,祭,二波,阳平,NORMAL,,ji4/zhai4,十二齐,RHYME_MAPPING_ERROR,十二齐|四开,读音 ji4 归 十二齐，原表归 二波
+589,荸,二波,阳平,RUSHENG_PAI,,bi2,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 bi2 归 十二齐，原表归 二波
+599,毫,二波,阳平,RUSHENG_PAI,,hao2,六豪,RIME_NEAR_MISS,六豪,"韵母 ao 与本部韵母 ['e', 'o', 'uo', 'ê'] 韵尾相同但介音/韵腹不同"
+619,怫,二波,阳平,RUSHENG_PAI,,fu2/fei4/bei4,十四姑,RHYME_MAPPING_ERROR,十四姑|五微|五微,读音 fu2 归 十四姑，原表归 二波
+650,蠋,二波,阳平,RUSHENG_PAI,,zhu2,十四姑,RHYME_MAPPING_ERROR,十四姑,读音 zhu2 归 十四姑，原表归 二波
+718,翟,二波,阳平,RUSHENG_PAI,,di2/zhai2,十二齐,RHYME_MAPPING_ERROR,十二齐|四开,读音 di2 归 十二齐，原表归 二波
+726,锤,二波,上声,NORMAL,,chui2,五微,RHYME_MAPPING_ERROR,五微,读音 chui2 归 五微，原表归 二波
+728,菒,二波,上声,NORMAL,,gao3,六豪,RIME_NEAR_MISS,六豪,"韵母 ao 与本部韵母 ['e', 'o', 'uo', 'ê'] 韵尾相同但介音/韵腹不同"
+838,毫,二波,去声,RUSHENG_PAI,,hao2,六豪,RIME_NEAR_MISS,六豪,"韵母 ao 与本部韵母 ['e', 'o', 'uo', 'ê'] 韵尾相同但介音/韵腹不同"
+854,矱,二波,去声,RUSHENG_PAI,,yue1,三皆,RIME_NEAR_MISS,三皆,"韵母 üe 与本部韵母 ['e', 'o', 'uo', 'ê'] 韵尾相同但介音/韵腹不同"
+933,芍,二波,去声,RUSHENG_PAI,,shao2/xiao4/que4/di4,六豪,RIME_NEAR_MISS,六豪|六豪|三皆|十二齐,"韵母 ao 与本部韵母 ['e', 'o', 'uo', 'ê'] 韵尾相同但介音/韵腹不同"
+934,蟀,二波,去声,RUSHENG_PAI,,shuai4,四开,RHYME_MAPPING_ERROR,四开,读音 shuai4 归 四开，原表归 二波
+958,怪,二波,去声,RUSHENG_PAI,,guai4,四开,RHYME_MAPPING_ERROR,四开,读音 guai4 归 四开，原表归 二波
+959,事,二波,去声,RUSHENG_PAI,,shi4/zi4,十三支,RHYME_MAPPING_ERROR,十三支|十三支,读音 shi4 归 十三支，原表归 二波
+969,属,二波,去声,RUSHENG_PAI,,shu3/zhu3,十四姑,RHYME_MAPPING_ERROR,十四姑|十四姑,读音 shu3 归 十四姑，原表归 二波
+992,掘,二波,去声,RUSHENG_PAI,,jue2/ku1,三皆,RIME_NEAR_MISS,三皆|十四姑,"韵母 üe 与本部韵母 ['e', 'o', 'uo', 'ê'] 韵尾相同但介音/韵腹不同"
+1020,跖,二波,去声,RUSHENG_PAI,,zhi2,十三支,RHYME_MAPPING_ERROR,十三支,读音 zhi2 归 十三支，原表归 二波
+1021,埒,二波,去声,RUSHENG_PAI,,lie4,三皆,RIME_NEAR_MISS,三皆,"韵母 ie 与本部韵母 ['e', 'o', 'uo', 'ê'] 韵尾相同但介音/韵腹不同"
+1023,郝,二波,去声,RUSHENG_PAI,,hao3/shi4,六豪,RIME_NEAR_MISS,六豪|十三支,"韵母 ao 与本部韵母 ['e', 'o', 'uo', 'ê'] 韵尾相同但介音/韵腹不同"
+1025,垃,二波,去声,RUSHENG_PAI,,la1/la,一麻,RHYME_MAPPING_ERROR,一麻|一麻,读音 la1 归 一麻，原表归 二波
+1209,略,三皆,去声,RUSHENG_PAI,,lve4,,RHYME_MAPPING_ERROR,,读音 lve4 归 None，原表归 三皆
+1210,掠,三皆,去声,RUSHENG_PAI,,lve4/lve3,,RHYME_MAPPING_ERROR,|,读音 lve4 归 None，原表归 三皆
+1227,虐,三皆,去声,RUSHENG_PAI,,nve4,,RHYME_MAPPING_ERROR,,读音 nve4 归 None，原表归 三皆
+1228,疟,三皆,去声,RUSHENG_PAI,,nve4/yao4,,RHYME_MAPPING_ERROR,|六豪,读音 nve4 归 None，原表归 三皆
+1337,骏,四开,阳平,NORMAL,,jun4,九文,RHYME_MAPPING_ERROR,九文,读音 jun4 归 九文，原表归 四开
+1488,赍,四开,去声,NORMAL,,ji1,十二齐,RIME_NEAR_MISS,十二齐,"韵母 i 与本部韵母 ['ai', 'uai'] 韵尾相同但介音/韵腹不同"
+1566,扳,五微,阴平,NORMAL,,ban1/pan1,八寒,RHYME_MAPPING_ERROR,八寒|八寒,读音 ban1 归 八寒，原表归 五微
+1622,佳,五微,阴平,NORMAL,,jia1,一麻,RHYME_MAPPING_ERROR,一麻,读音 jia1 归 一麻，原表归 五微
+1637,箽,五微,阳平,NORMAL,,dong3,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 dong3 归 十一庚，原表归 五微
+1678,邳,五微,阳平,NORMAL,,pi1,十二齐,RIME_NEAR_MISS,十二齐,"韵母 i 与本部韵母 ['ei', 'ui'] 韵尾相同但介音/韵腹不同"
+1800,血,五微,去声,NORMAL,,xue4/xie3,三皆,RHYME_MAPPING_ERROR,三皆|三皆,读音 xue4 归 三皆，原表归 五微
+1801,块,五微,去声,NORMAL,,kuai4/yue2,四开,RHYME_MAPPING_ERROR,四开|三皆,读音 kuai4 归 四开，原表归 五微
+1802,煹,五微,去声,NORMAL,,gou4,七尤,RHYME_MAPPING_ERROR,七尤,读音 gou4 归 七尤，原表归 五微
+1886,瑁,五微,去声,NORMAL,,mao4,六豪,RHYME_MAPPING_ERROR,六豪,读音 mao4 归 六豪，原表归 五微
+1904,涔,五微,去声,NORMAL,,cen2/qian2/zan4,九文,RHYME_MAPPING_ERROR,九文|八寒|八寒,读音 cen2 归 九文，原表归 五微
+2014,矣,六豪,阴平,NORMAL,,yi3/xian2,十二齐,RHYME_MAPPING_ERROR,十二齐|八寒,读音 yi3 归 十二齐，原表归 六豪
+2144,晃,六豪,阳平,NORMAL,,huang3/huang4,十唐,RHYME_MAPPING_ERROR,十唐|十唐,读音 huang3 归 十唐，原表归 六豪
+2149,捡,六豪,阳平,NORMAL,,jian3,八寒,RHYME_MAPPING_ERROR,八寒,读音 jian3 归 八寒，原表归 六豪
+2300,果,六豪,上声,NORMAL,,guo3/luo3/guan4,二波,RHYME_MAPPING_ERROR,二波|二波|八寒,读音 guo3 归 二波，原表归 六豪
+2343,核,六豪,上声,NORMAL,,he2/hu2/gai1/kai4,二波,RHYME_MAPPING_ERROR,二波|十四姑|四开|四开,读音 he2 归 二波，原表归 六豪
+2344,潜,六豪,上声,NORMAL,,qian2,八寒,RHYME_MAPPING_ERROR,八寒,读音 qian2 归 八寒，原表归 六豪
+2345,艇,六豪,上声,NORMAL,,ting3,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 ting3 归 十一庚，原表归 六豪
+2380,黊,六豪,上声,NORMAL,,hua4,一麻,RHYME_MAPPING_ERROR,一麻,读音 hua4 归 一麻，原表归 六豪
+2458,罗,六豪,去声,NORMAL,,luo2/luo1,二波,RHYME_MAPPING_ERROR,二波|二波,读音 luo2 归 二波，原表归 六豪
+2468,蕌,六豪,去声,NORMAL,,lei3,五微,RHYME_MAPPING_ERROR,五微,读音 lei3 归 五微，原表归 六豪
+2485,狊,六豪,去声,NORMAL,,ju2,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 ju2 归 十二齐，原表归 六豪
+2510,傈,六豪,去声,NORMAL,,li4,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 li4 归 十二齐，原表归 六豪
+2550,乐,六豪,去声,NORMAL,又波韵去入,le4/yue4,二波,RHYME_MAPPING_ERROR,二波|三皆,读音 le4 归 二波，原表归 六豪
+2573,掐,七尤,阴平,NORMAL,,qia1,一麻,RHYME_MAPPING_ERROR,一麻,读音 qia1 归 一麻，原表归 七尤
+2600,轇,七尤,阴平,NORMAL,,jiao1/xiao3,六豪,RHYME_MAPPING_ERROR,六豪|六豪,读音 jiao1 归 六豪，原表归 七尤
+2641,文,七尤,阴平,NORMAL,,wen2,九文,RHYME_MAPPING_ERROR,九文,读音 wen2 归 九文，原表归 七尤
+2643,柜,七尤,阴平,NORMAL,,gui4/ju3,五微,RHYME_MAPPING_ERROR,五微|十二齐,读音 gui4 归 五微，原表归 七尤
+2658,谄,七尤,阴平,NORMAL,,chan3,八寒,RHYME_MAPPING_ERROR,八寒,读音 chan3 归 八寒，原表归 七尤
+2683,禂,七尤,阳平,NORMAL,,dao3,六豪,RHYME_MAPPING_ERROR,六豪,读音 dao3 归 六豪，原表归 七尤
+2841,縠,七尤,去声,NORMAL,,hu2,十四姑,RIME_NEAR_MISS,十四姑,"韵母 u 与本部韵母 ['iu', 'ou'] 韵尾相同但介音/韵腹不同"
+2955,氽,八寒,阴平,NORMAL,,tun3/qiu2,九文,RHYME_MAPPING_ERROR,九文|七尤,读音 tun3 归 九文，原表归 八寒
+2969,瘴,八寒,阴平,NORMAL,,zhang4,十唐,RHYME_MAPPING_ERROR,十唐,读音 zhang4 归 十唐，原表归 八寒
+3105,机,八寒,阴平,NORMAL,,ji1/wei4,十二齐,RHYME_MAPPING_ERROR,十二齐|五微,读音 ji1 归 十二齐，原表归 八寒
+3326,抚,八寒,阳平,NORMAL,,fu3,十四姑,RHYME_MAPPING_ERROR,十四姑,读音 fu3 归 十四姑，原表归 八寒
+3592,丐,八寒,上声,NORMAL,,gai4,四开,RHYME_MAPPING_ERROR,四开,读音 gai4 归 四开，原表归 八寒
+3697,瘴,八寒,去声,NORMAL,,zhang4,十唐,RHYME_MAPPING_ERROR,十唐,读音 zhang4 归 十唐，原表归 八寒
+4033,劳,九文,阴平,NORMAL,,lao2,六豪,RHYME_MAPPING_ERROR,六豪,读音 lao2 归 六豪，原表归 九文
+4040,紷,九文,阴平,NORMAL,,ling2,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 ling2 归 十一庚，原表归 九文
+4054,麋,九文,阴平,NORMAL,,mi2,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 mi2 归 十二齐，原表归 九文
+4256,麜,九文,阳平,NORMAL,,li4,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 li4 归 十二齐，原表归 九文
+4283,当,九文,阳平,NORMAL,,dang1/dang4,十唐,RHYME_MAPPING_ERROR,十唐|十唐,读音 dang1 归 十唐，原表归 九文
+4347,壶,九文,上声,NORMAL,,hu2,十四姑,RHYME_MAPPING_ERROR,十四姑,读音 hu2 归 十四姑，原表归 九文
+4351,檀,九文,上声,NORMAL,,tan2/shan4,八寒,RHYME_MAPPING_ERROR,八寒|八寒,读音 tan2 归 八寒，原表归 九文
+4392,狂,九文,上声,NORMAL,,kuang2/jue2,十唐,RHYME_MAPPING_ERROR,十唐|三皆,读音 kuang2 归 十唐，原表归 九文
+4393,欢,九文,上声,NORMAL,,huan1,八寒,RHYME_MAPPING_ERROR,八寒,读音 huan1 归 八寒，原表归 九文
+4413,空,九文,去声,NORMAL,,kong1/kong4/kong3,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚|十一庚,读音 kong1 归 十一庚，原表归 九文
+4421,讥,九文,去声,NORMAL,,ji1,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 ji1 归 十二齐，原表归 九文
+4504,褈,九文,去声,NORMAL,,chong2/chong1/zhong4,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚|十一庚,读音 chong2 归 十一庚，原表归 九文
+4567,耸,十唐,阴平,NORMAL,,song3,十一庚,RIME_NEAR_MISS,十一庚,"韵母 ong 与本部韵母 ['ang', 'iang', 'uang'] 韵尾相同但介音/韵腹不同"
+4595,找,十唐,阴平,NORMAL,,zhao3/hua2,六豪,RHYME_MAPPING_ERROR,六豪|一麻,读音 zhao3 归 六豪，原表归 十唐
+4608,桃,十唐,阴平,NORMAL,,tao2/tiao1/zhao4,六豪,RHYME_MAPPING_ERROR,六豪|六豪|六豪,读音 tao2 归 六豪，原表归 十唐
+4633,乒,十唐,阴平,NORMAL,,ping1,十一庚,RIME_NEAR_MISS,十一庚,"韵母 ing 与本部韵母 ['ang', 'iang', 'uang'] 韵尾相同但介音/韵腹不同"
+4643,铰,十唐,阴平,NORMAL,,jiao3,六豪,RHYME_MAPPING_ERROR,六豪,读音 jiao3 归 六豪，原表归 十唐
+4679,湍,十唐,阴平,NORMAL,,tuan1/zhuan1,八寒,RHYME_MAPPING_ERROR,八寒|八寒,读音 tuan1 归 八寒，原表归 十唐
+4682,身,十唐,阴平,NORMAL,,shen1/juan1,九文,RHYME_MAPPING_ERROR,九文|八寒,读音 shen1 归 九文，原表归 十唐
+4716,忍,十唐,阳平,NORMAL,,ren3/ren4,九文,RHYME_MAPPING_ERROR,九文|九文,读音 ren3 归 九文，原表归 十唐
+4736,粕,十唐,阳平,NORMAL,,po4,二波,RHYME_MAPPING_ERROR,二波,读音 po4 归 二波，原表归 十唐
+4845,鼈,十唐,上声,NORMAL,,bie1,三皆,RHYME_MAPPING_ERROR,三皆,读音 bie1 归 三皆，原表归 十唐
+4872,朋,十唐,上声,NORMAL,,peng2,十一庚,RIME_NEAR_MISS,十一庚,"韵母 eng 与本部韵母 ['ang', 'iang', 'uang'] 韵尾相同但介音/韵腹不同"
+4960,学,十唐,去声,NORMAL,,xue2,三皆,RHYME_MAPPING_ERROR,三皆,读音 xue2 归 三皆，原表归 十唐
+4961,徒,十唐,去声,NORMAL,,tu2,十四姑,RHYME_MAPPING_ERROR,十四姑,读音 tu2 归 十四姑，原表归 十唐
+4962,工,十唐,去声,NORMAL,,gong1,十一庚,RIME_NEAR_MISS,十一庚,"韵母 ong 与本部韵母 ['ang', 'iang', 'uang'] 韵尾相同但介音/韵腹不同"
+5000,籽,十唐,去声,NORMAL,,zi3,十三支,RHYME_MAPPING_ERROR,十三支,读音 zi3 归 十三支，原表归 十唐
+5145,翁,十一庚,阴平,NORMAL,,weng1/weng3,,RIME_NEAR_MISS,|,"韵母 ueng 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5146,嗡,十一庚,阴平,NORMAL,,weng1/weng3,,RIME_NEAR_MISS,|,"韵母 ueng 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5149,狚,十一庚,阴平,NORMAL,,dan4,八寒,RHYME_MAPPING_ERROR,八寒,读音 dan4 归 八寒，原表归 十一庚
+5184,稳,十一庚,阴平,NORMAL,,wen3,九文,RHYME_MAPPING_ERROR,九文,读音 wen3 归 九文，原表归 十一庚
+5191,惮,十一庚,阴平,NORMAL,,dan4,八寒,RHYME_MAPPING_ERROR,八寒,读音 dan4 归 八寒，原表归 十一庚
+5229,屄,十一庚,阴平,NORMAL,,bi1,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 bi1 归 十二齐，原表归 十一庚
+5236,漆,十一庚,阴平,NORMAL,,qi1/qie4,十二齐,RHYME_MAPPING_ERROR,十二齐|三皆,读音 qi1 归 十二齐，原表归 十一庚
+5240,瘑,十一庚,阴平,NORMAL,,guo1,二波,RHYME_MAPPING_ERROR,二波,读音 guo1 归 二波，原表归 十一庚
+5288,梧,十一庚,阳平,NORMAL,,wu2/wu4/yu3,十四姑,RHYME_MAPPING_ERROR,十四姑|十四姑|十二齐,读音 wu2 归 十四姑，原表归 十一庚
+5319,暹,十一庚,阳平,NORMAL,,xian1,八寒,RHYME_MAPPING_ERROR,八寒,读音 xian1 归 八寒，原表归 十一庚
+5399,放,十一庚,阳平,NORMAL,,fang4/fang3/fang1,十唐,RIME_NEAR_MISS,十唐|十唐|十唐,"韵母 ang 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5400,过,十一庚,阳平,NORMAL,,guo4/guo1,二波,RHYME_MAPPING_ERROR,二波|二波,读音 guo4 归 二波，原表归 十一庚
+5429,尝,十一庚,阳平,NORMAL,,chang2,十唐,RIME_NEAR_MISS,十唐,"韵母 ang 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5460,傢,十一庚,阳平,NORMAL,,jia1/xiang4,一麻,RIME_NEAR_MISS,一麻|十唐,"韵母 iang 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5478,崂,十一庚,阳平,NORMAL,,lao2,六豪,RHYME_MAPPING_ERROR,六豪,读音 lao2 归 六豪，原表归 十一庚
+5494,鲷,十一庚,阳平,NORMAL,,diao1,六豪,RHYME_MAPPING_ERROR,六豪,读音 diao1 归 六豪，原表归 十一庚
+5496,樟,十一庚,阳平,NORMAL,,zhang1,十唐,RIME_NEAR_MISS,十唐,"韵母 ang 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5509,蓁,十一庚,上声,NORMAL,,zhen1/qin2,九文,RHYME_MAPPING_ERROR,九文|九文,读音 zhen1 归 九文，原表归 十一庚
+5510,瑧,十一庚,上声,NORMAL,,zhen1,九文,RHYME_MAPPING_ERROR,九文,读音 zhen1 归 九文，原表归 十一庚
+5561,馨,十一庚,上声,NORMAL,,xin1,九文,RHYME_MAPPING_ERROR,九文,读音 xin1 归 九文，原表归 十一庚
+5562,少,十一庚,上声,NORMAL,,shao3/shao4,六豪,RHYME_MAPPING_ERROR,六豪|六豪,读音 shao3 归 六豪，原表归 十一庚
+5568,蓊,十一庚,上声,NORMAL,,weng3,,RIME_NEAR_MISS,,"韵母 ueng 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5569,滃,十一庚,上声,NORMAL,,weng1/weng3,,RIME_NEAR_MISS,|,"韵母 ueng 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5694,瓮,十一庚,去声,NORMAL,,weng4,,RIME_NEAR_MISS,,"韵母 ueng 与本部韵母 ['eng', 'ing', 'iong', 'ong'] 韵尾相同但介音/韵腹不同"
+5703,建,十一庚,去声,NORMAL,,jian4,八寒,RHYME_MAPPING_ERROR,八寒,读音 jian4 归 八寒，原表归 十一庚
+5704,兰,十一庚,去声,NORMAL,,lan2,八寒,RHYME_MAPPING_ERROR,八寒,读音 lan2 归 八寒，原表归 十一庚
+5841,袆,十二齐,阴平,NORMAL,,hui1,五微,RIME_NEAR_MISS,五微,"韵母 ui 与本部韵母 ['er', 'i', 'ü'] 韵尾相同但介音/韵腹不同"
+5860,睢,十二齐,阴平,NORMAL,,sui1/hui1/wei3,五微,RIME_NEAR_MISS,五微|五微|五微,"韵母 ui 与本部韵母 ['er', 'i', 'ü'] 韵尾相同但介音/韵腹不同"
+5872,呈,十二齐,阴平,NORMAL,,cheng2/kuang2/cheng3,十一庚,RHYME_MAPPING_ERROR,十一庚|十唐|十一庚,读音 cheng2 归 十一庚，原表归 十二齐
+5893,发,十二齐,阴平,RUSHENG_PAI,,fa1/fa4,一麻,RHYME_MAPPING_ERROR,一麻|一麻,读音 fa1 归 一麻，原表归 十二齐
+5894,动,十二齐,阴平,RUSHENG_PAI,又阴平,dong4,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 dong4 归 十一庚，原表归 十二齐
+5906,喴,十二齐,阴平,RUSHENG_PAI,,wei1,五微,RIME_NEAR_MISS,五微,"韵母 ui 与本部韵母 ['er', 'i', 'ü'] 韵尾相同但介音/韵腹不同"
+6028,颈,十二齐,阳平,NORMAL,,jing3/geng3,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚,读音 jing3 归 十一庚，原表归 十二齐
+6080,驴,十二齐,阳平,NORMAL,,lv2,,RHYME_MAPPING_ERROR,,读音 lv2 归 None，原表归 十二齐
+6081,闾,十二齐,阳平,NORMAL,,lv2,,RHYME_MAPPING_ERROR,,读音 lv2 归 None，原表归 十二齐
+6082,榈,十二齐,阳平,NORMAL,,lv2,,RHYME_MAPPING_ERROR,,读音 lv2 归 None，原表归 十二齐
+6113,畲,十二齐,阳平,NORMAL,,she1,二波,RHYME_MAPPING_ERROR,二波,读音 she1 归 二波，原表归 十二齐
+6128,锹,十二齐,阳平,RUSHENG_PAI,,qiao1,六豪,RHYME_MAPPING_ERROR,六豪,读音 qiao1 归 六豪，原表归 十二齐
+6134,微,十二齐,阳平,RUSHENG_PAI,,wei1,五微,RIME_NEAR_MISS,五微,"韵母 ui 与本部韵母 ['er', 'i', 'ü'] 韵尾相同但介音/韵腹不同"
+6146,舍,十二齐,阳平,RUSHENG_PAI,,she3/she4/shi4,二波,RHYME_MAPPING_ERROR,二波|二波|十三支,读音 she3 归 二波，原表归 十二齐
+6184,牝,十二齐,上声,NORMAL,又文韵去声,pin4,九文,RHYME_MAPPING_ERROR,九文,读音 pin4 归 九文，原表归 十二齐
+6247,蓗,十二齐,上声,NORMAL,,zong3,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 zong3 归 十一庚，原表归 十二齐
+6278,吕,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6279,侣,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6280,铝,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6281,旅,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6282,屡,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6283,偻,十二齐,上声,NORMAL,,lou2/lv3,七尤,RHYME_MAPPING_ERROR,七尤|,读音 lou2 归 七尤，原表归 十二齐
+6284,缕,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6285,膂,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6286,褛,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6287,履,十二齐,上声,NORMAL,,lv3,,RHYME_MAPPING_ERROR,,读音 lv3 归 None，原表归 十二齐
+6288,女,十二齐,上声,NORMAL,,nv3/nv4/ru3,,RHYME_MAPPING_ERROR,||十四姑,读音 nv3 归 None，原表归 十二齐
+6316,派,十二齐,上声,NORMAL,,pai4/mai4/bai4/pa1,四开,RIME_NEAR_MISS,四开|四开|四开|一麻,"韵母 ai 与本部韵母 ['er', 'i', 'ü'] 韵尾相同但介音/韵腹不同"
+6317,入,十二齐,上声,NORMAL,,ru4,十四姑,RHYME_MAPPING_ERROR,十四姑,读音 ru4 归 十四姑，原表归 十二齐
+6318,上,十二齐,上声,NORMAL,,shang4/shang3,十唐,RHYME_MAPPING_ERROR,十唐|十唐,读音 shang4 归 十唐，原表归 十二齐
+6319,声,十二齐,上声,NORMAL,,sheng1/qing4,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚,读音 sheng1 归 十一庚，原表归 十二齐
+6320,和,十二齐,上声,NORMAL,,he2/he4/hu2/huo2/huo4/huo,二波,RHYME_MAPPING_ERROR,二波|二波|十四姑|二波|二波|二波,读音 he2 归 二波，原表归 十二齐
+6321,字,十二齐,上声,NORMAL,,zi4,十三支,RHYME_MAPPING_ERROR,十三支,读音 zi4 归 十三支，原表归 十二齐
+6362,费,十二齐,去声,NORMAL,,fei4,五微,RIME_NEAR_MISS,五微,"韵母 ei 与本部韵母 ['er', 'i', 'ü'] 韵尾相同但介音/韵腹不同"
+6370,谤,十二齐,去声,NORMAL,,bang4,十唐,RHYME_MAPPING_ERROR,十唐,读音 bang4 归 十唐，原表归 十二齐
+6404,髺,十二齐,去声,NORMAL,,kuo4/yue4,二波,RHYME_MAPPING_ERROR,二波|三皆,读音 kuo4 归 二波，原表归 十二齐
+6471,率,十二齐,去声,NORMAL,,lv4/shuai4/lve4,,RIME_NEAR_MISS,|四开|,"韵母 uai 与本部韵母 ['er', 'i', 'ü'] 韵尾相同但介音/韵腹不同"
+6472,兵,十二齐,去声,NORMAL,,bing1,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 bing1 归 十一庚，原表归 十二齐
+6516,滤,十二齐,去声,NORMAL,,lv4,,RHYME_MAPPING_ERROR,,读音 lv4 归 None，原表归 十二齐
+6517,女,十二齐,去声,NORMAL,,nv3/nv4/ru3,,RHYME_MAPPING_ERROR,||十四姑,读音 nv3 归 None，原表归 十二齐
+6533,呈,十二齐,去声,NORMAL,,cheng2/kuang2/cheng3,十一庚,RHYME_MAPPING_ERROR,十一庚|十唐|十一庚,读音 cheng2 归 十一庚，原表归 十二齐
+6535,寸,十二齐,去声,NORMAL,,cun4/cun3,九文,RHYME_MAPPING_ERROR,九文|九文,读音 cun4 归 九文，原表归 十二齐
+6554,哗,十二齐,去声,RUSHENG_PAI,,hua1/hua2,一麻,RHYME_MAPPING_ERROR,一麻|一麻,读音 hua1 归 一麻，原表归 十二齐
+6578,髺,十二齐,去声,RUSHENG_PAI,,kuo4/yue4,二波,RHYME_MAPPING_ERROR,二波|三皆,读音 kuo4 归 二波，原表归 十二齐
+6617,却,十二齐,去声,RUSHENG_PAI,,que4,三皆,RHYME_MAPPING_ERROR,三皆,读音 que4 归 三皆，原表归 十二齐
+6621,瀹,十二齐,去声,RUSHENG_PAI,,yue4/yao4,三皆,RHYME_MAPPING_ERROR,三皆|六豪,读音 yue4 归 三皆，原表归 十二齐
+6659,律,十二齐,去声,RUSHENG_PAI,,lv4,,RHYME_MAPPING_ERROR,,读音 lv4 归 None，原表归 十二齐
+6660,绿,十二齐,去声,RUSHENG_PAI,,lv4/lu4,,RHYME_MAPPING_ERROR,|十四姑,读音 lv4 归 None，原表归 十二齐
+6661,率,十二齐,去声,RUSHENG_PAI,,lv4/shuai4/lve4,,RIME_NEAR_MISS,|四开|,"韵母 uai 与本部韵母 ['er', 'i', 'ü'] 韵尾相同但介音/韵腹不同"
+6662,氯,十二齐,去声,RUSHENG_PAI,又开韵去声,lv4,,RHYME_MAPPING_ERROR,,读音 lv4 归 None，原表归 十二齐
+6663,恧,十二齐,去声,RUSHENG_PAI,,nv4,,RHYME_MAPPING_ERROR,,读音 nv4 归 None，原表归 十二齐
+6664,衄,十二齐,去声,RUSHENG_PAI,,nv4,,RHYME_MAPPING_ERROR,,读音 nv4 归 None，原表归 十二齐
+6721,著,十三支,阴平,NORMAL,,zhu4/zhuo2/chu2/zhao1/zhao2/zhe,十四姑,RHYME_MAPPING_ERROR,十四姑|二波|十四姑|六豪|六豪|二波,读音 zhu4 归 十四姑，原表归 十三支
+6728,仂,十三支,阴平,NORMAL,,le4/li4,二波,RHYME_MAPPING_ERROR,二波|十二齐,读音 le4 归 二波，原表归 十三支
+6731,幼,十三支,阴平,NORMAL,,you4/yao4,七尤,RHYME_MAPPING_ERROR,七尤|六豪,读音 you4 归 七尤，原表归 十三支
+6759,泑,十三支,阴平,NORMAL,,you1/ao1,七尤,RHYME_MAPPING_ERROR,七尤|六豪,读音 you1 归 七尤，原表归 十三支
+6763,赠,十三支,阴平,NORMAL,,zeng4,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 zeng4 归 十一庚，原表归 十三支
+6764,给,十三支,阴平,NORMAL,,gei3/ji3,五微,RHYME_MAPPING_ERROR,五微|十二齐,读音 gei3 归 五微，原表归 十三支
+6779,汗,十三支,阴平,RUSHENG_PAI,,han4/han2/gan1,八寒,RHYME_MAPPING_ERROR,八寒|八寒|八寒,读音 han4 归 八寒，原表归 十三支
+6790,路,十三支,阳平,NORMAL,,lu4/luo4,十四姑,RHYME_MAPPING_ERROR,十四姑|二波,读音 lu4 归 十四姑，原表归 十三支
+6801,母,十三支,阳平,NORMAL,,mu3/mu2/wu3/wu2,十四姑,RHYME_MAPPING_ERROR,十四姑|十四姑|十四姑|十四姑,读音 mu3 归 十四姑，原表归 十三支
+6811,仁,十三支,阳平,RUSHENG_PAI,,ren2,九文,RHYME_MAPPING_ERROR,九文,读音 ren2 归 九文，原表归 十三支
+6818,填,十三支,阳平,RUSHENG_PAI,,tian2/tian3/chen2/zhen4,八寒,RHYME_MAPPING_ERROR,八寒|八寒|九文|九文,读音 tian2 归 八寒，原表归 十三支
+6822,跍,十三支,阳平,RUSHENG_PAI,,ku1,十四姑,RHYME_MAPPING_ERROR,十四姑,读音 ku1 归 十四姑，原表归 十三支
+6830,礼,十三支,上声,NORMAL,,li3,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 li3 归 十二齐，原表归 十三支
+6837,豖,十三支,上声,NORMAL,,chu4,十四姑,RHYME_MAPPING_ERROR,十四姑,读音 chu4 归 十四姑，原表归 十三支
+6850,问,十三支,上声,NORMAL,,wen4,九文,RHYME_MAPPING_ERROR,九文,读音 wen4 归 九文，原表归 十三支
+6851,供,十三支,上声,NORMAL,,gong1/gong4,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚,读音 gong1 归 十一庚，原表归 十三支
+6854,枉,十三支,上声,NORMAL,,wang3/kuang2,十唐,RHYME_MAPPING_ERROR,十唐|十唐,读音 wang3 归 十唐，原表归 十三支
+6855,费,十三支,上声,NORMAL,,fei4,五微,RHYME_MAPPING_ERROR,五微,读音 fei4 归 五微，原表归 十三支
+6859,咔,十三支,上声,NORMAL,,ka1/ka3/nong4,一麻,RHYME_MAPPING_ERROR,一麻|一麻|十一庚,读音 ka1 归 一麻，原表归 十三支
+6860,徽,十三支,上声,NORMAL,,hui1,五微,RHYME_MAPPING_ERROR,五微,读音 hui1 归 五微，原表归 十三支
+6876,从,十三支,去声,NORMAL,,cong2/zong4,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚,读音 cong2 归 十一庚，原表归 十三支
+6877,未,十三支,去声,NORMAL,,wei4,五微,RHYME_MAPPING_ERROR,五微,读音 wei4 归 五微，原表归 十三支
+6886,仁,十三支,去声,NORMAL,,ren2,九文,RHYME_MAPPING_ERROR,九文,读音 ren2 归 九文，原表归 十三支
+6907,啫,十三支,去声,NORMAL,,zhe3,二波,RHYME_MAPPING_ERROR,二波,读音 zhe3 归 二波，原表归 十三支
+6915,鋦,十三支,去声,NORMAL,,ju1/ju2,十二齐,RHYME_MAPPING_ERROR,十二齐|十二齐,读音 ju1 归 十二齐，原表归 十三支
+6921,碀,十三支,去声,NORMAL,,cheng2,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 cheng2 归 十一庚，原表归 十三支
+6924,层,十三支,去声,NORMAL,,ceng2,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 ceng2 归 十一庚，原表归 十三支
+6989,桧,十四姑,阴平,NORMAL,,gui4/hui4,五微,RHYME_MAPPING_ERROR,五微|五微,读音 gui4 归 五微，原表归 十四姑
+6999,畈,十四姑,阴平,NORMAL,,fan4,八寒,RHYME_MAPPING_ERROR,八寒,读音 fan4 归 八寒，原表归 十四姑
+7027,妷,十四姑,阴平,NORMAL,,zhi2/yi4,十三支,RHYME_MAPPING_ERROR,十三支|十二齐,读音 zhi2 归 十三支，原表归 十四姑
+7040,栈,十四姑,阴平,NORMAL,,zhan4,八寒,RHYME_MAPPING_ERROR,八寒,读音 zhan4 归 八寒，原表归 十四姑
+7078,修,十四姑,阴平,RUSHENG_PAI,,xiu1,七尤,RIME_NEAR_MISS,七尤,韵母 iu 与本部韵母 ['u'] 韵尾相同但介音/韵腹不同
+7079,辞,十四姑,阴平,RUSHENG_PAI,,ci2,十三支,RHYME_MAPPING_ERROR,十三支,读音 ci2 归 十三支，原表归 十四姑
+7113,鞭,十四姑,阳平,NORMAL,,bian1,八寒,RHYME_MAPPING_ERROR,八寒,读音 bian1 归 八寒，原表归 十四姑
+7147,燕,十四姑,阳平,NORMAL,,yan4/yan1,八寒,RHYME_MAPPING_ERROR,八寒|八寒,读音 yan4 归 八寒，原表归 十四姑
+7150,酾,十四姑,阳平,NORMAL,,shai1/shi1,四开,RHYME_MAPPING_ERROR,四开|十三支,读音 shai1 归 四开，原表归 十四姑
+7187,默,十四姑,阳平,RUSHENG_PAI,,mo4,二波,RHYME_MAPPING_ERROR,二波,读音 mo4 归 二波，原表归 十四姑
+7277,盅,十四姑,上声,NORMAL,,zhong1/chong1,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚,读音 zhong1 归 十一庚，原表归 十四姑
+7288,瞄,十四姑,上声,NORMAL,,miao2,六豪,RHYME_MAPPING_ERROR,六豪,读音 miao2 归 六豪，原表归 十四姑
+7450,唾,十四姑,去声,NORMAL,,tuo4,二波,RHYME_MAPPING_ERROR,二波,读音 tuo4 归 二波，原表归 十四姑
+7571,声,十四姑,去声,RUSHENG_PAI,,sheng1/qing4,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚,读音 sheng1 归 十一庚，原表归 十四姑
+7572,律,十四姑,去声,RUSHENG_PAI,,lv4,,RHYME_MAPPING_ERROR,,读音 lv4 归 None，原表归 十四姑
+7573,启,十四姑,去声,RUSHENG_PAI,,qi3,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 qi3 归 十二齐，原表归 十四姑
+7574,蒙,十四姑,去声,RUSHENG_PAI,,meng2/meng1/meng3,十一庚,RHYME_MAPPING_ERROR,十一庚|十一庚|十一庚,读音 meng2 归 十一庚，原表归 十四姑
+7575,笠,十四姑,去声,RUSHENG_PAI,,li4,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 li4 归 十二齐，原表归 十四姑
+7576,翁,十四姑,去声,RUSHENG_PAI,,weng1/weng3,,RHYME_MAPPING_ERROR,|,读音 weng1 归 None，原表归 十四姑
+7577,对,十四姑,去声,RUSHENG_PAI,,dui4,五微,RHYME_MAPPING_ERROR,五微,读音 dui4 归 五微，原表归 十四姑
+7578,韵,十四姑,去声,RUSHENG_PAI,,yun4,九文,RHYME_MAPPING_ERROR,九文,读音 yun4 归 九文，原表归 十四姑
+7579,平,十四姑,去声,RUSHENG_PAI,,ping2/pian2/bing4/beng1,十一庚,RHYME_MAPPING_ERROR,十一庚|八寒|十一庚|十一庚,读音 ping2 归 十一庚，原表归 十四姑
+7580,水,十四姑,去声,RUSHENG_PAI,,shui3,五微,RHYME_MAPPING_ERROR,五微,读音 shui3 归 五微，原表归 十四姑
+7581,表,十四姑,去声,RUSHENG_PAI,,biao3,六豪,RHYME_MAPPING_ERROR,六豪,读音 biao3 归 六豪，原表归 十四姑
+7582,诗,十四姑,去声,RUSHENG_PAI,,shi1,十三支,RHYME_MAPPING_ERROR,十三支,读音 shi1 归 十三支，原表归 十四姑
+7583,词,十四姑,去声,RUSHENG_PAI,,ci2,十三支,RHYME_MAPPING_ERROR,十三支,读音 ci2 归 十三支，原表归 十四姑
+7584,格,十四姑,去声,RUSHENG_PAI,,ge2/luo4/he4/ge1,二波,RHYME_MAPPING_ERROR,二波|二波|二波|二波,读音 ge2 归 二波，原表归 十四姑
+7585,关,十四姑,去声,RUSHENG_PAI,,guan1,八寒,RHYME_MAPPING_ERROR,八寒,读音 guan1 归 八寒，原表归 十四姑
+7586,闭,十四姑,去声,RUSHENG_PAI,,bi4,十二齐,RHYME_MAPPING_ERROR,十二齐,读音 bi4 归 十二齐，原表归 十四姑
+7587,窗,十四姑,去声,RUSHENG_PAI,,chuang1/cong1,十唐,RHYME_MAPPING_ERROR,十唐|十一庚,读音 chuang1 归 十唐，原表归 十四姑
+7588,口,十四姑,去声,RUSHENG_PAI,,kou3,七尤,RIME_NEAR_MISS,七尤,韵母 ou 与本部韵母 ['u'] 韵尾相同但介音/韵腹不同
+7589,打,十四姑,去声,RUSHENG_PAI,,da3/da2,一麻,RHYME_MAPPING_ERROR,一麻|一麻,读音 da3 归 一麻，原表归 十四姑
+7590,印,十四姑,去声,RUSHENG_PAI,,yin4/yi4,九文,RHYME_MAPPING_ERROR,九文|十二齐,读音 yin4 归 九文，原表归 十四姑
+7591,文,十四姑,去声,RUSHENG_PAI,,wen2,九文,RHYME_MAPPING_ERROR,九文,读音 wen2 归 九文，原表归 十四姑
+7592,章,十四姑,去声,RUSHENG_PAI,,zhang1/zhang4,十唐,RHYME_MAPPING_ERROR,十唐|十唐,读音 zhang1 归 十唐，原表归 十四姑
+7593,子,十四姑,去声,RUSHENG_PAI,,zi/zi3,十三支,RHYME_MAPPING_ERROR,十三支|十三支,读音 zi 归 十三支，原表归 十四姑
+7594,夜,十四姑,去声,RUSHENG_PAI,,ye4,三皆,RHYME_MAPPING_ERROR,三皆,读音 ye4 归 三皆，原表归 十四姑
+7595,星,十四姑,去声,RUSHENG_PAI,,xing1,十一庚,RHYME_MAPPING_ERROR,十一庚,读音 xing1 归 十一庚，原表归 十四姑
+7596,网,十四姑,去声,RUSHENG_PAI,,wang3,十唐,RHYME_MAPPING_ERROR,十唐,读音 wang3 归 十唐，原表归 十四姑
+7597,站,十四姑,去声,RUSHENG_PAI,,zhan4/zhan1,八寒,RHYME_MAPPING_ERROR,八寒|八寒,读音 zhan4 归 八寒，原表归 十四姑

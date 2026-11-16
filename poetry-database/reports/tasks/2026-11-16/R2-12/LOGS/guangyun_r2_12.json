@@ -1,0 +1,33 @@
+{
+ "core_structural": 3730,
+ "extended_max_with_possible": 3758,
+ "strict_with_fanqie": 3565,
+ "strict_two_char_only": 3482,
+ "no_fanqie": 165,
+ "possible_total": 690,
+ "possible_addable": 28,
+ "possible_reclass": {
+  "TRANSCRIPTION_COLUMN_MISALIGNMENT_SUSPECT": 323,
+  "SHORT_FRAGMENT_SUSPECT": 144,
+  "GLOSS_FRAGMENT": 187,
+  "ALTERNATIVE_READING": 8,
+  "COUNT_TAIL_PRESENT": 16,
+  "FANQIE_SPLIT_AT_START": 12
+ },
+ "r2_11_lower_3706_reproducible": false,
+ "r2_11_lower_note": "no_numeral 实为 306，无切语 165，均无法得出 24 之差额；判定 UNDOCUMENTED",
+ "column_contamination": 83,
+ "external": {
+  "wenmai_3702": {
+   "basis": "四库全书本《原本广韵》数字化整理（外部声明）",
+   "xiaoyun": 3702,
+   "chars": 25332,
+   "crosswalk": "BLOCKED_NO_PUBLIC_ITEM_INDEX"
+  },
+  "commercial_3872": {
+   "basis": "商务印书馆《广韵反切今读手册》出版说明",
+   "entries": 3872,
+   "crosswalk": "BLOCKED_NO_PUBLIC_ITEM_INDEX"
+  }
+ }
+}

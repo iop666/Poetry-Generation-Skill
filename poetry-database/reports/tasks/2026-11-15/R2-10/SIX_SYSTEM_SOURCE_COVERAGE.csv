@@ -1,0 +1,7 @@
+﻿system,source,n_records,n_chars,n_rhyme_groups,n_with_fanqie,n_tone_classes,evidence_levels,new_table_rows,new_table_chars
+廣韻,廣韻（原本廣韻，維基文庫四庫本轉錄）,20530,12448,190,5011,5,GUANGYUN_ENTRY,4771,
+集韻,集韻（四庫全書本，維基文庫轉錄）,30862,14740,202,30178,4,JIYUN_SMALL_RHYME,4169,
+平水韻,平水韻 106 韻（項目自建繁表）,10662,8564,106,0,4,PINGSHUI_TABLE,,
+詞林正韻,詞林正韻（維基文庫轉錄，含 <半> 標記）,11382,8527,19,0,4,"DERIVED_FROM_PINGSHUI,DERIVED_FROM_PINGSHUI_HALF",5563,5048
+中原音韻,中原音韻（維基文庫正文）,0,0,0,0,0,,5731,5183
+中華新韻,中華新韻十四韻（韻母規則派生）,7216,7216,13,0,1,DERIVED_PINYIN,,

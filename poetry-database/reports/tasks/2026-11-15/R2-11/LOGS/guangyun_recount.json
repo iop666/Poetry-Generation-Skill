@@ -1,0 +1,88 @@
+{
+ "entries_total": 25619,
+ "kinds": {
+  "SUPPORTED_HEAD_NO_MARKER": 487,
+  "PLAIN_ENTRY": 19250,
+  "ALTERNATIVE_READING": 1847,
+  "CONFIRMED_XIAOYUN_HEAD": 3052,
+  "POSSIBLE_XIAOYUN_HEAD": 690,
+  "YUN_TAG": 102,
+  "HEAD_WITH_DISPLACED_FANQIE": 180,
+  "HEAD_LOST_FANQIE": 11
+ },
+ "candidates": {
+  "C1_fanqie_start_all": 3706,
+  "C2_fanqie_start_with_numeral": 3408,
+  "C3_marker_and_fanqie": 3063,
+  "C4_marker_only": 4203,
+  "structural_union": 3730
+ },
+ "yun_matched": 200,
+ "yun_expected": 206,
+ "unmatched_yun": [],
+ "numeral_sum": 22615,
+ "per_volume": {
+  "1": {
+   "SUPPORTED_HEAD_NO_MARKER": 94,
+   "PLAIN_ENTRY": 3956,
+   "ALTERNATIVE_READING": 417,
+   "CONFIRMED_XIAOYUN_HEAD": 441,
+   "POSSIBLE_XIAOYUN_HEAD": 128,
+   "YUN_TAG": 14,
+   "HEAD_WITH_DISPLACED_FANQIE": 28,
+   "HEAD_LOST_FANQIE": 1
+  },
+  "2": {
+   "SUPPORTED_HEAD_NO_MARKER": 91,
+   "PLAIN_ENTRY": 3694,
+   "CONFIRMED_XIAOYUN_HEAD": 421,
+   "ALTERNATIVE_READING": 373,
+   "HEAD_WITH_DISPLACED_FANQIE": 37,
+   "POSSIBLE_XIAOYUN_HEAD": 147,
+   "YUN_TAG": 15,
+   "HEAD_LOST_FANQIE": 4
+  },
+  "3": {
+   "SUPPORTED_HEAD_NO_MARKER": 104,
+   "PLAIN_ENTRY": 3427,
+   "CONFIRMED_XIAOYUN_HEAD": 696,
+   "ALTERNATIVE_READING": 380,
+   "YUN_TAG": 26,
+   "POSSIBLE_XIAOYUN_HEAD": 170,
+   "HEAD_WITH_DISPLACED_FANQIE": 63,
+   "HEAD_LOST_FANQIE": 1
+  },
+  "4": {
+   "SUPPORTED_HEAD_NO_MARKER": 120,
+   "PLAIN_ENTRY": 3818,
+   "CONFIRMED_XIAOYUN_HEAD": 902,
+   "POSSIBLE_XIAOYUN_HEAD": 140,
+   "ALTERNATIVE_READING": 405,
+   "YUN_TAG": 29,
+   "HEAD_WITH_DISPLACED_FANQIE": 33,
+   "HEAD_LOST_FANQIE": 3
+  },
+  "5": {
+   "SUPPORTED_HEAD_NO_MARKER": 78,
+   "PLAIN_ENTRY": 4355,
+   "CONFIRMED_XIAOYUN_HEAD": 592,
+   "POSSIBLE_XIAOYUN_HEAD": 105,
+   "ALTERNATIVE_READING": 272,
+   "HEAD_WITH_DISPLACED_FANQIE": 19,
+   "YUN_TAG": 18,
+   "HEAD_LOST_FANQIE": 2
+  }
+ },
+ "vol_sha256": {
+  "1": "bdbe52ea9e295b86ce85707a474b5a563020285940080dd8d5a11c1853a03d17",
+  "2": "73842db0cc57e8cdf0a32648f8a8e0c09479ebb256bd5a6fd90903ed183a7b5b",
+  "3": "cde6b542848026e9a70104b2c13c07e392c0ed8675c1cc838b485e42817686f0",
+  "4": "d11b4f12becdef1900d8de684799964c06647b27874db71f59d03c485a5fc0e9",
+  "5": "ae43319b2c95745f97f042fdad5b1b0b0b635bf1e2a61d959ba6340b01f62e05"
+ },
+ "numeral_check": {
+  "agree": 3223,
+  "disagree": 201,
+  "no_numeral": 306
+ }
+}

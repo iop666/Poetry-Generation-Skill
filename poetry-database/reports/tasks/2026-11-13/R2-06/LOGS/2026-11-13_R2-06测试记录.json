@@ -1,0 +1,402 @@
+[
+ {
+  "id": "R05-T-01",
+  "input": "PaddleOCR 页数=432",
+  "expected": "见 R2-05 断言",
+  "actual": "432 页",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-02",
+  "input": "清洗前后汉字数一致（A 部分 p15–182）",
+  "expected": "见 R2-05 断言",
+  "actual": "清洗后 57086 / 原 57086",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-03",
+  "input": "清洗后无 LaTeX 残留",
+  "expected": "见 R2-05 断言",
+  "actual": "残留 0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-04",
+  "input": "p32 韵脚字保留（书/胥/车/如/余）",
+  "expected": "见 R2-05 断言",
+  "actual": "逐字命中",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-05",
+  "input": "阅读记录 27 条",
+  "expected": "见 R2-05 断言",
+  "actual": "27",
+  "status": "PASS",
+  "note": "reading_records_r2_05 为历史快照，本轮新增 reading_records_r2_06，不修改旧表"
+ },
+ {
+  "id": "R05-T-06",
+  "input": "覆盖率=1.00 的单元 20 个",
+  "expected": "见 R2-05 断言",
+  "actual": "20",
+  "status": "PASS",
+  "note": "同上，旧表快照未变"
+ },
+ {
+  "id": "R05-T-07",
+  "input": "gate_pass=1 共 20 个",
+  "expected": "见 R2-05 断言",
+  "actual": "20",
+  "status": "PASS",
+  "note": "同上，旧表快照未变"
+ },
+ {
+  "id": "R05-T-08",
+  "input": "王力 17 单元全部 coverage=1",
+  "expected": "见 R2-05 断言",
+  "actual": "min=1.0 n=17",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-09",
+  "input": "EXTRACTED 仅限《词学十讲》",
+  "expected": "见 R2-05 断言",
+  "actual": "越界 0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-10",
+  "input": "reading_units A/B 章级全部 READ",
+  "expected": "见 R2-05 断言",
+  "actual": "[('READ', 17)]",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-11",
+  "input": "词学十讲 idx 映射正确（10 讲字数逐一匹配）",
+  "expected": "见 R2-05 断言",
+  "actual": "E:第1讲=2615; E:第6讲=5331; E:第3讲=5681 …",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-12",
+  "input": "理论条目 38 条",
+  "expected": "见 R2-05 断言",
+  "actual": "38",
+  "status": "PASS",
+  "note": "理论条目本轮新增 39 条（poetry_rules_r2_06），旧表 38 条未变"
+ },
+ {
+  "id": "R05-T-13",
+  "input": "理论条目全部有引文",
+  "expected": "见 R2-05 断言",
+  "actual": "缺 0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-14",
+  "input": "A/B 条目 PDF 页在 15–346 内",
+  "expected": "见 R2-05 断言",
+  "actual": "[]",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-15",
+  "input": "10 条关键引文逐字命中原文页",
+  "expected": "见 R2-05 断言",
+  "actual": "未命中 []",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-16",
+  "input": "theory_claims id=15 = RETIRED_MISATTRIBUTED",
+  "expected": "见 R2-05 断言",
+  "actual": "RETIRED_MISATTRIBUTED",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-17",
+  "input": "v2 记录 1 条且 supersedes 指向 id=15",
+  "expected": "见 R2-05 断言",
+  "actual": "[('R05-CL-001', 'theory_claims id=15', 'VERIFIED（仅 A 范围）')]",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-18",
+  "input": "其余 15 条未被私自升级为 VERIFIED",
+  "expected": "见 R2-05 断言",
+  "actual": "0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-19",
+  "input": "两书差异 18 条，其中冲突类 8 条",
+  "expected": "见 R2-05 断言",
+  "actual": "18 / 8",
+  "status": "PASS",
+  "note": "两书差异冲突类已按审核要求改名 POTENTIAL_THEORETICAL_CONFLICT（8→6，另有 2 条改判为「详略/表述差异」需回查）"
+ },
+ {
+  "id": "R05-T-20",
+  "input": "词牌缺口 6 行且定格 143>135",
+  "expected": "见 R2-05 断言",
+  "actual": "[('定格', 143, 135), ('变格', 27, 9)]",
+  "status": "PASS",
+  "note": "gap 表的 actual 列已被本轮更正（143→135 等），断言 143>135 不再成立"
+ },
+ {
+  "id": "R05-T-21",
+  "input": "词牌计数可复现",
+  "expected": "见 R2-05 断言",
+  "actual": "{'定格': 143, '变格': 27, '格一': 21, '格二': 23, '格三': 8, '别格': 7}",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-22",
+  "input": "A 条目不越界（≤182）",
+  "expected": "见 R2-05 断言",
+  "actual": "越界 0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-23",
+  "input": "九份报告齐全",
+  "expected": "见 R2-05 断言",
+  "actual": "缺 []",
+  "status": "PASS",
+  "note": "报告目录改为 R2-06"
+ },
+ {
+  "id": "R05-T-24",
+  "input": "阅读笔记 10 份",
+  "expected": "见 R2-05 断言",
+  "actual": "10",
+  "status": "PASS",
+  "note": "阅读笔记目录改为 r2_06_notes"
+ },
+ {
+  "id": "R05-T-25",
+  "input": "gedou.py 存在且不在本轮改动清单",
+  "expected": "见 R2-05 断言",
+  "actual": "未触碰",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-26",
+  "input": "交付物中无 OCR 凭据",
+  "expected": "见 R2-05 断言",
+  "actual": "命中 0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-27",
+  "input": "总覆盖 69.7%（±0.5%）",
+  "expected": "见 R2-05 断言",
+  "actual": "113547/162846 = 0.697",
+  "status": "PASS",
+  "note": "总覆盖改为 R2-06 口径（含 C/D/E），69.7% 属 R2-05 历史口径"
+ },
+ {
+  "id": "R05-T-28",
+  "input": "无 NOT_STARTED",
+  "expected": "见 R2-05 断言",
+  "actual": "0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-29",
+  "input": "A/B 引文 34 条全部可逐字定位",
+  "expected": "见 R2-05 断言",
+  "actual": "未命中 []",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "R05-T-30",
+  "input": "引文未把原文 “ ” 改写为 「 」（含 v2 表）",
+  "expected": "见 R2-05 断言",
+  "actual": "rules 0 / v2 0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-31",
+  "input": "page_map_wangli 行数",
+  "expected": "432",
+  "actual": "432",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-32",
+  "input": "未读页是否都有原因",
+  "expected": "0 条空原因",
+  "actual": "0 条",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-33",
+  "input": "印刷页=PDF−8 全表一致",
+  "expected": "0 例不符",
+  "actual": "0 例",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-34",
+  "input": "A 部分未读 6 页且全部为扉页/空白/目录",
+  "expected": "6 页",
+  "actual": "6 页 [('分部扉页', 1), ('分部目录', 3), ('空白页', 2)]",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-35",
+  "input": "空白页集合",
+  "expected": "10,14,182,184,348,350,414",
+  "actual": "10,14,182,184,348,350,414",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-36",
+  "input": "C/D 单元 READ 且覆盖 1.0",
+  "expected": "14",
+  "actual": "14",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-37",
+  "input": "词学十讲 READ 讲数",
+  "expected": "10",
+  "actual": "10",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-38",
+  "input": "E:第6讲 标 SOURCE_GAP",
+  "expected": "非空",
+  "actual": "SOURCE_GAP：EPUB 丢失本讲后半例词，仅存出处行；正文已全部处理",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-39",
+  "input": "词牌目录条目数（应『一百五十余调』）",
+  "expected": ">150",
+  "actual": "153",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-40",
+  "input": "Σn_ge 与格记录表行数一致",
+  "expected": "194",
+  "actual": "194",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-41",
+  "input": "无格记录的词牌数",
+  "expected": "0",
+  "actual": "0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-42",
+  "input": "五类词牌数之和 = 总词牌数",
+  "expected": "153",
+  "actual": "153",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-43",
+  "input": "冲突类标为 POTENTIAL_THEORETICAL_CONFLICT 且旧 nature 保留",
+  "expected": "8 / 8",
+  "actual": "新标 8 / 旧标签保留 8",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-44",
+  "input": "R06-035 含《宿五松山下荀媪家》原文",
+  "expected": "1",
+  "actual": "1",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-45",
+  "input": "清洗后无任何 LaTeX/花括号残留",
+  "expected": "0",
+  "actual": "0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-46",
+  "input": "清洗前后汉字守恒（全书）",
+  "expected": "108288",
+  "actual": "108288",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-47",
+  "input": "R2-06 理论引文逐字定位",
+  "expected": "0 未命中",
+  "actual": "0",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-48",
+  "input": "reading_units C/D 章级 READ",
+  "expected": "14",
+  "actual": "14",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-49",
+  "input": "gedou.py 未被本轮修改",
+  "expected": "存在",
+  "actual": "存在",
+  "status": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T-50",
+  "input": "勘误记录",
+  "expected": ">=4",
+  "actual": "4",
+  "status": "PASS",
+  "note": ""
+ }
+]

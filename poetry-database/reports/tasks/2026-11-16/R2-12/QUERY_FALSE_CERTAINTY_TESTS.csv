@@ -1,0 +1,8 @@
+﻿test_id,name,expect,actual,result,note
+FC-01,广韵与集韵对同一字分别成行,每字两行以上（两书各自独立）,max distinct books=2,PASS,
+FC-02,平水韵同字多韵保留,存在多韵记录,multi=24,PASS,
+FC-03,中原音韵不返回反切,0,0,PASS,
+FC-04,中华新韵不返回反切,0,0,PASS,
+FC-05,上古音无来源返回 UNAVAILABLE,100,100,PASS,
+FC-06,集韵非小韵首必须说明无独立反切,0,0,PASS,
+FC-07,六书同时有记录的字,>0,62,PASS,

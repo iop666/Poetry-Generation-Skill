@@ -1,0 +1,33 @@
+{
+ "n": 1000,
+ "unique": 1000,
+ "seed": 20261116,
+ "flags": {
+  "AUTHOR_CANON_DIFF": 364,
+  "TRAD_CHARS": 522,
+  "NO_LOCATOR": 1000,
+  "TITLE_REPEAT": 30,
+  "BODY_PARTIAL": 5,
+  "AUTHOR_UNVERIFIED": 6,
+  "DUPLICATE_SUSPECTED": 38,
+  "ANNOTATION_MIXED": 4,
+  "HAS_VARIANT": 8,
+  "BODY_DELETED": 4,
+  "AUTHOR_IN_BODY": 2
+ },
+ "gaps": {},
+ "layers": {
+  "先秦两汉韵文": 100,
+  "六朝作品": 100,
+  "唐诗": 150,
+  "宋诗": 150,
+  "宋词": 150,
+  "元曲": 150,
+  "明清诗词": 100,
+  "长篇作品": 40,
+  "带注释或校记作品": 30,
+  "复杂多版本作品": 30
+ },
+ "multi_layer": 0,
+ "body_clean": 919
+}

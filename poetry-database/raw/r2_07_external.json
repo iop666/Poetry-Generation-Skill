@@ -1,0 +1,1423 @@
+[
+ {
+  "name": "十六字令",
+  "chars": 16,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai1.html"
+ },
+ {
+  "name": "荷叶杯",
+  "chars": 23,
+  "ge": "定格",
+  "rhyme": "平仄韵错叶格",
+  "href": "../cipai/cipai147.html"
+ },
+ {
+  "name": "南歌子",
+  "chars": 26,
+  "ge": "定格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai2.html"
+ },
+ {
+  "name": "渔歌子",
+  "chars": 27,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai3.html"
+ },
+ {
+  "name": "忆江南",
+  "chars": 27,
+  "ge": "定格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai4.html"
+ },
+ {
+  "name": "潇湘神",
+  "chars": 27,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai5.html"
+ },
+ {
+  "name": "捣练子",
+  "chars": 27,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai6.html"
+ },
+ {
+  "name": "南乡子",
+  "chars": 27,
+  "ge": "格一",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai129.html"
+ },
+ {
+  "name": "浪淘沙",
+  "chars": 28,
+  "ge": "格一（七言绝句式）",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai7.html"
+ },
+ {
+  "name": "江南春",
+  "chars": 30,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai8.html"
+ },
+ {
+  "name": "南乡子",
+  "chars": 30,
+  "ge": "格二",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai129.html"
+ },
+ {
+  "name": "忆王孙",
+  "chars": 31,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai9.html"
+ },
+ {
+  "name": "蕃女怨",
+  "chars": 31,
+  "ge": "平仄韵转换格",
+  "rhyme": "",
+  "href": "../cipai/cipai130.html"
+ },
+ {
+  "name": "诉衷情",
+  "chars": 33,
+  "ge": "别格",
+  "rhyme": "平仄韵错叶格",
+  "href": "../cipai/cipai17.html"
+ },
+ {
+  "name": "如梦令",
+  "chars": 33,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai54.html"
+ },
+ {
+  "name": "归自谣",
+  "chars": 34,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai55.html"
+ },
+ {
+  "name": "天仙子",
+  "chars": 34,
+  "ge": "格一",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai56.html"
+ },
+ {
+  "name": "江城子",
+  "chars": 35,
+  "ge": "定格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai10.html"
+ },
+ {
+  "name": "调笑令",
+  "chars": 35,
+  "ge": "定格",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai131.html"
+ },
+ {
+  "name": "定西番",
+  "chars": 35,
+  "ge": "平仄韵错叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai148.html"
+ },
+ {
+  "name": "长相思",
+  "chars": 36,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai11.html"
+ },
+ {
+  "name": "相见欢",
+  "chars": 36,
+  "ge": "平仄韵错叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai149.html"
+ },
+ {
+  "name": "醉太平",
+  "chars": 38,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai12.html"
+ },
+ {
+  "name": "调笑令",
+  "chars": 38,
+  "ge": "变格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai131.html"
+ },
+ {
+  "name": "生查子",
+  "chars": 40,
+  "ge": "格一",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai57.html"
+ },
+ {
+  "name": "生查子",
+  "chars": 40,
+  "ge": "格二",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai57.html"
+ },
+ {
+  "name": "生查子",
+  "chars": 40,
+  "ge": "格三",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai57.html"
+ },
+ {
+  "name": "玉蝴蝶",
+  "chars": 41,
+  "ge": "格一",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai13.html"
+ },
+ {
+  "name": "醉花间",
+  "chars": 41,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai58.html"
+ },
+ {
+  "name": "点绛唇",
+  "chars": 41,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai59.html"
+ },
+ {
+  "name": "上行杯",
+  "chars": 41,
+  "ge": "平仄韵错叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai150.html"
+ },
+ {
+  "name": "浣溪沙",
+  "chars": 42,
+  "ge": "格一",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai14.html"
+ },
+ {
+  "name": "霜天晓角",
+  "chars": 43,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai60.html"
+ },
+ {
+  "name": "霜天晓角",
+  "chars": 43,
+  "ge": "变格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai60.html"
+ },
+ {
+  "name": "伤春怨",
+  "chars": 43,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai61.html"
+ },
+ {
+  "name": "酒泉子",
+  "chars": 43,
+  "ge": "平仄韵错叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai151.html"
+ },
+ {
+  "name": "巫山一段云",
+  "chars": 44,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai15.html"
+ },
+ {
+  "name": "采桑子",
+  "chars": 44,
+  "ge": "格一",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai16.html"
+ },
+ {
+  "name": "诉衷情",
+  "chars": 44,
+  "ge": "定格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai17.html"
+ },
+ {
+  "name": "卜算子",
+  "chars": 44,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai62.html"
+ },
+ {
+  "name": "木兰花",
+  "chars": 44,
+  "ge": "格三（减字木兰花）",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai70.html"
+ },
+ {
+  "name": "昭君怨",
+  "chars": 44,
+  "ge": "平仄韵转换格",
+  "rhyme": "",
+  "href": "../cipai/cipai132.html"
+ },
+ {
+  "name": "谒金门",
+  "chars": 45,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai63.html"
+ },
+ {
+  "name": "好事近",
+  "chars": 45,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai64.html"
+ },
+ {
+  "name": "忆少年",
+  "chars": 46,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai65.html"
+ },
+ {
+  "name": "忆秦娥",
+  "chars": 46,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai66.html"
+ },
+ {
+  "name": "忆秦娥",
+  "chars": 46,
+  "ge": "变格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai66.html"
+ },
+ {
+  "name": "清平乐",
+  "chars": 46,
+  "ge": "平仄韵转换格",
+  "rhyme": "",
+  "href": "../cipai/cipai136.html"
+ },
+ {
+  "name": "画堂春",
+  "chars": 47,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai18.html"
+ },
+ {
+  "name": "阮郎归",
+  "chars": 47,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai19.html"
+ },
+ {
+  "name": "浣溪沙",
+  "chars": 48,
+  "ge": "格二（摊破浣溪沙）",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai14.html"
+ },
+ {
+  "name": "采桑子",
+  "chars": 48,
+  "ge": "格二（添字）",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai16.html"
+ },
+ {
+  "name": "三字令",
+  "chars": 48,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai20.html"
+ },
+ {
+  "name": "朝中措",
+  "chars": 48,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai21.html"
+ },
+ {
+  "name": "眼儿媚",
+  "chars": 48,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai22.html"
+ },
+ {
+  "name": "人月圆",
+  "chars": 48,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai23.html"
+ },
+ {
+  "name": "菩萨蛮",
+  "chars": 48,
+  "ge": "平仄韵转换格",
+  "rhyme": "",
+  "href": "../cipai/cipai133.html"
+ },
+ {
+  "name": "柳梢青",
+  "chars": 49,
+  "ge": "定格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai24.html"
+ },
+ {
+  "name": "柳梢青",
+  "chars": 49,
+  "ge": "别格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai24.html"
+ },
+ {
+  "name": "太常引",
+  "chars": 49,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai25.html"
+ },
+ {
+  "name": "喜迁莺",
+  "chars": 49,
+  "ge": "平仄韵转换格",
+  "rhyme": "",
+  "href": "../cipai/cipai135.html"
+ },
+ {
+  "name": "河渎神",
+  "chars": 49,
+  "ge": "平仄韵转换格",
+  "rhyme": "",
+  "href": "../cipai/cipai138.html"
+ },
+ {
+  "name": "少年游",
+  "chars": 50,
+  "ge": "定格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai26.html"
+ },
+ {
+  "name": "烛影摇红",
+  "chars": 50,
+  "ge": "格一（忆故人）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai67.html"
+ },
+ {
+  "name": "木兰花",
+  "chars": 50,
+  "ge": "格四（偷声木兰花）",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai70.html"
+ },
+ {
+  "name": "西江月",
+  "chars": 50,
+  "ge": "平仄韵通叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai141.html"
+ },
+ {
+  "name": "少年游",
+  "chars": 51,
+  "ge": "别格一",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai26.html"
+ },
+ {
+  "name": "少年游",
+  "chars": 51,
+  "ge": "别格二",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai26.html"
+ },
+ {
+  "name": "少年游",
+  "chars": 51,
+  "ge": "别格三",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai26.html"
+ },
+ {
+  "name": "更漏子",
+  "chars": 51,
+  "ge": "平仄韵转换格",
+  "rhyme": "",
+  "href": "../cipai/cipai134.html"
+ },
+ {
+  "name": "忆馀杭",
+  "chars": 51,
+  "ge": "平仄韵转换格",
+  "rhyme": "",
+  "href": "../cipai/cipai137.html"
+ },
+ {
+  "name": "南歌子",
+  "chars": 52,
+  "ge": "双调",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai2.html"
+ },
+ {
+  "name": "醉花阴",
+  "chars": 52,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai68.html"
+ },
+ {
+  "name": "望江东",
+  "chars": 52,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai69.html"
+ },
+ {
+  "name": "荷叶杯",
+  "chars": 52,
+  "ge": "变格",
+  "rhyme": "平仄韵错叶格",
+  "href": "../cipai/cipai147.html"
+ },
+ {
+  "name": "忆江南",
+  "chars": 54,
+  "ge": "双调",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai4.html"
+ },
+ {
+  "name": "浪淘沙",
+  "chars": 54,
+  "ge": "格二（双调小令）",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai7.html"
+ },
+ {
+  "name": "鹧鸪天",
+  "chars": 55,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai28.html"
+ },
+ {
+  "name": "木兰花",
+  "chars": 55,
+  "ge": "格一（仄韵换韵格）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai70.html"
+ },
+ {
+  "name": "木兰花",
+  "chars": 56,
+  "ge": "格二（仄韵定格）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai70.html"
+ },
+ {
+  "name": "鹊桥仙",
+  "chars": 56,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai71.html"
+ },
+ {
+  "name": "南乡子",
+  "chars": 56,
+  "ge": "格三",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai129.html"
+ },
+ {
+  "name": "夜游宫",
+  "chars": 57,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai72.html"
+ },
+ {
+  "name": "临江仙",
+  "chars": 58,
+  "ge": "格一",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai27.html"
+ },
+ {
+  "name": "临江仙",
+  "chars": 58,
+  "ge": "格二",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai27.html"
+ },
+ {
+  "name": "小重山",
+  "chars": 58,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai29.html"
+ },
+ {
+  "name": "踏莎行",
+  "chars": 58,
+  "ge": "格一",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai73.html"
+ },
+ {
+  "name": "临江仙",
+  "chars": 60,
+  "ge": "格三",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai27.html"
+ },
+ {
+  "name": "一剪梅",
+  "chars": 60,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai30.html"
+ },
+ {
+  "name": "唐多令",
+  "chars": 60,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai31.html"
+ },
+ {
+  "name": "蝶恋花",
+  "chars": 60,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai75.html"
+ },
+ {
+  "name": "河传",
+  "chars": 60,
+  "ge": "格一",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai139.html"
+ },
+ {
+  "name": "虞美人",
+  "chars": 60,
+  "ge": "格一",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai140.html"
+ },
+ {
+  "name": "河传",
+  "chars": 61,
+  "ge": "格二",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai139.html"
+ },
+ {
+  "name": "破阵子",
+  "chars": 62,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai32.html"
+ },
+ {
+  "name": "渔家傲",
+  "chars": 62,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai76.html"
+ },
+ {
+  "name": "苏幕遮",
+  "chars": 62,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai77.html"
+ },
+ {
+  "name": "虞美人",
+  "chars": 63,
+  "ge": "格二",
+  "rhyme": "平仄韵转换格",
+  "href": "../cipai/cipai140.html"
+ },
+ {
+  "name": "喝火令",
+  "chars": 65,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai33.html"
+ },
+ {
+  "name": "踏莎行",
+  "chars": 65,
+  "ge": "格二（转调踏莎行）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai73.html"
+ },
+ {
+  "name": "淡黄柳",
+  "chars": 65,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai78.html"
+ },
+ {
+  "name": "行香子",
+  "chars": 66,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai34.html"
+ },
+ {
+  "name": "锦缠道",
+  "chars": 66,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai79.html"
+ },
+ {
+  "name": "酷相思",
+  "chars": 66,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai80.html"
+ },
+ {
+  "name": "解佩令",
+  "chars": 66,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai81.html"
+ },
+ {
+  "name": "定风波",
+  "chars": 66,
+  "ge": "定格",
+  "rhyme": "平仄韵错叶格",
+  "href": "../cipai/cipai152.html"
+ },
+ {
+  "name": "青玉案",
+  "chars": 67,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai82.html"
+ },
+ {
+  "name": "天仙子",
+  "chars": 68,
+  "ge": "格二",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai56.html"
+ },
+ {
+  "name": "江城子",
+  "chars": 70,
+  "ge": "双调",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai10.html"
+ },
+ {
+  "name": "千秋岁",
+  "chars": 71,
+  "ge": "格一",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai83.html"
+ },
+ {
+  "name": "钗头凤",
+  "chars": 72,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai74.html"
+ },
+ {
+  "name": "离亭燕",
+  "chars": 72,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai84.html"
+ },
+ {
+  "name": "粉蝶儿",
+  "chars": 72,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai85.html"
+ },
+ {
+  "name": "风入松",
+  "chars": 76,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai35.html"
+ },
+ {
+  "name": "祝英台近",
+  "chars": 77,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai87.html"
+ },
+ {
+  "name": "御街行",
+  "chars": 78,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai86.html"
+ },
+ {
+  "name": "金人捧露盘",
+  "chars": 81,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai36.html"
+ },
+ {
+  "name": "最高楼",
+  "chars": 81,
+  "ge": "平仄韵错叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai153.html"
+ },
+ {
+  "name": "千秋岁",
+  "chars": 82,
+  "ge": "格二（千秋岁引）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai83.html"
+ },
+ {
+  "name": "蓦山溪",
+  "chars": 82,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai88.html"
+ },
+ {
+  "name": "蓦山溪",
+  "chars": 82,
+  "ge": "变格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai88.html"
+ },
+ {
+  "name": "洞仙歌",
+  "chars": 83,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai89.html"
+ },
+ {
+  "name": "八六子",
+  "chars": 88,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai37.html"
+ },
+ {
+  "name": "惜红衣",
+  "chars": 88,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai90.html"
+ },
+ {
+  "name": "卜算子",
+  "chars": 89,
+  "ge": "慢曲",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai62.html"
+ },
+ {
+  "name": "醉翁操",
+  "chars": 91,
+  "ge": "平仄韵通叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai142.html"
+ },
+ {
+  "name": "法曲献仙音",
+  "chars": 92,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai91.html"
+ },
+ {
+  "name": "临江仙",
+  "chars": 93,
+  "ge": "格四（仙吕调慢曲）",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai27.html"
+ },
+ {
+  "name": "满江红",
+  "chars": 93,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai92.html"
+ },
+ {
+  "name": "满江红",
+  "chars": 93,
+  "ge": "变格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai92.html"
+ },
+ {
+  "name": "雪梅香",
+  "chars": 94,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai38.html"
+ },
+ {
+  "name": "满江红",
+  "chars": 94,
+  "ge": "变格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai92.html"
+ },
+ {
+  "name": "满庭芳",
+  "chars": 95,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai39.html"
+ },
+ {
+  "name": "水调歌头",
+  "chars": 95,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai40.html"
+ },
+ {
+  "name": "凤凰台上忆吹箫",
+  "chars": 95,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai41.html"
+ },
+ {
+  "name": "汉宫春",
+  "chars": 96,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai42.html"
+ },
+ {
+  "name": "烛影摇红",
+  "chars": 96,
+  "ge": "格二（慢曲）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai67.html"
+ },
+ {
+  "name": "天香",
+  "chars": 96,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai93.html"
+ },
+ {
+  "name": "黄莺儿",
+  "chars": 96,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai95.html"
+ },
+ {
+  "name": "剑器近",
+  "chars": 96,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai96.html"
+ },
+ {
+  "name": "八声甘州",
+  "chars": 97,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai43.html"
+ },
+ {
+  "name": "声声慢",
+  "chars": 97,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai94.html"
+ },
+ {
+  "name": "醉蓬莱",
+  "chars": 97,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai97.html"
+ },
+ {
+  "name": "暗香",
+  "chars": 97,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai98.html"
+ },
+ {
+  "name": "长亭怨慢",
+  "chars": 97,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai99.html"
+ },
+ {
+  "name": "扬州慢",
+  "chars": 98,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai44.html"
+ },
+ {
+  "name": "双双燕",
+  "chars": 98,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai100.html"
+ },
+ {
+  "name": "玉蝴蝶",
+  "chars": 99,
+  "ge": "格二（慢调）",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai13.html"
+ },
+ {
+  "name": "宴山亭",
+  "chars": 99,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai101.html"
+ },
+ {
+  "name": "定风波",
+  "chars": 99,
+  "ge": "长调",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai152.html"
+ },
+ {
+  "name": "高阳台",
+  "chars": 100,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai45.html"
+ },
+ {
+  "name": "念奴娇",
+  "chars": 100,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai102.html"
+ },
+ {
+  "name": "念奴娇",
+  "chars": 100,
+  "ge": "变格一",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai102.html"
+ },
+ {
+  "name": "念奴娇",
+  "chars": 100,
+  "ge": "平韵格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai102.html"
+ },
+ {
+  "name": "绕佛阁",
+  "chars": 100,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai103.html"
+ },
+ {
+  "name": "绛都春",
+  "chars": 100,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai104.html"
+ },
+ {
+  "name": "渡江云",
+  "chars": 100,
+  "ge": "平仄韵通叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai143.html"
+ },
+ {
+  "name": "锦堂春慢",
+  "chars": 101,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai46.html"
+ },
+ {
+  "name": "寿楼春",
+  "chars": 101,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai47.html"
+ },
+ {
+  "name": "木兰花",
+  "chars": 101,
+  "ge": "格五（木兰花慢）",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai70.html"
+ },
+ {
+  "name": "桂枝香",
+  "chars": 101,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai105.html"
+ },
+ {
+  "name": "翠楼吟",
+  "chars": 101,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai106.html"
+ },
+ {
+  "name": "霓裳中序第一",
+  "chars": 101,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai107.html"
+ },
+ {
+  "name": "忆旧游",
+  "chars": 102,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai48.html"
+ },
+ {
+  "name": "水龙吟",
+  "chars": 102,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai108.html"
+ },
+ {
+  "name": "水龙吟",
+  "chars": 102,
+  "ge": "变格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai108.html"
+ },
+ {
+  "name": "石州慢",
+  "chars": 102,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai109.html"
+ },
+ {
+  "name": "石州慢",
+  "chars": 102,
+  "ge": "变格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai109.html"
+ },
+ {
+  "name": "瑞鹤仙",
+  "chars": 102,
+  "ge": "格一",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai110.html"
+ },
+ {
+  "name": "瑞鹤仙",
+  "chars": 102,
+  "ge": "格二",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai110.html"
+ },
+ {
+  "name": "宴清都",
+  "chars": 102,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai111.html"
+ },
+ {
+  "name": "齐天乐",
+  "chars": 102,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai112.html"
+ },
+ {
+  "name": "瑞鹤仙",
+  "chars": 103,
+  "ge": "格三",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai110.html"
+ },
+ {
+  "name": "雨霖铃",
+  "chars": 103,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai113.html"
+ },
+ {
+  "name": "眉妩",
+  "chars": 103,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai114.html"
+ },
+ {
+  "name": "永遇乐",
+  "chars": 104,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai115.html"
+ },
+ {
+  "name": "二郎神",
+  "chars": 104,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai116.html"
+ },
+ {
+  "name": "拜星月慢",
+  "chars": 104,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai117.html"
+ },
+ {
+  "name": "西河",
+  "chars": 105,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai118.html"
+ },
+ {
+  "name": "西吴曲",
+  "chars": 105,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai119.html"
+ },
+ {
+  "name": "曲玉管",
+  "chars": 105,
+  "ge": "平仄韵通叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai144.html"
+ },
+ {
+  "name": "夜飞鹊",
+  "chars": 106,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai49.html"
+ },
+ {
+  "name": "望远行",
+  "chars": 106,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai120.html"
+ },
+ {
+  "name": "望海潮",
+  "chars": 107,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai50.html"
+ },
+ {
+  "name": "疏影",
+  "chars": 110,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai121.html"
+ },
+ {
+  "name": "沁园春",
+  "chars": 114,
+  "ge": "平韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai51.html"
+ },
+ {
+  "name": "摸鱼儿",
+  "chars": 116,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai122.html"
+ },
+ {
+  "name": "贺新郎",
+  "chars": 116,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai123.html"
+ },
+ {
+  "name": "兰陵王",
+  "chars": 130,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai124.html"
+ },
+ {
+  "name": "兰陵王",
+  "chars": 130,
+  "ge": "变格（上、去声韵）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai124.html"
+ },
+ {
+  "name": "浪淘沙",
+  "chars": 133,
+  "ge": "格三（商调慢曲）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai7.html"
+ },
+ {
+  "name": "多丽",
+  "chars": 139,
+  "ge": "定格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai52.html"
+ },
+ {
+  "name": "多丽",
+  "chars": 139,
+  "ge": "变格（入声韵）",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai52.html"
+ },
+ {
+  "name": "六丑",
+  "chars": 140,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai125.html"
+ },
+ {
+  "name": "六州歌头",
+  "chars": 143,
+  "ge": "定格",
+  "rhyme": "平韵格",
+  "href": "../cipai/cipai53.html"
+ },
+ {
+  "name": "六州歌头",
+  "chars": 143,
+  "ge": "格二（平仄韵互叶）",
+  "rhyme": "平仄韵通叶格",
+  "href": "../cipai/cipai53.html"
+ },
+ {
+  "name": "六州歌头",
+  "chars": 143,
+  "ge": "格三（平仄韵换叶）",
+  "rhyme": "平仄韵错叶格",
+  "href": "../cipai/cipai53.html"
+ },
+ {
+  "name": "夜半乐",
+  "chars": 144,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai126.html"
+ },
+ {
+  "name": "宝鼎现",
+  "chars": 157,
+  "ge": "定格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai127.html"
+ },
+ {
+  "name": "宝鼎现",
+  "chars": 157,
+  "ge": "变格",
+  "rhyme": "仄韵格",
+  "href": "../cipai/cipai127.html"
+ },
+ {
+  "name": "哨遍",
+  "chars": 203,
+  "ge": "平仄韵通叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai145.html"
+ },
+ {
+  "name": "戚氏",
+  "chars": 212,
+  "ge": "平仄韵通叶格",
+  "rhyme": "",
+  "href": "../cipai/cipai146.html"
+ },
+ {
+  "name": "莺啼序",
+  "chars": 240,
+  "ge": "仄韵格",
+  "rhyme": "",
+  "href": "../cipai/cipai128.html"
+ }
+]

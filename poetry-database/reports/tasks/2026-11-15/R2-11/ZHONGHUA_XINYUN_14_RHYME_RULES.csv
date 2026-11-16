@@ -1,0 +1,15 @@
+﻿yun,rule_type,final_text,initial_scope,n_chars,n_yinyang_ping,n_shang,n_qu,n_rusheng_pai,source
+一麻,EXPLICIT_FINAL,"a,ia,ua",,402,233,54,115,168,中华新韵(十四韵)常用字简表 / ziyexing 转录
+二波,EXPLICIT_FINAL,"o,e,uo",,626,317,51,258,387,中华新韵(十四韵)常用字简表 / ziyexing 转录
+三皆,EXPLICIT_FINAL,"ie,üe",,266,125,17,124,199,中华新韵(十四韵)常用字简表 / ziyexing 转录
+四开,EXPLICIT_FINAL,"ai,uai",,233,82,45,106,14,中华新韵(十四韵)常用字简表 / ziyexing 转录
+五微,EXPLICIT_FINAL,"ei,ui",,424,188,68,168,1,中华新韵(十四韵)常用字简表 / ziyexing 转录
+六豪,EXPLICIT_FINAL,"ao,iao",,620,323,123,174,4,中华新韵(十四韵)常用字简表 / ziyexing 转录
+七尤,EXPLICIT_FINAL,"ou,iu",,356,193,61,102,6,中华新韵(十四韵)常用字简表 / ziyexing 转录
+八寒,EXPLICIT_FINAL,"an,ian,uan,üan",,1062,514,213,335,0,中华新韵(十四韵)常用字简表 / ziyexing 转录
+九文,EXPLICIT_FINAL,"en,in,un,ün",,571,322,94,155,0,中华新韵(十四韵)常用字简表 / ziyexing 转录
+十唐,EXPLICIT_FINAL,"ang,iang,uang",,484,276,86,122,0,中华新韵(十四韵)常用字简表 / ziyexing 转录
+十一庚,EXPLICIT_FINAL,"eng,ing,ong,iong",,714,464,117,133,0,中华新韵(十四韵)常用字简表 / ziyexing 转录
+十二齐,EXPLICIT_FINAL,"i,er,ü",,936,424,150,362,263,中华新韵(十四韵)常用字简表 / ziyexing 转录
+十三支,ZERO_FINAL,-i(零韵母),zh/ch/sh/r/z/c/s,284,130,47,107,58,中华新韵(十四韵)常用字简表 / ziyexing 转录
+十四姑,EXPLICIT_FINAL,u,,619,262,118,239,215,中华新韵(十四韵)常用字简表 / ziyexing 转录

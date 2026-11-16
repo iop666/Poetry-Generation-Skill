@@ -1,0 +1,31 @@
+﻿fixture_id,source_book,source_file,offset_or_page,expected_observation,evidence_level,source_sha256
+FX-01,GUANGYUN,raw/books/guangyun/卷1.wikitext,0,卷首「一東〈獨用〉」韵目行存在,DIGITAL_TRANSCRIPTION,bdbe52ea9e295b86ce85707a474b5a563020285940080dd8d5a11c1853a03d17
+FX-02,GUANGYUN,raw/books/guangyun/卷1.wikitext,0,「東〈徳紅切…十七〉」注末有汉字数字,DIGITAL_TRANSCRIPTION,bdbe52ea9e295b86ce85707a474b5a563020285940080dd8d5a11c1853a03d17
+FX-08,GUANGYUN,raw/books/guangyun/卷5.wikitext,0,卷5 首个小韵首存在且带反切,DIGITAL_TRANSCRIPTION,ae43319b2c95745f97f042fdad5b1b0b0b635bf1e2a61d959ba6340b01f62e05
+FX-08,GUANGYUN_FACSIMILE,raw/r2_12/facsimile/GUANGYUN_p011.jpg,0,宋刻本卷一首页：東=徳紅切，注末「十七」,FACSIMILE_IMAGE_DIRECT,6c5aa1dd6ed63420f6d5ef41ec399e6fc6a18358b474d3158f1f41cfeee35428
+FX-09,GUANGYUN_FACSIMILE,raw/r2_12/facsimile/GY_p011_R_z0.png,0,局部放大件（目录列）,FACSIMILE_IMAGE_DIRECT,9793c90c0a936ef49205553cb418cc654c58c1562dfae2dc5c81e7e47e5bdc60
+FX-10,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷01_之第七.json,0,页内 ○ 数与 n_xiaoyun_mark 一致,DIGITAL_TRANSCRIPTION,c82eb69acfbc09aff2f30c98bc22e0e5310064659dfbe7f4f418ab9d9fac01f2
+FX-11,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷01_冬第二.json,0,页内 ○ 数与 n_xiaoyun_mark 一致,DIGITAL_TRANSCRIPTION,3c35945bc0901fc5fda0e141eea88bf03d088c81f948e92c0ec0348869f7cd3d
+FX-12,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷01_微第八.json,0,页内 ○ 数与 n_xiaoyun_mark 一致,DIGITAL_TRANSCRIPTION,76b692e6a4f5eafd36c78c2627839c18783714152a72effa0c224d7567681352
+FX-13,ZHONGHUA_XINYUN,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,十三支段含「－i」零韵母标注与四声字表,DIGITAL_TRANSCRIPTION,06542d28246db53b8ad5dd4ea0690284f4606eb7e1a47d6967015aa3c69add60
+FX-14,PINGSHUI_YUN,raw/r2_09/rhyme/平水韻.json,0,上平聲一東韻首行「東同銅…」,DIGITAL_TRANSCRIPTION,b1a15436a0d9e9cafb69a0fcc60b941ba0c02152ee17222ef5e5c1b5d2584fbc
+FX-15,PINGSHUI_YUN,raw/r2_09/rhyme/平水韻.json,0,revid 非空,DIGITAL_TRANSCRIPTION,b1a15436a0d9e9cafb69a0fcc60b941ba0c02152ee17222ef5e5c1b5d2584fbc
+FX-16,CIPAI_PDF,"books/唐宋词格律 (龙榆生) (z-library.sk, 1lib.sk, z-lib.sk).pdf",230,p230 西江月谱行含 ＋｜－ 与括注,PRINTED_EDITION_DIRECT,MISSING
+FX-17,CIPAI_IMAGE,raw/r2_11/images/R2-11_cipaiF_01_F07-0181_p230_stack.png,0,600dpi 谱行图，8 句,FACSIMILE_IMAGE_DIRECT,b1b3fd6dc539c198705fb13d8999d55e07a1ca91c5a919910b4bf747843ac15a
+FX-18,CIPAI_IMAGE,raw/r2_11/images/R2-11_cipaiF_05_F07-0065_p88_stack.png,0,长调 39 句，注类含「句或韵」,FACSIMILE_IMAGE_DIRECT,7a588a33f937d92e01a6aa5346b1aa71282f556d73b8b0c83c832c23fc56ba36
+FX-19,CILIN_ZHENGYUN,database/poetry.db#ph_cilin_r2_09,0,第一部 部有 196 行,DIGITAL_TRANSCRIPTION,e4053f6ee9bcd73755876d840fe6a35acb9181ba2118766e5ea388daad33ac27
+FX-20,CILIN_ZHENGYUN,database/poetry.db#ph_cilin_r2_09,0,第七部 部有 601 行,DIGITAL_TRANSCRIPTION,e4053f6ee9bcd73755876d840fe6a35acb9181ba2118766e5ea388daad33ac27
+FX-21,CILIN_ZHENGYUN,database/poetry.db#ph_cilin_r2_09,0,第三部 部有 786 行,DIGITAL_TRANSCRIPTION,e4053f6ee9bcd73755876d840fe6a35acb9181ba2118766e5ea388daad33ac27
+FX-22,ZHONGYUAN_YINYUN,database/poetry.db#ph_zhongyuan_r2_09,0,侵尋 部有 123 行,DIGITAL_TRANSCRIPTION,e4053f6ee9bcd73755876d840fe6a35acb9181ba2118766e5ea388daad33ac27
+FX-23,ZHONGYUAN_YINYUN,database/poetry.db#ph_zhongyuan_r2_09,0,先天 部有 326 行,DIGITAL_TRANSCRIPTION,e4053f6ee9bcd73755876d840fe6a35acb9181ba2118766e5ea388daad33ac27
+FX-24,ZHONGYUAN_YINYUN,database/poetry.db#ph_zhongyuan_r2_09,0,家麻 部有 210 行,DIGITAL_TRANSCRIPTION,e4053f6ee9bcd73755876d840fe6a35acb9181ba2118766e5ea388daad33ac27
+FX-25,CIPAI_IMAGE,raw/r2_11/images/R2-11_cipaiCTRL_01.png,0,图像存在且可哈希,FACSIMILE_IMAGE_DIRECT,5ede39efe4d9fb5e041ea742f646dbbe0ca6c912904526b24ef014a4e4d1f033
+FX-26,CIPAI_IMAGE,raw/r2_11/images/R2-11_cipaiCTRL_02.png,0,图像存在且可哈希,FACSIMILE_IMAGE_DIRECT,c7b5b834cf2c528e861854923abca58740bc0812658b7c744d96788ef414e6ed
+FX-27,CIPAI_IMAGE,raw/r2_11/images/R2-11_cipaiCTRL_03.png,0,图像存在且可哈希,FACSIMILE_IMAGE_DIRECT,b90d539f55f0cb29d96b0c8dc55f14822e4fbe58aad6078344824e7d1a5bd406
+FX-28,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷01_之第七.json,0,页文本含「○」分隔小韵,DIGITAL_TRANSCRIPTION,c82eb69acfbc09aff2f30c98bc22e0e5310064659dfbe7f4f418ab9d9fac01f2
+FX-29,GUANGYUN,raw/books/guangyun/卷3.wikitext,0,卷三「一董〈獨用〉」,DIGITAL_TRANSCRIPTION,cde6b542848026e9a70104b2c13c07e392c0ed8675c1cc838b485e42817686f0
+FX-30,ZHONGHUA_XINYUN,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,十四韵名逐一可检出,DIGITAL_TRANSCRIPTION,06542d28246db53b8ad5dd4ea0690284f4606eb7e1a47d6967015aa3c69add60
+FX-31,GUANGYUN_FACSIMILE,raw/r2_12/facsimile/GUANGYUN_p012.jpg,0,宋刻本卷二首页：「送」韵首「鳳 馮貢切」,FACSIMILE_IMAGE_DIRECT,6e939994cbf626baaba3ea9f197420a9b3fd1ad31f81a4f5946b8e0d541bd90e
+FX-32,JIYUN,raw/r2_08/jiyun_pages/集韻 (四庫全書本)_卷10_麥第二十一.json,0,集韵卷末页 ○ 数与 n_mark 一致,DIGITAL_TRANSCRIPTION,1e4f9852173807565542a53ed73542253776e100c168d03d7717b4f2eb9acb0e
+FX-33,CIPAI_IMAGE,raw/r2_11/images/R2-11_cipaiF_11_F07-0029_p42_stack.png,0,柳梢青定格 12 句,FACSIMILE_IMAGE_DIRECT,5a13d328722596ad9868114e66a362fb91d2761b81bd7b976e79d51205d6374a
+FX-34,ZHONGHUA_XINYUN,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,0,十三支阴平字表含「詩尸师」类零韵母字,DIGITAL_TRANSCRIPTION,06542d28246db53b8ad5dd4ea0690284f4606eb7e1a47d6967015aa3c69add60

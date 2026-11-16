@@ -1,0 +1,614 @@
+[
+ {
+  "id": "T01",
+  "cat": "廣韻",
+  "desc": "條目總數（正文〈〉注文數）25,619",
+  "expect": 25619,
+  "actual": 25619,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T02",
+  "cat": "廣韻",
+  "desc": "小韻總數 3,730（結構重認）",
+  "expect": 3730,
+  "actual": 3730,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T03",
+  "cat": "廣韻",
+  "desc": "小韻不再使用 2,907 口徑（表內無該數）",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T04",
+  "cat": "廣韻",
+  "desc": "206 韻全部有行",
+  "expect": 206,
+  "actual": 206,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T05",
+  "cat": "廣韻",
+  "desc": "直接錨定韻 ≥ 200",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T06",
+  "cat": "廣韻",
+  "desc": "無區間韻（韵目行缺失）≤2 且已標記",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T07",
+  "cat": "廣韻",
+  "desc": "缺字頭小韻（HEAD_LOST）已單列",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T08",
+  "cat": "廣韻",
+  "desc": "又音條目未被算作小韻",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T09",
+  "cat": "廣韻",
+  "desc": "小韻首反切上字全為單字",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T10",
+  "cat": "廣韻",
+  "desc": "小韻首反切下字全為單字",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T11",
+  "cat": "廣韻",
+  "desc": "反切缺失（NONE）者 ≤ 200 且已列",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T12",
+  "cat": "廣韻",
+  "desc": "R2-10 反切上字一致者 ≥ 3000",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T13",
+  "cat": "廣韻",
+  "desc": "韻目歸屬 VERIFIED ≥ 25,000",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T14",
+  "cat": "廣韻",
+  "desc": "韻目歸屬 SUPPORTED（跨缺失區間）≤ 400",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T15",
+  "cat": "廣韻",
+  "desc": "未歸韻條目為 0（不再留 UNRESOLVED）",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T16",
+  "cat": "廣韻",
+  "desc": "字數自校一致 ≥ 3,000",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T17",
+  "cat": "廣韻",
+  "desc": "逐韻小韻數合計＝3,730",
+  "expect": 3730,
+  "actual": 3730,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T18",
+  "cat": "廣韻",
+  "desc": "每卷都有小韻",
+  "expect": 5,
+  "actual": 5,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T19",
+  "cat": "廣韻",
+  "desc": "異體韻名已歸一（真/眞 同時只算一韻）",
+  "expect": 1,
+  "actual": 1,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T20",
+  "cat": "廣韻",
+  "desc": "小韻 ID 唯一",
+  "expect": 3730,
+  "actual": 3730,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T21",
+  "cat": "新韻",
+  "desc": "十四韻全部存在",
+  "expect": 14,
+  "actual": 14,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T22",
+  "cat": "新韻",
+  "desc": "十三支被保留",
+  "expect": 1,
+  "actual": 1,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T23",
+  "cat": "新韻",
+  "desc": "十三支非空（≥100 字）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T24",
+  "cat": "新韻",
+  "desc": "十三支實際字數",
+  "expect": 284,
+  "actual": 284,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T25",
+  "cat": "新韻",
+  "desc": "零韻母規則類型存在",
+  "expect": 1,
+  "actual": 1,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T26",
+  "cat": "新韻",
+  "desc": "十三支含四聲（陰平/陽平/上聲/去聲至少各1）",
+  "expect": 4,
+  "actual": 4,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T27",
+  "cat": "新韻",
+  "desc": "十三支入聲派入類保留",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T28",
+  "cat": "新韻",
+  "desc": "十四韻字數合計 7,597",
+  "expect": 7597,
+  "actual": 7597,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T29",
+  "cat": "新韻",
+  "desc": "規則歸部一致率 ≥ 95%",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T30",
+  "cat": "新韻",
+  "desc": "R2-09 派生表中十三支為 0（缺陷證據）",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T31",
+  "cat": "新韻",
+  "desc": "應歸十三支而歸錯的派生記錄 ≥ 100（缺陷規模）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T32",
+  "cat": "新韻",
+  "desc": "多音字未被單一化（同字多韻存在）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T33",
+  "cat": "韻書身份",
+  "desc": "來源書 6 本",
+  "expect": 6,
+  "actual": 6,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T34",
+  "cat": "韻書身份",
+  "desc": "韻書體系 6 個",
+  "expect": 6,
+  "actual": 6,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T35",
+  "cat": "韻書身份",
+  "desc": "音系大類 4 個（中古/詩韻/元代/現代）",
+  "expect": 4,
+  "actual": 4,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T36",
+  "cat": "韻書身份",
+  "desc": "廣韻與集韻同屬中古但為兩本",
+  "expect": 2,
+  "actual": 2,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T37",
+  "cat": "韻書身份",
+  "desc": "廣韻與集韻 rhyme_system_id 不同",
+  "expect": 2,
+  "actual": 2,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T38",
+  "cat": "韻書身份",
+  "desc": "穩定韻目 ID 570 條",
+  "expect": 570,
+  "actual": 570,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T39",
+  "cat": "韻書身份",
+  "desc": "韻目 ID 無重複",
+  "expect": 570,
+  "actual": 570,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T40",
+  "cat": "韻書身份",
+  "desc": "舊值 middle_chinese 已拆分為兩本",
+  "expect": 2,
+  "actual": 2,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T41",
+  "cat": "韻書身份",
+  "desc": "舊值 old_chinese 標為未建",
+  "expect": 1,
+  "actual": 1,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T42",
+  "cat": "韻書身份",
+  "desc": "六系統查詢結果 ≥ 80 行",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T43",
+  "cat": "韻書身份",
+  "desc": "上古音查詢如實返回 NO_DATA",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T44",
+  "cat": "韻書身份",
+  "desc": "平水韻 106 韻已入 ID 表",
+  "expect": 106,
+  "actual": 106,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T45",
+  "cat": "韻書身份",
+  "desc": "中原音韻 19 部",
+  "expect": 19,
+  "actual": 19,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T46",
+  "cat": "韻書身份",
+  "desc": "詞林正韻 19 部",
+  "expect": 19,
+  "actual": 19,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T47",
+  "cat": "集韻",
+  "desc": "集韻小韻 4,169（算法口徑，未人工全驗）",
+  "expect": 4169,
+  "actual": 4169,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T48",
+  "cat": "集韻",
+  "desc": "舊表反切上字未拆分之數（缺陷證據）",
+  "expect": 3942,
+  "actual": 3942,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T49",
+  "cat": "集韻",
+  "desc": "新表反切上字已全部單字",
+  "expect": 0,
+  "actual": 0,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T50",
+  "cat": "集韻",
+  "desc": "200 條抽樣通過率 ≥ 90%",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T51",
+  "cat": "集韻",
+  "desc": "206 頁 revision 完整性：非 OK 者已單列",
+  "expect": 206,
+  "actual": 206,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T52",
+  "cat": "集韻",
+  "desc": "DJVU 無本地文件時標 BLOCKED 而非假通過",
+  "expect": 50,
+  "actual": 50,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T53",
+  "cat": "詞譜",
+  "desc": "11 條殘缺已出 600dpi 圖並存哈希",
+  "expect": 11,
+  "actual": 11,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T54",
+  "cat": "詞譜",
+  "desc": "圖像層級與文字層層級分開標記（存在 IMAGE_ 前綴狀態）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T55",
+  "cat": "詞譜",
+  "desc": "60 條詞譜核驗表未被改寫（仍 60 行）",
+  "expect": 60,
+  "actual": 60,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T56",
+  "cat": "詞譜",
+  "desc": "文字層一致不得標為原圖一致（本輪新增狀態詞）",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T57",
+  "cat": "例詞",
+  "desc": "310 條例詞總數未變",
+  "expect": 310,
+  "actual": 310,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T58",
+  "cat": "例詞",
+  "desc": "VERIFIED 為 166（不得升級）",
+  "expect": 166,
+  "actual": 166,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T59",
+  "cat": "例詞",
+  "desc": "本輪獨立復核 ≥ 80 條",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T60",
+  "cat": "上古音",
+  "desc": "40 例全部有來源鏈狀態",
+  "expect": 40,
+  "actual": 40,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T61",
+  "cat": "獨立審查",
+  "desc": "審查對象 ≥ 120 個唯一 ID",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T62",
+  "cat": "獨立審查",
+  "desc": "爭議條目已逐條建檔",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T63",
+  "cat": "固定樣本",
+  "desc": "來源固定測試樣本 ≥ 20",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T64",
+  "cat": "固定樣本",
+  "desc": "樣本均帶原始文件哈希",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T65",
+  "cat": "數據保護",
+  "desc": "R2-10 五表行數未變",
+  "expect": 20530,
+  "actual": 20530,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T66",
+  "cat": "數據保護",
+  "desc": "R2-10 集韻審計表未變",
+  "expect": 4169,
+  "actual": 4169,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T67",
+  "cat": "數據保護",
+  "desc": "R2-10 音義視圖未變",
+  "expect": 80652,
+  "actual": 80652,
+  "result": "PASS",
+  "note": ""
+ },
+ {
+  "id": "T68",
+  "cat": "數據保護",
+  "desc": "歷史閱讀記錄表未被刪",
+  "expect": true,
+  "actual": true,
+  "result": "PASS",
+  "note": ""
+ }
+]

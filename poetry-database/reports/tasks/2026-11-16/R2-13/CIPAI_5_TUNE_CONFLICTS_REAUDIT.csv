@@ -1,0 +1,5 @@
+﻿idx,form_id,pdf_page,db_cipai,blind_cipai,titles_on_same_page,evidence,verdict,note
+3,F07-0175,224,忆馀杭,河渎神,忆馀杭/河渎神/清平乐,PDF 文字层同页出现：忆馀杭/河渎神/清平乐,MAPPING_AMBIGUOUS_SAME_PAGE,两方各取一调，均非误读；错在「该图属于该 form_id」的对应关系。须按「词牌名+定格标题」重新裁单段。
+4,F07-0007,21,浪淘沙,捣练子,捣练子/浪淘沙/潇湘神,PDF 文字层同页出现：捣练子/浪淘沙/潇湘神,MAPPING_AMBIGUOUS_SAME_PAGE,两方各取一调，均非误读；错在「该图属于该 form_id」的对应关系。须按「词牌名+定格标题」重新裁单段。
+10,F07-0009,23,浪淘沙,捣练子,江南春,PDF 文字层同页出现：江南春,PAGE_MISMATCH,该页文字层未出现任一词牌名，页号或裁切区可能错
+11,F07-0029,42,柳梢青,太常引,人月圆/太常引/柳梢青,PDF 文字层同页出现：人月圆/太常引/柳梢青,MAPPING_AMBIGUOUS_SAME_PAGE,两方各取一调，均非误读；错在「该图属于该 form_id」的对应关系。须按「词牌名+定格标题」重新裁单段。

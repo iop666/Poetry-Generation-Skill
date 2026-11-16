@@ -1,0 +1,6 @@
+﻿pair_id,name_a,name_b,n_works_a,n_works_b,collections_a,collections_b,dynasty_a,dynasty_b,text_overlap_n,overlap_is_same_poem,independent_evidence,revised_verdict,reason
+C1-0197,吴栻,吳栻,4,27,wanqing(4),songshi(27),清(4),宋(27),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 宋）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0237,吴山,吳山,15,3,wanqing(15),songshi(3),清(15),宋(3),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 宋）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0261,王铎,王鐸,8,6,wanqing(8),tang(5);songshi(1),清(8),唐(5);宋(1),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 唐）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0289,徐延寿,徐延壽,7,3,wanqing(7),tang(3),清(7),唐(3),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 唐）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明
+C1-0314,张元,張元,4,4,wanqing(4),songshi(4),清(4),宋(4),0,NONE,NONE,DISTINCT_PERSON,两侧分属互斥时代（清 vs 宋）且各≥3 条，同一人不可能兼跨；但朝代由 collection 推导，此判定表示“不可合并”，非史传证明

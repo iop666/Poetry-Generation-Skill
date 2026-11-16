@@ -1,0 +1,36 @@
+{
+ "frozen_at": "2026-11-16T00:35:45",
+ "bytes": 715800576,
+ "sha256": "25c7d92c273f8e82de11d4bd3b0ec6feccf37cfb5eceea373165ad0c507e621e",
+ "bytes_match_r2_11": true,
+ "sha_match_r2_11": true,
+ "integrity_check": "ok",
+ "foreign_key_check_rows": 0,
+ "page_count": 174756,
+ "page_size": 4096,
+ "journal_mode": "delete",
+ "freelist_count": 0,
+ "objects": {
+  "index": 74,
+  "table": 94,
+  "view": 2
+ },
+ "wal_shm": {
+  "-wal": false,
+  "-shm": false
+ },
+ "r2_11_tables": {
+  "guangyun_fanqie_validation_r2_11": 3730,
+  "guangyun_head_classification_r2_11": 25619,
+  "guangyun_rhyme_validation_r2_11": 25619,
+  "guangyun_xiaoyun_recount_r2_11": 206,
+  "rhyme_group_identity_r2_11": 570,
+  "rhyme_identity_mapping_r2_11": 7,
+  "rhyme_source_books_r2_11": 6,
+  "rhyme_system_identity_r2_11": 6,
+  "zhonghua_xinyun_characters_r2_11": 7597,
+  "zhonghua_xinyun_zero_final_r2_11": 1
+ },
+ "r2_11_table_count": 10,
+ "disk": "/dev/disk3s5   239362496 163688164  58915660    74% 1039884 589156600    0%   /System/Volumes/Data"
+}

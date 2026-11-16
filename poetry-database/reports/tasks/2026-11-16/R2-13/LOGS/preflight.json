@@ -1,0 +1,42 @@
+{
+ "frozen_at": "2026-11-16T12:31:50",
+ "bytes": 765222912,
+ "sha256": "e4053f6ee9bcd73755876d840fe6a35acb9181ba2118766e5ea388daad33ac27",
+ "bytes_match": true,
+ "sha_match": true,
+ "integrity_check": "ok",
+ "foreign_key_check_rows": 0,
+ "page_count": 186822,
+ "page_size": 4096,
+ "journal_mode": "delete",
+ "freelist_count": 0,
+ "objects": {
+  "index": 83,
+  "table": 105,
+  "view": 2
+ },
+ "wal_shm": {
+  "-wal": false,
+  "-shm": false
+ },
+ "works_rows": 375399,
+ "works_distinct_author": 20809,
+ "works_distinct_author_canonical": 20327,
+ "authors_rows": 20809,
+ "author_alias_rows": 20809,
+ "works_with_bianwen": 0,
+ "r2_12_tables": {
+  "cross_rhyme_lookup_r2_12": 936,
+  "guangyun_count_crosswalk_r2_12": 3730,
+  "guangyun_possible_head_review_r2_12": 690,
+  "jiyun_30862_entry_r2_12": 34779,
+  "jiyun_char_index_r2_12": 42352,
+  "jiyun_char_index_v2_r2_12": 43363,
+  "jiyun_character_index_r2_12": 43649,
+  "jiyun_entry_r2_12": 33664,
+  "jiyun_entry_v2_r2_12": 34558,
+  "jiyun_page_integrity_r2_12": 206,
+  "jiyun_rhyme_202_206_r2_12": 206
+ },
+ "disk": "/dev/disk3s5   239362496 163864640  55593384    75% 1040503 555933840    0%   /System/Volumes/Data"
+}

@@ -1,0 +1,2 @@
+﻿crosswalk_status,project_count,external_count,delta,matched,project_only,external_only,note
+BLOCKED_NO_PUBLIC_ITEM_INDEX,3730,3702,28,UNKNOWN,UNKNOWN,UNKNOWN,"文脉项目声明 3,702 小韵/25,332 字头，底本标四库全书本《原本广韵》；其逐条索引未公开、且站点禁止自动访问，无法建立逐条 crosswalk。28 条差额只能作统计级比较，不得写作「差异已解释」"

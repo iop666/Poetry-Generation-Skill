@@ -1,0 +1,59 @@
+[
+ {
+  "book": "GUANGYUN",
+  "page": 11,
+  "file": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p011.jpg",
+  "bytes": 577001,
+  "sha256": "6c5aa1dd6ed63420f6d5ef41ec399e6fc6a18358b474d3158f1f41cfeee35428",
+  "halves": [
+   {
+    "path": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p011_L.png",
+    "bytes": 1511875,
+    "sha256": "103ee519a6044e8ed5eabfd04e52c74adf9fc154ea402cacc56ffea8f3e32991"
+   },
+   {
+    "path": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p011_R.png",
+    "bytes": 1560621,
+    "sha256": "d6504489f5dc832d56c37f7c268332c64c380058faddbece45b896695a15d8e2"
+   }
+  ]
+ },
+ {
+  "book": "GUANGYUN",
+  "page": 12,
+  "file": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p012.jpg",
+  "bytes": 607964,
+  "sha256": "6e939994cbf626baaba3ea9f197420a9b3fd1ad31f81a4f5946b8e0d541bd90e",
+  "halves": [
+   {
+    "path": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p012_L.png",
+    "bytes": 1511948,
+    "sha256": "ede917f7de8fbc156b4dafe879666ca50a4d25d2c68cb716b2fbd0570518b567"
+   },
+   {
+    "path": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p012_R.png",
+    "bytes": 1595503,
+    "sha256": "f5e21823fcec870c35dfc4f26b23577bed8f3d20c46ef3b917f63c9e38d5c92d"
+   }
+  ]
+ },
+ {
+  "book": "GUANGYUN",
+  "page": 14,
+  "file": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p014.jpg",
+  "bytes": 610125,
+  "sha256": "08f30f1a04f241c01c48bf16bb673887d894cd814a8246de7b9c78206d8c2e5e",
+  "halves": [
+   {
+    "path": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p014_L.png",
+    "bytes": 1517673,
+    "sha256": "0dba921f5ffac37b5fe5872e7a280b254f086593ab0d6f76762ccee070388890"
+   },
+   {
+    "path": "<PROJECT_ROOT>/poetry-database/raw/r2_12/facsimile/GUANGYUN_p014_R.png",
+    "bytes": 1555860,
+    "sha256": "aaaa6e85f56f277b3e2086b5d84461628428deb54fd18f3a662a93dfd5bd0319"
+   }
+  ]
+ }
+]

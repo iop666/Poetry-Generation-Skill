@@ -1,0 +1,7 @@
+﻿id,name,full,era,edition,source,n_yun,n_entries,n_chars,evidence,limitation
+GUANGYUN,广韵,《大宋重修广韵》,北宋 1008,钦定四库全书本《原本广韵》（维基文库转录）,raw/books/guangyun/卷1..5.wikitext,206,3730,25619,SOURCE_TRANSCRIPTION,小韵首以结构标记重认（R2-11），未与影印本对校
+JIYUN,集韵,《集韵》,北宋 1039,文渊阁四库全书本（维基文库转录，附 DJVU 叶码）,raw/r2_08/jiyun_pages/*.json,206,4169,,SOURCE_TRANSCRIPTION,"小韵数 4,169 为算法筛选结果，非人工验证总数；4 个韵未定位小韵"
+PINGSHUI_YUN,平水韵,《平水新刊韵略》系 106 韵,金 1229,维基文库《平水韻》,raw/r2_09/rhyme/平水韻.json,106,,,SOURCE_TRANSCRIPTION,属诗韵分类，非韵书原书；字表为后世通行本
+CILIN_ZHENGYUN,词林正韵,《词林正韵》十九部,清 道光,维基文库转录,ph_cilin_r2_09,19,5563,,SOURCE_TRANSCRIPTION,以部/声调/韵目组织，非小韵结构；与前四书体系不同
+ZHONGYUAN_YINYUN,中原音韵,《中原音韵》十九部,元 1324,维基文库转录,ph_zhongyuan_r2_09,19,5731,,SOURCE_TRANSCRIPTION,分十九部、四声、每声分阴阳；入声派入三声
+ZHONGHUA_XINYUN,中华新韵,《中华新韵（十四韵）》,2005-05 中华诗词学会颁布,子夜星网站转录常用字简表（与靖边人大、微信公号文本互校）,raw/r2_11/zhonghua_xinyun/ziyexing_zhonghuaxinyun.htm,14,7597,7597,SOURCE_TRANSCRIPTION,现代普通话韵部；十三支为零韵母类；非历史音系

@@ -1,0 +1,31 @@
+{
+ "frozen_at": "2026-11-16T19:16:54",
+ "bytes": 767918080,
+ "sha256": "a9c5bbfb72c0cc8784d080f3332f393e718c61a15d93d35b4114e3edb9258a76",
+ "bytes_match": true,
+ "sha_match": true,
+ "integrity_check": "ok",
+ "foreign_key_check_rows": 0,
+ "page_count": 187480,
+ "page_size": 4096,
+ "journal_mode": "delete",
+ "objects": {
+  "index": 86,
+  "table": 108,
+  "view": 2
+ },
+ "wal_shm": {
+  "-wal": false,
+  "-shm": false
+ },
+ "works": 375399,
+ "authors": 20809,
+ "author_alias": 20809,
+ "sources": 941,
+ "r2_13_tables": {
+  "work_text_revision_candidates_r2_13": 339,
+  "work_author_variant_r2_13": 476,
+  "yuanqu_text_audit_r2_13": 4510
+ },
+ "disk": "/dev/disk3s5   239362496 164014612  54393748    76% 1041761 543937480    0%   /System/Volumes/Data"
+}

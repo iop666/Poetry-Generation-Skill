@@ -1,0 +1,51 @@
+﻿fixture_id,source_id,source_file,json_index,source_sha256,title,text_head,author,assertion
+SG-01,WS-WANQING-一百五十二,raw/poetry/wanqing/卷一百五十二.json,31,76bacb229749270ddb0411710e19bb121ad3da1db17bca35933535377f5785a2,田宝应县舟行夜抵淮安,午发白田浦，夜抵淮阴城。川途广且修，榜人锐兼程。前以百丈牵，上有孤帆横。不识所经路，惟闻风水声。黯黯残月白，淰淰寒云生。人语出烟樾，篝火深丛明。紞如戍楼鼓，壮哉,杨后,INDEX_MATCH
+SG-02,CP-SONGSHI-208,raw/poetry/songshi/poet.song.207000.json,957,0f7d4ea8d3e1dafef3dcca6fb0a94585a850f1fff3878c55077ca61ec4970866,題莫干山,封到半天煙靄間，一卷仙書一粒丹。城南城北無老樹，又吹竹笛過前山。,白玉蟾,INDEX_MATCH
+SG-03,WS-GUSHIJI-058,raw/poetry/gushiji/卷058.json,28,1287ff7bf2a4742c72d0cab70e40949c925fca4e91053355aaf8755dbe4884e6,石壁立招提精舍,四城有頓躓三世無極已浮歡昩眼前沈照貫終始壯齡緩前期頽年追暮齒揮霍夢幻頃飄忽風電起良縁迨未謝時逝不可俟敬擬靈鷲山尚想祗洹軌絶溜飛庭前髙林映窓裏禪室栖空觀講宇析妙理,,INDEX_MATCH
+SG-04,CP-SONGSHI-183,raw/poetry/songshi/poet.song.182000.json,108,2106aa00aeb3bf5d1e353f26734cd6992bfb28d98a15099ef73b4d9d6122a5e0,代同游者賦宿雲軒呈李果州,君不見流金鑠石氣如焚，巫祝並禱天不聞。霶霈一雨洗乾坤，膚寸而合山中雲。又不見疾雷破山風助勢，八表同昏天地閉。峯頭一抹斂歸雲，赫日當空鬼神避。祇今歲杪雪霜餘，得向,劉宰,INDEX_MATCH
+SG-05,WS-WANQING-一百六,raw/poetry/wanqing/卷一百六.json,55,c0de83c7d9ac7550a83bee8af553f2edd44748a96fa407df31d1f23331758eab,季夏东方初白闻蝉声有作,新蝉尔清绝，破晓独长吟。一树忽秋到，满庭皆绿阴。有人初觉梦，何处著鸣琴。莫漫催红日，檐前暑气侵。,五丁峡,INDEX_MATCH
+SG-06,WS-GUSHIJI-092,raw/poetry/gushiji/卷092.json,31,9fd9078d58f8c7eb9347864a433f9e3424b30d5cd49d56e6dd8badc1aa8688db,别夏侯故章,白馬黄金羈青驪紫絲鞚新知關山别故人河梁送置此一函書為余逹雲夢,,INDEX_MATCH
+SG-07,WS-WANQING-一百五十四,raw/poetry/wanqing/卷一百五十四.json,69,5342db0aa0fbf3869ca5663efe5dd5ae28c24cb59a664359b15793817ce36d4c,送倪豹岑前辈诣京师,立马苍茫问所之，最难言别送君时。天涯杯酒同歌哭，霄汉觚棱託梦思。十丈尘沙吹不散，万条烟柳赋将离。桑乾欲渡须舟楫，莫向商山茹玉芝。,陈亮畴,INDEX_MATCH
+SG-08,WS-WANQING-一百七,raw/poetry/wanqing/卷一百七.json,100,7f4570f74219b0f4548b8cf534e7f37475c7017adca4f719e6c2b9da791ecb7a,马塍花歌吊姜白石,马塍花发春濛濛，马塍花落啼小红。花开花落春已暮，蛮鸠义燕骄东风。白石先生墓草死，年年寒食乌衔纸。玉友金蕉唤不醒，玉人金缕歌谁倚。只今水调按红牙，杜宇声声诉落花。,李銮宣,INDEX_MATCH
+SG-09,WS-WANQING-七十九,raw/poetry/wanqing/卷七十九.json,64,ed801c70f47ec2e84d892424d90dd275a6ee9841bbb9f3818b86aade85112102,赏溪秋望,水落滩逾险，秋风动远思。青山千里梦，红叶一林诗。刹古穿云没，帆轻出谷迟，赏溪归路迥，何以慰心期。,==戴纯==,INDEX_MATCH
+SG-10,WS-WANQING-一百二十九,raw/poetry/wanqing/卷一百二十九.json,39,80541ee19e30b6910e1df689fa42e7601fbf62f40694559f3d1ecadecdeeb18f,寒山寺,瑟瑟吴江正落枫，碧山古寺独携筇。寒空鸟下岩边塔，残照僧归径外松。虚寂高斋无俗韵，风狂弥勒有遗踪。扁舟卻趁寒潮去，梦里应闻夜半钟。,吴觐,INDEX_MATCH
+SG-11,WS-MINGSHI-011,raw/poetry/mingshi/卷011.json,88,28076385cb71003da3951d0fd54177ef81922c0bdf83d7b8cd7fa2b1b886554e,邨居,草徑茆扉帶軟沙隔林雞犬幾人家青山盡日垂簾坐落盡椶櫚一樹花,王恭,INDEX_MATCH
+SG-12,WS-WANQING-一,raw/poetry/wanqing/卷一.json,13,443650782ef4244f798a600dcfc754ad30c9349e9ac0ff8e91096e9474bda52a,甲子冬日過闕里,鑾輅來東魯，先登夫子堂。兩楹陳俎豆，數仞見宮牆。道統唐虞接，儒宗洙泗長。入門撫松柏，瞻拜肅冠裳。,清聖祖玄燁,INDEX_MATCH
+SG-13,WS-MINGSHI-080,raw/poetry/mingshi/卷080.json,14,0506c9f2fab5ee9bfc328dc7544ef8e914e8508608e7f64c7b6c33c84dbee4a7,淮隂釣臺,漢高櫟釡羮劉毅子鵞炙古人恩與仇遂乃在飲食至今漂母祠朱甍耀霜日,紀映鍾,INDEX_MATCH
+SG-14,WS-MINGSHI-018,raw/poetry/mingshi/卷018.json,43,aa9671954d7a89d65f707cb6c82a7f53a1ecbc59647b7674482e80626f677326,荅徐以文,我本不羈士少年慕逺遊結交盡豪侠英風邈難儔浩然志四海壟斷非所求羣雄亂天紀誓将除國讎驅馬向京邑道路阻且脩曠望空嘆息失計成淹留時哉茍未㑹白璧寕暗投恥同五鼎食笑視千金裘,髙遜志,INDEX_MATCH
+SG-15,CP-SONGSHI-042,raw/poetry/songshi/poet.song.41000.json,203,0e8d2faa4a6d2b76e7da520378afb8e5ebea0030c2d80d0efeb4b9903ecebc29,謝朱伯英遺詩,我輩清懷書自将，不須才與古人當。佳辰美概無窮盡，險語高詞爾轉相。吏隱未能離擾擾，詩情猶得慰皇皇。如君逸格誰忘羡，騕褭終難困服箱。,韋驤,INDEX_MATCH
+SG-16,WS-WANQING-三十,raw/poetry/wanqing/卷三十.json,17,55a63733ea9eba31c0b530b87b0661ed65292406b20dc5bac6ba773f4e04c58a,太史祠隔河望孤山,绝巘连云出，秋风隔水多。韩原中缺处，山翠压黄河。终日山头坐，看山兴未阑。秦山看不尽，犹借晋山看。,王又旦,INDEX_MATCH
+SG-17,WS-WANQING-一百四十三,raw/poetry/wanqing/卷一百四十三.json,51,5260d44aebd12318d2cf1de8f3d2692dde13c9f80e0d96212db63a97ded5a045,诸葛武侯铜蒺藜歌,罡风卷空云四垂，扁舟驾浪帆不倚。篷窗开笥光陆离，云看武侯铜蒺藜。芒耀四射形模奇，苔斑变作鳞之而。古如宝采腾鼎彝，峭如圭角森岐嶷。锐如颖脱囊中锥，晃如霜锷生戟枝。,==黄倬==,INDEX_MATCH
+SG-18,WS-WANQING-十八,raw/poetry/wanqing/卷十八.json,44,52c993d69557f5d818d8d0edb978413355dffe3373bde46b7a7f5d12776ced5c,登湛祯士新阁,新构闲斋事事幽，帘栊清寂胜前游。疏篱引蔓时妨帽，老树扶人共上楼。暮雨千家闻短笛，东风一绿遍平畴。园林烟景元堪画，况有数峰来上头。八月八夜王子千招同陈韶州毅斋迟灵,陈恭尹,INDEX_MATCH
+SG-19,CP-TANG-16,raw/poetry/tang/poet.tang.15000.json,55,0386e58f46517daa3af0e0f385e0223f1efc0dac53afbe8fea64f99074d870b7,賦得西戎獻白玉環,當時無外守，方物四夷通。列土金河北，朝天玉塞東。自將荆璞比，不與鄭環同。正朔雖傳漢，衣冠尚帶戎。幸承提佩寵，多媿琢磨功。絕域知文教，爭趨上國風。,李竦,INDEX_MATCH
+SG-20,CP-TANG-05,raw/poetry/tang/poet.tang.4000.json,857,b8a7946c879b9658a6c667a4c55f776fae7e5e00a17789ab06b274c1429afc66,流合浦嶺外作,瘴江西去火爲山，炎徼南窮鬼作關。從此更投人境外，生涯應在有無間。,張均,INDEX_MATCH
+SG-21,WS-GUSHIJI-128,raw/poetry/gushiji/卷128.json,8,fc6099bc061546067e85320686844327f2fdf5ca42b6a6503c4cebfe9cd58ca5,贈别,藏啼留送别拭淚强相參誰言畜衫袖長代手中浛,,INDEX_MATCH
+SG-22,WS-GUSHIJI-083,raw/poetry/gushiji/卷083.json,0,c34c3a084aac241c691ddf923334d9283ad45c9ed719292bb10414baf329ef6a,詩,侍皇太子釋奠宴尊學尚矣道亦遐哉啟圖觀祕闢苑興才事髙東序義邁雲臺峩峩徳傅灼灼英台復禮曲臺反樂宣榭闕文内舉輶軒外駕結朋千里從師百舍墜典必修闕祀咸薦迴鸞獻爵摐金委奠肆,,INDEX_MATCH
+SG-23,CP-SONGSHI-238,raw/poetry/songshi/poet.song.237000.json,72,ce26f9f8498c1d542d03d7ed49877084ebb87f2613366746c05d7d3c5860a80f,鄭北山之元孫扁其樓王適莊爲書北山之英四字求跋爲作詩  其八,相維權奸，公以才忌。瀕死荒陲，非公所悸。,金履詳,INDEX_MATCH
+SG-24,WS-WANQING-一百四十九,raw/poetry/wanqing/卷一百四十九.json,80,42d714136a4a962176b4ca8024ab7405ef144f4220143d02931fc220b30752e8,登金焦二山寄故园兄弟,东屋西屋人已远，名山也作弟兄看。金焦好处多于画，少个雁声江上寒。,==唐炯==,INDEX_MATCH
+SG-25,WS-WANQING-十六,raw/poetry/wanqing/卷十六.json,94,294838efa742b164eb007890087d01f32630a343d489fbf82dfe0912b03e5ca0,桃花潭短歌,桃花潭中春水深，桃花潭上春云阴。云阴不见古人面，水深曾照古人心。如何李白汪伦后，云水荒凉直至今。,赠汤岩夫,INDEX_MATCH
+SG-26,WS-WANQING-一百六十,raw/poetry/wanqing/卷一百六十.json,32,dc6cf662453ed665a03de78e95d6967c5a716f0e29b3380b087a7e371febae3f,杂兴,松柏入尘市，价不及桃李。生无媚世姿，安与众竞美。达人守其真，赏心空谷里。静极虚妙生，万事不到耳。行乐根性命，性命寄山水。悠悠天地间，几人悟至理。凤凰游海滨，寥寥,南钱杂赋,INDEX_MATCH
+SG-27,CP-TANG-13,raw/poetry/tang/poet.tang.12000.json,441,ec43d055a219d52ecdb58cd30a8a444189392f0d68b92a41495df1c72c5fd095,山花,山花照塢復燒溪，樹樹枝枝盡可迷。野客未來枝畔立，流鶯已向樹邊啼。從容只是愁風起，眷戀常須向日西。別有妖妍勝桃李，攀來折去亦成蹊。,錢起,INDEX_MATCH
+SG-28,WS-MINGSHI-021,raw/poetry/mingshi/卷021.json,20,0dd670cf8f3e8cf0876a28213f2be564a5432af075c2962eebe0548923b54002,懷慶道中,風捲塵沙驛路迷人家逺近樹高低如何河北風光别春半猶無一鳥啼,林誌,INDEX_MATCH
+SG-29,CP-SONGSHI-032,raw/poetry/songshi/poet.song.31000.json,56,ae8feb7e8a0919eceee810e0597cf54456acb6506a73d0d477f0e66aa623f4b6,次韵林次中九日都下感事二首  其一,桃杏初開已去家，又逢蘭菊綻新花。感時謾綴茱萸佩，惜別應憐棠棣華。迢遞宦遊來日下，悠揚歸思繞天涯。一尊重到平津閤，惆悵文窗舊綠紗。,蘇頌,INDEX_MATCH
+SG-30,WS-WANQING-五十一,raw/poetry/wanqing/卷五十一.json,10,f5501f27bb577dce0858c230e4ece91ff861f28ffdbf1145bebf8d6c11c4e95b,游岘山,前年渡汉水，已堕岘山泪。今年登峿台，独倚洼樽醉。复此吴兴游，忽动楚泽思。自从有此山，游饮谁不至。遐哉贤达流，望古仅一二。抱此山水衷，慷慨发长喟。嗜好既殊俗，悲伤,吴铭道,INDEX_MATCH
+SG-31,WS-GUSHIJI-046,raw/poetry/gushiji/卷046.json,24,24f1bed68a3580d3a09b6d1b450dc51888327d0222d7425a3f622c19b85270dd,范廣泉,征虜亭餞王少傅挂冠東門閻歸褐西唐足結轍塵髙衢祖供懸長麓韓卿辭輦路疎傅知殆辱素徳燭光塵𤣥軌芳前覺王齊之,王嘉,INDEX_MATCH
+SG-32,WS-GUSHIJI-077,raw/poetry/gushiji/卷077.json,64,851e00ecacf8397eb891995030d0e3e2f7b91b2eb9fd2d6ab864dff0c2cb98f8,烏棲曲四首,芙蓉作船絲作䋏北斗横天月將落採蓮渡頭擬黄河郎今欲渡畏風波浮雲似帳月如鈎那能夜夜南陌頭冝城投泊今行熟停鞍繫馬暫棲宿青牛丹轂七香車可憐今夜宿倡家倡家髙樹鳥欲棲羅帷翠,簡文帝,INDEX_MATCH
+SG-33,WS-WENXUAN-30,raw/poetry/wenxuan/卷30.json,42,547b8dc66ae7c4bd784c5a03c0607e4d026ed6c88314a2187b58e08be2bc9af3,魏太子,百川赴巨海，眾星環北辰。照灼爛霄漢，遙裔起長津。天地中橫潰，家王拯生民。區㝢既滌蕩，群英必來臻。東京賦曰：區㝢乂寧。謝承後漢書曰：黃向對策為群英之表。忝此欽賢性,謝靈運,INDEX_MATCH
+SG-34,WS-MINGSHI-019,raw/poetry/mingshi/卷019.json,36,800b98c1a50246afa2862aa07ab910b3da60be5493b0109826f3b99eff5e3f99,游新安爛柯山王喬洞,峨峨爛柯山日夕生紫煙仙人啓洞府澗水導其前白石寒齒齒幽篁静娟娟紺露瑶席慶雲集蕙櫋泠風從東來可以散煩悁萬變紛在目汎覽何茫然王事有嚴戒胡能久周旋振衣下山去滿耳淒鳴蟬,黄福,INDEX_MATCH
+SG-35,WS-MINGSHI-041,raw/poetry/mingshi/卷041.json,76,f4b96ade7a30af7e21fe0e1482c6ef4fc110151ceee3e0f585acaf8105d228e1,送林遷于得告還山,祖席初分酒半酡相看無奈故人何生憎柳色臨岐路况聽春聲入櫂歌舊國雲山何處是他年風雨憶君多祗園簪組能相絆未得相從訪薜蘿,江暉,INDEX_MATCH
+SG-36,WS-WANQING-一百三十一,raw/poetry/wanqing/卷一百三十一.json,31,1ef9b100cb8e12f5adf177661c8b9ca486854e255a9c5f8235a6e90b4e75c717,驿馆夜坐,驿馆挑镫秋夜深，思量旅况昔犹今。有书莫漫途中寄，得句何堪马上吟。半载消磨关塞日，一鞭掷碎使臣心。无情最是西来路，老我风尘白发侵。,==麟魁==,INDEX_MATCH
+SG-37,WS-MINGSHI-070,raw/poetry/mingshi/卷070.json,88,0c2b6173f9eba26495a8db19e7b00a5290dc8373b72bbe726ab31dd1fdc1a629,留别沈茂之,風雅翩翩自不羣榮華入目總浮雲江湖此去無知已蚤晩移家欲就君,唐汝詢,INDEX_MATCH
+SG-38,WS-GUSHIJI-155,raw/poetry/gushiji/卷155.json,18,d14d2b092ae163e895f8ea210641df63a4cfaa62485b1a4cee7ba409f600091f,西北有浮雲,魏文帝有呑東南之意軍至楊子江口見洪濤洶湧歎曰此天地之所以限南北也遂賦詩而還檢魏文集且無此詩不知史臣憑何編録且魏文雄才智畧本非庸主如何有此一篇示弱於孫權取笑於劉備,,INDEX_MATCH
+SG-39,WS-GUSHIJI-044,raw/poetry/gushiji/卷044.json,1,dcae68692152aa7b8ec084a934ebea11849591e6cdef13520ff9cab695cc643e,時運,時運游暮春也春服既成景物斯和偶影獨遊欣慨交心邁邁時運穆穆良朝襲我春服薄言東郊山滌餘靄宇曖微霄有風自南翼彼新苗洋洋平津乃漱乃濯邈邈遐景載欣載矚稱心而言人亦易足揮兹,,INDEX_MATCH
+SG-40,WS-GUSHIJI-111,raw/poetry/gushiji/卷111.json,29,b19cb3c2488c7108acf5198c6db1472d823bee99efa26d6608869f16cd80b550,詠歌人偏得日照,斜光入丹扇的的最分明欲持照彫栱仍作繞梁聲,周𢎞正,INDEX_MATCH
+SG-41,WS-WANQING-四十二,raw/poetry/wanqing/卷四十二.json,23,32ba6c2b4b54a4f081808a06c8a03cc3daebfe7387220d861d5bc4c679b3b116,送张松樵链师还庐山,竟谢浮荣觅紫芝，好山深处结茅茨。伯英家法原能草，栗里遗民更有诗。时踏青苍舒朗啸，未忘黑白一弹棋。匡庐到处悬飞瀑，可许支筇共问奇。,米汉雯,INDEX_MATCH
+SG-42,WS-WANQING-一百三十九,raw/poetry/wanqing/卷一百三十九.json,20,7a44fc6e33ea42bd147077ea282e777e458b7cddbe46ea0c12f255d4f7386943,重建滕王阁赋诗落成,临江新构郁苍苍，九派烟涛接混茫。上界星辰通碧汉，下流砥柱束衡阳。鱼龙影里珠帘静，鸥鹭风前玉笛凉。莫认当年歌舞地，好留形胜控南荒。,李本仁,INDEX_MATCH
+SG-43,WS-MINGSHI-038,raw/poetry/mingshi/卷038.json,34,8a0511afb4218ed658683c1609e6408ab6bd0e0b45d9677b79bf95fbdffccac4,關索嶺,萬里雲南路三年始得歸野梅渾破萼官栁半垂絲嶺峻盤空險城尖疊石危邊疆據形勝天畔控諸尼程啓充啓充字以道嘉定州人正徳戊辰進士任監察御史贈光禄寺少卿,邵銳,INDEX_MATCH
+SG-44,CP-SONGSHI-178,raw/poetry/songshi/poet.song.177000.json,456,0fb880ffeaa5e325ca6366fe805f9c8702ba7cffcfb374375aa5f5a078a06e63,次韵余伯皋  其一,蕭然一葉下庭空，便覺風凉入袖中。餬口可能盂飯白，放身那羨带鞓紅。江湖水滿悲遊子，城闕秋生醉禿翁。且剝鴻頭對杯酌，翻雲覆雨久來同。,韓淲,INDEX_MATCH
+SG-45,CP-HUAJIAN-09,raw/poetry/huajianji/huajianji-9-juan.json,0,0d81d1218e79e2853ef9c946899b258bbaef5af1f926ece8bc99f9a5c4f27547,满宫花·雪霏霏,雪霏霏，风凛凛，玉郎何处狂饮。醉时想得纵风流，罗帐香帷鸳寝。春朝秋夜思君甚，愁见绣屏孤枕。少年何事负初心，泪滴缕金双衽。,魏承班,INDEX_MATCH
+SG-46,WS-GUSHIJI-071,raw/poetry/gushiji/卷071.json,16,4584c33c489f15ff7a9131838409406b08253d08d1bcf153df2f3a15927a5c95,燈,發翠斜漢裏蓄寳宕山峰抽莖類仙掌銜光似燭龍飛蛾再三繞輕花四五重孤對相思夕空照舞衣縫,,INDEX_MATCH
+SG-47,WS-WANQING-一百二十四,raw/poetry/wanqing/卷一百二十四.json,46,b1803929520d761e0583156155235198ccef5e4601555b40f68b969267f5576c,题山家壁,前峰昨夜雨初过，晓蹋芒鞋入翠萝。鸟语向山行客少，春阴垂涧落花多。喧阗村社闻箫鼓，空阔烟陂放鸭鹅。散淡不关尘世事，瓦盆沽就野人歌。,马春长,INDEX_MATCH
+SG-48,CP-SONGSHI-214,raw/poetry/songshi/poet.song.213000.json,984,cd87cc2c4dfd30b2daa857d4374669749c9fcd2b86731874be26ed5da4256365,知府黄寺簿生日  其八,從容此日見清規，玉珮瓊琚杜拾遺。槜李轉聞風教好，蒼生從此得伸眉。,釋紹嵩,INDEX_MATCH
+SG-49,WS-MINGSHI-032,raw/poetry/mingshi/卷032.json,42,5df65d573a3b93b0b603834297027a70654fbb3f44d1ea65591e4f1ed8ee4c96,野寺,野寺空林落照低㣲鐘烟樹使人迷逢僧只道山門近不覺穿雲又過溪,唐寅,INDEX_MATCH
+SG-50,CP-TANG-46,raw/poetry/tang/poet.tang.45000.json,995,5177a4747b785f04897c36b77d5e033b11a7bcad759d1557fdb425166b8767f3,題方公院寄夏侯明府,銀地有餘光，方公道益芳。誰分修藏力，頂有剃頭霜。經勘松風燥，簷垂塢茗香。終須結西社，此縣似柴桑。,貫休,INDEX_MATCH
