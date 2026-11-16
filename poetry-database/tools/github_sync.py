@@ -289,13 +289,18 @@ def main():
 
     # README 由项目所有者维护，本工具绝不覆盖。
     # 上传策略与同步说明单独放在 UPLOAD_REPORT.md / GITHUB_SYNC.md。
-    if not (CLONE / "README.md").exists():
+    readme_path = CLONE / "README.md"
+    generated_marker = "项目资料仓库"
+    need_restore = (not readme_path.exists()) or (
+        generated_marker in readme_path.read_text(encoding="utf-8", errors="ignore")
+    )
+    if need_restore:
         original = PROJECT / "docs/README_ORIGINAL.md"
         if original.exists():
-            shutil.copy2(original, CLONE / "README.md")
-            log("README 缺失，已从 docs/README_ORIGINAL.md 恢复")
+            shutil.copy2(original, readme_path)
+            log("README 缺失或曾被工具覆盖，已从 docs/README_ORIGINAL.md 恢复")
         else:
-            log("WARN README 缺失且无备份，请人工检查")
+            log("WARN README 需恢复但无备份，请人工检查")
     (CLONE / "GITHUB_SYNC.md").write_text("""# 仓库同步说明（工具生成，勿手改）
 
 本文件由 `poetry-database/tools/github_sync.py` 生成，说明本仓库的同步边界。
