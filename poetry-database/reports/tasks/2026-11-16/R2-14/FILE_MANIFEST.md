@@ -1,9 +1,9 @@
 # FILE_MANIFEST — R2-14 交付清单
 
-- 生成时间：2026-11-16T19:28:42
+- 生成时间：2026-11-16T21:10:12
 - 目录：`reports/tasks/2026-11-16/R2-14/`
 - 文件数：**94**（不含本清单）
-- 合计字节：**7,656,974**
+- 合计字节：**7,657,453**
 - 哈希算法：SHA-256（整文件读入分块计算，未做任何规范化）
 
 ## 0 自引用说明
@@ -16,9 +16,9 @@
 | 类别 | 文件数 | 合计字节 |
 |---|---|---|
 | 数据 | 35 | 2,844,758 |
-| 文档 | 20 | 89,379 |
-| 日志 | 39 | 4,722,837 |
-| **合计** | **94** | **7,656,974** |
+| 文档 | 20 | 89,825 |
+| 日志 | 39 | 4,722,870 |
+| **合计** | **94** | **7,657,453** |
 
 ## 2 逐文件清单
 
@@ -39,7 +39,7 @@
 | 13 | `CIPAI_STACK_IMAGE_REPAIR.csv` | 908 | 11 | `02b46c1752266a7b964b9e58a0f5a169096bfd1de1ed8dc9a013e7aa1f215854` |
 | 14 | `CLOSE_READINGS_30_FINAL_AUDIT.csv` | 10,734 | 30 | `ca47f238efbd3003af70ba764af0bf3eeb78bb678db2bd49be117b661f77e71d` |
 | 15 | `CLOSE_READINGS_30_ISSUE_CLOSURE.csv` | 40,960 | 60 | `477e6071d25ca30ac44b1eae98d36ca6d801309021129da54fa20b1ef589a835` |
-| 16 | `COMPLETE_REPORT.md` | 26,621 | - | `75d60618d26b72c509ea13b8e48978b489dc61fd3b2fdeae0ad1eb131f562107` |
+| 16 | `COMPLETE_REPORT.md` | 27,067 | - | `2a133ff9212543852dedcacecd7e96577573a989aa3212df9de1c541ee988d01` |
 | 17 | `DISPUTE_RESOLUTION_R2_14.md` | 1,228 | - | `806bde617c4d3e43fd26d2d4ed5ba2af2d7f1da88b0380e43d65f3ed9b0a11ca` |
 | 18 | `EXAMPLE_LINK_208_STATUS_FINAL.csv` | 87,570 | 310 | `e63a0295a6314b3e2d6e7395fc433c8b4d29d63fab4a4f9aacf3e735322a321d` |
 | 19 | `EXAMPLE_LINK_JOIN_ID_AUDIT.md` | 5,123 | - | `d964f0c26eb260d4c2fd6dd80a001977e74635c66fdf0276113e29b377e670e3` |
@@ -51,7 +51,7 @@
 | 25 | `LOGS/C2_stats.json` | 8,946 | - | `6d8e4d6317f0838eed401c59e36ec9eeb337e9c5f2e038a1e78b9014791a86a1` |
 | 26 | `LOGS/C4_counts.json` | 238 | - | `b9c650e260d57fc63ef0414a54a6d807b3202e8180b85093de7332040bdf0239` |
 | 27 | `LOGS/C5_counts.json` | 286 | - | `892fd91ceeda8b0d19fb9b88f34b45404f4f3632b6a8ed62720c0c6a4a7ba838` |
-| 28 | `LOGS/C7_yuanqu_cross_author_check.csv` | 5,453 | 12 | `94bc1deb8b742b95db6bb69934db94bccc6a4739cba3b6e91a948110d3d1f891` |
+| 28 | `LOGS/C7_yuanqu_cross_author_check.csv` | 5,486 | 12 | `7850b87dd0ac11821e847f39d60df24cd763c5088d883f31c5a5e7a6651416be` |
 | 29 | `LOGS/D2_notes.md` | 25,548 | - | `9ff9146aa1d3c8d87eb3607a4d41961d1dda507b923b4e0a02bac8967ca1d84e` |
 | 30 | `LOGS/F3_build.py` | 26,571 | - | `d02968c6d2ecfc76dc6a02cff1a20494b484c52f2fe7ed33350af73424459211` |
 | 31 | `LOGS/F3_final.py` | 6,074 | - | `189e0705986a332d07eba89155c4f463216291b5a8cd8329e3897f44d8b42d8a` |
