@@ -287,16 +287,26 @@ def main():
         w.writeheader()
         w.writerows(rows)
 
-    readme = """# Poetry Generation Skill — 项目资料仓库
+    # README 由项目所有者维护，本工具绝不覆盖。
+    # 上传策略与同步说明单独放在 UPLOAD_REPORT.md / GITHUB_SYNC.md。
+    if not (CLONE / "README.md").exists():
+        original = PROJECT / "docs/README_ORIGINAL.md"
+        if original.exists():
+            shutil.copy2(original, CLONE / "README.md")
+            log("README 缺失，已从 docs/README_ORIGINAL.md 恢复")
+        else:
+            log("WARN README 缺失且无备份，请人工检查")
+    (CLONE / "GITHUB_SYNC.md").write_text("""# 仓库同步说明（工具生成，勿手改）
 
-本仓库保存诗词项目的**报告、审计材料、工具脚本与知识库文档**，供外部审查与复现。
+本文件由 `poetry-database/tools/github_sync.py` 生成，说明本仓库的同步边界。
+项目介绍见 `README.md`（人工维护，工具不会覆盖）。
 
-## 内容
+## 仓库内容
 
 | 路径 | 内容 |
 |---|---|
 | `AGENTS.md` / `AGENT_REPORTING_STANDARD.md` | 项目长期指令与汇报制度 |
-| `docs/` | 原始方案与历史文档 |
+| `docs/` | 原始方案、历史文档与原 README 备份 |
 | `诗词格律引擎/` | 格律引擎代码、独立测试集与执行报告（引擎冻结，仅研究用） |
 | `poetry-database/reports/` | **逐轮完整报告**（含每轮 `COMPLETE_REPORT.md` 与全部交付件） |
 | `poetry-database/tools/` | 审计与同步工具 |
@@ -319,10 +329,10 @@ def main():
 python3 poetry-database/tools/github_sync.py
 ```
 
-工具会重建白名单暂存、脱敏、生成新的清单与上传报告，然后推送到 `main`。
-需要本机已配置 GitHub SSH key。加 `--dry-run` 只做本地检查不推送。
-"""
-    (CLONE / "README.md").write_text(readme, encoding="utf-8")
+工具会重建白名单暂存、脱敏、生成新的清单与上传报告，然后推送到 `main`；
+提交身份固定使用 git 全局账户。需要本机已配置 GitHub SSH key。
+加 `--dry-run` 只做本地检查不推送。
+""", encoding="utf-8")
 
     total = sum(int(r["bytes"]) for r in rows)
     excluded = [
