@@ -15,7 +15,9 @@
     python3 tools/github_sync.py            # 同步并推送
     python3 tools/github_sync.py --dry-run  # 只生成本地暂存与清单，不推送
 
-首次运行需要本机已配置 GitHub SSH key（ssh -T git@github.com 能认证）。
+认证：本机 GitHub SSH key（ssh -T git@github.com 能认证）。
+提交身份：按用户要求固定使用 git 全局账户（git config --global user.name / user.email），
+脚本不以 -c 临时身份覆盖；仓库本地也不应设 user.*。
 """
 import argparse
 import csv
@@ -363,11 +365,9 @@ python3 poetry-database/tools/github_sync.py
     if r.returncode == 0:
         log("无变更需要提交。")
     else:
-        ident = [
-            "-c", "user.name=Poetry Generation Skill",
-            "-c", "user.email=noreply@github.com",
-        ]
-        git(ident + ["commit", "-m", f"Sync project reports and tools {TODAY}"])
+        # 按用户要求：使用 git 全局账户（git config --global user.name/user.email）提交，
+        # 不再用 -c 临时身份覆盖；仓库本地也未设置 user.*，因此提交作者即全局账户。
+        git(["commit", "-m", f"Sync project reports and tools {TODAY}"])
         r = git(["push", "origin", "main"], check=False)
         if r.returncode:
             log("PUSH FAILED:", r.stderr[-2000:])
