@@ -57,7 +57,8 @@ INCLUDE_FILES = [
     "poetry-database/README.md",
     # 小型原始证据（非书全文、非大语料）
     "poetry-database/raw/r2_04_cipai_index.json",
-    "poetry-database/raw/r2_04_evidence",
+    # 只上传元数据清单；full/ 与 chapters/ 是现代版权书正文，永不上传
+    "poetry-database/raw/r2_04_evidence/manifest.json",
     "poetry-database/raw/r2_05_notes",
     "poetry-database/raw/r2_06_notes",
     "poetry-database/raw/r2_07_finalize.json",
@@ -70,6 +71,7 @@ EXCLUDE_PARTS = [
     "/.git/", "/.workbuddy/", "/__pycache__/", "/.DS_Store",
     "/database/", "/normalized/", "/books/",
     "/raw/books", "/raw/poetry/", "/raw/r2_08/cache/",
+    "/r2_04_evidence/full/", "/r2_04_evidence/chapters/",
     "/raw/r2_09/images/", "/raw/r2_11/images/", "/raw/r2_12/facsimile/",
 ]
 EXCLUDE_SUFFIX = (".pyc", ".pyo", ".db", ".sqlite", ".wal", ".shm")
