@@ -78,13 +78,13 @@ MAX_FILE_BYTES = 90 * 1024 * 1024  # GitHub 单文件硬上限 100 MB，留 10 M
 # ---------- 脱敏规则 ----------
 SANITIZE = [
     # 本机桌面工作区（含中文项目名）
-    (re.compile(r"<HOME>/\s\"']+/Desktop/任务列表/诗词"), "<PROJECT_ROOT>"),
-    (re.compile(r"<PROJECT_ROOT>"), "<PROJECT_ROOT>"),
+    (re.compile(r"/Users/[^/\s\"']+/Desktop/任务列表/诗词"), "<PROJECT_ROOT>"),
+    (re.compile(r"~/Desktop/任务列表/诗词"), "<PROJECT_ROOT>"),
     # 本机文件归置目录
-    (re.compile(r"<HOME>/\s\"']+/Desktop/workbuddy"), "<LOCAL_WORKBUDDY>"),
-    (re.compile(r"<LOCAL_WORKBUDDY>"), "<LOCAL_WORKBUDDY>"),
+    (re.compile(r"/Users/[^/\s\"']+/Desktop/workbuddy"), "<LOCAL_WORKBUDDY>"),
+    (re.compile(r"~/Desktop/workbuddy"), "<LOCAL_WORKBUDDY>"),
     # 任何残留家目录
-    (re.compile(r"<HOME>/\s\"']+"), "<HOME>"),
+    (re.compile(r"/Users/[^/\s\"']+"), "<HOME>"),
     (re.compile(r"C:\\Users\\[^\\\s\"']+"), "<HOME>"),
 ]
 TEXT_SUFFIX = (
@@ -145,8 +145,16 @@ def collect():
     return picked
 
 
+# 这些文件含脱敏规则自身的字面量（/Users/ 等），不能再被脱敏，
+# 否则正则会失效、工具在远端变成坏代码。它们本身不含真实本机路径。
+NO_SANITIZE = {"github_sync.py"}
+
+
 def sanitize_copy(src, dst):
     dst.parent.mkdir(parents=True, exist_ok=True)
+    if src.name in NO_SANITIZE:
+        shutil.copy2(src, dst)
+        return "VERBATIM"
     if src.suffix.lower() in TEXT_SUFFIX or src.name in ("Makefile", "Dockerfile"):
         try:
             txt = src.read_text(encoding="utf-8")
@@ -373,6 +381,39 @@ python3 poetry-database/tools/github_sync.py
         "",
     ]
     (CLONE / "UPLOAD_REPORT.md").write_text("\n".join(lines), encoding="utf-8")
+
+    # 根目录报告索引：让人一眼看到每一轮报告在哪，不用逐层点目录
+    reports = []
+    for r in rows:
+        m = re.match(
+            r"poetry-database/reports/tasks/(\d{4}-\d{2}-\d{2})/([^/]+)/COMPLETE_REPORT\.md$",
+            r["path"],
+        )
+        if m:
+            reports.append((m.group(2), m.group(1), r["path"], int(r["bytes"])))
+    reports.sort()
+    idx = [
+        "# 逐轮报告索引",
+        "",
+        f"共 **{len(reports)}** 轮完整报告，每轮含 `COMPLETE_REPORT.md` 与全部交付件（CSV / MD / LOGS）。",
+        "",
+        "| 轮次 | 日期 | 报告字节 | 完整报告 | 该轮目录 |",
+        "|---|---|---|---|---|",
+    ]
+    for round_id, date, path, size in reports:
+        d = f"poetry-database/reports/tasks/{date}/{round_id}"
+        idx.append(
+            f"| {round_id} | {date} | {size:,} | "
+            f"[COMPLETE_REPORT.md]({path}) | [目录]({d}) |"
+        )
+    idx += [
+        "",
+        "上传范围与排除项见 [UPLOAD_REPORT.md](UPLOAD_REPORT.md)；"
+        "同步机制见 [GITHUB_SYNC.md](GITHUB_SYNC.md)。",
+        "",
+    ]
+    (CLONE / "REPORTS_INDEX.md").write_text("\n".join(idx), encoding="utf-8")
+    log("报告索引：", len(reports), "轮")
 
     # 提交推送
     git(["add", "-A"])

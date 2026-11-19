@@ -1,9 +1,9 @@
 # GitHub 上传报告
 
-- 时间：2026-11-16T21:53:38
+- 时间：2026-11-20T00:08:13
 - 仓库：`git@github.com:iop666/Poetry-Generation-Skill.git`（公开）
-- 上传文件：**861** 个，合计 **48,615,916** 字节
-- 脱敏处理：CLEAN 769、COPIED 15、SANITIZED 77
+- 上传文件：**861** 个，合计 **48,617,522** 字节
+- 脱敏处理：CLEAN 769、COPIED 15、SANITIZED 76、VERBATIM 1
 - 推送前门禁：本机路径 / 手机号 / 凭据残留 **0 处**；邮箱 1 个（researcher@example.org）
 
 ## 排除项及原因
