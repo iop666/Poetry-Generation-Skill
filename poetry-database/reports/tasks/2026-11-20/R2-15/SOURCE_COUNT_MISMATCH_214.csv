@@ -1,215 +1,215 @@
 ﻿source_id,local_path,works_n,json_n,diff,probable_cause,suggested_match_rule,verified_sample,note
-CP-YUANQU,raw/poetry/yuanqu/yuanqu.json,10685,11057,-372,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; a55022:诈妮子调风月・仙吕/点绛@json#0; a16f9a:诈妮子调风月・混江龙@json#1; fc7335:诈妮子调风月・那吒令@json#2; monotonic=Y,format=json; status=OK; bytes=4188599；抽样可定位 → 缺口属过滤，非错位
-CP-TANG-03,raw/poetry/tang/poet.tang.2000.json,1001,1002,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=417948
-CP-TANG-39,raw/poetry/tang/poet.tang.38000.json,1001,1002,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=400487
-CP-SONGSHI-054,raw/poetry/songshi/poet.song.53000.json,1000,1001,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=467677
-CP-SONGSHI-210,raw/poetry/songshi/poet.song.209000.json,1000,1001,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=435174
-CP-SONGCI-05,raw/poetry/songci/ci.song.4000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=395848
-CP-SONGSHI-014,raw/poetry/songshi/poet.song.13000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=474558
-CP-SONGSHI-019,raw/poetry/songshi/poet.song.18000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=521765
-CP-SONGSHI-023,raw/poetry/songshi/poet.song.22000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=420277
-CP-SONGSHI-029,raw/poetry/songshi/poet.song.28000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=386642
-CP-SONGSHI-030,raw/poetry/songshi/poet.song.29000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=441585
-CP-SONGSHI-053,raw/poetry/songshi/poet.song.52000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=431643
-CP-SONGSHI-100,raw/poetry/songshi/poet.song.99000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=370450
-CP-SONGSHI-101,raw/poetry/songshi/poet.song.100000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=448408
-CP-SONGSHI-103,raw/poetry/songshi/poet.song.102000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=423142
-CP-SONGSHI-139,raw/poetry/songshi/poet.song.138000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=387513
-CP-SONGSHI-147,raw/poetry/songshi/poet.song.146000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=449159
-CP-SONGSHI-159,raw/poetry/songshi/poet.song.158000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=540157
-CP-SONGSHI-160,raw/poetry/songshi/poet.song.159000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=404374
-CP-SONGSHI-161,raw/poetry/songshi/poet.song.160000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=439768
-CP-SONGSHI-164,raw/poetry/songshi/poet.song.163000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=460414
-CP-SONGSHI-182,raw/poetry/songshi/poet.song.181000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=361865
-CP-SONGSHI-186,raw/poetry/songshi/poet.song.185000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=348717
-CP-SONGSHI-187,raw/poetry/songshi/poet.song.186000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381934
-CP-SONGSHI-192,raw/poetry/songshi/poet.song.191000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=417644
-CP-SONGSHI-201,raw/poetry/songshi/poet.song.200000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=390552
-CP-SONGSHI-205,raw/poetry/songshi/poet.song.204000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=395756
-CP-SONGSHI-221,raw/poetry/songshi/poet.song.220000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=385667
-CP-SONGSHI-224,raw/poetry/songshi/poet.song.223000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=491398
-CP-SONGSHI-228,raw/poetry/songshi/poet.song.227000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=422360
-CP-SONGSHI-234,raw/poetry/songshi/poet.song.233000.json,999,1001,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=462948
-CP-SONGSHI-240,raw/poetry/songshi/poet.song.239000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=396108
-CP-SONGSHI-242,raw/poetry/songshi/poet.song.241000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=417842
-CP-SONGSHI-244,raw/poetry/songshi/poet.song.243000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=420271
-CP-SONGSHI-248,raw/poetry/songshi/poet.song.247000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=463140
-CP-TANG-01,raw/poetry/tang/poet.tang.0.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=408405
-CP-TANG-25,raw/poetry/tang/poet.tang.24000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=462622
-CP-TANG-29,raw/poetry/tang/poet.tang.28000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=402527
-CP-TANG-34,raw/poetry/tang/poet.tang.33000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=438157
-CP-TANG-48,raw/poetry/tang/poet.tang.47000.json,999,1001,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=389163
-CP-SONGCI-06,raw/poetry/songci/ci.song.5000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=388016
-CP-SONGCI-07,raw/poetry/songci/ci.song.6000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=390822
-CP-SONGCI-10,raw/poetry/songci/ci.song.9000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=397207
-CP-SONGCI-11,raw/poetry/songci/ci.song.10000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=401864
-CP-SONGCI-14,raw/poetry/songci/ci.song.13000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=435352
-CP-SONGCI-18,raw/poetry/songci/ci.song.17000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=472066
-CP-SONGSHI-015,raw/poetry/songshi/poet.song.14000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=484216
-CP-SONGSHI-056,raw/poetry/songshi/poet.song.55000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=436320
-CP-SONGSHI-063,raw/poetry/songshi/poet.song.62000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=408107
-CP-SONGSHI-069,raw/poetry/songshi/poet.song.68000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=406509
-CP-SONGSHI-078,raw/poetry/songshi/poet.song.77000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=515522
-CP-SONGSHI-084,raw/poetry/songshi/poet.song.83000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=421365
-CP-SONGSHI-089,raw/poetry/songshi/poet.song.88000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=462056
-CP-SONGSHI-090,raw/poetry/songshi/poet.song.89000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=509403
-CP-SONGSHI-096,raw/poetry/songshi/poet.song.95000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=434807
-CP-SONGSHI-105,raw/poetry/songshi/poet.song.104000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=439719
-CP-SONGSHI-110,raw/poetry/songshi/poet.song.109000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=442484
-CP-SONGSHI-137,raw/poetry/songshi/poet.song.136000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=388865
-CP-SONGSHI-156,raw/poetry/songshi/poet.song.155000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=488921
-CP-SONGSHI-158,raw/poetry/songshi/poet.song.157000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=441246
-CP-SONGSHI-168,raw/poetry/songshi/poet.song.167000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381396
-CP-SONGSHI-198,raw/poetry/songshi/poet.song.197000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=408271
-CP-SONGSHI-202,raw/poetry/songshi/poet.song.201000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=375871
-CP-SONGSHI-203,raw/poetry/songshi/poet.song.202000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=368406
-CP-SONGSHI-207,raw/poetry/songshi/poet.song.206000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=367465
-CP-SONGSHI-215,raw/poetry/songshi/poet.song.214000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=444015
-CP-SONGSHI-218,raw/poetry/songshi/poet.song.217000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=373673
-CP-SONGSHI-219,raw/poetry/songshi/poet.song.218000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=460175
-CP-SONGSHI-222,raw/poetry/songshi/poet.song.221000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=372374
-CP-SONGSHI-232,raw/poetry/songshi/poet.song.231000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=481616
-CP-TANG-44,raw/poetry/tang/poet.tang.43000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=430665
-CP-SONGCI-08,raw/poetry/songci/ci.song.7000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=415095
-CP-SONGCI-15,raw/poetry/songci/ci.song.14000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=498986
-CP-SONGCI-17,raw/poetry/songci/ci.song.16000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=478885
-CP-SONGSHI-018,raw/poetry/songshi/poet.song.17000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=551103
-CP-SONGSHI-035,raw/poetry/songshi/poet.song.34000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=499518
-CP-SONGSHI-060,raw/poetry/songshi/poet.song.59000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=495958
-CP-SONGSHI-071,raw/poetry/songshi/poet.song.70000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=445350
-CP-SONGSHI-087,raw/poetry/songshi/poet.song.86000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=383044
-CP-SONGSHI-109,raw/poetry/songshi/poet.song.108000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=473825
-CP-SONGSHI-114,raw/poetry/songshi/poet.song.113000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=467835
-CP-SONGSHI-117,raw/poetry/songshi/poet.song.116000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=437869
-CP-SONGSHI-128,raw/poetry/songshi/poet.song.127000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=407156
-CP-SONGSHI-145,raw/poetry/songshi/poet.song.144000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=446583
-CP-SONGSHI-150,raw/poetry/songshi/poet.song.149000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=416822
-CP-SONGSHI-155,raw/poetry/songshi/poet.song.154000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=400796
-CP-SONGSHI-165,raw/poetry/songshi/poet.song.164000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=493886
-CP-SONGSHI-188,raw/poetry/songshi/poet.song.187000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=406192
-CP-SONGSHI-189,raw/poetry/songshi/poet.song.188000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=404078
-CP-SONGSHI-194,raw/poetry/songshi/poet.song.193000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=496556
-CP-SONGSHI-229,raw/poetry/songshi/poet.song.228000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=394275
-CP-SONGSHI-243,raw/poetry/songshi/poet.song.242000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=400794
-CP-SONGCI-03,raw/poetry/songci/ci.song.2000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=389037
-CP-SONGCI-04,raw/poetry/songci/ci.song.3000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=417829
-CP-SONGSHI-002,raw/poetry/songshi/poet.song.1000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=374027
-CP-SONGSHI-043,raw/poetry/songshi/poet.song.42000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=644212
-CP-SONGSHI-044,raw/poetry/songshi/poet.song.43000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=389819
-CP-SONGSHI-062,raw/poetry/songshi/poet.song.61000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=483632
-CP-SONGSHI-064,raw/poetry/songshi/poet.song.63000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=519191
-CP-SONGSHI-070,raw/poetry/songshi/poet.song.69000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=439113
-CP-SONGSHI-099,raw/poetry/songshi/poet.song.98000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=470774
-CP-SONGSHI-116,raw/poetry/songshi/poet.song.115000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=420903
-CP-SONGSHI-125,raw/poetry/songshi/poet.song.124000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=414744
-CP-SONGSHI-144,raw/poetry/songshi/poet.song.143000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=426070
-CP-SONGSHI-146,raw/poetry/songshi/poet.song.145000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=403977
-CP-SONGSHI-180,raw/poetry/songshi/poet.song.179000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=442546
-CP-SONGCI-09,raw/poetry/songci/ci.song.8000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=390756
-CP-SONGSHI-011,raw/poetry/songshi/poet.song.10000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=441699
-CP-SONGSHI-027,raw/poetry/songshi/poet.song.26000.json,995,1001,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=483530
-CP-SONGSHI-045,raw/poetry/songshi/poet.song.44000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=504256
-CP-SONGSHI-097,raw/poetry/songshi/poet.song.96000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=503340
-CP-SONGSHI-113,raw/poetry/songshi/poet.song.112000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=476449
-CP-SONGSHI-126,raw/poetry/songshi/poet.song.125000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=515572
-CP-SONGSHI-127,raw/poetry/songshi/poet.song.126000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=423278
-CP-SONGSHI-206,raw/poetry/songshi/poet.song.205000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=441954
-CP-SONGSHI-245,raw/poetry/songshi/poet.song.244000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=373327
-CP-SONGSHI-254,raw/poetry/songshi/poet.song.253000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381333
-CP-SONGCI-01,raw/poetry/songci/ci.song.0.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=406936
-CP-SONGSHI-017,raw/poetry/songshi/poet.song.16000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=458584
-CP-SONGSHI-036,raw/poetry/songshi/poet.song.35000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=425518
-CP-SONGSHI-038,raw/poetry/songshi/poet.song.37000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=557969
-CP-SONGSHI-055,raw/poetry/songshi/poet.song.54000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=421827
-CP-SONGSHI-111,raw/poetry/songshi/poet.song.110000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=380602
-CP-SONGSHI-185,raw/poetry/songshi/poet.song.184000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=421422
-CP-SONGSHI-211,raw/poetry/songshi/poet.song.210000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=364745
-CP-SONGSHI-012,raw/poetry/songshi/poet.song.11000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=413215
-CP-SONGSHI-026,raw/poetry/songshi/poet.song.25000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=407053
-CP-SONGSHI-041,raw/poetry/songshi/poet.song.40000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=464259
-CP-SONGSHI-051,raw/poetry/songshi/poet.song.50000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=459428
-CP-SONGSHI-072,raw/poetry/songshi/poet.song.71000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=409378
-CP-SONGSHI-082,raw/poetry/songshi/poet.song.81000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=375998
-CP-SONGSHI-149,raw/poetry/songshi/poet.song.148000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=392935
-CP-SONGSHI-175,raw/poetry/songshi/poet.song.174000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=392003
-CP-SONGSHI-009,raw/poetry/songshi/poet.song.8000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=413350
-CP-SONGSHI-025,raw/poetry/songshi/poet.song.24000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=472187
-CP-SONGSHI-039,raw/poetry/songshi/poet.song.38000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=449567
-CP-SONGSHI-073,raw/poetry/songshi/poet.song.72000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=425676
-CP-SONGSHI-094,raw/poetry/songshi/poet.song.93000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=425500
-CP-SONGSHI-095,raw/poetry/songshi/poet.song.94000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=391585
-CP-SONGSHI-112,raw/poetry/songshi/poet.song.111000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=447279
-CP-SONGSHI-123,raw/poetry/songshi/poet.song.122000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=420129
-CP-SONGSHI-235,raw/poetry/songshi/poet.song.234000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=405938
-CP-SONGCI-19,raw/poetry/songci/ci.song.18000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=481281
-CP-SONGSHI-007,raw/poetry/songshi/poet.song.6000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=373968
-CP-SONGSHI-013,raw/poetry/songshi/poet.song.12000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=404889
-CP-SONGSHI-037,raw/poetry/songshi/poet.song.36000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=428908
-CP-SONGSHI-048,raw/poetry/songshi/poet.song.47000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=452637
-CP-SONGSHI-085,raw/poetry/songshi/poet.song.84000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=463091
-CP-SONGSHI-154,raw/poetry/songshi/poet.song.153000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=375582
-CP-SONGSHI-174,raw/poetry/songshi/poet.song.173000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=466611
-CP-SONGCI-02,raw/poetry/songci/ci.song.1000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=368986
-CP-SONGSHI-075,raw/poetry/songshi/poet.song.74000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=433189
-CP-SONGSHI-091,raw/poetry/songshi/poet.song.90000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=478781
-CP-SONGSHI-163,raw/poetry/songshi/poet.song.162000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=412401
-CP-SONGSHI-172,raw/poetry/songshi/poet.song.171000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381183
-CP-SONGSHI-008,raw/poetry/songshi/poet.song.7000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=388015
-CP-SONGSHI-034,raw/poetry/songshi/poet.song.33000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=468037
-CP-SONGSHI-040,raw/poetry/songshi/poet.song.39000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=468982
-CP-SONGSHI-162,raw/poetry/songshi/poet.song.161000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=426491
-CP-SONGSHI-171,raw/poetry/songshi/poet.song.170000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=429069
-CP-SONGSHI-253,raw/poetry/songshi/poet.song.252000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=349500
-CP-SONGCI-21,raw/poetry/songci/ci.song.20000.json,988,1000,-12,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=434930
-CP-SONGSHI-001,raw/poetry/songshi/poet.song.0.json,988,1000,-12,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=401742
-CP-SONGSHI-061,raw/poetry/songshi/poet.song.60000.json,988,1000,-12,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=456769
-CP-SONGSHI-252,raw/poetry/songshi/poet.song.251000.json,988,1000,-12,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=346362
-CP-SONGSHI-031,raw/poetry/songshi/poet.song.30000.json,987,1000,-13,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=460026
-CP-SONGSHI-047,raw/poetry/songshi/poet.song.46000.json,987,1000,-13,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=456423
-CP-SONGSHI-068,raw/poetry/songshi/poet.song.67000.json,987,1000,-13,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=486903
-CP-SONGSHI-021,raw/poetry/songshi/poet.song.20000.json,986,1001,-15,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=436746
-CP-SONGSHI-092,raw/poetry/songshi/poet.song.91000.json,986,1000,-14,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=396672
-CP-SONGSHI-104,raw/poetry/songshi/poet.song.103000.json,986,1000,-14,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=395747
-CP-SONGSHI-179,raw/poetry/songshi/poet.song.178000.json,986,1000,-14,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=359107
-CP-SONGSHI-067,raw/poetry/songshi/poet.song.66000.json,985,1000,-15,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=442757
-CP-SONGSHI-184,raw/poetry/songshi/poet.song.183000.json,985,1000,-15,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=427581
-CP-SONGSHI-059,raw/poetry/songshi/poet.song.58000.json,984,1000,-16,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=463338
-CP-SONGSHI-024,raw/poetry/songshi/poet.song.23000.json,983,1000,-17,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=418074
-CP-SONGSHI-121,raw/poetry/songshi/poet.song.120000.json,983,1001,-18,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=435108
-CP-SONGSHI-004,raw/poetry/songshi/poet.song.3000.json,982,1000,-18,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=471171
-CP-SONGSHI-006,raw/poetry/songshi/poet.song.5000.json,982,1000,-18,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381690
-CP-SONGSHI-086,raw/poetry/songshi/poet.song.85000.json,982,1000,-18,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=396290
-CP-SONGSHI-209,raw/poetry/songshi/poet.song.208000.json,981,1000,-19,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=416337
-CP-SONGSHI-005,raw/poetry/songshi/poet.song.4000.json,980,1000,-20,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=382927
-CP-TANG-55,raw/poetry/tang/poet.tang.54000.json,980,1000,-20,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=467600
-CP-SONGSHI-076,raw/poetry/songshi/poet.song.75000.json,978,1000,-22,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=570442
-CP-SONGSHI-081,raw/poetry/songshi/poet.song.80000.json,977,1001,-24,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=433865
-CP-TANG-53,raw/poetry/tang/poet.tang.52000.json,975,1000,-25,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=561704
-CP-SONGSHI-003,raw/poetry/songshi/poet.song.2000.json,974,1000,-26,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=436940
-CP-SONGSHI-010,raw/poetry/songshi/poet.song.9000.json,969,1000,-31,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=368599
-CP-SONGSHI-169,raw/poetry/songshi/poet.song.168000.json,969,1000,-31,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=437972
-CP-SONGSHI-118,raw/poetry/songshi/poet.song.117000.json,966,1000,-34,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=418937
-CP-TANG-54,raw/poetry/tang/poet.tang.53000.json,963,1000,-37,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=480142
-CP-TANG-51,raw/poetry/tang/poet.tang.50000.json,961,999,-38,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=609835
-CP-TANG-56,raw/poetry/tang/poet.tang.55000.json,958,999,-41,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; ba8816:兵要望江南 占怪第二十三@json#0; 74a84a:兵要望江南 占怪第二十三@json#1; 69b27d:兵要望江南 占怪第二十三@json#2; monotonic=Y,format=json; status=OK; bytes=442729；抽样可定位 → 缺口属过滤，非错位
-CP-SONGSHI-080,raw/poetry/songshi/poet.song.79000.json,957,1000,-43,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; dce051:句  其二@json#0; df753e:句  其五@json#3; 044476:題楚辭@json#5; monotonic=Y,format=json; status=OK; bytes=456476；抽样可定位 → 缺口属过滤，非错位
-CP-SONGSHI-193,raw/poetry/songshi/poet.song.192000.json,955,1001,-46,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; 069e99:郫縣春日吟  其二@json#0; fbaa65:郫縣春日吟  其三@json#1; ea8f8d:郫縣春日吟  其四@json#2; monotonic=Y,format=json; status=OK; bytes=363933；抽样可定位 → 缺口属过滤，非错位
-CP-SONGSHI-074,raw/poetry/songshi/poet.song.73000.json,945,1000,-55,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; 7af8e0:答惇上人七首  其四@json#0; 1b7b36:答惇上人七首  其五@json#1; f24069:答惇上人七首  其六@json#2; monotonic=Y,format=json; status=OK; bytes=387108；抽样可定位 → 缺口属过滤，非错位
-CP-SONGSHI-170,raw/poetry/songshi/poet.song.169000.json,944,1000,-56,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; 8b4df3:非雪@json#52; d54cae:蜂兒榧  其一@json#53; 692942:蜂兒榧  其二@json#54; monotonic=Y,format=json; status=OK; bytes=419935；抽样可定位 → 缺口属过滤，非错位
-CP-TANG-52,raw/poetry/tang/poet.tang.51000.json,941,997,-56,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; 7777f1:七日禁中陪宴@json#0; a92c6f:哭日本國內供奉大德靈仙和@json#1; 077f80:元孚五十年前遊天台宿建公@json#2; monotonic=Y,format=json; status=OK; bytes=549433；抽样可定位 → 缺口属过滤，非错位
-CP-TANG-49,raw/poetry/tang/poet.tang.48000.json,934,997,-63,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; e385d6:與李章武贈荅詩 三@json#0; 5a9d0d:與李章武贈荅詩 四@json#1; 17b7ea:與李章武贈荅詩 五@json#2; monotonic=Y,format=json; status=OK; bytes=323882；抽样可定位 → 缺口属过滤，非错位
-CP-SONGSHI-107,raw/poetry/songshi/poet.song.106000.json,883,1000,-117,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; d97408:十二月二十一日贈沃令@json#0; 58fc47:余所寓僧舍蜂筒忽散去僅留@json#1; 69ad4b:賀師垣賜御書一德格天之閣@json#2; monotonic=Y,format=json; status=OK; bytes=347584；抽样可定位 → 缺口属过滤，非错位
-CP-SONGCI-20,raw/poetry/songci/ci.song.19000.json,821,1000,-179,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; b8a7a0:满江红@json#0; 4b807d:水调歌头@json#1; 68f134:柳梢青@json#2; monotonic=Y,format=json; status=OK; bytes=341771；抽样可定位 → 缺口属过滤，非错位
-CP-TANG-58,raw/poetry/tang/poet.tang.57000.json,582,591,-9,FILTER_TEXT_LT8_PLUS_EXTRA,短句过滤 + 额外丢弃；json_n - short = works_n + 1，多丢的条目需按 title 逐条核,,format=json; status=OK; bytes=234965
-CP-SONGSHI-255,raw/poetry/songshi/poet.song.254000.json,236,237,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=91729
-WS-MINGSHI-100,raw/poetry/mingshi/卷100.json,113,114,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=27051
-WS-GUSHIJI-067,raw/poetry/gushiji/卷067.json,62,63,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=21812
-CP-SONGCI-22,raw/poetry/songci/ci.song.21000.json,45,50,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=18904
-WS-GUSHIJI-054,raw/poetry/gushiji/卷054.json,39,42,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=8933
-WS-WENXUAN-31,raw/poetry/wenxuan/卷31.json,39,40,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=21393
-WS-GUSHIJI-015,raw/poetry/gushiji/卷015.json,33,34,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=11714
-WS-GUSHIJI-009,raw/poetry/gushiji/卷009.json,29,30,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=6606
-WS-GUSHIJI-107,raw/poetry/gushiji/卷107.json,24,26,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=8018
-WS-MINGSHI-099,raw/poetry/mingshi/卷099.json,22,23,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=6873
-WS-GUSHIJI-003,raw/poetry/gushiji/卷003.json,17,18,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=4143
-WS-WENXUAN-21,raw/poetry/wenxuan/卷21.json,17,18,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=15890
+CP-YUANQU,raw/poetry/yuanqu/yuanqu.json,10685,11057,-372,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; a55022:诈妮子调风月・仙吕/点绛@json#0; a16f9a:诈妮子调风月・混江龙@json#1; fc7335:诈妮子调风月・那吒令@json#2; monotonic=Y,format=json; status=OK; bytes=4188599; short(CJK<8)=372；例：关汉卿《幺・柔肠脉脉，新愁千万叠》5字；抽样可定位 → 缺口属过滤，非错位
+CP-TANG-03,raw/poetry/tang/poet.tang.2000.json,1001,1002,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=417948; short(CJK<8)=1；例：崔信明《句》5字
+CP-TANG-39,raw/poetry/tang/poet.tang.38000.json,1001,1002,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=400487; short(CJK<8)=1；例：陸扆《句》7字
+CP-SONGSHI-054,raw/poetry/songshi/poet.song.53000.json,1000,1001,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=467677; short(CJK<8)=1；例：孔平仲《句  其四》5字
+CP-SONGSHI-210,raw/poetry/songshi/poet.song.209000.json,1000,1001,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=435174; short(CJK<8)=1；例：陳顯伯《句》7字
+CP-SONGCI-05,raw/poetry/songci/ci.song.4000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=395848; short(CJK<8)=1；例：蔡《失调名》4字
+CP-SONGSHI-014,raw/poetry/songshi/poet.song.13000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=474558; short(CJK<8)=1；例：李淑《句  其一》7字
+CP-SONGSHI-019,raw/poetry/songshi/poet.song.18000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=521765; short(CJK<8)=1；例：王緯《薦福塔聯句》3字
+CP-SONGSHI-023,raw/poetry/songshi/poet.song.22000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=420277; short(CJK<8)=1；例：張俞《句  其一一》5字
+CP-SONGSHI-029,raw/poetry/songshi/poet.song.28000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=386642; short(CJK<8)=1；例：劉敞《句  其三》7字
+CP-SONGSHI-030,raw/poetry/songshi/poet.song.29000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=441585; short(CJK<8)=1；例：王珪《句  其六》7字
+CP-SONGSHI-053,raw/poetry/songshi/poet.song.52000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=431643; short(CJK<8)=1；例：楊咨《大雨聯句》3字
+CP-SONGSHI-100,raw/poetry/songshi/poet.song.99000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=370450; short(CJK<8)=1；例：祝廉夫《句》5字
+CP-SONGSHI-101,raw/poetry/songshi/poet.song.100000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=448408; short(CJK<8)=1；例：陳與義《句》5字
+CP-SONGSHI-103,raw/poetry/songshi/poet.song.102000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=423142; short(CJK<8)=1；例：張闡《句》7字
+CP-SONGSHI-139,raw/poetry/songshi/poet.song.138000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=387513; short(CJK<8)=1；例：范成大《句  其一》5字
+CP-SONGSHI-147,raw/poetry/songshi/poet.song.146000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=449159; short(CJK<8)=1；例：張湜《句》7字
+CP-SONGSHI-159,raw/poetry/songshi/poet.song.158000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=540157; short(CJK<8)=1；例：陳傅良《句  其七》5字
+CP-SONGSHI-160,raw/poetry/songshi/poet.song.159000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=404374; short(CJK<8)=1；例：周良臣《句》7字
+CP-SONGSHI-161,raw/poetry/songshi/poet.song.160000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=439768; short(CJK<8)=1；例：京鏜《句  其二》7字
+CP-SONGSHI-164,raw/poetry/songshi/poet.song.163000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=460414; short(CJK<8)=1；例：劉光祖《句  其三》7字
+CP-SONGSHI-182,raw/poetry/songshi/poet.song.181000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=361865; short(CJK<8)=1；例：柯夢得《句》7字
+CP-SONGSHI-186,raw/poetry/songshi/poet.song.185000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=348717; short(CJK<8)=1；例：蘇泂《句》7字
+CP-SONGSHI-187,raw/poetry/songshi/poet.song.186000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381934; short(CJK<8)=1；例：陳宓《句》7字
+CP-SONGSHI-192,raw/poetry/songshi/poet.song.191000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=417644; short(CJK<8)=1；例：魏了翁《句》5字
+CP-SONGSHI-201,raw/poetry/songshi/poet.song.200000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=390552; short(CJK<8)=1；例：劉克莊《平舟場□□□□□□爲郡人》3字
+CP-SONGSHI-205,raw/poetry/songshi/poet.song.204000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=395756; short(CJK<8)=1；例：趙以夫《句》7字
+CP-SONGSHI-221,raw/poetry/songshi/poet.song.220000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=385667; short(CJK<8)=1；例：馮去非《句  其一》5字
+CP-SONGSHI-224,raw/poetry/songshi/poet.song.223000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=491398; short(CJK<8)=1；例：程以南《句》5字
+CP-SONGSHI-228,raw/poetry/songshi/poet.song.227000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=422360; short(CJK<8)=1；例：陳存《句》5字
+CP-SONGSHI-234,raw/poetry/songshi/poet.song.233000.json,999,1001,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=462948; short(CJK<8)=2；例：鮮于樞《句》7字
+CP-SONGSHI-240,raw/poetry/songshi/poet.song.239000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=396108; short(CJK<8)=1；例：文天祥《徐榛第一百三十四》3字
+CP-SONGSHI-242,raw/poetry/songshi/poet.song.241000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=417842; short(CJK<8)=1；例：劉壎《句  其一》7字
+CP-SONGSHI-244,raw/poetry/songshi/poet.song.243000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=420271; short(CJK<8)=1；例：陳普《詠史 劉表》3字
+CP-SONGSHI-248,raw/poetry/songshi/poet.song.247000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=463140; short(CJK<8)=1；例：唐梅臞《句》7字
+CP-TANG-01,raw/poetry/tang/poet.tang.0.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=408405; short(CJK<8)=1；例：高宗皇帝《咸亨殿宴近臣諸親柏梁體》7字
+CP-TANG-25,raw/poetry/tang/poet.tang.24000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=462622; short(CJK<8)=1；例：崔玄亮《句》7字
+CP-TANG-29,raw/poetry/tang/poet.tang.28000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=402527; short(CJK<8)=1；例：劉郇伯《句》5字
+CP-TANG-34,raw/poetry/tang/poet.tang.33000.json,999,1000,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=438157; short(CJK<8)=1；例：高湘《句》7字
+CP-TANG-48,raw/poetry/tang/poet.tang.47000.json,999,1001,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=389163; short(CJK<8)=2；例：雲容《逸句》5字
+CP-SONGCI-06,raw/poetry/songci/ci.song.5000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=388016; short(CJK<8)=2；例：曹组《失调名》7字
+CP-SONGCI-07,raw/poetry/songci/ci.song.6000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=390822; short(CJK<8)=2；例：李清照《失调名》7字
+CP-SONGCI-10,raw/poetry/songci/ci.song.9000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=397207; short(CJK<8)=2；例：仪珏《失调名》7字
+CP-SONGCI-11,raw/poetry/songci/ci.song.10000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=401864; short(CJK<8)=2；例：范成大《水调歌头》7字
+CP-SONGCI-14,raw/poetry/songci/ci.song.13000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=435352; short(CJK<8)=2；例：高似孙《失调名》7字
+CP-SONGCI-18,raw/poetry/songci/ci.song.17000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=472066; short(CJK<8)=2；例：文及翁《失调名》4字
+CP-SONGSHI-015,raw/poetry/songshi/poet.song.14000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=484216; short(CJK<8)=2；例：梅堯臣《和曹光道》3字
+CP-SONGSHI-056,raw/poetry/songshi/poet.song.55000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=436320; short(CJK<8)=2；例：何執中《句》7字
+CP-SONGSHI-063,raw/poetry/songshi/poet.song.62000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=408107; short(CJK<8)=2；例：賀鑄《江夏八詠 舒元輿榜》0字
+CP-SONGSHI-069,raw/poetry/songshi/poet.song.68000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=406509; short(CJK<8)=2；例：潘仲寶《龍興仁王佛舍納涼聯句十六》3字
+CP-SONGSHI-078,raw/poetry/songshi/poet.song.77000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=515522; short(CJK<8)=2；例：釋德洪《句  其二》5字
+CP-SONGSHI-084,raw/poetry/songshi/poet.song.83000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=421365; short(CJK<8)=2；例：李光《句  其六》5字
+CP-SONGSHI-089,raw/poetry/songshi/poet.song.88000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=462056; short(CJK<8)=2；例：周紫芝《句  其二》7字
+CP-SONGSHI-090,raw/poetry/songshi/poet.song.89000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=509403; short(CJK<8)=2；例：李正民《句  其二》7字
+CP-SONGSHI-096,raw/poetry/songshi/poet.song.95000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=434807; short(CJK<8)=2；例：李良臣《句  其一》7字
+CP-SONGSHI-105,raw/poetry/songshi/poet.song.104000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=439719; short(CJK<8)=2；例：李若水《句  其五》5字
+CP-SONGSHI-110,raw/poetry/songshi/poet.song.109000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=442484; short(CJK<8)=2；例：邵博《句  其一》5字
+CP-SONGSHI-137,raw/poetry/songshi/poet.song.136000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=388865; short(CJK<8)=2；例：陸游《句  其一》7字
+CP-SONGSHI-156,raw/poetry/songshi/poet.song.155000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=488921; short(CJK<8)=2；例：魏幾《句》0字
+CP-SONGSHI-158,raw/poetry/songshi/poet.song.157000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=441246; short(CJK<8)=2；例：章甫《句  其一》7字
+CP-SONGSHI-168,raw/poetry/songshi/poet.song.167000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381396; short(CJK<8)=2；例：孫子進《句》5字
+CP-SONGSHI-198,raw/poetry/songshi/poet.song.197000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=408271; short(CJK<8)=2；例：趙葵《句  其一》7字
+CP-SONGSHI-202,raw/poetry/songshi/poet.song.201000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=375871; short(CJK<8)=2；例：劉克莊《挽惠倅黄德樞》3字
+CP-SONGSHI-203,raw/poetry/songshi/poet.song.202000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=368406; short(CJK<8)=2；例：劉克莊《句  其一》7字
+CP-SONGSHI-207,raw/poetry/songshi/poet.song.206000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=367465; short(CJK<8)=2；例：家𢴍《句》5字
+CP-SONGSHI-215,raw/poetry/songshi/poet.song.214000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=444015; short(CJK<8)=2；例：蔡凝《句》5字
+CP-SONGSHI-218,raw/poetry/songshi/poet.song.217000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=373673; short(CJK<8)=2；例：羅椅《句》7字
+CP-SONGSHI-219,raw/poetry/songshi/poet.song.218000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=460175; short(CJK<8)=2；例：陽醇《與正父叔王南運上風聯句》3字
+CP-SONGSHI-222,raw/poetry/songshi/poet.song.221000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=372374; short(CJK<8)=2；例：賈似道《句  其一》7字
+CP-SONGSHI-232,raw/poetry/songshi/poet.song.231000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=481616; short(CJK<8)=2；例：方回《跋徐蜚英四世祖神童事》3字
+CP-TANG-44,raw/poetry/tang/poet.tang.43000.json,998,1000,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=430665; short(CJK<8)=2；例：陳蛻《句》5字
+CP-SONGCI-08,raw/poetry/songci/ci.song.7000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=415095; short(CJK<8)=3；例：吴淑姬1《失调名》4字
+CP-SONGCI-15,raw/poetry/songci/ci.song.14000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=498986; short(CJK<8)=3；例：张琳《失调名》5字
+CP-SONGCI-17,raw/poetry/songci/ci.song.16000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=478885; short(CJK<8)=3；例：汤恢《失调名》4字
+CP-SONGSHI-018,raw/poetry/songshi/poet.song.17000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=551103; short(CJK<8)=3；例：歐陽修《博愛無私詩》3字
+CP-SONGSHI-035,raw/poetry/songshi/poet.song.34000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=499518; short(CJK<8)=3；例：釋順師《句》7字
+CP-SONGSHI-060,raw/poetry/songshi/poet.song.59000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=495958; short(CJK<8)=3；例：朱服《句  其四》7字
+CP-SONGSHI-071,raw/poetry/songshi/poet.song.70000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=445350; short(CJK<8)=3；例：毛滂《句  其一》7字
+CP-SONGSHI-087,raw/poetry/songshi/poet.song.86000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=383044; short(CJK<8)=3；例：楊信祖《句》5字
+CP-SONGSHI-109,raw/poetry/songshi/poet.song.108000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=473825; short(CJK<8)=3；例：朱翌《句  其一》7字
+CP-SONGSHI-114,raw/poetry/songshi/poet.song.113000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=467835; short(CJK<8)=3；例：李迎《句》7字
+CP-SONGSHI-117,raw/poetry/songshi/poet.song.116000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=437869; short(CJK<8)=3；例：宋高宗《句  其二》7字
+CP-SONGSHI-128,raw/poetry/songshi/poet.song.127000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=407156; short(CJK<8)=3；例：周必正《句  其一》7字
+CP-SONGSHI-145,raw/poetry/songshi/poet.song.144000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=446583; short(CJK<8)=3；例：李遠《句  其一》7字
+CP-SONGSHI-150,raw/poetry/songshi/poet.song.149000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=416822; short(CJK<8)=3；例：徐昭然《句》7字
+CP-SONGSHI-155,raw/poetry/songshi/poet.song.154000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=400796; short(CJK<8)=3；例：黄仲本《句  其一》7字
+CP-SONGSHI-165,raw/poetry/songshi/poet.song.164000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=493886; short(CJK<8)=3；例：徐沖淵《句》7字
+CP-SONGSHI-188,raw/poetry/songshi/poet.song.187000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=406192; short(CJK<8)=3；例：高載《句  其一》7字
+CP-SONGSHI-189,raw/poetry/songshi/poet.song.188000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=404078; short(CJK<8)=3；例：劉昌詩《句  其一》5字
+CP-SONGSHI-194,raw/poetry/songshi/poet.song.193000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=496556; short(CJK<8)=3；例：徐良弼《句》7字
+CP-SONGSHI-229,raw/poetry/songshi/poet.song.228000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=394275; short(CJK<8)=3；例：舒岳祥《句》7字
+CP-SONGSHI-243,raw/poetry/songshi/poet.song.242000.json,997,1000,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=400794; short(CJK<8)=3；例：黄庚《句  其一》5字
+CP-SONGCI-03,raw/poetry/songci/ci.song.2000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=389037; short(CJK<8)=4；例：秦湛《失调名》7字
+CP-SONGCI-04,raw/poetry/songci/ci.song.3000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=417829; short(CJK<8)=4；例：刘焘《玉交枝・忆秦娥》7字
+CP-SONGSHI-002,raw/poetry/songshi/poet.song.1000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=374027; short(CJK<8)=4；例：朱貞白《句  其二》7字
+CP-SONGSHI-043,raw/poetry/songshi/poet.song.42000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=644212; short(CJK<8)=4；例：錢勰《句  其四》7字
+CP-SONGSHI-044,raw/poetry/songshi/poet.song.43000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=389819; short(CJK<8)=4；例：郭祥正《句  其一》7字
+CP-SONGSHI-062,raw/poetry/songshi/poet.song.61000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=483632; short(CJK<8)=4；例：喻陟《句  其二》7字
+CP-SONGSHI-064,raw/poetry/songshi/poet.song.63000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=519191; short(CJK<8)=4；例：陳師道《句  其四》7字
+CP-SONGSHI-070,raw/poetry/songshi/poet.song.69000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=439113; short(CJK<8)=4；例：晁沖之《句  其一》7字
+CP-SONGSHI-099,raw/poetry/songshi/poet.song.98000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=470774; short(CJK<8)=4；例：鄭剛中《句  其一》7字
+CP-SONGSHI-116,raw/poetry/songshi/poet.song.115000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=420903; short(CJK<8)=4；例：程敦厚《句  其二》5字
+CP-SONGSHI-125,raw/poetry/songshi/poet.song.124000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=414744; short(CJK<8)=4；例：汪應辰《句》7字
+CP-SONGSHI-144,raw/poetry/songshi/poet.song.143000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=426070; short(CJK<8)=4；例：邊惇德《句》7字
+CP-SONGSHI-146,raw/poetry/songshi/poet.song.145000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=403977; short(CJK<8)=4；例：喻良弼《經理西山同二客兄弟姪輩侍》3字
+CP-SONGSHI-180,raw/poetry/songshi/poet.song.179000.json,996,1000,-4,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=442546; short(CJK<8)=4；例：汪晫《句  其一》5字
+CP-SONGCI-09,raw/poetry/songci/ci.song.8000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=390756; short(CJK<8)=5；例：刘大辨《失调名》6字
+CP-SONGSHI-011,raw/poetry/songshi/poet.song.10000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=441699; short(CJK<8)=5；例：胡宿《句  其五》7字
+CP-SONGSHI-027,raw/poetry/songshi/poet.song.26000.json,995,1001,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=483530; short(CJK<8)=6；例：文同《句  其四》7字
+CP-SONGSHI-045,raw/poetry/songshi/poet.song.44000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=504256; short(CJK<8)=5；例：郭知章《句  其二》5字
+CP-SONGSHI-097,raw/poetry/songshi/poet.song.96000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=503340; short(CJK<8)=5；例：胡憲《句》5字
+CP-SONGSHI-113,raw/poetry/songshi/poet.song.112000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=476449; short(CJK<8)=5；例：周林《句》7字
+CP-SONGSHI-126,raw/poetry/songshi/poet.song.125000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=515572; short(CJK<8)=5；例：蔣雝《句》7字
+CP-SONGSHI-127,raw/poetry/songshi/poet.song.126000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=423278; short(CJK<8)=5；例：洪邁《句  其四》7字
+CP-SONGSHI-206,raw/poetry/songshi/poet.song.205000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=441954; short(CJK<8)=5；例：上官良史《句  其一》5字
+CP-SONGSHI-245,raw/poetry/songshi/poet.song.244000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=373327; short(CJK<8)=5；例：戚明瑞《句  其二》7字
+CP-SONGSHI-254,raw/poetry/songshi/poet.song.253000.json,995,1000,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381333; short(CJK<8)=5；例：皇甫□《句》5字
+CP-SONGCI-01,raw/poetry/songci/ci.song.0.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=406936; short(CJK<8)=6；例：柳永《失调名》6字
+CP-SONGSHI-017,raw/poetry/songshi/poet.song.16000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=458584; short(CJK<8)=6；例：吳育《句》7字
+CP-SONGSHI-036,raw/poetry/songshi/poet.song.35000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=425518; short(CJK<8)=6；例：劉攽《句  其一》7字
+CP-SONGSHI-038,raw/poetry/songshi/poet.song.37000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=557969; short(CJK<8)=6；例：王安國《句  其二》7字
+CP-SONGSHI-055,raw/poetry/songshi/poet.song.54000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=421827; short(CJK<8)=6；例：張商英《句  其三》7字
+CP-SONGSHI-111,raw/poetry/songshi/poet.song.110000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=380602; short(CJK<8)=6；例：歐陽凱士《句》7字
+CP-SONGSHI-185,raw/poetry/songshi/poet.song.184000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=421422; short(CJK<8)=6；例：周仲卿《登石臺山聯句》3字
+CP-SONGSHI-211,raw/poetry/songshi/poet.song.210000.json,994,1000,-6,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=364745; short(CJK<8)=6；例：劉雪巢《句》7字
+CP-SONGSHI-012,raw/poetry/songshi/poet.song.11000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=413215; short(CJK<8)=7；例：宋庠《句  其七》5字
+CP-SONGSHI-026,raw/poetry/songshi/poet.song.25000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=407053; short(CJK<8)=7；例：倪天隠《句》7字
+CP-SONGSHI-041,raw/poetry/songshi/poet.song.40000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=464259; short(CJK<8)=7；例：釋了元《句  其一》7字
+CP-SONGSHI-051,raw/poetry/songshi/poet.song.50000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=459428; short(CJK<8)=7；例：孔武仲《句  其一》7字
+CP-SONGSHI-072,raw/poetry/songshi/poet.song.71000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=409378; short(CJK<8)=7；例：吳則禮《句》7字
+CP-SONGSHI-082,raw/poetry/songshi/poet.song.81000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=375998; short(CJK<8)=7；例：毛隨《龍尾硯同程致道聯句》3字
+CP-SONGSHI-149,raw/poetry/songshi/poet.song.148000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=392935; short(CJK<8)=7；例：朱熹《自上封下福巖道傍訪李鄴侯》1字
+CP-SONGSHI-175,raw/poetry/songshi/poet.song.174000.json,993,1000,-7,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=392003; short(CJK<8)=7；例：任希夷《荷花》3字
+CP-SONGSHI-009,raw/poetry/songshi/poet.song.8000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=413350; short(CJK<8)=8；例：趙世長《句  其一》7字
+CP-SONGSHI-025,raw/poetry/songshi/poet.song.24000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=472187; short(CJK<8)=8；例：楊蟠《句  其二》7字
+CP-SONGSHI-039,raw/poetry/songshi/poet.song.38000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=449567; short(CJK<8)=8；例：楊傑《句  其二》5字
+CP-SONGSHI-073,raw/poetry/songshi/poet.song.72000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=425676; short(CJK<8)=8；例：洪朋《句  其七》7字
+CP-SONGSHI-094,raw/poetry/songshi/poet.song.93000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=425500; short(CJK<8)=8；例：呂本中《句  其四》7字
+CP-SONGSHI-095,raw/poetry/songshi/poet.song.94000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=391585; short(CJK<8)=8；例：李邴《句  其六》5字
+CP-SONGSHI-112,raw/poetry/songshi/poet.song.111000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=447279; short(CJK<8)=8；例：王銍《句  其三》7字
+CP-SONGSHI-123,raw/poetry/songshi/poet.song.122000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=420129; short(CJK<8)=8；例：李燾《句  其六》5字
+CP-SONGSHI-235,raw/poetry/songshi/poet.song.234000.json,992,1000,-8,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=405938; short(CJK<8)=8；例：樓楚材《句  其一七》7字
+CP-SONGCI-19,raw/poetry/songci/ci.song.18000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=481281; short(CJK<8)=9；例：王沂孙《失调名》4字
+CP-SONGSHI-007,raw/poetry/songshi/poet.song.6000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=373968; short(CJK<8)=9；例：陳亞《句  其九》7字
+CP-SONGSHI-013,raw/poetry/songshi/poet.song.12000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=404889; short(CJK<8)=9；例：宋祁《句  其二》7字
+CP-SONGSHI-037,raw/poetry/songshi/poet.song.36000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=428908; short(CJK<8)=9；例：吳處厚《句  其一》7字
+CP-SONGSHI-048,raw/poetry/songshi/poet.song.47000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=452637; short(CJK<8)=9；例：張舜民《句  其二四》5字
+CP-SONGSHI-085,raw/poetry/songshi/poet.song.84000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=463091; short(CJK<8)=9；例：韓駒《句  其二》5字
+CP-SONGSHI-154,raw/poetry/songshi/poet.song.153000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=375582; short(CJK<8)=9；例：張良臣《句  其三》7字
+CP-SONGSHI-174,raw/poetry/songshi/poet.song.173000.json,991,1000,-9,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=466611; short(CJK<8)=9；例：顔棫《句  其一》7字
+CP-SONGCI-02,raw/poetry/songci/ci.song.1000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=368986; short(CJK<8)=10；例：韩维《失调名》5字
+CP-SONGSHI-075,raw/poetry/songshi/poet.song.74000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=433189; short(CJK<8)=10；例：汪革《句  其二》7字
+CP-SONGSHI-091,raw/poetry/songshi/poet.song.90000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=478781; short(CJK<8)=10；例：錢申伯《句》3字
+CP-SONGSHI-163,raw/poetry/songshi/poet.song.162000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=412401; short(CJK<8)=10；例：袁說友《句  其一》7字
+CP-SONGSHI-172,raw/poetry/songshi/poet.song.171000.json,990,1000,-10,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381183; short(CJK<8)=10；例：張鎡《句  其三》7字
+CP-SONGSHI-008,raw/poetry/songshi/poet.song.7000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=388015; short(CJK<8)=11；例：釋仲休《句》5字
+CP-SONGSHI-034,raw/poetry/songshi/poet.song.33000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=468037; short(CJK<8)=11；例：王安石《句  其五》7字
+CP-SONGSHI-040,raw/poetry/songshi/poet.song.39000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=468982; short(CJK<8)=11；例：晏幾道《句》7字
+CP-SONGSHI-162,raw/poetry/songshi/poet.song.161000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=426491; short(CJK<8)=11；例：黄景說《句  其一》7字
+CP-SONGSHI-171,raw/poetry/songshi/poet.song.170000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=429069; short(CJK<8)=11；例：翁卷《句  其一》7字
+CP-SONGSHI-253,raw/poetry/songshi/poet.song.252000.json,989,1000,-11,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=349500; short(CJK<8)=11；例：釋惠璉《句》7字
+CP-SONGCI-21,raw/poetry/songci/ci.song.20000.json,988,1000,-12,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=434930; short(CJK<8)=12；例：无名氏《失调名》7字
+CP-SONGSHI-001,raw/poetry/songshi/poet.song.0.json,988,1000,-12,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=401742; short(CJK<8)=12；例：幸夤遜《句  其六》7字
+CP-SONGSHI-061,raw/poetry/songshi/poet.song.60000.json,988,1000,-12,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=456769; short(CJK<8)=12；例：李丹《句》7字
+CP-SONGSHI-252,raw/poetry/songshi/poet.song.251000.json,988,1000,-12,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=346362; short(CJK<8)=12；例：歐陽景《句  其一》7字
+CP-SONGSHI-031,raw/poetry/songshi/poet.song.30000.json,987,1000,-13,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=460026; short(CJK<8)=13；例：司馬光《句  其七》5字
+CP-SONGSHI-047,raw/poetry/songshi/poet.song.46000.json,987,1000,-13,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=456423; short(CJK<8)=13；例：蘇軾《句  其六》7字
+CP-SONGSHI-068,raw/poetry/songshi/poet.song.67000.json,987,1000,-13,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=486903; short(CJK<8)=13；例：崔鶠《句  其一》5字
+CP-SONGSHI-021,raw/poetry/songshi/poet.song.20000.json,986,1001,-15,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=436746; short(CJK<8)=15；例：趙揚《引流聯句》3字
+CP-SONGSHI-092,raw/poetry/songshi/poet.song.91000.json,986,1000,-14,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=396672; short(CJK<8)=14；例：喻汝礪《句  其二》5字
+CP-SONGSHI-104,raw/poetry/songshi/poet.song.103000.json,986,1000,-14,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=395747; short(CJK<8)=14；例：曹緯《句  其一》5字
+CP-SONGSHI-179,raw/poetry/songshi/poet.song.178000.json,986,1000,-14,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=359107; short(CJK<8)=14；例：韓淲《句》5字
+CP-SONGSHI-067,raw/poetry/songshi/poet.song.66000.json,985,1000,-15,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=442757; short(CJK<8)=15；例：張耒《句  其三》7字
+CP-SONGSHI-184,raw/poetry/songshi/poet.song.183000.json,985,1000,-15,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=427581; short(CJK<8)=15；例：杜耒《句  其二》5字
+CP-SONGSHI-059,raw/poetry/songshi/poet.song.58000.json,984,1000,-16,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=463338; short(CJK<8)=16；例：黄庭堅《句  其二》7字
+CP-SONGSHI-024,raw/poetry/songshi/poet.song.23000.json,983,1000,-17,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=418074; short(CJK<8)=17；例：蔡襄《句  其一》7字
+CP-SONGSHI-121,raw/poetry/songshi/poet.song.120000.json,983,1001,-18,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=435108; short(CJK<8)=18；例：王十朋《句  其三》7字
+CP-SONGSHI-004,raw/poetry/songshi/poet.song.3000.json,982,1000,-18,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=471171; short(CJK<8)=18；例：王禹偁《闕題  其一》6字
+CP-SONGSHI-006,raw/poetry/songshi/poet.song.5000.json,982,1000,-18,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=381690; short(CJK<8)=18；例：梅詢《句  其三》7字
+CP-SONGSHI-086,raw/poetry/songshi/poet.song.85000.json,982,1000,-18,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=396290; short(CJK<8)=18；例：石懋《句  其六》7字
+CP-SONGSHI-209,raw/poetry/songshi/poet.song.208000.json,981,1000,-19,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=416337; short(CJK<8)=19；例：黄春伯《旴江舟中聯句》3字
+CP-SONGSHI-005,raw/poetry/songshi/poet.song.4000.json,980,1000,-20,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=382927; short(CJK<8)=20；例：魏野《送閏師之長安謝紫衣》3字
+CP-TANG-55,raw/poetry/tang/poet.tang.54000.json,980,1000,-20,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=467600; short(CJK<8)=20；例：良价《五位君臣頌》0字
+CP-SONGSHI-076,raw/poetry/songshi/poet.song.75000.json,978,1000,-22,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=570442; short(CJK<8)=22；例：夏倪《句  其四》7字
+CP-SONGSHI-081,raw/poetry/songshi/poet.song.80000.json,977,1001,-24,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=433865; short(CJK<8)=24；例：李彭《句  其七》7字
+CP-TANG-53,raw/poetry/tang/poet.tang.52000.json,975,1000,-25,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=561704; short(CJK<8)=25；例：褚亮《祭太社樂章八首（存目○見》1字
+CP-SONGSHI-003,raw/poetry/songshi/poet.song.2000.json,974,1000,-26,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=436940; short(CJK<8)=26；例：宋太宗《迴文偈四首  其四》5字
+CP-SONGSHI-010,raw/poetry/songshi/poet.song.9000.json,969,1000,-31,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=368599; short(CJK<8)=31；例：鄭立《句》7字
+CP-SONGSHI-169,raw/poetry/songshi/poet.song.168000.json,969,1000,-31,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=437972; short(CJK<8)=31；例：李商叟《句》5字
+CP-SONGSHI-118,raw/poetry/songshi/poet.song.117000.json,966,1000,-34,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=418937; short(CJK<8)=34；例：余子侯《游虎丘巖偶題壁韻叶因分字》3字
+CP-TANG-54,raw/poetry/tang/poet.tang.53000.json,963,1000,-37,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=480142; short(CJK<8)=37；例：路應《》0字
+CP-TANG-51,raw/poetry/tang/poet.tang.50000.json,961,999,-38,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=609835; short(CJK<8)=38；例：崔湜《》0字
+CP-TANG-56,raw/poetry/tang/poet.tang.55000.json,958,999,-41,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; ba8816:兵要望江南 占怪第二十三@json#0; 74a84a:兵要望江南 占怪第二十三@json#1; 69b27d:兵要望江南 占怪第二十三@json#2; monotonic=Y,format=json; status=OK; bytes=442729; short(CJK<8)=41；例：敬新磨《》0字；抽样可定位 → 缺口属过滤，非错位
+CP-SONGSHI-080,raw/poetry/songshi/poet.song.79000.json,957,1000,-43,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; dce051:句  其二@json#0; df753e:句  其五@json#3; 044476:題楚辭@json#5; monotonic=Y,format=json; status=OK; bytes=456476; short(CJK<8)=43；例：葛勝仲《句  其三》7字；抽样可定位 → 缺口属过滤，非错位
+CP-SONGSHI-193,raw/poetry/songshi/poet.song.192000.json,955,1001,-46,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; 069e99:郫縣春日吟  其二@json#0; fbaa65:郫縣春日吟  其三@json#1; ea8f8d:郫縣春日吟  其四@json#2; monotonic=Y,format=json; status=OK; bytes=363933; short(CJK<8)=46；例：黄夢得《句  其二》7字；抽样可定位 → 缺口属过滤，非错位
+CP-SONGSHI-074,raw/poetry/songshi/poet.song.73000.json,945,1000,-55,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; 7af8e0:答惇上人七首  其四@json#0; 1b7b36:答惇上人七首  其五@json#1; f24069:答惇上人七首  其六@json#2; monotonic=Y,format=json; status=OK; bytes=387108; short(CJK<8)=55；例：饒節《句  其二》7字；抽样可定位 → 缺口属过滤，非错位
+CP-SONGSHI-170,raw/poetry/songshi/poet.song.169000.json,944,1000,-56,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; 8b4df3:非雪@json#52; d54cae:蜂兒榧  其一@json#53; 692942:蜂兒榧  其二@json#54; monotonic=Y,format=json; status=OK; bytes=419935; short(CJK<8)=56；例：張釜《句  其九》5字；抽样可定位 → 缺口属过滤，非错位
+CP-TANG-52,raw/poetry/tang/poet.tang.51000.json,941,997,-56,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; 7777f1:七日禁中陪宴@json#0; a92c6f:哭日本國內供奉大德靈仙和@json#1; 077f80:元孚五十年前遊天台宿建公@json#2; monotonic=Y,format=json; status=OK; bytes=549433; short(CJK<8)=56；例：思託《》0字；抽样可定位 → 缺口属过滤，非错位
+CP-TANG-49,raw/poetry/tang/poet.tang.48000.json,934,997,-63,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; e385d6:與李章武贈荅詩 三@json#0; 5a9d0d:與李章武贈荅詩 四@json#1; 17b7ea:與李章武贈荅詩 五@json#2; monotonic=Y,format=json; status=OK; bytes=323882; short(CJK<8)=63；例：周延翰《夢中句》7字；抽样可定位 → 缺口属过滤，非错位
+CP-SONGSHI-107,raw/poetry/songshi/poet.song.106000.json,883,1000,-117,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; d97408:十二月二十一日贈沃令@json#0; 58fc47:余所寓僧舍蜂筒忽散去僅留@json#1; 69ad4b:賀師垣賜御書一德格天之閣@json#2; monotonic=Y,format=json; status=OK; bytes=347584; short(CJK<8)=117；例：釋曉瑩《句  其一》5字；抽样可定位 → 缺口属过滤，非错位
+CP-SONGCI-20,raw/poetry/songci/ci.song.19000.json,821,1000,-179,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,3/3 hit; b8a7a0:满江红@json#0; 4b807d:水调歌头@json#1; 68f134:柳梢青@json#2; monotonic=Y,format=json; status=OK; bytes=341771; short(CJK<8)=179；例：窦夫人《失调名》7字；抽样可定位 → 缺口属过滤，非错位
+CP-TANG-58,raw/poetry/tang/poet.tang.57000.json,582,591,-9,FILTER_TEXT_LT8_PLUS_EXTRA,短句过滤 + 额外丢弃；json_n - short = works_n + 1，多丢的条目需按 title 逐条核,,format=json; status=OK; bytes=234965; short(CJK<8)=8；例：佚名《俚語》7字
+CP-SONGSHI-255,raw/poetry/songshi/poet.song.254000.json,236,237,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=91729; short(CJK<8)=1；例：謝達夫《句》7字
+WS-MINGSHI-100,raw/poetry/mingshi/卷100.json,113,114,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=27051; short(CJK<8)=1；例：辰州田家諺《蜀諺》7字
+WS-GUSHIJI-067,raw/poetry/gushiji/卷067.json,62,63,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=21812; short(CJK<8)=1；例：王融《樂府》7字
+CP-SONGCI-22,raw/poetry/songci/ci.song.21000.json,45,50,-5,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=18904; short(CJK<8)=5；例：赵□《失调名》4字
+WS-GUSHIJI-054,raw/poetry/gushiji/卷054.json,39,42,-3,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=8933; short(CJK<8)=3；例：《晉苐二十四》7字
+WS-WENXUAN-31,raw/poetry/wenxuan/卷31.json,39,40,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=21393; short(CJK<8)=1；例：江淹《雜體詩三十首》3字
+WS-GUSHIJI-015,raw/poetry/gushiji/卷015.json,33,34,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=11714; short(CJK<8)=1；例：《郊廟歌辭》7字
+WS-GUSHIJI-009,raw/poetry/gushiji/卷009.json,29,30,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=6606; short(CJK<8)=1；例：《晏子春秋》7字
+WS-GUSHIJI-107,raw/poetry/gushiji/卷107.json,24,26,-2,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=8018; short(CJK<8)=2；例：清商曲辭《北童謠》7字
+WS-MINGSHI-099,raw/poetry/mingshi/卷099.json,22,23,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=6873; short(CJK<8)=1；例：妖䑕詩《人少人少無米怎了》7字
+WS-GUSHIJI-003,raw/poetry/gushiji/卷003.json,17,18,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=4143; short(CJK<8)=1；例：《殷末謠》7字
+WS-WENXUAN-21,raw/poetry/wenxuan/卷21.json,17,18,-1,FILTER_TEXT_LT8,导入器丢弃正文 CJK<8 的残句；json_n - 短句数 = works_n，可精确复算,,format=json; status=OK; bytes=15890; short(CJK<8)=1；例：顏延之《五君詠五首》3字
