@@ -233,26 +233,34 @@ def main():
                 shutil.rmtree(CLONE)
             subprocess.run(["git", "clone", REPO_URL, str(CLONE)], check=True)
 
-        # 清掉上一轮由本工具生成、但本轮已不再白名单内的文件
+        # 从仓库删除两类文件：
+        #   1) 命中排除规则的（如版权书正文），无论上一轮是否上传过；
+        #   2) 上一轮在清单里、这一轮不在白名单的（正常缩圈）。
+        # 人工维护文件与工具生成文件受 PROTECTED 保护。
+        PROTECTED = {
+            ".gitignore", "README.md", "GITHUB_SYNC.md",
+            "REPORTS_INDEX.md", "UPLOAD_MANIFEST.csv", "UPLOAD_REPORT.md",
+            "LICENSE", "CITATION.cff",
+        }
+        old_paths = set()
         old_manifest = CLONE / "UPLOAD_MANIFEST.csv"
         if old_manifest.exists():
             with open(old_manifest, encoding="utf-8") as f:
-                for row in csv.DictReader(f):
-                    old = CLONE / row["path"]
-                    if old.exists() and not (PROJECT / row["path"]).exists():
-                        old.unlink()
-        keep = {".git", ".gitignore", "README.md"}
+                old_paths = {r["path"] for r in csv.DictReader(f)}
+        picked_set = {x[0] for x in picked}
+        removed = []
         for p in list(CLONE.rglob("*")):
-            if p.is_dir() or CLONE not in p.parents:
+            if p.is_dir():
                 continue
             rel = p.relative_to(CLONE).as_posix()
-            if rel in keep or rel.startswith(".git/"):
+            if rel.startswith(".git/") or rel in PROTECTED:
                 continue
-            # 只删本工具上轮记录过的文件，避免误删人工维护内容
-            if old_manifest.exists() and rel not in {
-                x[0] for x in picked
-            }:
+            if is_excluded(rel) or (rel in old_paths and rel not in picked_set):
                 p.unlink()
+                removed.append(rel)
+        log("从仓库删除:", len(removed), "个文件")
+        for rel in removed[:10]:
+            log("  -", rel)
 
     rows = []
     stats = {}
