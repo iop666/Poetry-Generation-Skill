@@ -1,0 +1,21 @@
+﻿group,id,name,result,actual,expect
+A,A01,同步白名单不含 r2_04_evidence 目录,PASS,,
+A,A02,同步黑名单含 full/ 与 chapters/,PASS,,
+A,A03,"README 不再含旧作品数 90,279",PASS,,
+A,A04,"README 含当前作品数 375,399",PASS,,
+A,A05,README 声明不是已发布 Skill,PASS,,
+A,A06,R2-15 必需交付文档齐备,PASS,4/4,
+A,A07,逐轮 COMPLETE_REPORT 数量 ≥15,PASS,16,>=15
+A,A08,R2-15 报告目录已建立,PASS,,
+A,A09,版权历史影响分析存在,PASS,,
+A,A10,339 证据闭合表 339 行,PASS,,
+A,A11,AGENTS 仍声明 Phase 3 未授权,PASS,,
+A,A12,白名单展开后无版权正文,PASS,0 条,0
+B,B01,数据库可只读打开,PASS,列表/诗词/poetry-database/database/poetry.db,
+B,B02,integrity_check=ok,PASS,ok,
+B,B03,"works=375,399",PASS,375399,
+B,B04,"authors=20,809",PASS,20809,
+B,B05,sources=941,PASS,941,
+B,B06,"R2-13 三表 = 339/476/4,510",PASS,"(339, 476, 4510)",
+B,B07,无 _r2_15 新表,PASS,0,
+B,B08,DB SHA 与 R2-14 基线一致,PASS,a9c5bbfb72c0cc87,a9c5bbfb72c0cc87

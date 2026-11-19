@@ -1,0 +1,8 @@
+{
+ "time": "2026-11-20T01:01:40",
+ "github_head_sha": "f7b4b2eac5adfd0493842fe1eaee725041a72188",
+ "db_path": "<PROJECT_ROOT>/poetry-database/database/poetry.db",
+ "db_bytes": 767918080,
+ "db_sha256": "a9c5bbfb72c0cc8784d080f3332f393e718c61a15d93d35b4114e3edb9258a76",
+ "db_is_git_repo": false
+}

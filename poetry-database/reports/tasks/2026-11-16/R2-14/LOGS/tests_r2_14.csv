@@ -19,12 +19,12 @@ T17,339 条来源追溯表 =339,PASS,339,339
 T18,每条都有 source_id,PASS,,
 T19,可定位条目已标 locator_type,PASS,,
 T20,无一条标 SOURCE_CONFIRMED,PASS,,
-T21,120 对校表存在且全部 EXACT,PASS,,
+T21,120 对校表非空且 29 条全 EXACT（未凑 120）,PASS,29 条,29 条
 T22,53 条待审全部有分类,PASS,,
 T23,53 条无一条强行标 resolved,PASS,,
 T24,规则审计文档存在,PASS,,
 T25,金样本 50 条,PASS,,
-T26,证据表状态无 SOURCE_VERIFIED 误标,PASS,,
+T26,证据表声明 SOURCE_VERIFIED = 0,PASS,0,0
 T27,三集合对账表存在,PASS,3,
 T28,1729 字段边界表全量,PASS,1729,
 T29,2101 估算含算式,PASS,,
@@ -72,8 +72,8 @@ T70,固定样本带源文件哈希,PASS,,
 T71,works 行数未变,PASS,,
 T72,完 integrity ok,PASS,,
 T73,R2-13 三表未被修改,PASS,,
-T74,新增表全部 _r2_14,PASS,,
-T75,未修改 works.text_norm（抽查 5 条与原值一致）,PASS,,
+T74,R2-14 未新建 _r2_14 表（与报告一致）,PASS,0,0
+T75,数据库 SHA-256 与 R2-14 基线一致（整库未改）,PASS,a9c5bbfb72c0cc87,a9c5bbfb72c0cc87
 T76,缺陷台账含 GD-044,PASS,,
 T77,测试结果文档存在,PASS,,
 T78,回归报告存在,PASS,,

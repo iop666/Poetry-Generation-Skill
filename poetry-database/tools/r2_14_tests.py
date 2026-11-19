@@ -36,12 +36,19 @@ def main():
     t('T18','每条都有 source_id', all(r['source_id'] for r in tr))
     t('T19','可定位条目已标 locator_type', all(r['locator_type'] in ('TEXT_OFFSET_LOCATOR','FILE_LOCATOR') for r in tr))
     t('T20','无一条标 SOURCE_CONFIRMED', not any(r.get('source_state')=='SOURCE_CONFIRMED' for r in tr))
-    t('T21','120 对校表存在且全部 EXACT', all(r['collation']=='EXACT' for r in rd('WORKS_120_SOURCE_COLLATION.csv')))
+    _c120 = rd('WORKS_120_SOURCE_COLLATION.csv')
+    t('T21','120 对校表非空且 29 条全 EXACT（未凑 120）',
+      len(_c120) == 29 and all(r['collation'] == 'EXACT' for r in _c120),
+      f'{len(_c120)} 条', '29 条')
     t('T22','53 条待审全部有分类', len(rd('WORKS_53_NEEDS_REVIEW_FINAL.csv'))==53 and all(r['failure_type'] for r in rd('WORKS_53_NEEDS_REVIEW_FINAL.csv')))
     t('T23','53 条无一条强行标 resolved', all(r['resolved']=='NO' for r in rd('WORKS_53_NEEDS_REVIEW_FINAL.csv')))
     t('T24','规则审计文档存在', os.path.exists(os.path.join(OUT,'WORKS_TEXT_RECONSTRUCTION_RULE_AUDIT.md')))
     t('T25','金样本 50 条', len(rd('WORKS_TEXT_RECONSTRUCTION_GOLDEN_50.csv'))>=50)
-    t('T26','证据表状态无 SOURCE_VERIFIED 误标', not any(r.get('final_status')=='SOURCE_VERIFIED' for r in rd('WORKS_TEXT_EVIDENCE_FINAL.md') if False) )
+    import re as _re
+    _ev = open(os.path.join(OUT, 'WORKS_TEXT_EVIDENCE_FINAL.md'), encoding='utf-8').read()
+    _m = _re.search(r'SOURCE_VERIFIED[^|]*\|\s*\**?(\d+)\**?\s*\|', _ev)
+    t('T26','证据表声明 SOURCE_VERIFIED = 0', bool(_m) and int(_m.group(1)) == 0,
+      _m.group(1) if _m else 'NOT_FOUND', 0)
     # C 元曲
     yq=rd('YUANQU_2447_2740_4510_SET_RECONCILIATION.csv')
     t('T27','三集合对账表存在', len(yq)>=3, len(yq))
@@ -96,8 +103,16 @@ def main():
     t('T71','works 行数未变', q1('SELECT count(*) FROM works')==375399)
     t('T72','完 integrity ok', q1('PRAGMA integrity_check')=='ok')
     t('T73','R2-13 三表未被修改', q1('SELECT count(*) FROM work_text_revision_candidates_r2_13')==339 and q1('SELECT count(*) FROM work_author_variant_r2_13')==476)
-    t('T74','新增表全部 _r2_14', q1("SELECT count(*) FROM sqlite_master WHERE type='table' AND name LIKE '%_r2_14'")>=0)
-    t('T75','未修改 works.text_norm（抽查 5 条与原值一致）', True)
+    _n14 = q1("SELECT count(*) FROM sqlite_master WHERE type='table' AND name LIKE '%_r2_14'")
+    t('T74','R2-14 未新建 _r2_14 表（与报告一致）', _n14 == 0, _n14, 0)
+    import hashlib as _hl
+    _h = _hl.sha256()
+    with open(DB, 'rb') as _f:
+        for _b in iter(lambda: _f.read(1 << 22), b''):
+            _h.update(_b)
+    _base = J('preflight.json')['sha256']
+    t('T75','数据库 SHA-256 与 R2-14 基线一致（整库未改）',
+      _h.hexdigest() == _base, _h.hexdigest()[:16], _base[:16])
     t('T76','缺陷台账含 GD-044', 'GD-044' in open(os.path.join(OUT,'KNOWN_DATA_DEFECTS.md'),encoding='utf-8').read() if os.path.exists(os.path.join(OUT,'KNOWN_DATA_DEFECTS.md')) else False)
     t('T77','测试结果文档存在', os.path.exists(os.path.join(OUT,'TEST_RESULTS_R2_14.md')))
     t('T78','回归报告存在', os.path.exists(os.path.join(OUT,'REGRESSION_ALL_ROUNDS_R2_14.md')))

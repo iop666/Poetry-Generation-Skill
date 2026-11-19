@@ -1,0 +1,77 @@
+{
+  "target_from_seq2_verify": 214,
+  "rows_written": 214,
+  "cause_distribution": {
+    "FILTER_TEXT_LT8": 213,
+    "FILTER_TEXT_LT8_PLUS_EXTRA": 1
+  },
+  "diff_sign": {
+    "works<json": 214
+  },
+  "sum_abs_diff": 2304,
+  "top10": [
+    {
+      "source_id": "CP-YUANQU",
+      "diff": -372,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; a55022:诈妮子调风月・仙吕/点绛@json#0; a16f9a:诈妮子调风月・混江龙@json#1; fc7335:诈妮子调风月・那吒令@json#2; monotonic=Y"
+    },
+    {
+      "source_id": "CP-SONGCI-20",
+      "diff": -179,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; b8a7a0:满江红@json#0; 4b807d:水调歌头@json#1; 68f134:柳梢青@json#2; monotonic=Y"
+    },
+    {
+      "source_id": "CP-SONGSHI-107",
+      "diff": -117,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; d97408:十二月二十一日贈沃令@json#0; 58fc47:余所寓僧舍蜂筒忽散去僅留@json#1; 69ad4b:賀師垣賜御書一德格天之閣@json#2; monotonic=Y"
+    },
+    {
+      "source_id": "CP-TANG-49",
+      "diff": -63,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; e385d6:與李章武贈荅詩 三@json#0; 5a9d0d:與李章武贈荅詩 四@json#1; 17b7ea:與李章武贈荅詩 五@json#2; monotonic=Y"
+    },
+    {
+      "source_id": "CP-SONGSHI-170",
+      "diff": -56,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; 8b4df3:非雪@json#52; d54cae:蜂兒榧  其一@json#53; 692942:蜂兒榧  其二@json#54; monotonic=Y"
+    },
+    {
+      "source_id": "CP-TANG-52",
+      "diff": -56,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; 7777f1:七日禁中陪宴@json#0; a92c6f:哭日本國內供奉大德靈仙和@json#1; 077f80:元孚五十年前遊天台宿建公@json#2; monotonic=Y"
+    },
+    {
+      "source_id": "CP-SONGSHI-074",
+      "diff": -55,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; 7af8e0:答惇上人七首  其四@json#0; 1b7b36:答惇上人七首  其五@json#1; f24069:答惇上人七首  其六@json#2; monotonic=Y"
+    },
+    {
+      "source_id": "CP-SONGSHI-193",
+      "diff": -46,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; 069e99:郫縣春日吟  其二@json#0; fbaa65:郫縣春日吟  其三@json#1; ea8f8d:郫縣春日吟  其四@json#2; monotonic=Y"
+    },
+    {
+      "source_id": "CP-SONGSHI-080",
+      "diff": -43,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; dce051:句  其二@json#0; df753e:句  其五@json#3; 044476:題楚辭@json#5; monotonic=Y"
+    },
+    {
+      "source_id": "CP-TANG-56",
+      "diff": -41,
+      "cause": "FILTER_TEXT_LT8",
+      "sample": "3/3 hit; ba8816:兵要望江南 占怪第二十三@json#0; 74a84a:兵要望江南 占怪第二十三@json#1; 69b27d:兵要望江南 占怪第二十三@json#2; monotonic=Y"
+    }
+  ],
+  "json_parse_status": {
+    "OK": 214
+  }
+}

@@ -1,0 +1,377 @@
+﻿work_id,author_name,title_raw,collection,dynasty,verdict_type,evidence,candidate_fix,confidence,note
+zhongzhou:f482dc5747fc,張祕書斛,仙門驛聽泉,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+songshi:4dae624832d8,郊廟朝會歌辭,紹興親享明堂二十六首 太祖位酌獻用《孝安》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:561290053faf,釋延壽,舟中,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:07b16ccc38d8,釋延壽,山居詩  其五七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+wenxuan:7093823380ba,鮑照,數詩,wenxuan,魏晋南北朝,ALIAS,author 为异体字写法，canonical=鲍照,鲍照,HIGH,仅字形差异
+songshi:6ba591c201b7,釋士珪,頌古七十六首  其一八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:0bc6c7762841,釋道顔,頌古  其七四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:5a75f768ecde,釋士珪,頌古七十六首  其五七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:be5e208c4410,釋道顔,頌古  其六五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:f143bf74d528,釋重顯,送僧之石梁,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋重顯 → 重顯,重顯,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:58796dc56ca5,釋德洪,述古德遺事作漁父詞八首 船子,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋德洪 → 德洪,德洪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:1d17b86e375b,釋延壽,山居詩  其五四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:0fcf42292958,郊廟朝會歌辭,景德中朝會十四首 公卿入門用《正安》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:5d287730fb5f,釋重顯,爲道日損,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋重顯 → 重顯,重顯,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:44f6dad8e7bf,釋守浄,偈二十七首  其二四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋守浄 → 守浄,守浄,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:3f29d8e75c90,釋師範,偈頌七十六首  其一七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋師範 → 師範,師範,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:b6e29bb2895f,太宗皇帝,詠弓,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=李世民,李世民,HIGH,庙号应换本名
+tang:4b54dc8d306c,僧齊己,雜曲歌辭 行路難二首 二,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧齊己 → 齊己,齊己,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:f0dc022d87d8,釋曇穎,遊上雪竇,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋曇穎 → 曇穎,曇穎,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:aa03ce2a4545,僧貫休,雜曲歌辭 行路難五首 一,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:04434701c277,釋士珪,頌古六首  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:02c7e5e6098d,釋道顔,頌古  其七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:5c1e775f65b2,釋德洪,述古德遺事作漁父詞八首 丹霞,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋德洪 → 德洪,德洪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:fc05cdafcac1,釋士珪,頌古七十六首  其五九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:44a4b35ff207,釋道顔,頌古  其六八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:cad54cbaba3b,釋道常,偈答百丈僧,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道常 → 道常,道常,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:ebc149614aea,釋祖元,竹篦,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋祖元 → 祖元,祖元,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:a1e2717b1657,釋景元,頌古四首  其四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋景元 → 景元,景元,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:b59e9afb2ca6,釋士珪,頌古七十六首  其五五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:7d1abb440f6f,釋道顔,頌古  其四○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:ec6d65ff7754,釋延壽,山居詩  其二二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:0612dc66b799,釋延壽,山居詩  其五九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:703990e29600,釋靈源,偈三首  其三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋靈源 → 靈源,靈源,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:96ef65924246,釋惟清,偈二首  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋惟清 → 惟清,惟清,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:a7ed24814de4,僧貫休,相和歌辭 陽春曲,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:6bbbef83249c,釋文珦,奉酬鹽倉李丈金橘銀魚之什,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋文珦 → 文珦,文珦,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:2d800258ae5f,釋士珪,頌古七十六首  其四○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:1bc41b48997b,釋道顔,頌古  其一八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:434d94c99fd0,郊廟朝會歌辭,攝事十三首 奉俎用《豐安》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:5486ec64ca43,釋士珪,頌古七十六首  其五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:0475c25eed7f,釋道顔,頌古  其一○六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:449c18437631,釋斯植,思歸感興,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋斯植 → 斯植,斯植,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:f5d3222e647c,僧貫休,雜曲歌辭 行路難五首 三,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:1dde7802e41c,釋無本,行次漢上,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋無本 → 無本,無本,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:bf325d7ba091,釋延壽,山居詩  其七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:d3dff0175204,釋士珪,頌古七十六首  其一一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:9d19b9da01fa,釋道顔,頌古  其六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:c10d1ea3a828,張祕書斛,還家,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+songshi:b795265c6a9c,釋正覺,偈十首  其七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋正覺 → 正覺,正覺,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+gushiji:032b59a2a422,王襃,陌上桑,gushiji,魏晋南北朝,ALIAS,author 为异体字写法，canonical=王褒,王褒,HIGH,仅字形差异
+tao:ed97cb6f7eee,陶淵明,庚戌歲九月中於西田穫早稻,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+zhongzhou:e45a343cbf4d,金元好問編,中秋覔酒,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:ebda05a2111d,釋玄應,偈,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋玄應 → 玄應,玄應,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:963dd60131fc,釋延壽,武肅王有旨石橋設齋會進一詩  其二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:d2fe9786a2de,則天皇后,唐明堂樂章 皇帝行,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+tang:0b3209cff07e,花蕊夫人徐氏,宮詞 一五四,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:6fd13e172292,釋延壽,山居詩  其三○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:9930da9f610d,釋靈源,偈三首  其四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋靈源 → 靈源,靈源,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:2fac3c59ad2f,釋惟清,偈二首  其二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋惟清 → 惟清,惟清,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tao:3955de437de6,陶淵明,停雲,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+tang:722da6682d2e,則天皇后,唐武氏享先廟樂章,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+tang:b70022887c55,僧貫休,相和歌辭 蒿里,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:c614eac6c3ba,釋士珪,頌古七十六首  其七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:af66ff4d3694,釋道顔,頌古  其一○五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:7830095fc400,釋正覺,禪人并化主寫真求贊  其二一○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋正覺 → 正覺,正覺,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:f659cc125f50,釋居簡,應真贊三首  其三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋居簡 → 居簡,居簡,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:acd7e5720d66,金元好問編,古劍行,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:0f3944c2cc74,釋乾康,賦殘雪,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋乾康 → 乾康,乾康,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:ab711b9202c7,釋延壽,山居詩  其五八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:b2a38eafa3a1,花蕊夫人徐氏,宮詞 三十九,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+tang:9fbc12d8296c,僧貫休,鼓吹曲辭 臨高臺,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:5eb454d8e2ca,則天皇后,唐明堂樂章 角音,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+tang:21cf96571082,花蕊夫人徐氏,宮詞 一百五十,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+tang:01ac53833224,僧貫休,琴曲歌辭 白雪歌,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:fa63f33a4a88,釋士珪,頌古七十六首  其五六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:335133eeb54b,釋道顔,頌古  其八七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:969c696e7003,明皇帝,傀儡吟,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=李隆基,李隆基,HIGH,庙号应换本名
+songshi:f970a66118f8,釋士珪,頌古七十六首  其一六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:f5da8c6632a5,釋道顔,頌古  其一三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:9dba1ede5cfd,釋元易,偈二首  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋元易 → 元易,元易,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:a7e504ca707e,釋懷深,偈一百二十首  其一○○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋懷深 → 懷深,懷深,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:725c094e1a1b,釋南雅,偈頌七首  其七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋南雅 → 南雅,南雅,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:a56bb0f9d220,釋崇嶽,偈頌一百二十三首  其五三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋崇嶽 → 崇嶽,崇嶽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:77d7e6fb056e,則天皇后,唐明堂樂章 迎送王公,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+songshi:6cc6cb6b08fb,釋延壽,山居詩  其四二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:bd372a678cce,釋宗杲,頌古一百二十一首  其一一○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋宗杲 → 宗杲,宗杲,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:504dabff4465,釋如珙,偈頌三十六首  其八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋如珙 → 如珙,如珙,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:d04913eaf53c,釋延壽,武肅王有旨石橋設齋會進一詩  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:2f2de5f79a09,釋延壽,山居詩  其二四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:2640108e332a,釋堅璧,偈頌二十一首  其二一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋堅璧 → 堅璧,堅璧,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:e5657813f09c,釋心月,偈頌一百五十首  其一四五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋心月 → 心月,心月,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:950cc0ccd8ce,僧齊己,相和歌辭 野田黃雀行,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧齊己 → 齊己,齊己,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:0ef4cd8cb944,釋道潜,春晚  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道潜 → 道潜,道潜,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:68682b41c48d,僧皎然,相和歌辭 短歌行,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧皎然 → 皎然,皎然,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:24d6c8cd1494,釋悟真,偈五首  其三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋悟真 → 悟真,悟真,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:8eadd5a8348d,釋慧開,頌古四十八首  其二七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋慧開 → 慧開,慧開,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:c788e327569b,釋延壽,山居詩  其五一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:877a4067e6d2,僧貫休,雜曲歌辭 行路難五首 二,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:60dfa1f1c235,僧貫休,雜曲歌辭 行路難五首 四,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:109647058f49,釋祖珍,偈三十五首  其一七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋祖珍 → 祖珍,祖珍,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:37c2752f0b63,釋道潜,梅花,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道潜 → 道潜,道潜,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:a8077f686207,釋文禮,頌馬祖因僧問離四句絕百非,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋文禮 → 文禮,文禮,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:07f09e00fb6e,釋永頤,呂晉叔著作遺新茶,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋永頤 → 永頤,永頤,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:89296dfa15e6,釋士珪,頌古七十六首  其二一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:2e097487bdce,釋道顔,頌古  其五五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:101bc6f0b6ce,釋贊寧,居天柱山,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋贊寧 → 贊寧,贊寧,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:00990651b7cf,郊廟朝會歌辭,紹興親享明堂二十六首 亞獻用《穆安》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+tang:09fc8926ab78,僧貫休,橫吹曲辭 出塞曲 三,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:6cf8046c619b,釋法泉,偈七首  其二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋法泉 → 法泉,法泉,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:eec71e2f9218,釋妙倫,偈頌八十五首  其一三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋妙倫 → 妙倫,妙倫,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:42e60e8619d9,則天皇后,唐大饗拜洛樂章 咸和,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+zhongzhou:87d03f61a663,金元好問編,和題稽古軒,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:d084f3d51dcc,釋仲殊,訪子通,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋仲殊 → 仲殊,仲殊,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:0e59a5cf25fe,花蕊夫人徐氏,宮詞 三十六,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:2d993a5d0a11,拾遺,琵琶,songshi,宋,HONORIFIC,author 含官称/尊称：拾遺,,LOW,无法唯一还原本名
+tang:f981cb67e8b9,花蕊夫人徐氏,宮詞 五十二,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:ee96b0127594,釋士珪,頌古七十六首  其五一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:4b510295110f,釋道顔,頌古  其二五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:be4d2f73fa1a,釋道顔,頌古  其一○三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:648442760fb7,釋祖珍,偈三十五首  其一一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋祖珍 → 祖珍,祖珍,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:7e5dea0e3c3f,釋宗杲,偈頌一百六十首  其二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋宗杲 → 宗杲,宗杲,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:eadb8f8acd21,釋曇華,偈頌六十首  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋曇華 → 曇華,曇華,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:1f4b943122cf,釋智愚,偈頌二十五首  其二三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋智愚 → 智愚,智愚,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:1f564553794c,僧齊己,相和歌辭 善哉行,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧齊己 → 齊己,齊己,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:4e852e5217e5,花蕊夫人徐氏,宮詞 三十四,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:6ff1120f93ae,郊廟朝會歌辭,景德中朝會十四首 上壽用《和安》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+zhongzhou:1a2f8195839f,金元好問編,同兒曹賦蘆花,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+zhongzhou:9b56c762cf75,張祕書斛,武陵春雪,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+tang:ca867036ee2d,花蕊夫人徐氏,宮詞 五十六,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+zhongzhou:bf8e8f77d331,金元好問編,過居庸闗,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+tang:9aaa9f101af0,則天皇后,唐享昊天樂 第八,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+tang:42346aae501a,花蕊夫人徐氏,宮詞 一四二,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+tang:f95065a697ad,花蕊夫人徐氏,宮詞 一四五,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:fcf09154be7c,覺禪師,偈一首,songshi,宋,HONORIFIC,author 含官称/尊称：覺禪師,,LOW,无法唯一还原本名
+songshi:d84b7aac0df1,釋祖覺,呈圓悟,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋祖覺 → 祖覺,祖覺,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:3bb0e2c80ae3,花蕊夫人徐氏,宮詞 一五三,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+zhongzhou:b59bd84e049f,金元好問編,早春,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+gushiji:3f95384882dd,荀㫤,古意贈今人,gushiji,魏晋南北朝,ALIAS,author 为异体字写法，canonical=荀昶,荀昶,HIGH,仅字形差异
+zhongzhou:d28e0cfeb9b7,王先生予可,馴鶴圖,zhongzhou,金,HONORIFIC,author 含官称/尊称：王先生予可 → 去官称得 王予可,王予可,MEDIUM,官称非本名，需别集确认；不得据此改库
+wenxuan:320e8e77a89d,班婕妤,短歌行,wenxuan,汉魏,HONORIFIC,author 含官称/尊称：班婕妤,,LOW,无法唯一还原本名
+songshi:983c2eafbac7,釋祖珍,偈三十五首  其一二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋祖珍 → 祖珍,祖珍,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:a05185cc44a1,釋道潜,次韵伯言明發登西樓望桃花  其二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道潜 → 道潜,道潜,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:dff934a142d9,花蕊夫人徐氏,宮詞 一三八,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+tang:7ac89fedb740,花蕊夫人徐氏,宮詞 一四三,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+tao:808893410fce,陶淵明,歸園田居·其一,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+songshi:195662cc0626,釋延壽,山居詩  其一五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:a6d0ce8aea75,則天皇后,唐明堂樂章 宮音,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+tang:c341e953242c,花蕊夫人徐氏,宮詞 三十三,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:2a44939e6669,釋文禮,頌古五十三首  其三八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋文禮 → 文禮,文禮,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:45a10a7ce9a8,釋與咸,贈栖禪上人,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋與咸 → 與咸,與咸,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:da32c6c318e8,釋曇穎,四明十題 石筍峰,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋曇穎 → 曇穎,曇穎,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:02f664a4ab24,僧齊己,鼓吹曲辭 巫山高,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧齊己 → 齊己,齊己,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:415d034f94ee,張祕書斛,東川春日,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+songshi:313689fb89ec,釋延壽,武肅王有旨石橋設齋會進一詩  其五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:b09ea3ad9476,釋士珪,頌古七十六首  其五二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:98b34f9b82c7,釋道顔,頌古  其八二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:fb4673f7d569,釋延壽,山居詩  其一八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:520bbd4e84b9,釋士珪,頌古七十六首  其五○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:ea786ab435de,釋道顔,頌古  其七三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:f5f088a9e8fb,釋延壽,山居詩  其九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:c50d9a3bbd69,釋延壽,山居詩  其二九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:44f7f68fdf0a,釋延壽,山居詩  其六八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songci:f0f5ea957dde,魏夫人,临江仙,songci,宋,HONORIFIC,author 含官称/尊称：魏夫人,,LOW,无法唯一还原本名
+songshi:0708e8de12d6,釋道潜,寄題徐德之先生閑軒,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道潜 → 道潜,道潜,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:2bcdbf271277,則天皇后,唐享昊天樂 第十二,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+songshi:b292dec6ee7d,釋曇華,偈頌六十首  其二五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋曇華 → 曇華,曇華,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:67d825ad7e9a,釋師觀,偈頌七十六首  其三四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋師觀 → 師觀,師觀,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:afb110070416,則天皇后,唐明堂樂章 商音,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+songshi:7b9720b95aef,釋延壽,山居詩  其六六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:2d5da78805c5,釋道章,偃松,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道章 → 道章,道章,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:824e3e1c8bb4,花蕊夫人徐氏,宮詞 一四八,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:f926043337ab,釋宗杲,偈頌一百六十首  其九九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋宗杲 → 宗杲,宗杲,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:2e8e250c7f25,釋咸傑,偈頌六十五首  其四二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋咸傑 → 咸傑,咸傑,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:be8bc87ef175,釋心月,偈頌一百五十首  其一一五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋心月 → 心月,心月,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:5f530fc96f63,釋延壽,山居詩  其五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:c0d045a92945,釋延壽,山居詩  其一三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:d110b31c00a4,釋延壽,山居詩  其二八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:4a50b8ad79ee,釋德洪,述古德遺事作漁父詞八首 靈雲,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋德洪 → 德洪,德洪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:56a1395d84af,則天皇后,唐明堂樂章 外辦將出,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+songshi:a06fd8f72dea,釋延壽,山居詩  其三七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:c78c1f33b20c,釋智嵩,白菖蒲聯句,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋智嵩 → 智嵩,智嵩,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:7c615e11dc32,賀知章、源乾曜,郊廟歌辭 禪社首樂章 壽和,tang,唐,WRONG_FIELD,author 长度 7 字，非规范人名：賀知章、源乾曜,,MEDIUM,疑似取自题注/序
+tang:fbd5194d4b0f,僧貫休,雜曲歌辭 君子有所思行 一,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:c5ce058e9b57,金元好問編,又,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:a93424e948b3,釋尚能,中秋旅懷,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋尚能 → 尚能,尚能,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:64b55a618dfe,釋斯植,苕溪舟次,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋斯植 → 斯植,斯植,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:ea1aa5fb907f,釋洪壽,聞墮薪有省作偈,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋洪壽 → 洪壽,洪壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:b4c27e7bef92,釋宗杲,偈頌一百六十首  其一○六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋宗杲 → 宗杲,宗杲,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:24fc99ea8ce5,釋延壽,山居詩  其二七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:68d9e8ec7bec,釋延壽,山居詩  其一六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:f4211c8989b9,釋士珪,頌古七十六首  其四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:254de276ef8d,釋道顔,頌古  其一○七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:dbc3098247f2,金元好問編,又,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+tang:6987590b4aad,通真道人,七言三十韻,tang,唐,HONORIFIC,author 含官称/尊称：通真道人 → 去官称得 通真,通真,MEDIUM,官称非本名，需别集确认；不得据此改库
+songshi:6b9159b85f51,釋文珦,江樓閑望懷關內親知,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋文珦 → 文珦,文珦,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:a9a98d24ef5c,釋士珪,頌古七十六首  其四五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:fe8fc449f186,釋道顔,頌古  其七六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:cb8f6577749e,釋延壽,山居詩  其六七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:54d7b80b1ca2,僧貫休,橫吹曲辭 入塞曲 二,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:1be78c43bf26,金元好問編,醉墨齋,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+zhongzhou:1fd51769a037,張祕書斛,將渡江,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+songshi:2d069429760b,釋德洪,妙高墨梅,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋德洪 → 德洪,德洪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:cd1b39069313,花蕊夫人徐氏,宮詞 一四四,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+tao:93084865e2d7,陶淵明,時運,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+songshi:7259ae8cb78e,釋延壽,山居詩  其一○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:a2f8e93e6a0e,郊廟朝會歌辭,攝事十三首 翼祖室用《大順》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+tao:b4a07e4bacc6,陶淵明,移居·其一,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+songshi:5fffbeae3d41,釋永頤,游張園觀海棠戲作,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋永頤 → 永頤,永頤,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:38432a4a140d,釋紹嵩,遊張園觀海棠戲作,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋紹嵩 → 紹嵩,紹嵩,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+wenxuan:f0e46023a3d2,鮑照,還都道中作,wenxuan,魏晋南北朝,ALIAS,author 为异体字写法，canonical=鲍照,鲍照,HIGH,仅字形差异
+songshi:765670517914,釋文璉,偈四首  其四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋文璉 → 文璉,文璉,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:b88c53e29fe8,釋善悟,頌古九首  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋善悟 → 善悟,善悟,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:370e401127e3,釋延壽,武肅王有旨石橋設齋會進一詩  其三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:e36df1f30a87,金元好問編,病後寄開甫,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+tang:16b7421a3d75,太宗皇帝,守歲,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=李世民,李世民,HIGH,庙号应换本名
+songshi:8899d0ae17d3,饒延年,無絃琴,songshi,宋,WRONG_FIELD,author 形如年份/卷次/题注：饒延年,,LOW,疑似串位
+songshi:a0acd2730604,釋士珪,頌古七十六首  其三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:596e4d734d55,釋道顔,頌古  其一一○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:d1d280028782,釋咸傑,偈頌六十五首  其三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋咸傑 → 咸傑,咸傑,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:dc0f9ce7c290,釋祖欽,偈頌一百二十三首  其九○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋祖欽 → 祖欽,祖欽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:acce809b0ad3,則天皇后,唐享昊天樂 第五,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+zhongzhou:57499ee69cf6,金元好問編,時習齋,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songci:05e784a144e9,圆禅师,渔家傲,songci,宋,HONORIFIC,author 含官称/尊称：圆禅师,,LOW,无法唯一还原本名
+songshi:59a63bc1ec2e,釋延壽,山居詩  其一七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:549a7974b7b4,釋延壽,金鷄峰,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:0a4c8565ea1d,釋希晝,懷廣南轉運陳學士狀元,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋希晝 → 希晝,希晝,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:93f54e159569,花蕊夫人徐氏,宮詞 一三七,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:369e99d152c5,釋延壽,山居詩  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:c7780043ac37,郊廟朝會歌辭,景德中朝會十四首 再舉酒畢用《天下大定》。 其一,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+zhongzhou:751b58581d90,張祕書斛,寓中江縣樓,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+tang:9e6ee7bc1ea3,花蕊夫人徐氏,宮詞 一四六,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:b52602e5e069,釋曇賁,頌古二十七首  其二三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋曇賁 → 曇賁,曇賁,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:145d76f4c497,釋正覺,頌古一百則  其五一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋正覺 → 正覺,正覺,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:8b50e55e667c,花蕊夫人徐氏,宮詞 一五五,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:7b05a76a412c,釋祖可,霜餘溪上,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋祖可 → 祖可,祖可,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:2bbe97e82995,王先生予可,宫詞,zhongzhou,金,HONORIFIC,author 含官称/尊称：王先生予可 → 去官称得 王予可,王予可,MEDIUM,官称非本名，需别集确认；不得据此改库
+songshi:dfdeb77309d3,釋紹嵩,散策  其二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋紹嵩 → 紹嵩,紹嵩,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:1229dbb5a393,金元好問編,題宗之家初序瀟湘圖,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:943438f76811,釋宗杲,偈頌一百六十首  其一一七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋宗杲 → 宗杲,宗杲,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:19ee24f401df,釋慧空,偈十三首  其八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋慧空 → 慧空,慧空,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:26bc16dad201,郊廟朝會歌辭,攝事十三首 宣祖室用《大慶》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:f68169fdfe89,釋贊寧,悟空塔,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋贊寧 → 贊寧,贊寧,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+mingshi:86d109e3a83f,采蓮曲,嵗暮書事,mingshi,明,WRONG_FIELD,author 为乐府/词牌题名（库内亦作标题）：采蓮曲,,MEDIUM,author 取自作品题名而非作者
+songshi:a740172df7a5,釋延壽,山居詩  其六三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:462e7c702660,僧子蘭,相和歌辭 飲馬長城窟行,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧子蘭 → 子蘭,子蘭,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:0f7bd0f5da9a,釋延壽,山居詩  其六四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tao:e5097d70a45d,陶淵明,詠荊軻,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+zhongzhou:ba726b42ed99,金元好問編,還舍作,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+tang:4f76a83e2fb8,僧貫休,相和歌辭 上留田,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:19000b549815,太宗皇帝,秋日二首 二,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=李世民,李世民,HIGH,庙号应换本名
+songshi:dbe427c4b31a,釋贊寧,夜吟,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋贊寧 → 贊寧,贊寧,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:beb7f2a678aa,花蕊夫人徐氏,宮詞 一五六,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:5f6477de8533,釋德洪,述古德遺事作漁父詞八首 香嚴,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋德洪 → 德洪,德洪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tao:e0eda45e0e1c,陶淵明,還舊居,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+zhongzhou:d5b6648fcd44,金元好問編,嵗莫江南四憶,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:888197dae8c6,釋延壽,武肅王有旨石橋設齋會進一詩  其六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tao:249f49052176,陶淵明,責子,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+wenxuan:79dfe98115f8,班婕妤,白馬篇,wenxuan,汉魏,HONORIFIC,author 含官称/尊称：班婕妤,,LOW,无法唯一还原本名
+tang:4faf050ba5bb,僧皎然,相和歌辭 從軍行 三,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧皎然 → 皎然,皎然,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:f53dfe6924c5,釋士珪,頌古七十六首  其三五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:a41d8a1938f5,釋道顔,頌古  其二二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:6428fa87f580,則天皇后,唐大饗拜洛樂章 通和,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+songshi:c7359998089a,釋延壽,蛾眉峰,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:46007b123e13,釋居簡,楊園四題  其四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋居簡 → 居簡,居簡,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:6dbd350f0a0c,則天皇后,唐享昊天樂 第二,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+songshi:91f5713e7027,郊廟朝會歌辭,景德中朝會十四首 再舉酒用《丹鳳》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+zhongzhou:a8793aa63ea9,金元好問編,四序回文十二首,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+tang:d8ede10acf38,僧貫休,鼓吹曲辭 戰城南二首 二,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:cc0860cd37a7,釋延壽,山居詩  其八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+gushiji:042d0e5929bb,昭徳凱容樂,同前,gushiji,魏晋南北朝,COLLECTION_NAME,author_alias.kind=NOT_PERSON：昭徳凱容樂 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:0439054f476b,釋如琰,頌古五首  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋如琰 → 如琰,如琰,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:b1a89e08e5d2,釋了惠,維摩贊,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋了惠 → 了惠,了惠,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:1eb2c36a9b08,郊廟朝會歌辭,咸平御樓四首 《采茨》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:bcf650d69181,釋延壽,定慧相資歌,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:52f0c87390a5,則天皇后,唐大饗拜洛樂章 九和,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+tang:8be158603cd5,則天皇后,唐大饗拜洛樂章 致和,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+tang:c037e1834ed2,花蕊夫人徐氏,宮詞 一五一,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+tang:5afc2c3d1a06,僧貫休,雜曲歌辭 古離別,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:124a207fd66c,釋咸傑,偈頌六十五首  其三五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋咸傑 → 咸傑,咸傑,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:a0d2176b36f0,僧齊己,雜曲歌辭 楊柳枝 三,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧齊己 → 齊己,齊己,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:54bd0fd44241,賀知章、源乾曜,郊廟歌辭 禪社首樂章 福和,tang,唐,WRONG_FIELD,author 长度 7 字，非规范人名：賀知章、源乾曜,,MEDIUM,疑似取自题注/序
+songshi:9761649c1d2d,釋智愚,龐居士大家團欒共說無生話圖贊,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋智愚 → 智愚,智愚,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:97f6ebb79543,釋法泰,偈七首  其六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋法泰 → 法泰,法泰,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:118835884131,花蕊夫人徐氏,宮詞 一五七,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+zhongzhou:d2ebde897f8a,金元好問編,雞林書事,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:2bd675ff3676,釋藴常,天竺道中,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋藴常 → 藴常,藴常,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:4c10f5dc319c,釋普濟,偈頌六十五首  其二五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋普濟 → 普濟,普濟,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:de8c11344ee0,釋原妙,頌古三十一首  其八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋原妙 → 原妙,原妙,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:72b38c6ccec7,張祕書斛,又,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+songshi:cb051f7edbaf,釋士珪,頌古七十六首  其六六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:bc352968e6d1,釋道顔,頌古  其四五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:38997ca0b8e7,花蕊夫人徐氏,宮詞 四十二,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:799bc420215d,釋延壽,積翠峰,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:91d8fde5c6ea,釋士珪,頌古七十六首  其三四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:4f24a1c66515,釋道顔,頌古  其二九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:014afa0bfc85,釋沖邈,翠微山居詩  其五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋沖邈 → 沖邈,沖邈,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:3a4ded7c6db3,釋士珪,頌古七十六首  其一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:8a91eb3dc8ce,釋道顔,頌古  其二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+mingshi:3ac0291b5739,采蓮曲,旅邸除夕,mingshi,明,WRONG_FIELD,author 为乐府/词牌题名（库内亦作标题）：采蓮曲,,MEDIUM,author 取自作品题名而非作者
+songshi:518660934aa7,釋清豁,歸山吟寄友,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋清豁 → 清豁,清豁,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:befa21923575,則天皇后,唐明堂樂章 皇嗣出入升降,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+tang:ee65910bcfcd,賀知章、源乾曜,郊廟歌辭 禪社首樂章 順和,tang,唐,WRONG_FIELD,author 长度 7 字，非规范人名：賀知章、源乾曜,,MEDIUM,疑似取自题注/序
+tang:112e41e93dc5,花蕊夫人徐氏,宮詞 一五二,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:9cf48d269cbe,釋士珪,頌古六首  其六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:0ffba0543d87,釋道顔,頌古  其九九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:b68b99256d65,金元好問編,郊居,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+gushiji:deb5c0a79f71,武帝,上聲歌,gushiji,魏晋南北朝,HONORIFIC,author 为庙号/尊号，canonical=萧衍,萧衍,HIGH,庙号应换本名
+tang:4131c2363749,德宗皇帝,中春麟德殿會百僚觀新樂詩一章章十六句,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=李适,李适,HIGH,庙号应换本名
+songshi:e8b59653ecf5,釋本先,見色便見心頌,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋本先 → 本先,本先,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:3b837425d4d5,釋士珪,頌古七十六首  其二五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:11d34b86d0d3,釋道顔,頌古  其二一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:c9f119eff994,金元好問編,又,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:283f7399139b,釋宗杲,頌古一百二十一首  其一○六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋宗杲 → 宗杲,宗杲,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:eb8cb64f3073,釋師範,偈頌一百四十一首  其一一三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋師範 → 師範,師範,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:9e4c16f72810,釋普寧,偈頌四十一首  其五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋普寧 → 普寧,普寧,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:4ddb854bc25e,釋惟一,頌古三十六首  其二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋惟一 → 惟一,惟一,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:c4c09b2aca52,則天皇后,唐大饗拜洛樂章 拜洛,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+songshi:6c16f1193589,楊皇后,宮詞  其二一,songshi,宋,HONORIFIC,author 为庙号/尊号，canonical=杨桂枝,杨桂枝,HIGH,庙号应换本名
+tang:0646b10ced8b,則天皇后,唐明堂樂章 羽音,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+gushiji:c1fc4bb810e9,鮑照,代放歌行,gushiji,魏晋南北朝,ALIAS,author 为异体字写法，canonical=鲍照,鲍照,HIGH,仅字形差异
+tang:1df399c8c761,僧貫休,雜曲歌辭 夜夜曲,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:d595f8245ef9,金元好問編,又,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+tao:f9c8ca59fbb7,陶淵明,悲從弟仲德,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+zhongzhou:64a2ed357a81,金元好問編,白菊,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:5fa56d59312a,釋延壽,山居詩  其四六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:8a46a44aab0e,釋延壽,山居詩  其四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tao:d06895f08318,陶淵明,丙辰歲八月中於下潠田舍穫,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+songshi:913819a35268,釋文珦,贈雲英院,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋文珦 → 文珦,文珦,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:5299791844d8,郊廟朝會歌辭,攝事十三首 太祖室用《大定》。,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:1e911b10fe66,釋延壽,山居詩  其六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tao:d470c20e6b77,陶淵明,連雨獨飲,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+songshi:735043ee7947,釋士珪,頌古六首  其五,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:d276c5abf7b1,釋道顔,頌古  其六四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tao:a33447d3d978,陶淵明,擬古·其四,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+tang:8fedfa2b6f31,花蕊夫人徐氏,宮詞 三十,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+songshi:445f53207deb,釋延壽,山居詩  其四○,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:6445947e7c37,郊廟朝會歌辭,景德中朝會十四首 羣臣舉酒用《正安》。 其三,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:2cf8aceac257,釋曇穎,四明十題 雪竇山,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋曇穎 → 曇穎,曇穎,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:b5a8bf4e1407,張祕書斛,迴文二首,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+songshi:ab60f0fe31cc,釋延壽,山居詩  其五六,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:645df49f35df,釋德洪,述古德遺事作漁父詞八首 藥山,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋德洪 → 德洪,德洪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:33967ca25e5d,釋士珪,頌古七十六首  其四七,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:846e0585af37,釋道顔,頌古  其四一,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:63c8def82ff1,金元好問編,又,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+tang:d864a72cc27f,僧貫休,雜曲歌辭 少年行三首 一,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:778fc1f0dbb6,金元好問編,山中見桃花李花,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:264f2f192e8e,釋乾康,經方干舊居,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋乾康 → 乾康,乾康,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:203310777db2,太宗皇帝李世民,焚經臺,tang,唐,HONORIFIC,author 含官称/尊称：太宗皇帝李世民 → 去官称得 太宗李世民,太宗李世民,MEDIUM,官称非本名，需别集确认；不得据此改库
+zhongzhou:51610a1e0508,金元好問編,晚春言懐寄燕中知舊,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:794e653b0cee,釋沖邈,翠微山居詩  其三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋沖邈 → 沖邈,沖邈,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:4687bb76be89,釋斯植,觀化,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋斯植 → 斯植,斯植,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:8e0bf275fbb8,郊廟朝會歌辭,景德中朝會十四首 初舉酒畢用《盛德升聞》。 其二,songshi,宋,COLLECTION_NAME,author_alias.kind=NOT_PERSON：郊廟朝會歌辭 为总集/乐府类目名,佚名,HIGH,应迁 collection_role；这是本组同文异署的结构性根因
+songshi:ba34889d9a3c,釋乾康,詩一首,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋乾康 → 乾康,乾康,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:cc2124083a70,張祕書斛,夜雨南山,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+zhongzhou:eadf068d0ee8,金元好問編,館中書事,zhongzhou,金,WRONG_FIELD,author 混入编纂/校注角色词：金元好問編,金元好問,MEDIUM,角色词不属于署名本身
+songshi:308565c8dda9,釋曇華,偈頌六十首  其一九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋曇華 → 曇華,曇華,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:18f757ac095f,釋祖先,偈頌四十二首  其三三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋祖先 → 祖先,祖先,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:d742bf985609,釋重顯,迷悟相返,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋重顯 → 重顯,重顯,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:b97d3ac494b8,釋普濟,偈頌六十五首  其三四,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋普濟 → 普濟,普濟,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:cf127b8c34f1,釋義銛,丈亭館,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋義銛 → 義銛,義銛,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:6a07d97f9172,釋妙喜,和覺禪師賦六湛堂,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋妙喜 → 妙喜,妙喜,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:f04ae287679b,釋宗杲,又六湛堂,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋宗杲 → 宗杲,宗杲,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:9a26aa20a38c,釋本先,非風幡動仁者心動頌,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋本先 → 本先,本先,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:a5899d41c4ba,僧貫休,雜曲歌辭 少年行三首 三,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧貫休 → 貫休,貫休,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:e63a6a56a8e6,則天皇后,唐大饗拜洛樂章 顯和,tang,唐,HONORIFIC,author 为庙号/尊号，canonical=武曌,武曌,HIGH,庙号应换本名
+songshi:99481f717399,釋士珪,頌古七十六首  其六三,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋士珪 → 士珪,士珪,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:64031e84121d,釋道顔,頌古  其六二,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋道顔 → 道顔,道顔,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+zhongzhou:40b5174333eb,張祕書斛,訪香林老,zhongzhou,金,HONORIFIC,author 含官称/尊称：張祕書斛 → 去官称得 張斛,張斛,MEDIUM,官称非本名，需别集确认；不得据此改库
+tao:e967da6120c4,陶淵明,蜡日,tao,魏晋南北朝,ALIAS,author 为字号/谥称，canonical=陶潜,陶潜,HIGH,字号非本名，别名表已给出本名
+gushiji:de75df268615,王襃,奉和趙王途中五韻,gushiji,魏晋南北朝,ALIAS,author 为异体字写法，canonical=王褒,王褒,HIGH,仅字形差异
+gushiji:c26c4139a769,何處士,紫騮馬,gushiji,魏晋南北朝,HONORIFIC,author 含官称/尊称：何處士,,LOW,无法唯一还原本名
+tang:61b87d34e6b8,僧齊己,雜曲歌辭 楊柳枝 四,tang,唐,ALIAS,author 带僧侣身份前缀“僧”：僧齊己 → 齊己,齊己,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:89dbbe41a0db,釋延壽,山居詩  其四九,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+songshi:d3e133fd5246,釋延壽,山居詩  其四八,songshi,宋,ALIAS,author 带僧侣身份前缀“釋”：釋延壽 → 延壽,延壽,MEDIUM,释/僧前缀非本名一部分，属同一人的异写
+tang:a8a1f9442f49,花蕊夫人徐氏,宮詞 一四九,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名
+tang:98785e0f5fef,花蕊夫人徐氏,宮詞 一四一,tang,唐,HONORIFIC,author 为封号+本名：花蕊夫人徐氏 → 本名 徐氏,徐氏,MEDIUM,封号“夫人”非本名

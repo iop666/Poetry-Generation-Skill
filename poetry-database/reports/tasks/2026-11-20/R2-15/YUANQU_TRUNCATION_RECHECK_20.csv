@@ -1,0 +1,21 @@
+﻿work_id,title_head_40,json_index,json_para_count,json_last_para_tail_24,db_last_line_tail_24,byte_identical,truncation_locus,verdict
+yuanqu:0130b74f9739,上堂水陆,json#2673,2,(合)我门得意。,(合)我门得意。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:1f435ba9cd3a,玉井莲后,json#5068,1,忍饿担饥，未知何日是了？。,忍饿担饥，未知何日是了？。,Y,SENTENCE_LEVEL_CUT(前句未收尾即断，双标点),SOURCE_TRUNCATED
+yuanqu:25dd115ec2e6,粉蝶儿,json#2960,1,(小生上)山寨鸣金，白鹤半空展翅。,(小生上)山寨鸣金，白鹤半空展翅。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:2c60251763c6,生查子,json#2716,1,不见去年人，心事谁知得！。,不见去年人，心事谁知得！。,Y,SENTENCE_LEVEL_CUT(前句未收尾即断，双标点),SOURCE_TRUNCATED
+yuanqu:3aadfcfdc3f1,前腔,json#1937,1,(净、丑)你杀了人，使孙荣埋尸葬躯。,(净、丑)你杀了人，使孙荣埋尸葬躯。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:3ee1c80f5e89,粉蝶儿,json#1890,1,(外扮土地上)略驾祥云，霎时便临凡世。,(外扮土地上)略驾祥云，霎时便临凡世。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:48d06eca5b7f,祝英台近,json#4923,1,绿成阴，红似雨，春事已无有。,绿成阴，红似雨，春事已无有。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:493a8debf353,朱奴儿,json#1709,2,净)常言道，人无远虑，。,净)常言道，人无远虑，。,Y,SENTENCE_LEVEL_CUT(前句未收尾即断，双标点),SOURCE_TRUNCATED
+yuanqu:57072a36fcfe,月上海棠,json#3009,1,(外)你自想，甚年发迹穷形状？。,(外)你自想，甚年发迹穷形状？。,Y,SENTENCE_LEVEL_CUT(前句未收尾即断，双标点),SOURCE_TRUNCATED
+yuanqu:59e8b11d2d26,三段子,json#8320,1,(生)事当隐忍，未可一时先怒嗔。,(生)事当隐忍，未可一时先怒嗔。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:5f4be83b3376,少年游,json#8672,1,瞬目一观，霎时已列凡世。,瞬目一观，霎时已列凡世。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:6cd11121753b,红绣鞋,json#8136,1,［老旦］旦夕祝告苍天，周全。,［老旦］旦夕祝告苍天，周全。,Y,SENTENCE_LEVEL_CUT(末句仅 2 字),SOURCE_TRUNCATED
+yuanqu:79fb51d4b29c,粉蝶儿,json#5142,1,赵女堪悲，天教小神相济。,赵女堪悲，天教小神相济。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:864bbf9001e3,刮鼓令,json#2556,2,(净)我吃酒须教满。,(净)我吃酒须教满。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:8c03e26a159a,红绣鞋,json#2555,1,小二在何处说话？(丑)在卓下。,小二在何处说话？(丑)在卓下。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:9dc01938c076,卜算子,json#2610,1,百尺彩楼高，十里人挨闹。,百尺彩楼高，十里人挨闹。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:a82dee03e156,紫苏丸,json#8343,1,(外上)若认此荆钗，其中可宛转。,(外上)若认此荆钗，其中可宛转。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:c0bded27314b,五更转,json#1734,1,(小生)望婆婆听吾告，孙荣本富豪。,(小生)望婆婆听吾告，孙荣本富豪。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:ccd6ad9ada22,陶学士醉写风光好・鲍老作,json#6404,1,则见他人丛里叠扑着个幽。,则见他人丛里叠扑着个幽。,Y,ARIA_LEVEL_FRAGMENT(句读完整但整支曲仅存残句),SOURCE_TRUNCATED
+yuanqu:e85ddbaf1096,大影戏,json#1915,1,(小生)嫂嫂行不由径，(旦)开门！。,(小生)嫂嫂行不由径，(旦)开门！。,Y,SENTENCE_LEVEL_CUT(前句未收尾即断，双标点),SOURCE_TRUNCATED

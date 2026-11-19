@@ -19,7 +19,10 @@
 ## 不上传的内容（硬性）
 
 1. **数据库文件**：`poetry.db`（732 MB）等超过 GitHub 单文件 100 MB 上限的二进制。
-2. **版权书全文**：`books/`（z-library 来源的王力、龙榆生著作）及其 OCR 文本/书页图像。
+2. **版权书全文**：`books/`（王力、龙榆生著作）及其 OCR 文本/书页图像。
+   `poetry-database/raw/r2_04_evidence/full|chapters` 同样是现代版权著作的连续章节正文，
+   自 2026-11-20 起不再公开，只保留 `manifest.json` 等元数据。
+   2026-11-16 至 11-20 的历史提交曾包含这些正文，见 `COPYRIGHT_HISTORY_IMPACT.md`。
    项目规则：现代版权著作只登记书目与合法渠道，不得抓取或分发全文。
 3. **本机个人信息**：所有文本中的本机家目录与绝对路径已替换为 `<PROJECT_ROOT>` / `<HOME>` / `<LOCAL_WORKBUDDY>`。
 

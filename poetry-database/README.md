@@ -29,31 +29,36 @@ python3 tools/query.py source CP-SONGCI-01
 python3 tools/query.py coverage
 ```
 
-## 现有规模
+## 现有规模（2026-11-20 实测）
 
 | 项 | 数值 |
 |---|---|
-| 作品记录 | 90,279（去重后 89,269） |
-| 作者 | 5,286 |
-| 采集来源 | 128（全部有许可与可靠性标注） |
-| 公版文献 | 25 种（已读 8 种，笔记在 `research/book_reading_notes/`） |
-| 朝代覆盖 | 7 / 11（魏晋南北朝、隋、辽金、明为 0） |
+| 作品记录 | **375,399** |
+| 作者记录 | **20,809**（`author_id` = 姓名哈希，**不是人物实体**；同一名字可能跨朝代） |
+| 采集来源 | **941**（在用本地文件 819 个，全部存在） |
+| 数据库 | `database/poetry.db`，**767,918,080 字节**（约 732 MB），**108 表 / 2 视图 / 86 索引** |
 | 体裁 | 11 类：五律/七律/五绝/七绝/五排/七排/古体/四言/楚辞/词/曲 |
-| 数据库 | `database/poetry.db`，95.4 MB，7 张表 |
+| 来源定位 | 551 个来源可定位到 JSON 数组下标，覆盖 164,217 条（43.7%）；卷次/页码/版本定位为 0 |
+
+> **数据库与 `normalized/` 不在公开仓库。** 克隆后需自备本地 `database/poetry.db`；
+> 测试会区分「公开归档测试」与「本地数据库测试」，缺库时后者标 `NOT RUN`。
+>
+> 早期 README 写的「90,279 作品 / 5,286 作者 / 128 来源 / 95 MB / 7 表」是 ROUND 1 口径，
+> 已被上表取代。作者数不是人物数，见 R2-14 的 `AUTHOR_IDENTITY_SCHEMA_R2_14.md`。
 
 ## 目录
 
 ```
 poetry-database/
-├── database/poetry.db        SQLite 主库
-├── raw/                      原始文件（128 个，字节不改）
-├── normalized/               去标记文本与按集合的 JSONL
-├── catalog/                  作者 / 来源 / 集合 / 研究卡的 JSONL
+├── database/poetry.db        SQLite 主库（不在 GitHub）
+├── raw/                      原始文件（语料与书页图像，多数不在 GitHub）
+├── normalized/               去标记文本与按集合的 JSONL（不在 GitHub）
+├── catalog/                  作者 / 来源 / 集合 / 研究卡
 ├── research/                 阅读笔记与作品研究卡
 ├── audit/                    采集、解析、质量、覆盖的日志与报告
 ├── sources/manifest.json     采集合约（采什么、什么许可、可靠性如何）
-├── tools/                    7 个可复跑脚本
-└── reports/round-1/          01–10 报告
+├── tools/                    审计、治理与同步脚本
+└── reports/                  逐轮任务报告（tasks/YYYY-MM-DD/R2-XX/）
 ```
 
 ## 从零复现

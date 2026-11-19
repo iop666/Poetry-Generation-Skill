@@ -52,6 +52,8 @@ INCLUDE_TREES = [
     "poetry-database/sources",
 ]
 INCLUDE_FILES = [
+    "README.md",
+    "LICENSE",
     "AGENTS.md",
     "AGENT_REPORTING_STANDARD.md",
     "poetry-database/README.md",
@@ -59,6 +61,7 @@ INCLUDE_FILES = [
     "poetry-database/raw/r2_04_cipai_index.json",
     # 只上传元数据清单；full/ 与 chapters/ 是现代版权书正文，永不上传
     "poetry-database/raw/r2_04_evidence/manifest.json",
+    "poetry-database/raw/r2_04_evidence/README_CHARCOUNT.md",
     "poetry-database/raw/r2_05_notes",
     "poetry-database/raw/r2_06_notes",
     "poetry-database/raw/r2_07_finalize.json",
@@ -340,7 +343,10 @@ def main():
 ## 不上传的内容（硬性）
 
 1. **数据库文件**：`poetry.db`（732 MB）等超过 GitHub 单文件 100 MB 上限的二进制。
-2. **版权书全文**：`books/`（z-library 来源的王力、龙榆生著作）及其 OCR 文本/书页图像。
+2. **版权书全文**：`books/`（王力、龙榆生著作）及其 OCR 文本/书页图像。
+   `poetry-database/raw/r2_04_evidence/full|chapters` 同样是现代版权著作的连续章节正文，
+   自 2026-11-20 起不再公开，只保留 `manifest.json` 等元数据。
+   2026-11-16 至 11-20 的历史提交曾包含这些正文，见 `COPYRIGHT_HISTORY_IMPACT.md`。
    项目规则：现代版权著作只登记书目与合法渠道，不得抓取或分发全文。
 3. **本机个人信息**：所有文本中的本机家目录与绝对路径已替换为 `<PROJECT_ROOT>` / `<HOME>` / `<LOCAL_WORKBUDDY>`。
 
@@ -363,6 +369,7 @@ python3 poetry-database/tools/github_sync.py
         ("poetry-database/normalized/*.jsonl", "395 MB，超 GitHub 单文件上限"),
         ("books/*.pdf|epub", "z-library 来源的现代版权书全文，项目规则禁止分发"),
         ("poetry-database/raw/books*/**", "上述版权书的 OCR 全文与书页图像"),
+        ("poetry-database/raw/r2_04_evidence/full|chapters", "现代版权著作连续章节正文（2026-11-20 起排除）"),
         ("poetry-database/raw/*/images|facsimile", "书页影印，版权风险"),
         (".workbuddy/**", "本机记忆与临时数据"),
     ]

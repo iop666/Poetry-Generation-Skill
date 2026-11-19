@@ -152,8 +152,22 @@ python3 tools/capture_probe.py --out reports/round-1-audit/logs/probe_after.txt
 
 - 现代版权著作（王力、龙榆生等）不得抓取全文，只能登记书目与合法渠道。
 - 未经外部审核批准，不得进入 Phase 3、不得改格律引擎、不得封装 Skill。
+- **公开仓库只放报告、代码、元数据与样本。** `database/`、`normalized/`、`books/`、
+  `raw/r2_04_evidence/full|chapters`（现代版权著作章节正文）一律不得进入公开仓库；
+  同步后必须复核远端这些路径计数为 0。历史遗留见 `COPYRIGHT_HISTORY_IMPACT.md`。
+- 每轮任务完成，先执行 `python3 poetry-database/tools/github_sync.py` 并复核远端，
+  再输出带上传结果的完整报告。
 
-- 当前轮次成果：`poetry-database/reports/tasks/2026-11-14/R2-07/`（196 条词格逐项核验与词牌数据库，九份报告）
+- 当前轮次成果：`poetry-database/reports/tasks/2026-11-20/R2-15/`（公开同步版权整改、Phase 0–2 基线核对、数据质量治理）
+- R2-14 成果：`poetry-database/reports/tasks/2026-11-16/R2-14/`（来源追溯与文本重建证据闭环）
+- R2-13 成果：`poetry-database/reports/tasks/2026-11-16/R2-13/`（重复与元曲文本审计）
+- R2-12 成果：`poetry-database/reports/tasks/2026-11-16/R2-12/`（广韵、集韵、新韵与作品库复核）
+- R2-11 成果：`poetry-database/reports/tasks/2026-11-15/R2-11/`（词谱影印与例词核验）
+- R2-10 成果：`poetry-database/reports/tasks/2026-11-15/R2-10/`（三十首精读卡与抽样质量）
+- R2-09 成果：`poetry-database/reports/tasks/2026-11-14/R2-09/`（词谱逐符号核验）
+- R2-08 成果：`poetry-database/reports/tasks/2026-11-14/R2-08/`（例词关联与词牌实体）
+- R2-07 成果：`poetry-database/reports/tasks/2026-11-14/R2-07/`（196 条词格逐项核验与词牌数据库）
+- 每轮报告直链索引：仓库根 `REPORTS_INDEX.md`
 - R2-06 成果：`poetry-database/reports/tasks/2026-11-13/R2-06/`（C/D 通读、词牌目录盘点）
 - R2-05 成果：`poetry-database/reports/tasks/2026-11-13/R2-05/`（A/B 两书完整阅读与理论提取）
 - R2-04 成果：`poetry-database/reports/tasks/2026-11-13/R2-04/`（章节索引与局部精读）

@@ -1,0 +1,46 @@
+﻿book_id,书名,缺口类型,具体缺口,影响,证据路径
+A2,汉语诗律学,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,全书未取得；唐诗拗救与诗律系统论述缺第一手依据,"reports/round-1/01_文献目录与来源调查.md §A2；reports/round-1/03_书籍阅读与提取报告.md §五；poetry.db: books(BK-WANGLI-SHILV, status=FOUND)"
+A8,诗韵合璧,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；平水韵工具书缺校勘来源，库内平水韵为另一来源（维基转录）,reports/round-1/01_文献目录与来源调查.md §A8；round-1/ROUND-1_完整详细报告.md §4.2 A8
+A9,文镜秘府论校注,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；仅有白文，无校注，异文与注释无法引用,reports/round-1/01_文献目录与来源调查.md §A9；research/book_reading_notes/05_现代版权专著未获取说明.md
+B1,切韵,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,原书仅存残卷；校笺本未得；库内无切韵数据,reports/round-1/01_文献目录与来源调查.md §B1
+B7,中华通韵,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,关键替代错误：库内 zhonghua_xinyun_characters_r2_11 是 2005《中华新韵》十四韵，不是 2019《中华通韵》十六韵，不得互替,"poetry.db: rhyme_source_books_r2_11（ZHONGHUA_XINYUN，14 韵）、zhonghua_xinyun_characters_r2_11（7,597）、ph_systems_r2_08（modern_rhyme=DERIVED）"
+B8,汉语语音史,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；《汉语音韵学》（476 页 OCR）不能替代本书，二者体例与范围不同,reports/round-1/01_文献目录与来源调查.md §B8；poetry.db: book_items(wangli_yinyunxue)
+C11,乐府诗集,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,维基仅存目录页，未取正文；库内无 yuefu collection；《古诗纪》(gushiji) 不是《乐府诗集》，不可替代,reports/round-1/01_文献目录与来源调查.md §C11；poetry.db: works 无乐府诗集 collection
+C14,先秦汉魏晋南北朝诗,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；《古诗纪》不是同一书，且收录范围/校勘不同；魏晋南北朝覆盖仍不完整,"raw/books/gushiji（156 卷）；poetry.db: works(collection='gushiji', 6,159)；reports/round-1/01 §C14"
+C16,宋词三百首,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；《全宋词》只能替代检索，不能替代选目与笺注,reports/round-1/01_文献目录与来源调查.md §C16
+D6,原诗,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；叶燮诗论无第一手依据,"reports/round-1/01_文献目录与来源调查.md §D6；poetry.db: books(BK-YUANSHI, FOUND)"
+D7,历代诗话,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；诗话汇编缺，无法横向比对,reports/round-1/01_文献目录与来源调查.md §D7
+D8,词话丛编,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；词话汇编缺,reports/round-1/01_文献目录与来源调查.md §D8
+E1,中国文学史,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；作品有、阐释无,reports/round-1/01_文献目录与来源调查.md §E；round-1/ROUND-1_完整详细报告.md §4.2
+E2,唐诗学引论,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；作品有、阐释无,reports/round-1/01_文献目录与来源调查.md §E；round-1/ROUND-1_完整详细报告.md §4.2
+E3,唐宋词通论,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；作品有、阐释无,reports/round-1/01_文献目录与来源调查.md §E；round-1/ROUND-1_完整详细报告.md §4.2
+E4,杜甫评传,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；作品有、阐释无,reports/round-1/01_文献目录与来源调查.md §E；round-1/ROUND-1_完整详细报告.md §4.2
+E5,陶渊明研究,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,研究著作未得；R1 称「陶渊明作品本身为 0」已被推翻——works(collection='tao')=124 首,"poetry.db: works(collection='tao', 124)；raw/books/tao（59 文件）；reports/round-1/01 §E5"
+F1,汉语大词典,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；训释、典故、地名、鉴赏四类支撑全缺,reports/round-1/01_文献目录与来源调查.md §F
+F2,古汉语常用字字典,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；训释、典故、地名、鉴赏四类支撑全缺,reports/round-1/01_文献目录与来源调查.md §F
+F3,诗词曲语辞汇释,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；训释、典故、地名、鉴赏四类支撑全缺,reports/round-1/01_文献目录与来源调查.md §F
+F4,中国典故大辞典,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；训释、典故、地名、鉴赏四类支撑全缺,reports/round-1/01_文献目录与来源调查.md §F
+F5,中国历史地名大辞典,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；训释、典故、地名、鉴赏四类支撑全缺,reports/round-1/01_文献目录与来源调查.md §F
+F6,唐诗鉴赏辞典,NOT_ACQUIRED,全书未取得（仅有书目与渠道）,未取得；训释、典故、地名、鉴赏四类支撑全缺,reports/round-1/01_文献目录与来源调查.md §F
+A3,唐宋词格律,READING_INCOMPLETE,153 调/196 格中仅抽读 16 调；135 格未逐调通读,词谱规则不能声称已逐调读过；R2-07 只到结构层,poetry.db: reading_progress(READ_STRUCTURE)；cipai_forms_r2_07(196)；R2-07 报告
+A7,声律启蒙,READING_INCOMPLETE,30 韵仅读 3 韵，其余 27 韵 read_log=NOT_READ,对仗范本只覆盖 10%，不能作全书已读,"poetry.db: read_log(A7, NOT_READ)"
+A4,钦定词谱,VERSION_MISMATCH,登记中国书店 2010 影印本，实得四库全书本维基转录,页码/版式/谱字不能按登记版本引用,raw/books/cipu；sources WS-REF-CIPU；R2-01 §4.5
+A5,词律,VERSION_MISMATCH,登记上海古籍 1984 影印本，实得四库本转录,不能按登记影印本引用,raw/books/cilv；sources WS-REF-CILV
+B2,广韵,VERSION_MISMATCH,登记余迺永校注本，实得四库本转录；仅 9 条影印对校,反切可检索但不可称校注本；多音字判定仍需谨慎,raw/books/guangyun；guangyun_fanqie_validation_r2_11；R2-12 §3
+B2,广韵,SOURCE_GAP,"3,730 小韵仅 9 条与影印本对校；小韵首为结构重认",反切字头归属有残余错风险,R2-12 COMPLETE_REPORT §3.2
+B3,集韵,PARSE_UNUSABLE,raw/books/jiliyun 为 2026-11-12 首采失败版（10 卷仅 40 KB，只有韵例）,若误用该目录会以为集韵已全量；实际须用 raw/r2_08/jiyun_pages,raw/books/jiliyun；R2-01 §4.5；R2-12 §3.3
+B3,集韵,SOURCE_GAP,"33,664 字组/42,352 字级索引中 227 条 POSITION_ONLY；4 韵未定位小韵；未对图",非全部条目可定位到原书叶码,jiyun_entry_r2_12；jiyun_char_index_r2_12；R2-12 §3.3
+B4,平水韵,PROVENANCE_GAP,来源为维基文库转录，非韵书原书；字表为后世通行本；未与印本对勘,"可作分类表，不可作版本依据；R1 的 10,648 条目数字未复算",rhyme_source_books_r2_11(PINGSHUI_YUN)；raw/r2_09/rhyme/平水韻.json
+B5,词林正韵,SOURCE_GAP,"5,563 条按部-声调-韵目组织，非小韵；未与影印本对校",不能反推原书小韵与页码,ph_cilin_r2_09；rhyme_source_books_r2_11
+B6,中原音韵,SOURCE_GAP,"5,731 条维基转录，未对校；入声派三声未逐条核",曲韵判定可用性受限,ph_zhongyuan_r2_09；rhyme_source_books_r2_11
+B7,中华通韵,SUBSTITUTE_RISK,库内只有 2005《中华新韵》十四韵，不是 2019《中华通韵》十六韵,若把 zhonghua_xinyun_* 当通韵引用，韵部与韵字都会错,rhyme_source_books_r2_11(ZHONGHUA_XINYUN)；zhonghua_xinyun_characters_r2_11
+C7,花间集,SOURCE_GAP,498 首 vs 通行 500 首，差 2 首未说明,词集总量不闭合,"works(collection='huajianji', 498)"
+C9,元曲,DATA_QUALITY,"1,729 条标题/正文错位；24 条源截断；未修",曲文与标题可能错配，不能直接引用,R2-13 §8；R2-14 §5；yuanqu_text_audit_r2_13
+C12,古诗十九首,PARTIAL_TEXT,按题名仅 7/19 首可检出；其余题名异写或未立目,不能声称十九首齐全,works 题名检索；raw/books/wenxuan、gushiji
+C13,昭明文选,PARTIAL_TEXT,60 卷仅得 13 卷（19–31 诗类）,赋、书、序、论等文体全缺，文选覆盖不足 1/4,raw/books/wenxuan；sources WS-WENXUAN 13 条；works 357
+C15,明诗综／清诗汇／元诗选,PARTIAL_TEXT,元诗选未得；明诗综、清诗汇虽全卷但未对校,元代诗仍无专门选本支撑,raw/books/mingshi、wanqing；works mingshi/wanqing
+EXTRA-词学十讲,词学十讲（52 条之外）,SOURCE_GAP,"第 6 讲《论对偶》EPUB 丢失后半例词，仅存出处行（5,331 字中后半例证缺失）",该讲判 READ_WITH_SOURCE_GAP，不作完整引用；其余 9 讲 READ,"poetry.db: reading_records_r2_06(E:第6讲, source_gap)；raw/r2_06_notes/E_词学十讲十讲复核.md"
+A1,诗词格律,OCR_SOURCE_GAP,9/31 单元带 OCR 例外：谱行丢字、50+44+35 页词谱谱行不可用、去声一至十六韵整段缺失,31/31 READ 成立，但「读全」不等于「文本完整」；谱表不可作数据源,reading_records_r2_05.ocr_exception（9 行）；R2-05 §3.1/3.2
+C5,全宋词,COUNT_DIFF,"R1 19,595 首 vs 库内 18,794（−801）",词总数口径不一致，引用前须说明,works(collection='songci')；R1 §4.2
+C3,全唐诗,COUNT_DIFF,"R1 55,630 / 55,308 两说 vs 库内 55,308",唐诗总数口径不一致,works(collection='tang')
+C6,全宋诗,COUNT_DIFF,"R1 4 片 3,975 首 → 现 255 片 252,884 首（已补，但版本未对校）",覆盖已大幅改善；仍不可称「校勘本」,works(collection='songshi')；R2-01 §4.4

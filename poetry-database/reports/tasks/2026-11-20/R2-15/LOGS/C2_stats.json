@@ -1,0 +1,158 @@
+{
+  "recon": {
+    "group_universe_reproduced": 1678,
+    "works_in_universe": 3418,
+    "r2_14_group_universe": 1678,
+    "r2_14_group_distribution": {
+      "WRONG_AUTHOR_FIELD": 1017,
+      "VARIANT_TEXT": 436,
+      "SAME_WORK_MULTI_COLLECTION": 183,
+      "IMPORT_DUPLICATE": 26,
+      "UNKNOWN": 11,
+      "SAME_TITLE_DIFF_TEXT": 5
+    },
+    "mine_group_distribution": {
+      "SAME_WORK_MULTI_COLLECTION": 214,
+      "WRONG_AUTHOR_FIELD": 1032,
+      "VARIANT_TEXT": 369,
+      "UNKNOWN": 43,
+      "SAME_TITLE_DIFF_TEXT": 7,
+      "IMPORT_DUPLICATE": 13
+    },
+    "wrong_author_field_groups": 1032,
+    "wrong_author_field_groups_vs_1017": 15,
+    "wrong_author_field_works": 2081,
+    "prev_sample_rows": 162,
+    "prev_wrong_groups": 40,
+    "prev_wrong_works": 84,
+    "overlap_works_with_prev_sample": 62,
+    "prev_works_missing_from_mine": [
+      "gushiji:0c7c47e4ef43",
+      "gushiji:7a139cff8e09",
+      "songshi:31bb14f784cb",
+      "songshi:717f27c8184b",
+      "songshi:725c094e1a1b",
+      "songshi:893e50fe1481",
+      "songshi:8ed3282a2491",
+      "songshi:910f262f2cb6",
+      "songshi:9dba1ede5cfd",
+      "songshi:a56bb0f9d220",
+      "songshi:a76739adde6a",
+      "songshi:a7e504ca707e",
+      "songshi:ab264fa84fa6",
+      "songshi:d084f3d51dcc",
+      "songshi:d7313f404325",
+      "songshi:d7c316035eea",
+      "tang:41667b6592ca",
+      "tang:54d7b80b1ca2",
+      "tang:ca867036ee2d",
+      "tang:ddf666d11f1c",
+      "tang:e2979e056468",
+      "tao:f9c8ca59fbb7"
+    ]
+  },
+  "verdict_type_works": {
+    "PERSON": 1831,
+    "UNKNOWN": 66,
+    "COLLECTION_NAME": 14,
+    "ALIAS": 129,
+    "HONORIFIC": 40,
+    "WRONG_FIELD": 1
+  },
+  "confidence_works": {
+    "MEDIUM": 1973,
+    "UNKNOWN": 66,
+    "HIGH": 38,
+    "LOW": 4
+  },
+  "verdict_x_conf": {
+    "PERSON|MEDIUM": 1831,
+    "UNKNOWN|UNKNOWN": 66,
+    "COLLECTION_NAME|HIGH": 14,
+    "ALIAS|MEDIUM": 126,
+    "HONORIFIC|HIGH": 21,
+    "ALIAS|HIGH": 3,
+    "HONORIFIC|MEDIUM": 15,
+    "HONORIFIC|LOW": 4,
+    "WRONG_FIELD|MEDIUM": 1
+  },
+  "by_collection": {
+    "songshi": 1250,
+    "tang": 710,
+    "songci": 84,
+    "gushiji": 15,
+    "yuanqu": 16,
+    "wanqing": 4,
+    "mingshi": 2
+  },
+  "distinct_authors": 823,
+  "universe_pollution_rows": 376,
+  "universe_pollution_by_type": {
+    "HONORIFIC": 73,
+    "COLLECTION_NAME": 14,
+    "ALIAS": 259,
+    "WRONG_FIELD": 30
+  },
+  "universe_pollution_top_authors": [
+    [
+      "釋延壽",
+      46
+    ],
+    [
+      "釋道顔",
+      28
+    ],
+    [
+      "釋士珪",
+      27
+    ],
+    [
+      "花蕊夫人徐氏",
+      26
+    ],
+    [
+      "金元好問編",
+      24
+    ],
+    [
+      "則天皇后",
+      19
+    ],
+    [
+      "僧貫休",
+      17
+    ],
+    [
+      "郊廟朝會歌辭",
+      13
+    ],
+    [
+      "陶淵明",
+      13
+    ],
+    [
+      "張祕書斛",
+      10
+    ],
+    [
+      "釋宗杲",
+      7
+    ],
+    [
+      "釋德洪",
+      6
+    ],
+    [
+      "僧齊己",
+      6
+    ],
+    [
+      "釋道潜",
+      4
+    ],
+    [
+      "鮑照",
+      3
+    ]
+  ]
+}
