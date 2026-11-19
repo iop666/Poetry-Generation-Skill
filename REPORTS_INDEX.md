@@ -19,6 +19,6 @@
 | R2-12 | 2026-11-16 | 21,888 | [COMPLETE_REPORT.md](poetry-database/reports/tasks/2026-11-16/R2-12/COMPLETE_REPORT.md) | [目录](poetry-database/reports/tasks/2026-11-16/R2-12) |
 | R2-13 | 2026-11-16 | 21,869 | [COMPLETE_REPORT.md](poetry-database/reports/tasks/2026-11-16/R2-13/COMPLETE_REPORT.md) | [目录](poetry-database/reports/tasks/2026-11-16/R2-13) |
 | R2-14 | 2026-11-16 | 27,043 | [COMPLETE_REPORT.md](poetry-database/reports/tasks/2026-11-16/R2-14/COMPLETE_REPORT.md) | [目录](poetry-database/reports/tasks/2026-11-16/R2-14) |
-| R2-15 | 2026-11-20 | 16,740 | [COMPLETE_REPORT.md](poetry-database/reports/tasks/2026-11-20/R2-15/COMPLETE_REPORT.md) | [目录](poetry-database/reports/tasks/2026-11-20/R2-15) |
+| R2-15 | 2026-11-20 | 16,745 | [COMPLETE_REPORT.md](poetry-database/reports/tasks/2026-11-20/R2-15/COMPLETE_REPORT.md) | [目录](poetry-database/reports/tasks/2026-11-20/R2-15) |
 
 上传范围与排除项见 [UPLOAD_REPORT.md](UPLOAD_REPORT.md)；同步机制见 [GITHUB_SYNC.md](GITHUB_SYNC.md)。

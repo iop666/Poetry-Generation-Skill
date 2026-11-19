@@ -141,7 +141,9 @@ def main():
             "json_n": "" if jn is None else jn,
             "diff": "" if jn is None else n - jn,
             "probable_cause": cause, "suggested_match_rule": rule,
-            "verified_sample": "", "note": f"format={fmt}; status={status}; bytes={nbytes}",
+            "verified_sample": "",
+            "note": (f"format={fmt}; status={status}; bytes={nbytes}; short(CJK<8)={len(short)}"
+                     + (f"；例：{short[0][1]}《{short[0][0][:12]}》{short[0][2]}字" if short else "")),
             "_titles": titles, "_short": short,
         })
 

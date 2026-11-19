@@ -234,6 +234,8 @@ R2-14 称"这批记录的 author 实际取自另一字段（题注/序/词牌）
 
 不把"有 `source_id`"说成"能定位到卷页版本"；本轮未写入任何定位结果。
 
+---
+
 ## 8 细读卡与词谱（R2-15C5）
 
 - 30 张卡片状态不变：`MINOR_ISSUE` 16 / `UNVERIFIABLE` 8 / `NOT_REVISED` 5 / `MAJOR_ISSUE` 1，**`CLEAN` = 0**，不标为范例。
@@ -266,7 +268,7 @@ R2-14 称"这批记录的 author 实际取自另一字段（题注/序/词牌）
 | `AGENTS.md` | 补"公开仓库只放报告代码元数据样本"与"每轮先同步再报告"两条硬性边界；轮次成果更新至 R2-15 |
 | `LICENSE` | 新增 MIT |
 | `docs/README_ORIGINAL.md` | 旧 README 备份（工具不再覆盖 README） |
-| `REPORTS_INDEX.md` | 同步工具自动生成，15 轮直链 |
+| `REPORTS_INDEX.md` | 同步工具自动生成，16 轮直链 |
 | `UPLOAD_REPORT.md` / `GITHUB_SYNC.md` | 补版权正文排除项与历史遗留链接 |
 
 ---
