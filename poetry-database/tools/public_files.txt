@@ -904,3 +904,5 @@ poetry-database/raw/r2_07_finalize.json
 poetry-database/raw/r2_07_external.json
 poetry-database/raw/r2_07_forms.json
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/redaction_dryrun.log
+poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_real_push.log
+poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_e_clean_dryrun.log

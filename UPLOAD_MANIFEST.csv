@@ -621,9 +621,9 @@ poetry-database/reports/tasks/2026-11-20/R2-15/YUANQU_COMPLETENESS_4510.csv,1104
 poetry-database/reports/tasks/2026-11-20/R2-15/YUANQU_COMPLETENESS_SUMMARY.md,9729,7c6b49a4c1f9ea378576498feb1252b52804d1ade60abeaed041667ea05d496a,CLEAN
 poetry-database/reports/tasks/2026-11-20/R2-15/YUANQU_RECOVERY_TRIAD.csv,835870,87eb4ab4cfa77dbd17efb3f08a0990dd04223570c36028f567b2a747b6211bf5,CLEAN
 poetry-database/reports/tasks/2026-11-20/R2-15/YUANQU_TRUNCATION_RECHECK_20.csv,4154,5d082f21c5955b5fa71ee15e215776c98659ad95c1893c7f36671aa49e694f6c,CLEAN
-poetry-database/reports/tasks/2026-11-21/R2-16/COMPLETE_REPORT.md,26535,a0b555db6d578a46e8edd411903ac3c797cfbe63cb1a684364d64e4d55bb2f24,CLEAN
-poetry-database/reports/tasks/2026-11-21/R2-16/FILE_MANIFEST.md,7585,a02e6e2e6df186b268cad903526e1fa91ba97119bfc9b1dba4198567fd8a4779,CLEAN
-poetry-database/reports/tasks/2026-11-21/R2-16/FINAL_CHANGE_REPORT.md,3663,74523fbd6479c40d808d7236a53be3f8ac3eb05b89255208ceba063c74d6d3d8,CLEAN
+poetry-database/reports/tasks/2026-11-21/R2-16/COMPLETE_REPORT.md,27785,51a36842413af1bc7f2a710e84e2a8375b575857f34561abe3daf9fc2cfd295c,CLEAN
+poetry-database/reports/tasks/2026-11-21/R2-16/FILE_MANIFEST.md,7952,ca3ea860f04bee03ae820a388eee3d3a01fda2ef27949bcc1ca492bacb9706ee,CLEAN
+poetry-database/reports/tasks/2026-11-21/R2-16/FINAL_CHANGE_REPORT.md,4138,8e441b229683b3b7d0079ce0fda54b8b1a5f227967b4b0a051ca8572c6853ef3,CLEAN
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/quote_stats.log,2862,7f625cff7c44ba0989cbdf8dac590d3fbe36405a901612d8c9f9a7904c1019a9,COPIED
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/redaction_dryrun.log,487,a82bdb60e392c02cd9190826279c6064f9bdb1d6bf36aecf4342e4628073ff3f,COPIED
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_a2_full_sync.log,2883,014c8eb403876a1c41996302832980c783cbae428b9f4db982c5cf200a0f2ab2,COPIED
@@ -636,6 +636,8 @@ poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_c_dryrun.log,557,55b3d30
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_c_v3_dryrun.log,1137,0434233109c171283eb7e4321a562ef0acac4c5b41f151999214adc06a99331e,COPIED
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_d_real_dryrun.log,1054,ef1273f5bb194a75fceab09b10c65fd1585c44f8108900bab22bdfb4846fb899,COPIED
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_d_v3_withheld_guard.log,579,781e8ec8d6fe56cc35ba7e7fcb05e07b02adcf5f26240c71b1d5d639a3893951,COPIED
+poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_e_clean_dryrun.log,3754,97c3f1acf27b6b3fe3706237d75c53c84ee8ea32e0ab643405af69eb241c5ddd,COPIED
+poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_real_push.log,1356,7d4c09c1e626d2d6608fb9312a365c7df029d92970e6cbf24cd728bca2c39fb2,COPIED
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/tree_risk_scan.log,581,de52cd464fe12eeae31d50ff74a41209a7b5e13c3764da161b21f4329bbb7c96,COPIED
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/verify_t1_t13_v3.log,1958,575398f663f5db68dde08366a14d8684c7a6dff0050ab2c45b718f469b96b40d,COPIED
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/verify_t1_t9.log,1733,ec331891e8fdd1d225d7010d432fd67e7b2ca7db0fa13581d2181ffeecaa3269,COPIED
@@ -674,7 +676,7 @@ poetry-database/tools/paddle_align.py,4524,9e7230c87d892f78334d7f27dd683285408b3
 poetry-database/tools/paddle_rerun.py,17744,f84226fa4037263cda557c195a5ec3152f4053e5d138c66171c776476e09b832,CLEAN
 poetry-database/tools/parse.py,22720,14320568424c7ea35f9c670a88b824caa47d111675e64247bb509235500a49ae,CLEAN
 poetry-database/tools/parse_cipai_specs.py,7250,1325080a82b47445f09ca53e58de1f94ce3836f7a8e04059b11419eb1392bb2d,CLEAN
-poetry-database/tools/public_files.txt,58400,c94497fe065594bfbd936f5faf1268d409b5d6cf8c53da3acc988b9fc5b98b30,CLEAN
+poetry-database/tools/public_files.txt,58545,dad6caf8bd4968bf91d54996a994830d21bc368d8be11da3a1dbb63b7ad05210,CLEAN
 poetry-database/tools/public_redactions.json,3906,a98f3c226753be07cf7c84aff7eaf3f06ab8d570ca8a99d90ae80ec9776bb9b6,CLEAN
 poetry-database/tools/quality.py,8633,b09bee4802ba2234d2b22e89c482baf96e88961c498f2599702ff8fbbadab59b,CLEAN
 poetry-database/tools/query.py,4819,f8deacd805bcae877830b1a551afe6ebf4342e260c7af2ce06aa43d2c16759ed,CLEAN

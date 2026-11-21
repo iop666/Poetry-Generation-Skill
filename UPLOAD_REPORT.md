@@ -1,10 +1,10 @@
 # GitHub 上传报告
 
-- 时间：2026-11-21T15:35:36
+- 时间：2026-11-21T15:37:43
 - 仓库：`https://github.com/iop666/Poetry-Generation-Skill.git`（公开）
 - 同步机制：严格逐文件白名单 v3（默认拒绝未登记文件）——导出树先清空（保护名单除外），再复制 `tools/public_files.txt` 登记的文件
-- 本轮导出：**887** 个文件，合计 **51,543,896** 字节
-- 脱敏处理：CLEAN 853、COPIED 30、REDACTED_PUBLIC 3、VERBATIM 1
+- 本轮导出：**889** 个文件，合计 **51,551,243** 字节
+- 脱敏处理：CLEAN 853、COPIED 32、REDACTED_PUBLIC 3、VERBATIM 1
 - 推送前门禁：本机路径 / 手机号 / 凭据残留 **0 处**；邮箱 1 个（researcher@example.org）
 - 生成后校验：Manifest 双向对应、全部文件在白名单内、SHA-256（脱敏+改写后文件）可复算、硬排除 0。
 - 差异报告：见 [SYNC_DIFF.md](SYNC_DIFF.md)。

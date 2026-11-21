@@ -1,0 +1,37 @@
+逐文件白名单登记: 850 个文件（未登记文件一律不导出）
+默认拒绝审计：原八棵树下未登记文件 37 个
+  默认拒绝: poetry-database/reports/tasks/2026-11-13/R2-04/ERRATA_PUBLIC_SYNC.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-16/R2-14/R2_14_ERRATA.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/AUTHOR_FIELD_POLLUTION_UNIVERSE.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/AUTHOR_WRONG_FIELD_1017.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/AUTHOR_WRONG_FIELD_GROUPS.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/AUTHOR_WRONG_FIELD_SUMMARY.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/BOOK_CATALOG_52.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/COMPLETE_REPORT.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/COPYRIGHT_CHARCOUNT_DIFF.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/COPYRIGHT_HISTORY_IMPACT.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/COPYRIGHT_SYNC_AUDIT.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/FILE_MANIFEST.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/B_notes.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/C2_audit_wrong_author.py
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/C2_stats.json
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/C3_count_mismatch.py
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/C3_stats.json
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/baseline.json
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/build_book_catalog_52.py
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/build_completeness_4510.py
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/stats_completeness.json
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/LOGS/tests_r2_15.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/MISSING_MATERIALS.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/READING_RECORD_AUDIT.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/SOURCE_COUNT_MISMATCH_214.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/SOURCE_COUNT_MISMATCH_SUMMARY.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/TEST_EXPECTATION_CHANGELOG_R2_15.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/TEST_RESULTS_R2_15.md
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/WORKS_339_EVIDENCE_CLOSURE.csv
+  默认拒绝: poetry-database/reports/tasks/2026-11-20/R2-15/WORKS_339_EVIDENCE_CLOSURE.md
+导出时改写规则: 4 条，涉及 3 个文件
+暂停公开: poetry-database/raw/r2_04_evidence/ocr_samples.json —— R2-16B 裁决：维持 WITHHELD。公开版 ocr_samples_public.json 只保留页码/字符统计/质量标记，不保留 OCR 正文前缀（make_public_evidence.py 生成）
+暂停公开: poetry-database/raw/r2_04_evidence/theory_locate.json —— R2-16B 裁决：维持 WITHHELD。公开版 theory_locate_public.json 保留页码/主题/核验状态，引文以 SHA-256 代替（make_public_evidence.py 生成）
+本轮导出文件数: 850 合计字节: 48278370
+DRY RUN 完成。首 10 项: ['AGENTS.md', 'AGENT_REPORTING_STANDARD.md', 'docs/README.md', 'docs/README_ORIGINAL.md', 'docs/实施报告.md', 'docs/实施汇报.html', 'docs/验收测试记录.md', 'poetry-database/audit/acquisition_log.jsonl', 'poetry-database/audit/author_canon_report.json', 'poetry-database/audit/coverage.json']

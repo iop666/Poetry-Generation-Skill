@@ -272,3 +272,17 @@ UNKNOWN 数量：0（本轮所有检查均有确定性输出）。
 
 - **SELF_STATUS：PASS（授权范围内）**——审核七项要求全部落实；沙盒 13 项断言 + 3 个中止场景全 PASS；远端零写操作。
 - 待审核批准事项：① 批准后执行一次普通 fast-forward 同步（变更集见 14.6）；② 确认 AGENTS.md/r2_14 两文件"以公开版为准"的处理；③ 确认 local 旧项目目录的退役安排。
+
+---
+
+# 15 推送执行记录（2026-11-21，用户批准后）
+
+- 执行方式：在干净克隆 `clean-main`（@ `37ee224`）运行 `python poetry-database/tools/github_sync.py`，普通 fast-forward 推送。
+- **新远端 main：`eba67745d998b3bfd6d559124ca89a1fe58437b8`**（提交信息 `Sync project reports and tools 2026-11-21`，父提交 `37ee224`，单提交推进，无 force）。
+- 导出 887 文件（51,543,685 字节）；清空导出树删除残留 869；改写生效 3 文件（A_02/A_05/C → REDACTED_PUBLIC）；敏感扫描仅 `researcher@example.org` 占位符；VERIFY PASS（895 = 887 + 2 保护 + 6 生成）；SYNC_DIFF 新增 27 / 修改 9 / 删除 4；PUSH OK（exit 0）。
+- 推送后独立核验（`gh api git/trees`）：
+  - 删除路径计数 = 0：`raw/r2_04_evidence/ocr_samples.json`、`theory_locate.json`、`tools/ocr_vision`；
+  - 新文件远端存在 = 1：public_files.txt、public_redactions.json、make_public_evidence.py、两份 *_public.json；
+  - 改写后的公开笔记（A_02 等）已入远端。
+- 本机路径形态的暂存位置信息不出现在公开内容（导出时脱敏）。
+- 本节为执行后补记；第二次小同步（本节与执行日志入仓）为远端第二提交。

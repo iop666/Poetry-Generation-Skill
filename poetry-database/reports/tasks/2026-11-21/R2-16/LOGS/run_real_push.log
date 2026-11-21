@@ -1,0 +1,20 @@
+# R2-16 真实同步执行日志（2026-11-21，从 clean-main @ 37ee224 执行）
+# 命令：python poetry-database/tools/github_sync.py（干净克隆工作目录）
+逐文件白名单登记: 887 个文件（未登记文件一律不导出）
+默认拒绝审计：原八棵树下未登记文件 1 个
+  默认拒绝: poetry-database/tools/ocr_vision
+导出时改写规则: 4 条，涉及 3 个文件
+暂停公开: poetry-database/raw/r2_04_evidence/ocr_samples.json / theory_locate.json（维持 WITHHELD）
+本轮导出文件数: 887 合计字节: 51543685
+清空导出树：删除上一轮残留 869 个文件（保护名单除外）
+导出时改写生效的文件:
+  REDACTED_PUBLIC: poetry-database/raw/r2_05_notes/A_02_第二章.md
+  REDACTED_PUBLIC: poetry-database/raw/r2_05_notes/A_05_附录一.md
+  REDACTED_PUBLIC: poetry-database/raw/r2_06_notes/C_诗词格律十讲.md
+文本中出现的邮箱（仅供人工确认）: ['researcher@example.org']
+报告索引： 17 轮
+SYNC_DIFF：新增 27 / 修改 9 / 删除 4 / 改名 0
+VERIFY PASS：导出树 895 文件 = Manifest 887 + 保护 2 + 生成 6；全部在逐文件白名单内；硬排除 0；SHA-256 全部可复算。
+PUSH OK
+上传完成: 887 个文件 51543896 字节
+（暂存目录与清单：Desktop workbuddy 2026-11-21 .tmp 下的标准位置，本机路径已在导出时脱敏）

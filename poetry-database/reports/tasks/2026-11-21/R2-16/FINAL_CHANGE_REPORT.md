@@ -59,3 +59,9 @@
 
 - 本变更集只涉及公开仓库文件与同步工具；生产 SQLite、作品数据、作者归属、元曲数据（R2-16D/E/F）不在本 Agent 职责内，本轮零触碰。
 - 本地原始研究材料（`raw/r2_04_evidence/full|chapters`、两份 JSON 原件）零删除、零修改，保留在受控本地目录。
+
+## 5. 执行结果（2026-11-21，用户批准后）
+
+- 已执行普通 fast-forward 同步：远端 main `37ee224…` → **`eba67745d998b3bfd6d559124ca89a1fe58437b8`**（单提交）。
+- §2 预览与实际 SYNC_DIFF 一致：新增 27 / 修改 9 / 删除 4；删除三条路径（两份 WITHHELD 原件、ocr_vision）远端计数已核验为 0。
+- 本报告与 COMPLETE_REPORT §15 执行记录、执行日志（LOGS/run_real_push.log）经第二次小同步入仓。
