@@ -1,0 +1,21 @@
+逐文件白名单登记: 11 个文件（未登记文件一律不导出）
+默认拒绝审计：原八棵树下未登记文件 1 个
+  默认拒绝: docs/unregistered_draft.md
+导出时改写规则: 1 条，涉及 1 个文件
+暂停公开: poetry-database/raw/r2_04_evidence/ocr_samples.json —— R2-16B 裁决：维持 WITHHELD。公开版 ocr_samples_public.json 只保留页码/字符统计/质量标记，不保留 OCR 正文前缀（make_public_evidence.py 生成）
+暂停公开: poetry-database/raw/r2_04_evidence/theory_locate.json —— R2-16B 裁决：维持 WITHHELD。公开版 theory_locate_public.json 保留页码/主题/核验状态，引文以 SHA-256 代替（make_public_evidence.py 生成）
+本轮导出文件数: 11 合计字节: 31878
+Cloning into 'D:\ZCode\zcode\r2_16_workspace\synctest\staging\repo'...
+done.
+清空导出树：删除上一轮残留 5 个文件（保护名单除外）
+导出时改写生效的文件:
+  REDACTED_PUBLIC: docs/notes_test.md
+WARN README 需恢复但无备份，请人工检查
+文本中出现的邮箱（仅供人工确认）: []
+报告索引： 0 轮
+SYNC_DIFF：新增 15 / 修改 1 / 删除 4 / 改名 0
+VERIFY PASS：导出树 19 文件 = Manifest 11 + 保护 2 + 生成 6；全部在逐文件白名单内；硬排除 0；SHA-256 全部可复算。
+PUSH OK
+上传完成: 11 个文件 31677 字节
+暂存目录: D:\ZCode\zcode\r2_16_workspace\synctest\staging\repo
+清单: D:\ZCode\zcode\r2_16_workspace\synctest\staging\repo\UPLOAD_MANIFEST.csv

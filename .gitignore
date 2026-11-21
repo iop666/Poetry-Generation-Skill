@@ -2,9 +2,10 @@
 __pycache__/
 *.pyc
 *.pyo
-# 以下内容按项目规则永不上传：
-# poetry-database/database/  (732 MB SQLite，含本机绝对路径)
-# poetry-database/normalized/ (395 MB 语料，超 GitHub 单文件上限)
+# 以下内容按项目规则永不上传（R2-16C 起为硬排除，命中即中止同步）：
+# poetry-database/database/  (SQLite，含本机绝对路径)
+# poetry-database/normalized/ (超 GitHub 单文件上限的语料)
 # books/, poetry-database/raw/books* (现代版权书全文与 OCR)
+# poetry-database/raw/r2_04_evidence/full|chapters (现代版权著作连续正文)
 # poetry-database/raw/*/images/, */facsimile/ (书页图像)
 # .workbuddy/ (本机记忆与临时数据)

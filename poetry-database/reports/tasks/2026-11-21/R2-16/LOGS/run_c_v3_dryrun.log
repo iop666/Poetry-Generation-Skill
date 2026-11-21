@@ -1,0 +1,8 @@
+逐文件白名单登记: 11 个文件（未登记文件一律不导出）
+默认拒绝审计：原八棵树下未登记文件 1 个
+  默认拒绝: docs/unregistered_draft.md
+导出时改写规则: 1 条，涉及 1 个文件
+暂停公开: poetry-database/raw/r2_04_evidence/ocr_samples.json —— R2-16B 裁决：维持 WITHHELD。公开版 ocr_samples_public.json 只保留页码/字符统计/质量标记，不保留 OCR 正文前缀（make_public_evidence.py 生成）
+暂停公开: poetry-database/raw/r2_04_evidence/theory_locate.json —— R2-16B 裁决：维持 WITHHELD。公开版 theory_locate_public.json 保留页码/主题/核验状态，引文以 SHA-256 代替（make_public_evidence.py 生成）
+本轮导出文件数: 11 合计字节: 31878
+DRY RUN 完成。首 10 项: ['AGENTS.md', 'docs/normal_doc.md', 'docs/notes_test.md', 'docs/sanitize_test.md', 'poetry-database/README.md', 'poetry-database/raw/r2_04_evidence/manifest.json', 'poetry-database/raw/r2_05_notes/A_00_引言.md', 'poetry-database/raw/r2_07_finalize.json', 'poetry-database/tools/github_sync.py', 'poetry-database/tools/public_files.txt']

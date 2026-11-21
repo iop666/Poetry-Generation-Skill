@@ -1,0 +1,322 @@
+[
+ {
+  "book_id": "wangli_shicilv",
+  "page": 0,
+  "chars": 24,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 8,
+  "chars": 104,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 17,
+  "chars": 402,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 35,
+  "chars": 483,
+  "empty": false,
+  "has_pingze_symbols": true,
+  "has_rusheng_mark": true,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 41,
+  "chars": 640,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": true,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 50,
+  "chars": 550,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 79,
+  "chars": 349,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 125,
+  "chars": 273,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 183,
+  "chars": 8,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 265,
+  "chars": 349,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 340,
+  "chars": 624,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": true,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_shicilv",
+  "page": 431,
+  "chars": 807,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 0,
+  "chars": 272,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 5,
+  "chars": 570,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 50,
+  "chars": 744,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 100,
+  "chars": 604,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 160,
+  "chars": 675,
+  "empty": false,
+  "has_pingze_symbols": true,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 200,
+  "chars": 588,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 260,
+  "chars": 810,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 320,
+  "chars": 615,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 400,
+  "chars": 3261,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_yinyunxue",
+  "page": 475,
+  "chars": 204,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 0,
+  "chars": 19,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 5,
+  "chars": 285,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 50,
+  "chars": 650,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 100,
+  "chars": 761,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 200,
+  "chars": 823,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 300,
+  "chars": 690,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 400,
+  "chars": 719,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 500,
+  "chars": 752,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 650,
+  "chars": 710,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": true,
+  "engine": "PaddleOCR-VL-1.6"
+ },
+ {
+  "book_id": "wangli_tongyuan",
+  "page": 782,
+  "chars": 1513,
+  "empty": false,
+  "has_pingze_symbols": false,
+  "has_rusheng_mark": false,
+  "has_footnote": false,
+  "engine": "PaddleOCR-VL-1.6"
+ }
+]

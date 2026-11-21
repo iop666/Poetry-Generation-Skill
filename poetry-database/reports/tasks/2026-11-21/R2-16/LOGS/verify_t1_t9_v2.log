@@ -1,0 +1,14 @@
+
+用例    检查项                                           结果      详情
+----------------------------------------------------------------------------------------------------
+T1    白名单文件可以正常导出                                   PASS    8 个文件全部在公开树中
+T2    full/ 与 chapters/ 不会导出                        PASS    公开树 0 命中
+T3    非白名单文件不会残留（含旧公开的 ocr_samples.json）            PASS    stray_old.json / old_dir/ / ocr_samples.json 均已删除
+T4    旧 Manifest 中已删除文件被正确处理                        PASS    docs/old_report.md 在树中: False; 在新 Manifest 中: False
+T5    Manifest 与最终公开目录完全对应（双向）                      PASS    树 15 文件 = Manifest 8 + 保护 2 + 生成 5
+T6    SHA-256 对应最终公开文件（脱敏后），且脱敏生效                   PASS    SHA不符: []; 脱敏OK: True; 源SHA==导出SHA: False
+T7    本地数据库/normalized/研究原稿不被误删，且不进入公开树             PASS    6 个本地毒饵文件全部健在；database/normalized 0 进入公开树
+T8    保护名单（README/LICENSE）不被清空逻辑删除                  PASS    README保留: True; LICENSE保留: True
+T9    origin/main 已被正常推进（普通推送，非 force）              PASS    origin/main = 0cdc6fdc26b5f4750c9399e2fd0dacaeedfc242c
+----------------------------------------------------------------------------------------------------
+总计 9 项，FAIL 0 项

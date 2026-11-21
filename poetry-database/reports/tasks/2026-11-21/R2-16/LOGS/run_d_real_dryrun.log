@@ -1,0 +1,7 @@
+白名单文件数: 826 合计字节: 48586921
+暂停公开（WITHHELD，不导出）:
+  - poetry-database/raw/r2_04_evidence/ocr_samples.json —— R2-16B：32 条王力著作 OCR 页首片段（约 2,654 字符逐字文本）。分类混合 FACTUAL_METADATA（书名页/目录/索引）与 SHORT_QUOTATION（正文片段），公开必要性存疑，待外部审核批准
+  - poetry-database/raw/r2_04_evidence/theory_locate.json —— R2-16B：16 条王力/龙榆生著作逐字引文（约 901 字符）。分类 SHORT_QUOTATION，单条最长约 200 字符，待外部审核批准
+软排除/缺失（共 1 项）:
+  - poetry-database/tools/__pycache__/github_sync.cpython-314.pyc —— 软排除（噪声文件）
+DRY RUN 完成。首 10 项: ['AGENTS.md', 'AGENT_REPORTING_STANDARD.md', 'docs/README.md', 'docs/README_ORIGINAL.md', 'docs/实施报告.md', 'docs/实施汇报.html', 'docs/验收测试记录.md', 'poetry-database/README.md', 'poetry-database/audit/acquisition_log.jsonl', 'poetry-database/audit/author_canon_report.json']

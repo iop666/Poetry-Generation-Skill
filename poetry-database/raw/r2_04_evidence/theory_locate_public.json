@@ -1,0 +1,178 @@
+[
+ {
+  "id": 15,
+  "book_id": "wangli_shicilv",
+  "old_page": 42,
+  "topic": "孤平",
+  "verified_pages": [],
+  "verdict": "NOT_FOUND",
+  "quote_sha256": "fc89ad5d300a6fdb5b71ba7a6a0f56b6f78f6c0d37641f6ffa4dfdf21f39f163"
+ },
+ {
+  "id": 16,
+  "book_id": "wangli_shicilv",
+  "old_page": 42,
+  "topic": "特拗（特定平仄格式）",
+  "verified_pages": [
+   42
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "b46aa6f69ec8f75697cdfb0a9f05d219cb6105ac723aa04394b46fa0dad3746e"
+ },
+ {
+  "id": 17,
+  "book_id": "wangli_shicilv",
+  "old_page": 44,
+  "topic": "拗救",
+  "verified_pages": [
+   44
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "dde86e742e805ab41fda927bff625d8062a37bf228e0aa2da0895cb94dccf3e4"
+ },
+ {
+  "id": 18,
+  "book_id": "wangli_shicilv",
+  "old_page": 47,
+  "topic": "一三五不论",
+  "verified_pages": [
+   41,
+   47,
+   410
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "fb6c90c693da94ec9d13ef65d0983c595edc42c87b95e674b5a88f801011b82d"
+ },
+ {
+  "id": 19,
+  "book_id": "wangli_shicilv",
+  "old_page": 48,
+  "topic": "一三五不论（续）",
+  "verified_pages": [
+   48
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "c8e3a188115e4af7a27db436ae6527c030b7f92f6af92e4d000120a6e2639e6a"
+ },
+ {
+  "id": 20,
+  "book_id": "wangli_shicilv",
+  "old_page": 50,
+  "topic": "三平调",
+  "verified_pages": [
+   50
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "b501fed0addb140221f8de2c6511f0747a279fdec32e2f6b05b86ae2650580bc"
+ },
+ {
+  "id": 21,
+  "book_id": "wangli_shicilv",
+  "old_page": 57,
+  "topic": "合掌",
+  "verified_pages": [
+   57
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "0a8269cc33b6afae9118eedfb51d92771d423bf5d321d1555de0133a406c2eec"
+ },
+ {
+  "id": 22,
+  "book_id": "wangli_shicilv",
+  "old_page": 57,
+  "topic": "对仗优劣",
+  "verified_pages": [
+   57
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "ea41ddc433e615288016b0bea0e1325cb2c8d2e966889a3363920772dbaec96e"
+ },
+ {
+  "id": 23,
+  "book_id": "long_yushsheng_cilv",
+  "old_page": 6,
+  "topic": "词韵分类",
+  "verified_pages": [
+   6
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "c63b59f05a9f1e6918dcf5c6f86a9eb87c284cb02af2e77ab7f55372701a04be"
+ },
+ {
+  "id": 24,
+  "book_id": "long_yushsheng_cilv",
+  "old_page": 7,
+  "topic": "词谱符号",
+  "verified_pages": [
+   7
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "b6240dc16dc77be31d08c95a518c6e3660d374215e8d5080547aeee614a35028"
+ },
+ {
+  "id": 25,
+  "book_id": "long_yushsheng_cilv",
+  "old_page": 60,
+  "topic": "与《钦定词谱》分歧",
+  "verified_pages": [
+   60
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "0b2b5c5b6b7ed021e7236f927ab855a0a985b3d7d073275adbe3a284529d8988"
+ },
+ {
+  "id": 26,
+  "book_id": "long_cixue_shijiang",
+  "old_page": null,
+  "topic": "词的性质",
+  "verified_pages": [
+   5
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "a88cb088f8857e1af9b63f6b32787fff62b7d0ba1462fe491c69734d976b1de8"
+ },
+ {
+  "id": 27,
+  "book_id": "long_cixue_shijiang",
+  "old_page": null,
+  "topic": "选调与声情",
+  "verified_pages": [
+   7
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "5114978192f970b83d73f4240d87f7d2833936cc2abdbbdbd460619a385b4864"
+ },
+ {
+  "id": 28,
+  "book_id": "long_cixue_shijiang",
+  "old_page": null,
+  "topic": "韵位与表情",
+  "verified_pages": [
+   9
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "9ec9617eb93d4228975cce90920f11ebb782f546d478e89479c0dc7f95018c41"
+ },
+ {
+  "id": 29,
+  "book_id": "long_cixue_shijiang",
+  "old_page": null,
+  "topic": "四声阴阳",
+  "verified_pages": [
+   12
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "de635f15e217a42b49d2cc6c39546b34e740fb03f4fa63846c3d39164407c3da"
+ },
+ {
+  "id": 30,
+  "book_id": "long_cixue_shijiang",
+  "old_page": null,
+  "topic": "句度与表情",
+  "verified_pages": [
+   8
+  ],
+  "verdict": "QUOTE_FOUND",
+  "quote_sha256": "1c5245d95dc3a482052903f7817b27959f86a8e87b49aaffc3af7ab4d4b2e3bb"
+ }
+]

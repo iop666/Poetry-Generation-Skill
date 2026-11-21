@@ -1,0 +1,18 @@
+
+用例    检查项                                           结果      详情
+--------------------------------------------------------------------------------------------------------
+T1    白名单文件可以正常导出（含新增治理文件）                          PASS    11 个文件全部在公开树中
+T2    full/ 与 chapters/ 不会导出                        PASS    公开树 0 命中
+T3    非白名单文件不会残留                                    PASS    旧残留全部清除
+T4    旧 Manifest 中已删除文件被正确处理                        PASS    在树中: False; 在新 Manifest: False
+T5    Manifest 与最终公开目录完全对应（双向）                      PASS    树 19 = Manifest 11 + 保护 2 + 生成 6
+T6    SHA-256 对应最终公开文件（脱敏后），脱敏生效                    PASS    SHA不符: []; 脱敏OK: True
+T7    本地数据库/normalized/研究原稿不被误删                     PASS    6 个本地毒饵文件全部健在
+T8    保护名单（README/LICENSE）不被清空逻辑删除                  PASS    README: True; LICENSE: True
+T9    origin/main 被普通 fast-forward 推送推进             PASS    origin/main = 57fd6d8a16c09dfb5e515aaad4cb4784439d9ee4
+T10   默认拒绝：未登记文件不导出                                 PASS    unregistered_draft.md 未进入公开树
+T11   导出时改写生效：公开版无逐字原文，本地原件不动                       PASS    公开版改写: True; 本地原件保留: True; treatment: REDACTED_PUBLIC
+T12   SYNC_DIFF.md 差异报告生成且内容正确                      PASS    增/改/删条目与合计齐全
+T13   白名单文件本身随仓库公开（可审计）                             PASS    public_files.txt 已公开
+--------------------------------------------------------------------------------------------------------
+总计 13 项，FAIL 0 项

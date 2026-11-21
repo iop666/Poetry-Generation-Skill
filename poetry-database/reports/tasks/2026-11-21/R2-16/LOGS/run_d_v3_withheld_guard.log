@@ -1,0 +1,6 @@
+逐文件白名单登记: 12 个文件（未登记文件一律不导出）
+默认拒绝审计：原八棵树下未登记文件 1 个
+  默认拒绝: docs/unregistered_draft.md
+导出时改写规则: 1 条，涉及 1 个文件
+暂停公开: poetry-database/raw/r2_04_evidence/ocr_samples.json —— R2-16B 裁决：维持 WITHHELD。公开版 ocr_samples_public.json 只保留页码/字符统计/质量标记，不保留 OCR 正文前缀（make_public_evidence.py 生成）
+ABORT 暂停公开文件被登记进白名单: poetry-database/raw/r2_04_evidence/ocr_samples.json

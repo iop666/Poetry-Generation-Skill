@@ -1,0 +1,41 @@
+WARN 白名单项不存在: AGENT_REPORTING_STANDARD.md
+WARN 白名单项不存在: poetry-database/raw/r2_04_cipai_index.json
+WARN 白名单项不存在: poetry-database/raw/r2_04_evidence/README_CHARCOUNT.md
+WARN 白名单项不存在: poetry-database/raw/r2_06_notes
+WARN 白名单项不存在: poetry-database/raw/r2_07_external.json
+WARN 白名单项不存在: poetry-database/raw/r2_07_forms.json
+WARN 白名单项不存在: 诗词格律引擎
+WARN 白名单项不存在: poetry-database/reports
+WARN 白名单项不存在: poetry-database/catalog
+WARN 白名单项不存在: poetry-database/research
+WARN 白名单项不存在: poetry-database/audit
+WARN 白名单项不存在: poetry-database/sources
+白名单文件数: 8 合计字节: 24869
+暂停公开（WITHHELD，不导出）:
+  - poetry-database/raw/r2_04_evidence/ocr_samples.json —— R2-16B：32 条王力著作 OCR 页首片段（约 2,654 字符逐字文本）。分类混合 FACTUAL_METADATA（书名页/目录/索引）与 SHORT_QUOTATION（正文片段），公开必要性存疑，待外部审核批准
+  - poetry-database/raw/r2_04_evidence/theory_locate.json —— R2-16B：16 条王力/龙榆生著作逐字引文（约 901 字符）。分类 SHORT_QUOTATION，单条最长约 200 字符，待外部审核批准
+软排除/缺失（共 12 项）:
+  - AGENT_REPORTING_STANDARD.md —— 白名单项不存在
+  - poetry-database/raw/r2_04_cipai_index.json —— 白名单项不存在
+  - poetry-database/raw/r2_04_evidence/README_CHARCOUNT.md —— 白名单项不存在
+  - poetry-database/raw/r2_06_notes —— 白名单项不存在
+  - poetry-database/raw/r2_07_external.json —— 白名单项不存在
+  - poetry-database/raw/r2_07_forms.json —— 白名单项不存在
+  - 诗词格律引擎 —— 白名单项不存在
+  - poetry-database/reports —— 白名单项不存在
+  - poetry-database/catalog —— 白名单项不存在
+  - poetry-database/research —— 白名单项不存在
+  - poetry-database/audit —— 白名单项不存在
+  - poetry-database/sources —— 白名单项不存在
+Cloning into 'D:\ZCode\zcode\r2_16_workspace\synctest\staging\repo'...
+done.
+清空导出树：删除上一轮残留 5 个文件（保护名单除外）
+  首 10 项: ['stray_old.json', 'UPLOAD_MANIFEST.csv', 'docs/old_report.md', 'old_dir/junk.txt', 'poetry-database/raw/r2_04_evidence/ocr_samples.json']
+WARN README 需恢复但无备份，请人工检查
+文本中出现的邮箱（仅供人工确认）: []
+报告索引： 0 轮
+VERIFY PASS：导出树 15 个文件 = Manifest 8 + 保护 2 + 生成 5；硬排除命中 0；SHA-256 全部可复算。
+PUSH OK
+上传完成: 8 个文件 24842 字节
+暂存目录: D:\ZCode\zcode\r2_16_workspace\synctest\staging\repo
+清单: D:\ZCode\zcode\r2_16_workspace\synctest\staging\repo\UPLOAD_MANIFEST.csv
