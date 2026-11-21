@@ -1,70 +1,99 @@
-# TEST_RESULTS —— R2-16D 同步工具测试
+# R2-16C_TEST_RESULTS —— 同步工具 v3 测试与真实推送证据（第三版，含推送后验证）
 
-- 测试日期：2026-11-21
-- 被测对象：`poetry-database/tools/github_sync.py`（严格白名单 v2，R2-16C 重构版）
-- 测试环境：沙盒合成项目 + 本地 bare 仓库冒充远端（`D:\ZCode\zcode\r2_16_workspace\synctest\`），
-  通过 `GITHUB_SYNC_REPO_URL` / `GITHUB_SYNC_STAGING` 环境变量注入。
-  **测试全程未触碰 GitHub 公开仓库；真实 GitHub 远端仅执行过 `--dry-run`（无网络写入）。**
-- 独立断言脚本：`D:\ZCode\zcode\r2_16_workspace\verify_tests.py`（不调用被测脚本的任何函数，
-  直接读 origin.git 的 git 对象复核）
-- 沙盒合成项目毒饵：`database/poetry.db`、`normalized/corpus.jsonl`、
-  `raw/r2_04_evidence/full/A_015_引言.md`、`raw/r2_04_evidence/chapters/A_017_诗律.md`、
-  `ocr_samples.json`、`theory_locate.json`、`docs/books/poison.pdf`（Run B 用）
+> 版本说明：本文件第一版为 v2 七项测试（曾名 TEST_RESULTS.md），第二版仅更名未更新正文——
+> 该状态经外部审核指出（R2-16C 第二轮独立审核 P1）后，本版为**完整重写**，
+> 覆盖：沙盒 T1–T13、三个中止场景、两次真实推送输出、推送后全新克隆路径级验证。
+> 更名原因：避免与数据库任务的 R2-16D 混淆（本文件只属于同步工具 R2-16C）。
 
-## 任务要求的七项测试
+- 测试与执行日期：2026-11-21
+- 被测对象：`poetry-database/tools/github_sync.py` v3（严格逐文件白名单）
+- 沙盒环境：`D:\ZCode\zcode\r2_16_workspace\synctest\`（本地 bare origin + 合成项目 + 独立断言脚本 verify_tests.py），通过 `GITHUB_SYNC_REPO_URL` / `GITHUB_SYNC_STAGING` 注入，**不触碰 GitHub**
+- 真实推送：从干净克隆 `clean-main`（同步源）执行；远端认证 HTTPS + gh 凭据
+- 独立断言：verify_tests.py 不调用被测脚本任何函数，直接读 git 对象复核
 
-| # | 要求 | 结果 | 证据 |
-|---|---|---|---|
-| 1 | 白名单文件可以正常导出 | **PASS** | T1：8 个合成白名单文件全部出现在 origin main 树中（LOGS/verify_t1_t9_v2.log）；真实项目 dry-run 826 个候选正常列出（LOGS/run_d_real_dryrun.log） |
-| 2 | full/ 和 chapters/ 不会导出 | **PASS** | 双重验证：(a) origin 树 0 命中（T2）；(b) 毒饵 `docs/books/poison.pdf` 位于白名单树内时整次同步 exit 4 中止（Run B），origin/main 保持 `0cdc6fdc` 不变 |
-| 3 | 非白名单文件不会残留 | **PASS** | T3：种子 origin 中的 `stray_old.json`、`old_dir/junk.txt`、旧公开的 `ocr_samples.json` 全部被清空导出树逻辑删除 |
-| 4 | 旧 Manifest 中的文件已删除时能正确处理 | **PASS** | T4：种子 origin 的旧 UPLOAD_MANIFEST.csv 登记了 `docs/old_report.md`（本地已无此文件）；同步后该文件从公开树删除、无崩溃、新 Manifest 不再含该行。v2 实现完全不再读取旧 Manifest |
-| 5 | Manifest 与最终公开目录完全对应 | **PASS** | T5 双向校验：树 15 文件 = Manifest 8 + 保护 2（README/LICENSE）+ 生成 5（.gitignore/UPLOAD_MANIFEST.csv/UPLOAD_REPORT.md/GITHUB_SYNC.md/REPORTS_INDEX.md）；脚本内置 verify_export 在每次真实同步推送前强制执行（verify 不通过 exit 6） |
-| 6 | SHA-256 对应最终公开文件，而不是脱敏前源文件 | **PASS** | T6：8 个 Manifest 行逐一用 origin blob 复算 SHA-256 全部一致；脱敏样例 `docs/sanitize_test.md` 中的本机路径样例（macOS 与 Windows 两种形态）已被脱敏规则替换为 `<LOCAL_WORKBUDDY>`/`<HOME>` 占位符；Manifest SHA ≠ 源文件 SHA（即按脱敏后文件计算） |
-| 7 | 本地数据库、normalized、研究原稿不被误删 | **PASS** | T7：6 个本地毒饵文件同步后全部健在（含 full/、chapters/、ocr_samples.json、theory_locate.json 原件）；database/normalized 0 进入公开树；源项目其余文件未动 |
+## 一、沙盒测试（v3，13 项全 PASS）
 
-## 附加测试（超出七项要求，针对本轮发现的风险）
+沙盒合成项目含毒饵：`database/poetry.db`、`normalized/corpus.jsonl`、
+`raw/r2_04_evidence/full/A_015_引言.md`、`raw/r2_04_evidence/chapters/A_017_诗律.md`、
+`ocr_samples.json`、`theory_locate.json`、`docs/books/poison.pdf`（Run B 用）、
+`docs/unregistered_draft.md`（T10 默认拒绝用）。
 
 | # | 检查 | 结果 | 证据 |
 |---|---|---|---|
-| T8 | 保护名单（README/LICENSE）不被清空逻辑删除 | **PASS** | 种子 origin 的自定义 README.md 与 LICENSE 同步后原样保留。**此项有真实背景：公开仓库的 LICENSE 此前不在白名单、也不在旧删除逻辑保护内，v2 若不加保护名单会在下轮同步误删，已修复** |
-| T9 | 推送为普通 fast-forward 推送（非 force） | **PASS** | origin/main 由 seed `2de4bbde` → `0cdc6fdc` 正常推进；脚本仅含 `git push origin main`，无 force 参数 |
-| R1 | dry-run 不建暂存、不推送 | **PASS** | Run C2：exit 0，staging/repo 不存在（LOGS/run_c2_dryrun.log） |
-| R2 | 硬排除在 dry-run 中同样生效 | **PASS** | Run C（毒饵未清理时）：exit 4，无暂存（LOGS/run_c_dryrun.log） |
+| T1 | 白名单文件正常导出（含 public_files.txt / public_redactions.json 等治理文件） | PASS | LOGS/verify_t1_t13_v3.log |
+| T2 | full/ 与 chapters/ 不导出 | PASS | 公开树 0 命中 |
+| T3 | 非白名单文件不残留 | PASS | 种子 origin 的 stray/old_dir/旧公开 JSON 全部清除 |
+| T4 | 旧 Manifest 已删文件正确处理 | PASS | v3 完全不读旧 Manifest；旧登记文件被清空逻辑删除 |
+| T5 | Manifest 与最终公开目录双向完全对应 | PASS | 树 19 = Manifest 11 + 保护 2 + 生成 6 |
+| T6 | SHA-256 按最终公开（脱敏后）文件复算；脱敏生效 | PASS | 8 行逐一 blob 复算一致；占位符替换验证 |
+| T7 | 本地数据库/normalized/研究原稿零误删 | PASS | 6 个毒饵原件全部健在 |
+| T8 | 保护名单（README/LICENSE）不被清空删除 | PASS | 种子内容原样保留 |
+| T9 | 普通 fast-forward 推送推进 origin | PASS | 无 force 参数 |
+| T10 | 默认拒绝：未登记文件不导出 | PASS | unregistered_draft.md 未进入公开树，且出现在默认拒绝审计输出 |
+| T11 | 导出时改写生效：公开版无逐字原文、本地原件逐字保留、treatment=REDACTED_PUBLIC | PASS | notes_test.md 三重断言 |
+| T12 | SYNC_DIFF.md 差异报告生成且内容正确 | PASS | A/M/D 条目与合计齐全 |
+| T13 | 白名单文件本身随仓库公开（可审计） | PASS | public_files.txt 在公开树中 |
 
-## 首轮测试中的失败记录（按项目规则保留，不删除）
+中止场景（全部按预期非零退出、origin 不变）：
 
-首轮（verify_t1_t9.log）3 项 FAIL，全部定位并修复后复测通过：
+| 场景 | 结果 | 证据 |
+|---|---|---|
+| Run B：白名单混入硬排除路径（full/ 下文件） | exit 4，ABORT | LOGS/run_b_v3_hard_abort.log |
+| Run C：干净 dry-run | exit 0，不建暂存不推送 | LOGS/run_c_v3_dryrun.log |
+| Run D：白名单混入暂停公开文件 | exit 4，WITHHELD 守卫 | LOGS/run_d_v3_withheld_guard.log |
 
-1. **T6 SHA-256 失配（真实缺陷）**：本机 Git 的换行自动转换（CRLF→LF）使 VERBATIM 复制文件的仓库 blob 与工作树字节不一致。
-   修复：`ensure_clone()` 在暂存克隆中固定 `core.autocrlf=false`，保证"Manifest 字节 = 仓库 blob 字节"。
-2. T1/T5 失败为断言脚本自身问题（git 默认 `core.quotePath` 转义非 ASCII 路径），非被测脚本缺陷；断言脚本加 `-c core.quotepath=false` 后消除。
+首轮（v2 时代）3 项 FAIL 的记录按项目规则保留于 LOGS/verify_t1_t9.log，其中 1 项真实缺陷
+（autocrlf 导致 Manifest 哈希≠仓库 blob）已修复并于 v3 固化。
 
-## 实际运行的命令（真实输出见 LOGS/）
+## 二、真实推送（两次，均普通 fast-forward）
 
-```bash
-# Run A：完整同步（沙盒 origin）
-export GITHUB_SYNC_REPO_URL="D:/ZCode/zcode/r2_16_workspace/synctest/origin.git"
-export GITHUB_SYNC_STAGING="D:/ZCode/zcode/r2_16_workspace/synctest/staging"
-python poetry-database/tools/github_sync.py          # → PUSH OK（run_a2_full_sync.log）
+### 推送 #1（主变更）
 
-# Run B：硬排除中止
-mkdir docs/books && echo poison > docs/books/poison.pdf
-python poetry-database/tools/github_sync.py          # → exit 4，ABORT 硬排除命中（run_b_hard_abort.log）
+- 执行位置：干净克隆 `clean-main` @ `37ee224d5a09f9e73bf9b785db986bc94e76bf6a`
+- 命令：`python poetry-database/tools/github_sync.py`
+- 关键输出（LOGS/run_real_push.log）：
+  - 白名单登记 887；默认拒绝 1（ocr_vision）；改写规则 4 条；暂停公开 2 件
+  - 导出 887 文件 51,543,685 字节；清空导出树删除残留 869
+  - REDACTED_PUBLIC：A_02_第二章.md、A_05_附录一.md、C_诗词格律十讲.md
+  - 敏感扫描：仅 `researcher@example.org` 占位符
+  - VERIFY PASS：895 = Manifest 887 + 保护 2 + 生成 6；硬排除 0；SHA-256 全部可复算
+  - SYNC_DIFF：新增 27 / 修改 9 / 删除 4；**PUSH OK**
+- 结果：远端 main `37ee224…` → `eba67745d998b3bfd6d559124ca89a1fe58437b8`
 
-# Run C/C2：dry-run
-python poetry-database/tools/github_sync.py --dry-run # → exit 4（毒饵）/ exit 0（干净），无暂存无推送
+### 推送 #2（执行记录入仓）
 
-# 真实项目最终版 dry-run（仅白名单收集，无网络写入）
-# 在 D:\Codex\Poetry-Generation-Skill 下执行           # → exit 0，826 文件候选（run_d_real_dryrun.log）
+- 导出 889；VERIFY PASS（897 = 889 + 2 + 6）；SYNC_DIFF 新增 2 / 修改 7 / 删除 1；PUSH OK
+- 结果：远端 main → **`26bf0f763153418b59f9b81688f9229b803924ff`**（当前）
 
-# 独立断言
-python verify_tests.py                               # → 9 项全 PASS（verify_t1_t9_v2.log）
+已知小瑕疵（如实记录）：SYNC_DIFF.md 将"上一轮的自己"列为本轮删除项（先 diff 后重写的顺序所致），下轮自然消失；其余内容准确。
+
+## 三、推送后全新克隆路径级验证（审核指定动作，LOGS/verify_final_greps.log）
+
+```
+git clone https://github.com/iop666/Poetry-Generation-Skill.git verify-final
+git rev-parse HEAD
+  → 26bf0f763153418b59f9b81688f9229b803924ff
+git ls-tree -r --name-only HEAD > remote-tree.txt        # 897 blob
+
+grep -E 'ocr_samples\.json$|theory_locate\.json$|tools/ocr_vision$' remote-tree.txt
+  → （无输出）PASS：三路径均不存在
+
+grep -E 'ocr_samples_public\.json$|theory_locate_public\.json$|public_files\.txt$|public_redactions\.json$' remote-tree.txt
+  → 4 路径全部存在 PASS
+
+git rev-list --objects --all | grep -E 'poetry-database/raw/r2_04_evidence/(full|chapters)/'
+  → （无输出）PASS：全部可达历史 0 命中
 ```
 
-## 结果总览
+远端内容抽查（GitHub contents API）：
+- `A_02_第二章.md` 公开版含"公开版改写"标记 = True；含逐字孤平原文 = False
 
-- 七项要求测试：**7 PASS / 0 FAIL / 0 BLOCKED / 0 NOT RUN**
-- 附加测试：4 PASS
-- 首轮失败 3 项：已修复 2 处真实/半真实缺陷（autocrlf；断言脚本），失败日志保留
-- 未覆盖项：真实 GitHub 远端的端到端推送未执行（本轮按任务要求不推送；推送涉及凭据与网络，留待审核批准后）
+**如实记录的边界**：两份 WITHHELD 原件与 ocr_vision 在**可达历史**中仍存在（公开至 eba6774、于该提交从当前树删除）。当前树已干净，但历史重写与否属审核者决策，本轮未动历史。
+
+## 四、结果总览
+
+- 沙盒：13 项断言 + 3 个中止场景 = **16/16 PASS**
+- 真实推送：2 次 PUSH OK，均 fast-forward，VERIFY PASS 前置
+- 推送后全新克隆验证：路径级 3 项 PASS + 历史 full/chapters 0 命中
+- 覆盖任务要求的七项测试 + 审核追加的默认拒绝/改写/差异报告/白名单公开四项
+- 未覆盖：并发推送冲突场景、gh 凭据过期场景（未发生，属异常路径）

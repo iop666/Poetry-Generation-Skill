@@ -906,3 +906,6 @@ poetry-database/raw/r2_07_forms.json
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/redaction_dryrun.log
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_real_push.log
 poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/run_e_clean_dryrun.log
+poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/remote_tree_head_26bf0f7.txt
+poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/count_reconciliation.log
+poetry-database/reports/tasks/2026-11-21/R2-16/LOGS/verify_final_greps.log

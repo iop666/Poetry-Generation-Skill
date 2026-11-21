@@ -71,7 +71,7 @@
 - 引文：0 字符。
 - 处理：该文件原只存在于公开仓库（R2-15 期间生成未回填）。本轮已从公开 main `37ee224` **逐字节回填**到本地项目（cmp 校验一致），使其成为严格白名单下的正常受管文件。
 
-## 5. r2_05_notes/（10 文件）与 r2_06_notes/（3 文件）—— 保留公开 + 3 处 REVIEW_REQUIRED
+## 5. r2_05_notes/（10 文件）与 r2_06_notes/（3 文件）—— 保留公开；3 处 REVIEW_REQUIRED 已于第二轮按外部审核裁决处理为 REDACTED_PUBLIC（见 §7）
 
 逐文件审查表（引文跨度为「」『』内文本，脚本统计；跨行长段人工补充）：
 
@@ -113,10 +113,38 @@
 
 | 文件 | 决定 | 生效方式 |
 |---|---|---|
-| ocr_samples.json | 暂停公开（WITHHELD） | 已从白名单移除；下次真实同步将从公开仓库删除 |
-| theory_locate.json | 暂停公开（WITHHELD） | 同上 |
-| manifest.json / README_CHARCOUNT.md | 保留公开 | 白名单显式收录 |
-| r2_05_notes/（10 文件） | 保留公开 + 2 处 REVIEW_REQUIRED | 白名单显式收录（目录级，逐文件已审） |
-| r2_06_notes/（3 文件） | 保留公开 + 1 处 REVIEW_REQUIRED | 同上 |
+| ocr_samples.json | 暂停公开（WITHHELD） | **已生效**：2026-11-21 真实同步后远端当前树计数 0（提交 eba6774 删除）；原件保留本地 |
+| theory_locate.json | 暂停公开（WITHHELD） | **已生效**：同上 |
+| manifest.json / README_CHARCOUNT.md | 保留公开 | 白名单显式收录，远端在位 |
+| r2_05_notes/（10 文件） | 保留公开；2 处 REVIEW_REQUIRED → 已改写 | 白名单收录；导出时改写生效（REDACTED_PUBLIC），逐字原文仅存本地 |
+| r2_06_notes/（3 文件） | 保留公开；1 处 REVIEW_REQUIRED → 已改写（含第五讲一并为 2 条规则） | 同上 |
 
-> 注意：在本轮**未执行真实同步**的前提下，ocr_samples.json 与 theory_locate.json 目前**仍存在于 GitHub 公开仓库**（HEAD 37ee224）。暂停公开决定需在审核批准后执行一次真实同步方可在远端生效。
+> 状态更新（第二轮收尾）：上述决定已于 2026-11-21 经用户批准的真实同步落地，远端 main 当前为 `26bf0f763153418b59f9b81688f9229b803924ff`；全新克隆路径级验证见 `LOGS/verify_final_greps.log`。第一轮"未执行真实同步、仍存在于公开仓库"的说明已被本状态取代。
+
+## 7. 第二轮收尾更新（2026-11-21，审核裁决后执行结果）
+
+### 7.1 REVIEW_REQUIRED → REDACTED_PUBLIC（4 条改写规则，public_redactions.json）
+
+| 规则 ID | 位置（更正后） | 原文规模 | 处理 | 原件状态 |
+|---|---|---|---|---|
+| A02-GUPING-VERBATIM | A_02_第二章.md「（四）孤平的避忌」 | 约 280 字（原文全录段） | 公开版改为要点转述 + 页码（wangli_shicilv PDF p44–45／印36–37） | 本地原件未动 |
+| A05-SANGE-VERBATIM | A_05_附录一.md「★★ 正格／变格／例外 三分」 | 约 110 字 | 公开版改为要点转述（三分表为笔记原创整理，保留） | 本地原件未动 |
+| C-SHIDUI-VERBATIM | **C_诗词格律十讲.md 第五讲（七言律诗）**——更正：第一轮误标"第六讲"，114 字最长跨度经复核实际位于此（失粘/失对表述） | 114 字 | 公开版改为要点转述 + 页码（合订本 C 印刷 360–361／PDF 368–369） | 本地原件未动 |
+| C-GUPING-VERBATIM | C_诗词格律十讲.md 第六讲（孤平完整版定义，嵌套引文约 90 字，第一轮被正则切碎漏计） | 约 90 字 | 公开版改为要点转述 + 页码（印刷 364／PDF 372） | 本地原件未动 |
+
+改写机制：唯一锚点定位（8 锚点验证唯一）、只作用于导出副本、锚点失效 exit 7。真实文件模拟 4/4 PASS（LOGS/redaction_dryrun.log）；真实推送中 3 个文件 treatment=REDACTED_PUBLIC；远端抽查 `A_02_第二章.md` 含改写标记、不含逐字孤平原文。
+
+### 7.2 两份原始 JSON：WITHHELD 已远端生效，公开版在位
+
+| 项 | ocr_samples.json | theory_locate.json |
+|---|---|---|
+| 原件（本地，未删未改） | SHA-256 `9b8f11cd…`（14,580B） | `4ba74f22…`（6,001B） |
+| 远端当前树 | **不存在（计数 0）** | **不存在（计数 0）** |
+| 公开版本 | `ocr_samples_public.json`（发布 blob 6,488B，SHA-256 `41ea6237…`；仅页码/字符统计/质量标记，无 head） | `theory_locate_public.json`（发布 blob 3,941B，SHA-256 `f15cddf4…`；quote→quote_sha256） |
+| 公开版自检 | 无 head 字段（断言通过） | 16 条 quote_sha256 与本地原件引文重算全部一致（True） |
+
+### 7.3 远端生效状态
+
+- 生效提交：`eba67745d998b3bfd6d559124ca89a1fe58437b8`（删除 3 路径 + 新增公开版与治理文件），当前 main `26bf0f763153418b59f9b81688f9229b803924ff`。
+- 路径级验证：全新克隆 `verify-final` 逐项 grep（LOGS/verify_final_greps.log）——三删除路径 0 命中、4 新公开文件在位、全历史 full/chapters 0 命中。
+- 如实记录：两份原件与 ocr_vision 在**可达历史**中仍各有 1 个对象（公开至 eba6774）；历史重写与否属审核者决策，本轮未动历史。

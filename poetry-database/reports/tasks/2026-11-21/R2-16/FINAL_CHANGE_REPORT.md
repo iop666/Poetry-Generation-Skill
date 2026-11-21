@@ -3,7 +3,8 @@
 - 日期：2026-11-21
 - 基准：远端 main `37ee224d5a09f9e73bf9b785db986bc94e76bf6a`（本轮执行前后均未变，`ls-remote` 多次复核）
 - 干净克隆（待批准变更集所在）：`D:\ZCode\zcode\r2_16_workspace\clean-main`
-- **本报告描述"批准后将要发生"的变更；本轮未执行任何推送。**
+- **状态更新：§1–4 为推送前预览（历史存档）；§5 为实际执行结果；§6 为推送后全新克隆路径级验证。**
+**已执行：远端 main `37ee224…` → `eba6774…` → `26bf0f763153418b59f9b81688f9229b803924ff`（两次普通 fast-forward）。**
 - 推送执行方式：批准后在干净克隆运行 `python poetry-database/tools/github_sync.py`
   （普通 fast-forward 推送，推送时会生成正式的 SYNC_DIFF.md，本表为预览）。
 
@@ -65,3 +66,12 @@
 - 已执行普通 fast-forward 同步：远端 main `37ee224…` → **`eba67745d998b3bfd6d559124ca89a1fe58437b8`**（单提交）。
 - §2 预览与实际 SYNC_DIFF 一致：新增 27 / 修改 9 / 删除 4；删除三条路径（两份 WITHHELD 原件、ocr_vision）远端计数已核验为 0。
 - 本报告与 COMPLETE_REPORT §15 执行记录、执行日志（LOGS/run_real_push.log）经第二次小同步入仓。
+
+
+## 6. 推送后路径级验证（全新克隆 verify-final，LOGS/verify_final_greps.log）
+
+- HEAD = `26bf0f763153418b59f9b81688f9229b803924ff`，HEAD 树 897 blob。
+- §2 预览中的 3 条删除路径在远端当前树 grep **无输出**（计数 0/0/0）。
+- §2 预览中的全部新增路径在远端当前树**均在位**（5 治理文件 + 2 公开版 JSON + R2-16 报告目录）。
+- 全部可达历史 full/chapters **0 命中**（R2-16A 清理结果未被本轮同步破坏）。
+- 如实记录：两份 WITHHELD 原件与 ocr_vision 在可达历史中仍各有 1 个对象；历史重写与否属审核者决策。

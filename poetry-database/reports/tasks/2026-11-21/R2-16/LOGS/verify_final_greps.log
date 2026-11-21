@@ -1,0 +1,27 @@
+# verify-final 全新克隆路径级验证（R2-16C-POST-PUSH-CLOSEOUT，2026-11-21）
+# 命令：git clone https://github.com/iop666/Poetry-Generation-Skill.git verify-final
+#       cd verify-final && git rev-parse HEAD
+#       git ls-tree -r --name-only HEAD > remote-tree.txt
+git rev-parse HEAD →
+26bf0f763153418b59f9b81688f9229b803924ff
+
+# grep -E 'ocr_samples\.json$|theory_locate\.json$|tools/ocr_vision$' remote-tree.txt
+（无输出 → PASS：三路径均不存在于远端 main 当前树）
+
+# grep -E 'ocr_samples_public\.json$|theory_locate_public\.json$|public_files\.txt$|public_redactions\.json$' remote-tree.txt
+poetry-database/raw/r2_04_evidence/ocr_samples_public.json
+poetry-database/raw/r2_04_evidence/theory_locate_public.json
+poetry-database/tools/public_files.txt
+poetry-database/tools/public_redactions.json
+（4 个新公开文件全部存在 → PASS）
+
+# git rev-list --objects --all | grep -E 'poetry-database/raw/r2_04_evidence/(full|chapters)/'
+（无输出 → PASS：全部可达历史 0 命中）
+
+# 如实记录：可达历史中仍存在以下 3 个对象（公开至 eba6774、于该提交删除；历史是否重写属审核者决策）
+1 poetry-database/raw/r2_04_evidence/ocr_samples.json
+1 poetry-database/raw/r2_04_evidence/theory_locate.json
+1 poetry-database/tools/ocr_vision
+
+# 远端 blob 总数（HEAD 树）
+897

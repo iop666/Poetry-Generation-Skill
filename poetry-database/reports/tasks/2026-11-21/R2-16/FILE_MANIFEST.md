@@ -1,10 +1,12 @@
 # FILE_MANIFEST —— R2-16 产出与变更清单（第二轮终版）
 
-- 日期：2026-11-21（第二轮收尾后刷新）
+- 日期：2026-11-21（R2-16C-POST-PUSH-CLOSEOUT 终版；真实推送已执行）
 - SHA-256 计算对象为文件最终字节；`FILE_MANIFEST.md` 自身不列哈希（自引用）。
 - 项目根（报告与治理文件本体）：`D:\Codex\Poetry-Generation-Skill`；
-  **待批准变更集同步副本：`D:\ZCode\zcode\r2_16_workspace\clean-main`（干净克隆，HEAD `37ee224`）。**
-- 白名单最终版：**887 个文件**（两份副本一致；干净克隆为今后同步源）。
+  **变更集已执行：远端 main 当前为 `26bf0f763153418b59f9b81688f9229b803924ff`**（37ee224 → eba6774 → 26bf0f7，两次 fast-forward）。
+- 同步源：`D:\ZCode\zcode\r2_16_workspace\clean-main`（干净克隆）；发布字节独立核验：`verify-final` 全新克隆 + `git cat-file`（blob 与本清单哈希逐字节一致）。
+- 哈希口径：本清单哈希 = 发布 blob 字节（与远端 `git show HEAD:<path>` 复算一致）；本地原始研究原件（永不发布）的哈希单列于 §3。
+- 白名单最终版：**889 个文件**（push #2 实际导出；四数字统一口径见 PUBLIC_TREES_AUDIT §7：① 枚举 890 / ② 白名单 889 / ③ 发布 blob 897 / ④ 默认拒绝 1）。
 
 ## 1. 本轮修改 / 新增（项目内）
 
@@ -17,11 +19,11 @@
 | `poetry-database/raw/r2_04_evidence/ocr_samples_public.json` | 新增（WITHHELD 公开版：去 head） | 6,488 | `41ea6237c61dc0fd6342d6fb875103607408a781f9a6a7fd0dd5e99536d91a8e` |
 | `poetry-database/raw/r2_04_evidence/theory_locate_public.json` | 新增（WITHHELD 公开版：quote→SHA-256） | 3,941 | `f15cddf48db25f05d49e038cc765ffa5f36de04375456728a12d06a03c1c9c4d` |
 | `poetry-database/raw/r2_04_evidence/README_CHARCOUNT.md` | 回填（第一轮，来源公开 main 37ee224，LF） | 1,372 | `ddb4637928f0d2a078afc223687fb85dd628084eca69c15b7dbd5bff54d0f967` |
-| `<R16>/COMPLETE_REPORT.md` | 新增（十三章 + 第二轮附录 §14 + §15 推送执行记录） | — | `51a36842413af1bc7f2a710e84e2a8375b575857f34561abe3daf9fc2cfd295c` |
-| `<R16>/SOURCE_AUDIT.md` | 新增（R2-16B 逐条审查；含 C 文件 114 字跨度位置更正说明） | — | `41c58fc69e4f3d094193220aa7dcebd2ff0180291249f33350d618fbf4a7fcd2` |
-| `<R16>/R2-16C_TEST_RESULTS.md` | 新增（第一轮 TEST_RESULTS.md 按审核要求更名；推送前修订一处测试样例表述，清除本机路径字面量） | — | `2a128714cbf531c24e977f4b0dcea7934ede5cd0ee29c6c2792a3a3de703e525` |
-| `<R16>/PUBLIC_TREES_AUDIT.md` | 新增（八棵树文件级审计 + §6 回填登记；推送前同步修订扫描项表述） | — | `0c9389a8af2754bc3be123c2ddd8de3502ae2eb7cd9c252f83b07891e50de81f` |
-| `<R16>/FINAL_CHANGE_REPORT.md` | 新增（变更集与远端差异预览 + §5 执行结果） | — | `8e441b229683b3b7d0079ce0fda54b8b1a5f227967b4b0a051ca8572c6853ef3` |
+| `<R16>/COMPLETE_REPORT.md` | 新增（十三章 + §14 第二轮 + §15 推送执行 + §16 推送后收尾） | — | `d262489df36fd74b00fe3a6498e68328f7e25710cd50f04e741d030d77294aa4` |
+| `<R16>/SOURCE_AUDIT.md` | 新增（R2-16B 逐条审查 + §7 第二轮收尾：4 条改写规则、五/六讲更正、WITHHELD 远端生效、公开版哈希与自校验） | — | `51f9d90392042b0ab6288958e82719aa7e17d35f2159c046889a57406e6b3412` |
+| `<R16>/R2-16C_TEST_RESULTS.md` | **完整重写**（第三版：T1–T13 + 3 中止场景 + 两次真实推送输出 + 全新克隆路径级验证；此前更名未重写的缺陷经审核指出后修正） | — | `5ccf9ec5dc70da6ec328d3d36f28412f2db5e229fddbb6faa04300dd25bd2ba5` |
+| `<R16>/PUBLIC_TREES_AUDIT.md` | 新增（八棵树审计 + §6 回填 + §7 四数字统一口径 890/889/897/1 与算术更正） | — | `47781b9493daa6bf74a1e1c74efe1f3539e65bdc972b4cf1562e538119d04385` |
+| `<R16>/FINAL_CHANGE_REPORT.md` | 新增（§1–4 推送前预览存档 + §5 执行结果 + §6 推送后路径级验证） | — | `d81d12d974242af8d904b65d43f3bb12476c8c29124aad5f62ded45dd268bfcd` |
 | `<R16>/FILE_MANIFEST.md` | 新增（本文件） | — | — |
 
 ## 2. 归档日志（LOGS/，16 件，含保留的失败日志）
@@ -46,6 +48,9 @@
 | `LOGS/redaction_dryrun.log`（真实文件改写模拟 4 条全 PASS） | `a82bdb60e392c02cd9190826279c6064f9bdb1d6bf36aecf4342e4628073ff3f` |
 | `LOGS/run_e_clean_dryrun.log`（干净克隆首次 dry-run，发现 37 文件回填需求） | `97c3f1acf27b6b3fe3706237d75c53c84ee8ea32e0ab643405af69eb241c5ddd` |
 | `LOGS/run_real_push.log`（**真实同步执行日志：887 导出/VERIFY PASS/PUSH OK**） | `7d4c09c1e626d2d6608fb9312a365c7df029d92970e6cbf24cd728bca2c39fb2` |
+| `LOGS/remote_tree_head_26bf0f7.txt`（远端 HEAD 树 897 blob 全清单） | `3d41d45088ac38e27bc270fac3bb62f79ca8e6c5edffe00ceed55c6a5d82eaab` |
+| `LOGS/count_reconciliation.log`（四数字统一口径机器输出 890/889/897/1） | `f6e69466d67591877ee9c2f8947e1f04766ed2d533888f702023cb01058e51ee` |
+| `LOGS/verify_final_greps.log`（全新克隆路径级验证与全历史扫描） | `e48c459314194bbfb9f1949653ce349f23b8ca616d8ab42985f87be219a16652` |
 
 工作区日志（不入库）：干净克隆 dry-run 共 3 次（run_e/run_f/run_h）位于
 `D:\ZCode\zcode\r2_16_workspace\synctest\logs\`，最终版 `run_h_final_confirm.log`

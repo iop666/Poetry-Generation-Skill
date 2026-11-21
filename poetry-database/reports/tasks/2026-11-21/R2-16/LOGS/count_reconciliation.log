@@ -1,0 +1,30 @@
+【四数字统一口径】（截至 R2-16C-POST-PUSH-CLOSEOUT，基线远端 26bf0f7）
+① 源目录枚举总文件数（同步源八棵树+顶层2+raw显式区；含 public_files.txt 自身；
+   不含保护文件 README/LICENSE 与 6 个工具生成文件；不含 .git 与 __pycache__）: 890
+② 审核通过白名单登记文件数（public_files.txt 条目数，含其自身登记）: 889
+③ 实际导出/远端发布 blob 数（verify-final HEAD）: 897
+   = Manifest 登记数 + 保护 2 + 生成 6（推送时 VERIFY PASS 断言）
+④ 默认拒绝/排除文件数（枚举内未登记）: 1 → ['poetry-database/tools/ocr_vision']
+   另：本地原始研究区（raw/r2_04_evidence/full|chapters、ocr_samples.json、
+       theory_locate.json、database/、normalized/）从未进入枚举，属硬排除区，不计数。
+
+登记但枚举未含（应仅公共说明，如无则空）: 无
+
+【历史口径快照说明】
+- 842 = 第一版白名单（从旧项目目录枚举，2026-11-21 第一轮审计时点）
+- 886 = 切换干净克隆枚举 + R2-16 报告目录定稿后重生成（第一次）
+- 887 = 追加 redaction_dryrun.log 登记
+- 889 = 追加 run_real_push.log / run_e_clean_dryrun.log 登记（push #2 实际导出 889）
+- 全部为同一清单在三个时点的快照，非并行口径；最终以本脚本 ①②③④ 为准
+
+【逐树计数核对（同步源）】
+  docs: 枚举 5 / 登记 5
+  诗词格律引擎: 枚举 70 / 登记 70
+  poetry-database/reports: 枚举 599 / 登记 599
+  poetry-database/tools: 枚举 163 / 登记 162
+  poetry-database/catalog: 枚举 6 / 登记 6
+  poetry-database/research: 枚举 7 / 登记 7
+  poetry-database/audit: 枚举 13 / 登记 13
+  poetry-database/sources: 枚举 4 / 登记 4
+  顶层 AGENTS.md + AGENT_REPORTING_STANDARD.md: 登记 2
+  raw/ 显式区登记: 21
